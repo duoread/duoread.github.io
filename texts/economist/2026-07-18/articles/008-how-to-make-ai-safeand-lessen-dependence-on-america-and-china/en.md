@@ -1,0 +1,25 @@
+# How to make AI safe—and lessen dependence on America and China
+
+Section: Leaders
+Date: July 16th 2026
+Rubric: State-backed efforts to catch up with frontier models are doomed
+
+PROGRESS IS rapidly being made towards regulating the release of powerful new AI models in America. Its government is set to soon outline its plan, after taking suggestions from the industry. Speaking to The Economist this week Sir Demis Hassabis, the boss of Google DeepMind, pitched a hybrid public-private regulator for the industry, echoing our own thoughts. The regulator is modelled on the agency that regulates brokers and stock markets.
+
+Rules are needed because the newest frontier models possess some dangerous powers—from hacking critical digital infrastructure to writing recipes for new bioweapons. Without any organised way of dealing with such risks, the government has taken to making up the rules as it goes along in order to control access to Mythos and Sol, Anthropic and OpenAI’s latest offerings. Ideally, predictable rules would be agreed on internationally, especially between America and China, whose models surpass everyone else’s. But time is short. Sir Demis thinks that, if America moves unilaterally, the rest of the world will sign up to its system.
+
+He may be right. Yet safety is only one part of the problem. It is increasingly clear that America and China will also restrict access to their models for economic and strategic reasons. Under President Donald Trump, America has had no qualms about using its allies’ military dependence as negotiating leverage; it could one day try to exploit their AI dependence, too. China has treated other exports, such as rare earths, as sources of geopolitical advantage, and probably views AI the same way.
+
+The control that these two governments exert over frontier AI puts other countries in a very tight spot, especially as the technology spreads. If America cuts off a country from its models and data centres, “Are your factories going to still run?” asks Arthur Mensch, head of Mistral AI, Europe’s best model maker, on this week’s “Inside Tech” show. Access to AI will also be increasingly important for security.
+
+What, then, can other countries do? A state-backed effort to catch up with America’s frontier models would be doomed. OpenAI and Anthropic have each raised well over $100bn in funding so far. Any effort that spends much less is not credible. Even if politicians find the cash, AI research is the sort of endeavour—involving expensive researchers and risky bets—in which governments have a feeble record. Who today remembers Quaero, the rival to Google that the French and German governments announced in 2005?
+
+Other countries can, though, build data centres. Most will need some of them, to run AI on sensitive data. Local data centres offer insurance against being suddenly cut off from processing power, or “compute”. They also make it easier to maintain a credible ability to switch to open-weight models, which anyone can run if access to frontier capabilities is cut off.
+
+Unfortunately, much of the world is far behind the data-centre buildouts in America and China. Usually, the biggest problems are regulation and access to power. By delaying revenues and locking up capital, procedural snafus can have enormous effects: a nine-month delay worsens the economics of a data centre as much as would doubling its lifetime electricity bill, according to the Carnegie Endowment, a think-tank. The average delay before being connected to the grid is three years in India and Britain and three-and-a-half in Germany and South Korea, compared with two years in America.
+
+Speeding up regulatory approval, offering fast-tracks through connection queues and allowing power generation that bypasses the grid would all help. There is no need for subsidies: AI companies are desperate for compute and will pay to get it. There is even the enticing possibility of agreements where AI developers promise to offer a country the same models as America in return for data centres. Simply becoming a big customer of America’s AI labs, by encouraging the diffusion of the technology, could itself build leverage. Model makers need revenue to justify their gigantic investments; they will have a reason to lobby against American protectionism that hurts foreign buyers.
+
+Some countries are in the fortunate position of having their own choke points. Taiwan has chipmaking; the Netherlands has ASML; South Korea has memory technology. These specialisms should be prized. But even the lucky few cannot build fully sovereign AI capabilities. So countries must prepare to deal transactionally with the AI superpowers. Democratic America is a better partner than authoritarian China. Even so, every source of negotiating leverage will count. ■
+
+Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.

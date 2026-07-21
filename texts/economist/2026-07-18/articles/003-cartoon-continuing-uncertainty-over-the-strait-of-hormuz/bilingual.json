@@ -1,0 +1,45 @@
+{
+  "id": "003-cartoon-continuing-uncertainty-over-the-strait-of-hormuz",
+  "source_href": "53e2aaa4-a4b0-4001-8fbc-0e986d1db626.html",
+  "publication": "economist",
+  "issue": "2026-07-18",
+  "order": 3,
+  "section": "The world this week",
+  "title_en": "Cartoon: Continuing uncertainty over the Strait of Hormuz",
+  "title_zh": "漫画：霍尔木兹海峡局势持续不明朗",
+  "rubric_en": "A lighter take on the news",
+  "rubric_zh": "以轻松视角看新闻",
+  "date": "July 16th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "Dig deeper into the subjects of this cartoon:",
+      "zh": "深入了解这幅漫画涉及的主题："
+    },
+    {
+      "id": "p002",
+      "en": "America’s president looks bereft of good options for solving the stand-off in the Gulf",
+      "zh": "美国总统在解决海湾僵局上似乎没有什么好选择"
+    },
+    {
+      "id": "p003",
+      "en": "But the stand-off also has costs for cash-strapped Iran",
+      "zh": "但这场僵局也让资金紧张的伊朗付出代价"
+    },
+    {
+      "id": "p004",
+      "en": "America’s other battle with Iran",
+      "zh": "美国与伊朗的另一场较量"
+    },
+    {
+      "id": "p005",
+      "en": "You can see previous ones here.",
+      "zh": "你可以在这里查看往期漫画。"
+    }
+  ],
+  "translated_at": "2026-07-21T14:01:01+08:00",
+  "translation_provider": "codex",
+  "translation_model": "codex-default"
+}
