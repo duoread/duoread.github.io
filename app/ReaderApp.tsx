@@ -127,8 +127,13 @@ export function ReaderApp({ content }: { content: SiteContent }) {
 
           <div className="reader-actions">
             <span className="date-label">{activeArticle.date}</span>
-            <button type="button" onClick={() => setInverted((value) => !value)}>
-              {inverted ? "BABAB" : "ABABA"}
+            <button
+              type="button"
+              aria-pressed={inverted}
+              title={inverted ? "当前从英文开始交替" : "当前从中文开始交替"}
+              onClick={() => setInverted((value) => !value)}
+            >
+              切换段落语言
             </button>
           </div>
         </header>

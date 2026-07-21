@@ -9,6 +9,6 @@
 
 ## Open Risks
 
-- Full-issue translation needs either a supported Codex Spark model with acceptable cost/latency or an `OPENAI_API_KEY` for the API backend.
-- The current Codex account did not support `GPT-5.3-Codex-Spark` when tested through `codex exec`.
+- Full-issue translation should continue with the verified Codex Spark slug `gpt-5.3-codex-spark` or with an `OPENAI_API_KEY` for the API backend.
+- The display-name form `GPT-5.3-Codex-Spark` was rejected by `codex exec`, but `gpt-5.3-codex-spark` passed a minimal probe.
 - Generated `texts/site-index.json` embeds all article data into the client bundle; this is acceptable for the first issue but may need per-article loading as the corpus grows.

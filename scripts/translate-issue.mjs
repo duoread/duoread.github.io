@@ -7,11 +7,12 @@ import OpenAI from "openai";
 const args = parseArgs(process.argv.slice(2));
 const textsRoot = args.root ?? path.join("texts", "economist", "2026-07-18");
 const provider = args.provider ?? process.env.TRANSLATION_PROVIDER ?? "codex";
-const codexModel = args.model ?? process.env.CODEX_TRANSLATION_MODEL ?? "";
+const codexModel =
+  args.model ?? process.env.CODEX_TRANSLATION_MODEL ?? "gpt-5.3-codex-spark";
 const codexReasoningEffort =
   args.reasoning ?? process.env.CODEX_TRANSLATION_REASONING ?? "low";
 const openaiModel =
-  args.model ?? process.env.OPENAI_TRANSLATION_MODEL ?? "gpt-5.3-codex-spark";
+  args.model ?? process.env.OPENAI_TRANSLATION_MODEL ?? "gpt-5.5";
 const limit = args.limit ? Number(args.limit) : Number.POSITIVE_INFINITY;
 const only = args.article ?? "";
 const force = args.force === "true" || args.force === "1";

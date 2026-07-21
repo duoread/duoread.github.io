@@ -17,7 +17,7 @@ texts/                            # 整理后的文本，入库
           bilingual.json
 ```
 
-`bilingual.json` 是网站的数据源。每个自然段都有同一个 `id` 下的 `en` 和 `zh` 字段，网页只展示其中一个语言版本，并用按钮在 `ABABA` 和 `BABAB` 之间反转。
+`bilingual.json` 是网站的数据源。每个自然段都有同一个 `id` 下的 `en` 和 `zh` 字段，网页只展示其中一个语言版本，并用“切换段落语言”按钮在中文开头和英文开头之间反转。
 
 ## 常用命令
 
@@ -52,16 +52,16 @@ TRANSLATION_PROVIDER=codex npm run translate
 TRANSLATION_PROVIDER=openai OPENAI_API_KEY=... npm run translate
 ```
 
-Codex 后端默认使用当前账号的默认模型。若账号支持指定模型，可以设置：
+Codex 后端默认使用当前账号可调用的 Spark slug：
 
 ```bash
-CODEX_TRANSLATION_MODEL=GPT-5.3-Codex-Spark npm run translate
+CODEX_TRANSLATION_MODEL=gpt-5.3-codex-spark npm run translate
 ```
 
 OpenAI API 后端可以设置：
 
 ```bash
-OPENAI_TRANSLATION_MODEL=gpt-5.3-codex-spark npm run translate
+OPENAI_TRANSLATION_MODEL=gpt-5.5 npm run translate
 ```
 
 脚本按文章写回 `zh.md` 和 `bilingual.json`，已完成的文章不会重复翻译。可以先试跑一篇：
@@ -72,4 +72,4 @@ npm run translate -- --limit 1
 
 ## 当前数据
 
-当前已从 `TheEconomist.2026.07.18.epub` 抽取 70 篇文章和 867 个自然段。中文翻译由 `npm run translate` 填充；未翻译段落会在网站中显示待翻译状态。
+当前已从 `TheEconomist.2026.07.18.epub` 抽取 70 篇文章和 867 个自然段。中文翻译由 `npm run translate` 填充；网站预览只展示已翻译文章。
