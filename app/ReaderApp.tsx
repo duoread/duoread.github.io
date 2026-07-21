@@ -17,6 +17,8 @@ type Article = {
   rubric_en: string;
   rubric_zh: string;
   date: string;
+  published_at?: string;
+  published_date_source?: string;
   translation_status: string;
   paragraphs: Paragraph[];
 };
@@ -64,16 +66,19 @@ export function ReaderApp({ content }: { content: SiteContent }) {
   const translatedCount =
     issue.translated_count ??
     issue.articles.filter((article) => article.translation_status === "translated").length;
+  const activeDate = activeArticle.published_at ?? activeArticle.date;
+  const activeDateLabel =
+    activeArticle.published_date_source === "article" ? "文章日期" : "杂志发布日期";
 
   return (
     <main className="reader-shell">
       <aside className="issue-panel" aria-label="Article list">
         <div className="brand-row">
           <div>
-            <p className="brand-kicker">The Economist</p>
+            <p className="brand-kicker">Parallel Reader</p>
             <h1>双语交替阅读</h1>
           </div>
-          <span className="issue-pill">{issue.issue}</span>
+          <span className="issue-pill">{issue.title}</span>
         </div>
 
         <div className="stats-grid" aria-label="Issue status">
@@ -126,7 +131,9 @@ export function ReaderApp({ content }: { content: SiteContent }) {
           </div>
 
           <div className="reader-actions">
-            <span className="date-label">{activeArticle.date}</span>
+            <span className="date-label">
+              {activeDateLabel}: {activeDate}
+            </span>
             <button
               type="button"
               aria-pressed={inverted}

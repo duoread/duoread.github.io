@@ -16,6 +16,12 @@ for (const article of issue.articles) {
   await access(path.join(articleDir, "zh.md"));
 
   const data = JSON.parse(await readFile(jsonPath, "utf8"));
+  if (!data.published_at?.trim()) {
+    throw new Error(`Missing published_at in ${article.id}`);
+  }
+  if (!["article", "issue"].includes(data.published_date_source)) {
+    throw new Error(`Bad published_date_source in ${article.id}`);
+  }
   if (!Array.isArray(data.paragraphs) || data.paragraphs.length < 1) {
     throw new Error(`No paragraphs: ${article.id}`);
   }

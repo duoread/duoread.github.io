@@ -1,6 +1,6 @@
-# Multi Language Reader
+# Parallel Reader
 
-面向外刊精读的本地网站。它把 EPUB 杂志整理成可校验的中英文文本目录，并在网页里按自然段交替显示中文和英文。
+面向外刊精读的多来源双语阅读网站。它把授权 EPUB 杂志整理成可校验的中英文文本目录，并在网页里按自然段交替显示中文和英文。
 
 ## 内容结构
 
@@ -25,6 +25,7 @@ texts/                            # 整理后的文本，入库
 npm run extract
 npm run translate
 npm run validate:texts
+npm run export:pages
 npm run dev
 npm test
 ```
@@ -70,6 +71,16 @@ OPENAI_TRANSLATION_MODEL=gpt-5.5 npm run translate
 npm run translate -- --limit 1
 ```
 
+## 发布
+
+GitHub Pages 使用静态文件发布：
+
+```bash
+npm run export:pages
+```
+
+这个命令会先构建 Vinext 应用，再把首页渲染为 `dist/client/index.html`。`dist/` 是构建产物，不入库。
+
 ## 当前数据
 
-当前已从 `TheEconomist.2026.07.18.epub` 抽取 70 篇文章和 867 个自然段。中文翻译由 `npm run translate` 填充；网站预览只展示已翻译文章。
+当前已从 `TheEconomist.2026.07.18.epub` 抽取 70 篇文章和 867 个自然段。中文翻译由 `npm run translate` 填充；网站预览只展示已翻译文章。后续可以在 `texts/` 下增加其他来源。

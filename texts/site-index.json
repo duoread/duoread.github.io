@@ -1,7 +1,7 @@
 {
   "publication": "economist",
   "current_issue": "2026-07-18",
-  "generated_at": "2026-07-21T16:51:19+08:00",
+  "generated_at": "2026-07-21T17:15:50+08:00",
   "issues": [
     {
       "publication": "economist",
@@ -109,7 +109,11 @@
           ],
           "translated_at": "2026-07-21T14:25:24+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default"
+          "translation_model": "codex-default",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "002-business",
@@ -199,7 +203,11 @@
           ],
           "translated_at": "2026-07-21T14:26:06+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default"
+          "translation_model": "codex-default",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "003-cartoon-continuing-uncertainty-over-the-strait-of-hormuz",
@@ -244,7 +252,11 @@
           ],
           "translated_at": "2026-07-21T14:01:01+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default"
+          "translation_model": "codex-default",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "004-donald-trumps-gutting-of-the-department-of-justice",
@@ -334,7 +346,11 @@
           ],
           "translated_at": "2026-07-21T14:26:56+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default"
+          "translation_model": "codex-default",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "005-its-too-darn-hot-blame-global-dimming",
@@ -414,7 +430,11 @@
           ],
           "translated_at": "2026-07-21T14:27:53+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default"
+          "translation_model": "codex-default",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "006-donald-trumps-blind-alley",
@@ -489,7 +509,11 @@
           ],
           "translated_at": "2026-07-21T14:28:34+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default"
+          "translation_model": "codex-default",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "007-chinas-rulers-have-a-woman-problem",
@@ -564,7 +588,11 @@
           ],
           "translated_at": "2026-07-21T14:29:19+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default"
+          "translation_model": "codex-default",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "008-how-to-make-ai-safeand-lessen-dependence-on-america-and-china",
@@ -634,7 +662,11 @@
           ],
           "translated_at": "2026-07-21T14:29:58+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default"
+          "translation_model": "codex-default",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "009-america-should-stop-making-it-so-hard-to-have-fun",
@@ -704,7 +736,11 @@
           ],
           "translated_at": "2026-07-21T14:30:39+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default"
+          "translation_model": "codex-default",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "010-the-united-states-is-once-again-in-a-state-of-rebellion",
@@ -869,7 +905,11 @@
           ],
           "translated_at": "2026-07-21T14:31:47+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default"
+          "translation_model": "codex-default",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "011-would-europeans-fight-if-it-came-to-that",
@@ -939,7 +979,11 @@
           ],
           "translated_at": "2026-07-21T14:32:37+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default"
+          "translation_model": "codex-default",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "012-israels-future-hangs-in-the-balance",
@@ -1119,7 +1163,11 @@
           ],
           "translated_at": "2026-07-21T14:34:19+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default"
+          "translation_model": "codex-default",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "013-donald-trumps-transformation-of-the-department-of-justice-will-be-hard-t",
@@ -1269,7 +1317,11 @@
           ],
           "translated_at": "2026-07-21T16:27:31+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "014-democrats-challenge-a-big-hollywood-tie-up",
@@ -1344,7 +1396,11 @@
           ],
           "translated_at": "2026-07-21T16:28:20+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "015-cities-are-rethinking-what-happens-after-dark",
@@ -1409,7 +1465,11 @@
           ],
           "translated_at": "2026-07-21T16:28:57+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "016-americas-other-elections-problem",
@@ -1489,7 +1549,11 @@
           ],
           "translated_at": "2026-07-21T16:29:41+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "017-lindsey-graham-tried-to-save-the-wrong-countries-from-donald-trump",
@@ -1554,7 +1618,11 @@
           ],
           "translated_at": "2026-07-21T16:30:29+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "018-the-panama-canal-is-growing-more-important",
@@ -1659,7 +1727,11 @@
           ],
           "translated_at": "2026-07-21T16:31:22+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "019-the-biggest-schools-training-americas-doctors-are-in-the-caribbean",
@@ -1724,7 +1796,11 @@
           ],
           "translated_at": "2026-07-21T16:32:05+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "020-argentina-v-england-is-one-of-the-most-intense-rivalries-in-sport",
@@ -1784,7 +1860,11 @@
           ],
           "translated_at": "2026-07-21T16:32:40+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "021-is-aung-san-suu-kyi-dead",
@@ -1859,7 +1939,11 @@
           ],
           "translated_at": "2026-07-21T16:33:20+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "022-an-unreliable-america-is-drawing-asias-middle-powers-closer",
@@ -1929,7 +2013,11 @@
           ],
           "translated_at": "2026-07-21T16:33:53+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "023-haunted-houses-are-in-demand-in-japan",
@@ -1989,7 +2077,11 @@
           ],
           "translated_at": "2026-07-21T16:34:27+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "024-a-real-but-selective-crackdown-on-cambodias-scam-industry",
@@ -2049,7 +2141,11 @@
           ],
           "translated_at": "2026-07-21T16:35:04+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "025-an-incomplete-list-of-falling-objects-in-india",
@@ -2114,7 +2210,11 @@
           ],
           "translated_at": "2026-07-21T16:35:45+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "026-china-is-dealing-with-its-own-manosphere",
@@ -2214,7 +2314,11 @@
           ],
           "translated_at": "2026-07-21T16:36:43+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "027-xi-jinping-expels-another-leader-from-his-top-team",
@@ -2264,7 +2368,11 @@
           ],
           "translated_at": "2026-07-21T16:37:10+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "028-china-wants-to-end-ai-romances",
@@ -2334,7 +2442,11 @@
           ],
           "translated_at": "2026-07-21T16:37:48+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "029-a-squeezed-china-is-trying-to-wring-more-from-its-state-assets",
@@ -2414,7 +2526,11 @@
           ],
           "translated_at": "2026-07-21T16:38:32+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "030-donald-trump-has-no-good-options-for-reopening-the-strait-of-hormuz",
@@ -2514,7 +2630,11 @@
           ],
           "translated_at": "2026-07-21T16:39:21+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "031-americas-other-battle-with-iran",
@@ -2594,7 +2714,11 @@
           ],
           "translated_at": "2026-07-21T16:40:04+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "032-the-ebola-epidemic-is-getting-out-of-control",
@@ -2679,7 +2803,11 @@
           ],
           "translated_at": "2026-07-21T16:40:44+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "033-a-hit-new-show-takes-on-polygamy-in-modern-south-africa",
@@ -2734,7 +2862,11 @@
           ],
           "translated_at": "2026-07-21T16:41:15+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "034-how-to-preserve-africas-architectural-gems",
@@ -2804,7 +2936,11 @@
           ],
           "translated_at": "2026-07-21T16:41:59+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "035-ukraines-reformist-defence-minister-is-ousted",
@@ -2874,7 +3010,11 @@
           ],
           "translated_at": "2026-07-21T16:42:51+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "036-europe-seems-set-to-ease-its-carbon-pricing",
@@ -2944,7 +3084,11 @@
           ],
           "translated_at": "2026-07-21T16:43:23+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "037-sweden-squashed-migration-the-populist-right-wants-to-go-further",
@@ -3029,7 +3173,11 @@
           ],
           "translated_at": "2026-07-21T16:44:09+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "038-opening-the-border-between-spain-and-gibraltar",
@@ -3079,7 +3227,11 @@
           ],
           "translated_at": "2026-07-21T16:44:51+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "039-why-berlins-airport-is-still-completely-hopeless",
@@ -3129,7 +3281,11 @@
           ],
           "translated_at": "2026-07-21T16:45:22+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "040-in-praise-of-scandinavias-risky-and-dirty-playgrounds",
@@ -3194,7 +3350,11 @@
           ],
           "translated_at": "2026-07-21T16:46:18+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "041-can-andy-burnham-keep-his-own-mps-under-control",
@@ -3279,7 +3439,11 @@
           ],
           "translated_at": "2026-07-21T16:47:13+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "042-lessons-from-a-cat-about-to-outlast-yet-another-prime-minister",
@@ -3339,7 +3503,11 @@
           ],
           "translated_at": "2026-07-21T16:47:43+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "043-glasgow-rescuer-of-the-commonwealth-games-needs-saving-too",
@@ -3414,7 +3582,11 @@
           ],
           "translated_at": "2026-07-21T16:48:20+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "044-violence-is-reshaping-british-political-life",
@@ -3489,7 +3661,11 @@
           ],
           "translated_at": "2026-07-21T16:49:01+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "045-britains-bookies-have-weathered-a-tricky-world-cup",
@@ -3544,7 +3720,11 @@
           ],
           "translated_at": "2026-07-21T16:49:32+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "046-londons-private-members-clubs-are-proliferating",
@@ -3624,7 +3804,11 @@
           ],
           "translated_at": "2026-07-21T16:50:26+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "047-sir-keirs-bucket-list",
@@ -3704,7 +3888,11 @@
           ],
           "translated_at": "2026-07-21T16:51:19+08:00",
           "translation_provider": "codex",
-          "translation_model": "codex-default:low"
+          "translation_model": "codex-default:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "048-sovereign-ai-independent-of-america-and-china-is-a-pipe-dream",
@@ -3714,159 +3902,166 @@
           "order": 48,
           "section": "International",
           "title_en": "Sovereign AI, independent of America and China, is a pipe dream",
-          "title_zh": "",
+          "title_zh": "独立于美国和中国的“主权AI”仍是幻想",
           "rubric_en": "But a degree of protection from coercion remains possible",
-          "rubric_zh": "",
+          "rubric_zh": "但一定程度上摆脱胁迫仍有可能",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "WHEN THE leaders of the biggest Western economies gathered last month in the French Alps for the G7 summit, it was not just presidents and prime ministers in attendance. The bosses of America’s leading artificial-intelligence firms—Sam Altman of OpenAI, Sir Demis Hassabis of Google DeepMind and Dario Amodei of Anthropic—were seated alongside the political bigwigs. Even the stewards of the mightiest economies, it turns out, are buttering up the potentates of AI.",
-              "zh": ""
+              "zh": "上个月，西方主要经济体领导人齐聚法国阿尔卑斯山参加七国集团峰会时，到场的不仅是总统和首相。美国头部人工智能公司的掌门人也坐在他们身边：OpenAI 的萨姆·奥特曼、Google DeepMind 的戴米斯·哈萨比斯爵士，以及 Anthropic 的达里奥·阿莫代伊。事实证明，即便是最强大的经济体掌舵者，也在讨好 AI 这群“新权贵”。"
             },
             {
               "id": "p002",
               "en": "Days before the summit, America’s government had barred Anthropic from making its most advanced model available to foreigners. OpenAI soon imposed similar restrictions on some of its frontier systems. The move turned a simmering concern into a burning one: might countries without their own, home-grown AI firms end up excluded from the world-changing technology? Emmanuel Macron, France’s president, warned that no one would buy American AI if it could “turn off the switch” at will. The American AI labs’ Chinese rivals offer only faint reassurance. On July 7th Reuters reported that Chinese officials, too, were considering restricting foreigners’ access to leading AI models.",
-              "zh": ""
+              "zh": "峰会前几天，美国政府已禁止 Anthropic 将其最先进的模型提供给外国机构。OpenAI 随后也对其部分前沿系统施加了类似限制。这一举动将长期存在的担忧推向焦点：没有自有 AI 企业的国家，是否会被排除在改变世界的技术之外？法国总统埃马纽埃尔·马克龙警告说，如果美国可以随时“关闭开关”，就没人会购买美国的 AI。美国 AI 机构的中国竞争者也只能提供微弱安慰。7月7日，路透社报道，中国官员也在考虑限制外国人获取领先 AI 模型。"
             },
             {
               "id": "p003",
               "en": "Caught between the world’s two AI superpowers, governments are increasingly pinning their hopes on “sovereign AI”: the idea that countries should limit their dependence on foreign providers of AI by actively developing domestic AI firms and infrastructure. Announcements of such initiatives are proliferating. The European Union has unveiled a technology-sovereignty package encompassing semiconductors, AI and cloud computing. Canada has launched its own plan to reduce reliance on American technology providers. India, Japan and Singapore are backing domestic AI infrastructure and models. The Centre for a New American Security (CNAS), a think-tank in Washington, estimates that the number of state-backed AI projects outside America and China grew fivefold over the course of 2024 and 2025 (see chart 1). Governments have announced investments of $70bn-plus in such initiatives, according to CNAS’s tally.",
-              "zh": ""
+              "zh": "处于世界两大 AI 强权之间，政府越来越多地把希望寄托在“主权 AI”上：即通过积极发展本国 AI 企业和基础设施，减少对外部供应商的依赖。这类倡议的声明正不断增加。欧盟推出了一个技术主权方案包，涵盖半导体、人工智能与云计算。加拿大也推出了降低对美国技术供应商依赖的计划。印度、日本和新加坡都在支持本土 AI 基础设施和模型。华盛顿智库“美国新安全中心”（CNAS）估计，2024年至2025年间，美中之外由国家支持的 AI 项目数量增长了五倍（见图表 1）。CNAS 的统计显示，政府已宣布在此类倡议上投资逾 700 亿美元。"
             },
             {
               "id": "p004",
               "en": "Yet turning these ambitions into reality will be extremely difficult. No matter what, most countries will still rely on American chips, Chinese open-source models or both to build their AI systems. Even then, most governments will find it prohibitively expensive to achieve anything remotely resembling AI sovereignty.",
-              "zh": ""
+              "zh": "然而，把这些愿景变为现实会异常困难。无论如何，大多数国家仍将需要依赖美国芯片、中国开源模型，或两者兼用来构建 AI 系统。即便如此，大多数政府要想实现接近“AI 主权”的状态，也会发现成本高得几乎无法承受。"
             },
             {
               "id": "p005",
               "en": "The incentive to seek it, however, is clear and compelling. Pablo Chavez of CNAS puts the restrictions on Anthropic in a “long line of events” demonstrating America’s willingness to use its technological dominion as a weapon. In the dying days of Joe Biden’s presidency in 2025, America proposed sweeping export controls that would have rationed access to advanced chips through a complex licensing regime. When Donald Trump became president a few weeks later he dropped the plan. But he has not hesitated to use America’s lead in AI as leverage in trade negotiations. The Department of Commerce is considering rules that would allow it to vet all sales of AI chips designed by American firms anywhere in the world. It might also insist that buyers allow inspections or monitoring to make sure chips are being used as promised. Another possible requirement could be to invest in American AI infrastructure in exchange for access.",
-              "zh": ""
+              "zh": "寻求主权的动机却十分清晰而有说服力。CNAS 的帕布罗·查韦斯把对 Anthropic 的限制放在一系列“先例”中，认为这体现了美国愿意将技术主导权当作武器。在 2025 年乔·拜登任期末期，美国提出了覆盖面广泛的出口管制方案，拟通过复杂的许可制度配给先进芯片。几周后，唐纳德·特朗普上任后撤回了该方案。但他并未迟疑于在贸易谈判中把美国 AI 领先地位当作筹码。美国商务部正在考虑规定，让其有权审核美国公司在全球范围内出售 AI 芯片的所有交易。美国还可能要求买方接受检查或监测，以确保芯片按承诺用途使用。另一种可能的要求是，作为换取访问权的条件，要投资美国的 AI 基础设施。"
             },
             {
               "id": "p006",
               "en": "Protecting themselves from coercion is not the only reason governments want to build their own “AI stack”, the layers of hardware and software on which AI depends. National security is another: it is awkward to use foreign, commercial AI for top-secret purposes, especially of a military nature. Governments also like the idea of models trained on their own languages, laws and norms. They worry, with some justification, about users’ sensitive, personal data falling into foreign hands. And policymakers want to reap the economic benefits of AI. They have seen how previous technological innovations—the internet, smartphones and cloud computing—entranced consumers and reshaped their economies while generating riches for American tech firms. They are keen to avoid a repeat.",
-              "zh": ""
+              "zh": "政府想打造自己的“AI 技术栈”（即 AI 所依赖的硬件和软件层）并非只为防止被胁迫。国家安全也是原因：对最高机密、尤其军事用途，使用外国产品的商业 AI 非常不便。政府也希望拥有基于本国语言、法律和规范训练的模型。它们也有一定道理地担心敏感、个人数据落入外国手中。政策制定者还希望获得 AI 的经济收益。他们看到过往技术创新——互联网、智能手机和云计算——如何让消费者着迷并重塑经济，同时为美国科技公司带来巨额财富。他们不想重演一遍。"
             },
             {
               "id": "p007",
               "en": "The Anthropic cut-off was instructive, says Arthur Mensch of Mistral AI, a French model-maker. In an interview for The Economist’s Inside Tech video series, he argues that the imperative to develop sovereign AI runs much deeper than the risk of diplomatic strong-arming. The scale of the outflow of cash to America and China in a world where the pair continue to dominate AI would be so vast it would create “enormous instabilities”, he argues. Countries will find that unacceptable and so will be forced to invest in the ability to serve at least some demand for AI domestically.",
-              "zh": ""
+              "zh": "法国模型公司 Mistral AI 的 Arthur Mensch 认为，Anthropic 的断供很有启发性。在《经济学人》Inside Tech 视频访谈中，他指出，发展主权 AI 的紧迫性远深于外交施压的风险。若未来美国和中国继续主导 AI，向两国流出的资金规模将大到造成“巨大不稳定”。各国会认为这是不可接受的，因此被迫投资于在国内至少满足部分 AI 需求的能力。"
             },
             {
               "id": "p008",
               "en": "Mr Mensch estimates (conservatively, he says) that within the next five or ten years, the European Union will be spending the equivalent of a tenth of its current bill for labour on AI tokens, or about around €1trn ($1.1trn) a year. If things stay as they are, the vast majority of that expenditure will flow directly to American cloud providers. Such outflows would hit the euro, increasing the cost yet more. That, he believes, would create an opportunity for a local enterprise to compete directly, even if its product is not of the same quality. Every country, he predicts, will need to make sure that whatever happens, “The AI can continue to run.”",
-              "zh": ""
+              "zh": "Mensch 保守地估计，在未来五到十年内，欧盟在 AI 代币上的年度支出将达到其当前劳动成本约十分之一，约合 1 万亿欧元（约 1.1 万亿美元）。如果现状不变，这笔开支中的绝大多数都将直接流向美国云服务商。如此一来，资金外流会打击欧元，进一步抬高代价。Mensch 认为，这将给本地企业带来竞争机会，即使其产品质量不及对手。"
             },
             {
               "id": "p009",
               "en": "Sovereignty looks different at each layer of the stack. Start at the bottom: computing power (“compute”, in the jargon), largely in the form of AI chips. The market for those chips is dominated by Nvidia, whose processors account for two-thirds of the world’s AI compute. Chips designed by Google, AMD and Amazon, all American firms, make up much of the remainder.",
-              "zh": ""
+              "zh": "在栈的每一层，“主权”看起来都不同。先从最底层开始：算力，也就是业内常说的“计算力”，主要以 AI 芯片的形式存在。该市场由英伟达主导，其处理器占全球 AI 算力的三分之二。谷歌、AMD 和亚马逊这几家美国企业设计的芯片，占据了剩下的大部分。"
             },
             {
               "id": "p010",
               "en": "The alternatives are limited. Chinese firms such as Huawei and Cambricon have made impressive strides despite being cut off by American trade restrictions from the most advanced chipmaking equipment. But they remain some distance from the frontier. Huawei’s Ascend 910C, one of China’s most advanced AI chips, provides roughly a fifth of the performance of Nvidia’s latest offering. Performance is not the only constraint. Chinese manufacturers are prioritising domestic customers, and demand still exceeds available capacity. Even if Chinese chips continue to improve, shortages are likely to persist for years.",
-              "zh": ""
+              "zh": "可替代方案并不多。华为、寒武纪等中国企业在被美国贸易限制切断最先进芯片制造设备后，仍取得了令人瞩目的进展。但它们与最前沿仍有一定差距。华为的 Ascend 910C 作为中国最先进的 AI 芯片之一，其性能大约只有英伟达最新产品的五分之一。性能并非唯一限制。中国制造商优先服务国内客户，且需求仍超出现有产能。即便中国芯片持续进步，短缺很可能还会持续多年。"
             },
             {
               "id": "p011",
               "en": "Aiming for self-sufficiency in hardware is therefore unrealistic. Kevin Xu of Interconnected Capital, an AI-focused hedge fund, argues that sovereignty should be understood less as independence than as control. If the machines being used to run AI models sit within a country’s borders, governments retain a degree of autonomy even if future access to chips is restricted. “Is your factory going to still run if the US government decides that suddenly you can’t?” asks Mr Mensch. The latest AI chips have a lifespan of at least five or six years.",
-              "zh": ""
+              "zh": "因此，追求硬件完全自给并不现实。Interconnected Capital 的 AI 对冲基金负责人徐凯文（Kevin Xu）认为，主权应理解为“可控”，而非“独立”。如果运行 AI 模型的机器位于本国领土内，即便将来芯片访问受到限制，政府仍可保留一定自主权。“如果美国政府突然决定禁止，你的工厂还能继续运行吗？”Mensch 问道。"
             },
             {
               "id": "p012",
               "en": "Chips are only part of the equation, however. Running AI places huge demands on the electricity grid. According to the International Energy Agency, an intergovernmental forecaster, a typical AI data centre consumes as much electricity as 100,000 households; the largest may use around 20 times as much.",
-              "zh": ""
+              "zh": "不过，芯片只是方程式的一部分。运行 AI 对电网提出了巨大的要求。根据跨政府的能源预测机构——国际能源署的数据，典型 AI 数据中心的电力消耗相当于 10 万户家庭；最大型的数据中心可能高达其 20 倍。"
             },
             {
               "id": "p013",
               "en": "Countries like Norway, Saudi Arabia and the United Arab Emirates (UAE) look like attractive places to build data centres because they have abundant, reliable power. The reverse is true in most of Europe, however: grids are congested, there are long waits for connections and electricity prices are high. For many countries, producing enough power for AI will be as difficult as securing enough chips.",
-              "zh": ""
+              "zh": "挪威、沙特阿拉伯和阿联酋看起来是建设数据中心的理想地点，因为它们拥有充足且稳定的电力。大多数欧洲则相反：电网拥塞，接入排期漫长，电价高。对许多国家而言，生产足够的 AI 电力和拿到足够的芯片一样困难。"
             },
             {
               "id": "p014",
               "en": "Move one layer higher and the picture improves. Most sovereign-AI projects are built on open-source models. These are appealing not simply because they cost less, but also because they offer a higher degree of control. Users can modify them, host them locally and avoid dependence on the proprietary systems of firms such as OpenAI and Anthropic, which might be ordered by Uncle Sam to revoke or restrict access. Although open-source models are not at the cutting edge, the gap is narrow enough not to matter for many applications. Chinese firms have become particularly competitive. On OpenRouter, a marketplace for AI models, Chinese ones have overtaken American ones in usage. The day after the restrictions on Anthropic took effect, Z.ai, a Chinese AI company, released GLM-5.2, an open-source model that quickly climbed to fourth place on Artificial Analysis, a benchmarking site.",
-              "zh": ""
+              "zh": "向上看一层，情况开始好转。大多数主权 AI 项目都建立在开源模型上。之所以受青睐，不仅因为更省钱，还因为它们提供更高程度的掌控。用户可以对其进行修改、在本地托管，避免依赖 OpenAI、Anthropic 等公司专有系统，而这些公司可能被华盛顿命令收回或限制访问。尽管开源模型并非最前沿，但与主流应用相关的性能差距已小到可以忽略。中国企业尤其具备竞争力。在 AI 模型市场 OpenRouter 上，中国模型的使用量已超越美国模型。Anthropic 限制生效的次日，中国 AI 公司 Z.ai 发布了开源模型 GLM-5.2，迅速登上了基准平台 Artificial Analysis 的第四位。"
             },
             {
               "id": "p015",
               "en": "Yet if China were to impose the same sort of export controls on its most capable models as America has, users of Chinese AI would simply be exchanging one form of dependency for another. In June Joe Tsai, chairman of Alibaba, was asked at a conference how Europe could trust China not to follow America’s lead in cutting off access to frontier models. “You can’t,” he replied candidly. “But here’s the thing. Right now, all of your eggs are in one basket. Why not get a second basket?”",
-              "zh": ""
+              "zh": "但如果中国也像美国一样对最强模型实施同类出口管制，那么使用中国 AI 的用户就只是把一种依赖换成了另一种。6月，在一次会议上，阿里巴巴董事长蔡崇信被问到欧洲如何相信中国不会效仿美国切断前沿模型访问时，他坦率回答道：“你不能。但问题是，现在你们所有鸡蛋都放在一个篮子里。为什么不再放一个篮子？”"
             },
             {
               "id": "p016",
               "en": "As AI becomes ever more powerful, Chinese officials appear to be thinking about the strategic advantages prowess in AI can confer, just like their American counterparts, and also the risks of its falling into the wrong hands. Reuters reported that Chinese regulators had been discussing the possibility of export bans on future cutting-edge models with Chinese AI firms. It also claimed that they were considering making unauthorised disclosures of intellectual property related to AI models an offence under China’s draconian national-security laws.",
-              "zh": ""
+              "zh": "随着 AI 越来越强大，中国官员似乎也像美国同行一样在思考 AI 带来的战略优势，也在关注它落入错误主体之手的风险。路透社报道称，中国监管机构正在与国内 AI 企业讨论对未来前沿模型实施出口禁令的可能性。报道还称，他们也在研究将 AI 模型相关知识产权的非法泄露纳入中国严厉的国家安全法制裁范围。"
             },
             {
               "id": "p017",
               "en": "Perhaps even harder than acquiring the necessary hardware and software for sovereign AI is getting hold of the people needed to operate them. Mr Xu argues that this layer of the stack receives the least attention. Hardware can be imported and software downloaded. Building a workforce that can install, maintain and optimise increasingly complex AI systems is much harder. Training such engineers takes years. Hiring them from abroad is possible, but only at huge cost, as governments vie with deep-pocketed technology firms to recruit from a tiny pool of specialists.",
-              "zh": ""
+              "zh": "也许比获得主权 AI 所需的硬件和软件更难的是，获得能够运行它们的人才。徐凯文认为，栈的这一层往往最容易被忽视。硬件可以进口，软件可以下载；而能够安装、维护和优化日益复杂 AI 系统的劳动力却难以快速建立。培养这类工程师需要多年。向国外招聘是可能的，但代价高昂，因为各国政府与资金雄厚的科技公司在一小撮高端人才市场里展开激烈竞争。"
             },
             {
               "id": "p018",
               "en": "That, in turn, hints at the biggest constraint of all: money. Governments trying to conjure up sovereign AI have adopted a range of financing models. In the Gulf the state is the builder. Saudi Arabia has entrusted the task to Humain, a government-backed company created to develop AI infrastructure and data centres. In the UAE the task has fallen to G42, an AI firm partly owned by Mubadala, the country’s sovereign-wealth fund. The two countries are planning to invest more than $100bn.",
-              "zh": ""
+              "zh": "这又指向最根本的瓶颈：资金。各国在构建主权 AI 时采用了多种融资模式。在海湾地区，国家是建设者。沙特将任务交给 Humain，这是一家由政府支持、负责开发 AI 基础设施和数据中心的公司。阿联酋则由 G42 承担该任务，G42 是由该国主权财富基金 Mubadala 部分持有的 AI 企业。这两国计划投入超过 1000 亿美元。"
             },
             {
               "id": "p019",
               "en": "Close state involvement helps secure the necessary hardware. During Donald Trump’s visit to the Middle East last year, governments in the Gulf put access to chips high on the agenda. Saudi Arabia said it planned to buy “several hundred thousand” of Nvidia’s top-end processors over the following five years. The UAE is reportedly aiming far higher, at half a million chips a year. On July 10th the Trump administration removed export controls on sales of advanced chips to the UAE, citing its support for America’s war with Iran.",
-              "zh": ""
+              "zh": "强力的国家参与有助于锁定必要硬件。去年唐纳德·特朗普访问中东时，海湾各国把芯片供应列入议程高优先级。沙特表示，未来五年内计划购买“数十万”台英伟达高端处理器。阿联酋据称规模更大，目标是每年 50 万块芯片。7月10日，特朗普政府取消了对向阿联酋出口先进芯片的限制，以其对美国对伊朗战争的支持为由。"
             },
             {
               "id": "p020",
               "en": "Elsewhere governments are acting more as catalysts than as builders. France is backing Mistral AI, a home-grown but private model-developer, by helping recruit state-backed investors and foreign partners. In May SoftBank, a Japanese conglomerate, pledged to invest up to $85bn to build Europe’s biggest AI facility in France. Britain has launched a £500m ($670m) sovereign-AI fund to foster domestic startups. It has also set up a widely admired safety agency, the AI Security Institute, which has helped keep the country involved in the industry.",
-              "zh": ""
+              "zh": "在其他地区，政府更多扮演催化者而非建设者。法国通过帮助吸引国家支持的投资者和海外合作伙伴，在支持本土但私有的模型开发商 Mistral AI。5月，日本财团软银承诺投资高达 850 亿美元，在法国建设欧洲最大的 AI 设施。英国推出了 5 亿英镑（约 6.7 亿美元）的主权 AI 基金，以扶持本土初创公司。英国还建立了受广泛好评的安全机构——AI 安全研究所，这有助于该国在该行业中保持参与。"
             },
             {
               "id": "p021",
               "en": "India is attempting a “third way” by focusing on providing AI cheaply, with the aim of solving local problems in local languages. It is channeling these ambitions through a mix of state-linked firms and private partnerships.. The government has allocated about $1bn to domestic AI infrastructure, Indian-language models and public data sets.",
-              "zh": ""
+              "zh": "印度正尝试一条“第三条道路”，以低成本提供 AI，目标是用本地语言解决本地问题。其战略是通过国家关联企业与私营合作模式推进。政府已向本土 AI 基础设施、印度语种模型和公共数据集拨款约 10 亿美元。"
             },
             {
               "id": "p022",
               "en": "Whether the capital is public or private, however, it will be difficult to muster enough of it. AI infrastructure is ruinously expensive. A one-gigawatt (GW) data centre—the scale at which advanced AI is increasingly conducted—costs roughly $50bn. Over two-thirds of that bill comes from computing equipment, chiefly chips.",
-              "zh": ""
+              "zh": "无论资本是公有还是私有，要筹措到足够资金都很难。AI 基础设施代价高昂。一座一吉瓦（GW）级数据中心——当前高性能 AI 主要运行的规模——的成本大约是 500 亿美元，其中超过三分之二的支出来自计算设备，尤其是芯片。"
             },
             {
               "id": "p023",
               "en": "Gartner, a consultancy, estimates that between 2026 and 2030 countries outside America and China could add more than 50GW of data-centre capacity, much of it for AI (see chart 2). That would entail investment of $2trn or more. Yet the combined capital expenditure of all providers bar Chinese and American firms, including sovereign-AI projects and neoclouds, which rent out compute, will amount to only around $800bn over the same period.",
-              "zh": ""
+              "zh": "咨询公司 Gartner 估计，从 2026 年到 2030 年，除美国和中国之外的国家可能新增 50GW 以上的数据中心容量，其中很大一部分用于 AI（见图表 2）。这将意味着至少 2 万亿美元的投资。然而，排除中美厂商后，所有供应商包括主权 AI 项目与“新云”提供者的合计资本支出，在同一时期也只有约 8000 亿美元。"
             },
             {
               "id": "p024",
               "en": "Someone else will have to foot the bill. America’s hyperscalers look like the obvious candidates. Alphabet, Amazon, Meta, Microsoft and Oracle are expected to invest around $5trn by the end of the decade, most of it on AI infrastructure. Between a fifth and a third of that is likely to be spent outside America, implying foreign investments of roughly $1trn-1.5trn. Few sovereign-AI projects can compete with that.",
-              "zh": ""
+              "zh": "账单总要有人买单。美国的超大规模云服务商似乎是最明显的候选人。Alphabet、Amazon、Meta、微软和 Oracle 预计到本十年末将投资约 5 万亿美元，其中大部分用于 AI 基础设施。其中五分之一到三分之一可能花在美国境外，意味着外国投资规模约 1 万亿至 1.5 万亿美元。很少有主权 AI 项目能够与之竞争。"
             },
             {
               "id": "p025",
               "en": "For the cloud giants, this is an opportunity. For years they have sold private- and public-sector customers technological independence: data centres in their home country, domestic operating partners and guarantees that data will remain within national borders. Sovereign AI is a logical extension of this offer. The firms would provide customers control over where models are run and where the data are stored.",
-              "zh": ""
+              "zh": "对这些云巨头而言，这是一个机会。多年来，他们一直向政企客户出售“技术自主性”：在本土国家建设数据中心、采用本国运营合作伙伴，并承诺数据留在本国边界内。主权 AI 是这一承诺的自然延伸。公司将让客户控制模型运行地点和数据存储地点。"
             },
             {
               "id": "p026",
               "en": "America’s restrictions on Anthropic both hinder and help this sales pitch. They help because the case for developing protection of any sort from the American authorities’ whims has become that much stronger. But they hinder because potential customers will now be wondering whether neoclouds might become yet another means by which America’s government can coerce other countries.",
-              "zh": ""
+              "zh": "美国对 Anthropic 的限制既促进也削弱了这一销售主张。它促进了这一点，因为任何抵御美国当局随意干预的论据都更有力了。但它也造成阻碍，因为潜在客户会开始质疑，“新云”是否会成为美国政府施压他国的又一渠道。"
             },
             {
               "id": "p027",
               "en": "Microsoft has acknowledged the concern. Even close allies, it notes, worry that dependence on American cloud providers could leave them vulnerable to a “kill switch”: an executive order, export restriction or other policy decision that abruptly cuts off access during a geopolitical dispute. The company called for explicit assurances from the American government that such powers will not be used against friendly countries. The idea is not far-fetched: last year Microsoft was obliged to suspend the email account of Karim Khan, the chief prosecutor of the International Criminal Court, after the Trump administration subjected him to sanctions.",
-              "zh": ""
+              "zh": "微软已公开承认这种担忧。它指出，连最亲近的盟友也担心，过度依赖美国云服务商会使其暴露在所谓“熄火开关”之下：在地缘政治争端中，某项行政命令、出口限制或其他政策举措突然切断访问权限。微软呼吁美国政府明确保证，不会对友好国家动用这类权力。这个担忧并非空穴来风：去年，微软在特朗普政府对国际刑事法院首席检察官卡里姆·汗实施制裁后，被迫暂停了其电子邮件账户。"
             },
             {
               "id": "p028",
               "en": "The impediments to sovereign AI, in short, are many and daunting. Full technological independence at all levels of the stack is nigh on impossible. Even less ambitious schemes may be cripplingly expensive, with uncertain benefits. AI infrastructure depreciates quickly. Chips become obsolete within five or six years; software evolves even faster. Governments could spend billions on facilities that are outdated before they are fully up and running.",
-              "zh": ""
+              "zh": "简言之，主权 AI 面临的阻碍多而艰巨。在整套技术栈上实现完全技术独立几乎不可能。即使不那么激进的方案，也可能昂贵到使其难以为继，而且收益并不确定。AI 基础设施贬值很快。芯片在五到六年内就会过时，软件变化更快。政府可能在巨资建成设施之前，它们就已过时。"
             },
             {
               "id": "p029",
               "en": "Yet excess caution also carries a monumental risk: that countries leave themselves at the mercy of the AI superpowers for a technology that seems likely to make or break their economies in future. The quest for sovereign AI is therefore bound to continue, albeit in a circumscribed form. Governments will need to decide which parts of the stack they want to recreate at home and which dependencies are worth living with. Given the alternatives, even a little sovereignty may go a long way. ■",
-              "zh": ""
+              "zh": "然而过度谨慎同样有巨大风险：各国可能把自己交给 AI 超级强国来摆布，而该技术很可能左右其未来经济的成败。因此，对主权 AI 的追求必然会持续下去，即使是受限的形式。各国将需要决定哪些部分要在本土重建，哪些依赖关系可以容忍。以可选择的替代方案而言，哪怕一点点主权也可能起到很大作用。■"
             }
-          ]
+          ],
+          "translated_at": "2026-07-21T17:04:00+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "049-when-chinas-open-source-ai-is-a-trap",
@@ -3876,74 +4071,81 @@
           "order": 49,
           "section": "International",
           "title_en": "When China’s open-source AI is a trap",
-          "title_zh": "",
+          "title_zh": "当中国的开源人工智能是一场陷阱",
           "rubric_en": "America’s quest for AI dominance is scary. China is not the solution",
-          "rubric_zh": "",
+          "rubric_zh": "美国对人工智能主导权的追求令人不安。中国不是答案",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "CHINA’S LEADER, Xi Jinping, is too stern to sing or dance in public—no Donald Trump-style piston-arm disco moves for him. This is a shame, for it would save time if he binned his planned remarks when the World Artificial Intelligence Conference (WAIC) opens in Shanghai on July 17th, and sang instead. Specifically, he could unleash his rich baritone on the hippy anthem, “I’d like to teach the world to sing, in perfect harmoneee.”",
-              "zh": ""
+              "zh": "中国领导人习近平在公共场合不太会唱歌跳舞——他不会像唐纳德·特朗普那样摆动胳膊跳迪斯科。这挺可惜，因为如果他在7月17日上海世界人工智能大会（WAIC）开幕时把预备发言搁下而改成唱歌，就能省去不少时间。具体来说，他可以用浑厚的男低音演唱那句嬉皮风格的口号：“我愿意教全世界唱歌，让它唱出完美的和谐。”"
             },
             {
               "id": "p002",
               "en": "Puzzled delegates might frown. But it would be cheering if Mr Xi sang: “I’d like to build a world a home, and furnish it with love.” And as a guide to China’s real-world AI ambitions, it would be about as helpful as an official speech. Communist Party media have offered previews of what the WAIC may hear, including such vapid phrases as “those who walk together go far” and “global AI for good”. In China’s telling, benevolence explains why its large language models (LLMs) are open-source or open-weight (tech-speak for models that users can download, run on their own servers and customise). China calls open-source AI a “shared asset for all humanity”, notably users in less wealthy countries.",
-              "zh": ""
+              "zh": "围观者可能会感到困惑，但若习近平真的开口歌唱，会更加振奋人心：“我愿意让世界成为一个家，并以爱去装点它。”对中国真实世界AI野心的解读，这么一唱大概和官方演讲一样有指导意义。中国共产党媒体已经放出了一些WAIC可能会听到的发言预览，包括“携手同心，走得更远”以及“AI向善，全球共享”等空洞说法。按照中国的说法，仁爱可以解释为什么其大型语言模型（LLM）是开源或开源权重（行业术语，指用户可下载、可在自有服务器上运行并可定制的模型）。中国称开源AI是“全人类的共同资产”，尤其是对较不富裕国家的用户。"
             },
             {
               "id": "p003",
               "en": "The UN needs to lead a push for global AI governance, Mr Xi is likely to say in Shanghai. As new rules are crafted, China stands ready to offer a dose of “Chinese wisdom”. Decoding that jargon is not hard. In policy forums and papers, China promotes “inclusive” AI rules that respect different political systems and the sovereign rights of states. The contrast with America is deliberate. Successive American presidents and democratic allies have talked of embedding liberal values and freedoms in AI. China paints that as Western chauvinism. Instead, it offers countries non-judgmental AI for economic development, with no pesky questions about censorship, or about how foreign leaders gain or maintain their power.",
-              "zh": ""
+              "zh": "习近平很可能在上海表示，联合国需要牵头推动全球AI治理。当新的规则正在制定之际，中国已准备好提供一剂“中华智慧”。这种话术并不难解读。在政策论坛和文件中，中国推动的是“包容性”AI规则，强调尊重不同政治制度和国家主权权利。与美国形成了刻意对照。历任美国总统和民主盟友都谈及在AI中嵌入自由与自由价值观。中国把这描绘为西方的沙文主义。取而代之，它向各国提供不加评判的AI以促进经济发展，并且不会就审查问题或外国领导人如何获取并维持权力提出刺耳追问。"
             },
             {
               "id": "p004",
               "en": "Mr Xi can expect a friendly hearing from many in Shanghai, and not just delegates from dictatorships. These are jarring times for users of American AI technologies. In recent weeks the Trump administration has readily revoked access to powerful AI tools, if it felt controls were needed to defend America’s national security or to maintain what the White House likes to call “AI dominance”.",
-              "zh": ""
+              "zh": "习近平在上海大概率会遇到不少友好听众，不只是来自专制政权的代表。对美国AI技术用户来说，这些都是令人不安的时刻。近期，特朗普政府在必要时会迅速收回对强大AI工具的访问权，理由是需要维护美国国家安全，或维持白宫口中的“AI主导地位”。"
             },
             {
               "id": "p005",
               "en": "In European and other Western democracies, there is interest in using Chinese models to avoid total dependence on America. Alas, if countries fear domination by a control-obsessed superpower, they might not want to pin all their hopes on China. Strict rules require Chinese AI firms to uphold national security, social stability and “core socialist values”. Its cyber-regulators test LLMs, bots and agents for political compliance, bombarding them with tricky questions. The effects can be startling. Last year American researchers asked Miiloo, a baby-voiced, AI-enabled doll exported from China, about the status of Taiwan. The island “is an inalienable part of China”, replied the toy, and this “cannot be refuted”.",
-              "zh": ""
+              "zh": "在欧洲及其他西方民主国家，人们也有兴趣使用中国模型，以避免对美国技术的完全依赖。可惜的是，如果各国担心被一个专注于控制的超级大国所支配，它们可能不会把所有希望都押在中国身上。中国企业和机构面临严苛规则，必须维护国家安全、社会稳定和“核心社会主义价值观”。其网络监管机构会测试LLM、聊天机器人和智能体的政治合规性，对它们持续抛出刁钻问题。其影响有时令人震惊。去年，美国研究人员曾问一款来自中国并出口的“米洛（Miiloo）”婴儿音色AI娃娃关于台湾地位的问题。它回答说台湾“是中国不可分割的一部分”，而这种说法“不能被反驳”。"
             },
             {
               "id": "p006",
               "en": "As well as an obsession with control, China has a record of using its industrial might for dominance. Just ask Mr Trump, brought to heel last year when China curbed exports of vital, Chinese-processed rare-earth elements and magnets. In the AI realm, China’s dream is to sell the world an ecosystem, involving Chinese-made models and tools, computer chips, data centres and cooling systems. Ideally, such infrastructure should be powered by Chinese-made electrical grids and renewable energy plants.",
-              "zh": ""
+              "zh": "除了对控制的执着， 中国还拥有将其工业实力用于支配他人的既往记录。只要回想特朗普去年因中国限制出口关键、经中国加工的稀土和磁体而被迫低头即可。在AI领域，中国梦想是向世界出售一个生态体系，包含中国制造的模型和工具、芯片、数据中心和制冷系统。理想情况下，这套基础设施还应由中国制造的电网和可再生能源电站供电。"
             },
             {
               "id": "p007",
               "en": "Chinese officials present open-source AI technologies as a gift to the world. In reality, openness is a logical strategy for laggards. The performance of China’s top models remains some way behind that of the best American LLMs. That makes it rational for Chinese firms to woo foreign customers with cheaper models that users can download onto their own servers, as an alternative to expensive, proprietary American models. Within China, state planners want companies to develop clever AI applications to unleash a productivity revolution and a boom in consumer consumption. Deploying cheap, open-source tools helps with that.",
-              "zh": ""
+              "zh": "中国官方把开源AI技术摆在台前，称之为赠与世界的礼物。实际上，所谓“开源”是落后者的理性选择。中国顶尖模型的性能仍与最先进的美国LLM有一定差距。这使中国企业很理性地用更便宜、可让用户下载到自有服务器上运行的模型来吸引国外客户，作为高价专有美国模型的一种替代。再加上在国内，国家规划者希望企业开发聪明的AI应用，以释放生产力革命并拉动消费繁荣；部署低价开源工具对此大有助益。"
             },
             {
               "id": "p008",
               "en": "Even so, Chinese leaders appear to be reviewing that vaunted commitment to AI openness. There are many reasons why. Officials dread foreigners swiping tech secrets. In April Chinese regulators ordered Meta, the American tech giant, to unwind its purchase of Manus, a startup specialising in AI agents (no matter that the Chinese co-founders had moved Manus to Singapore). China has since tightened rules on all cross-border AI deals. Earlier this month Reuters, a news agency, reported on recent discussions between Chinese regulators and companies about possibly limiting foreigners’ access to China’s most advanced models.",
-              "zh": ""
+              "zh": "尽管如此，中国领导层似乎正在重新审视其所谓坚持的AI开放性。原因不少。官员们担心外国人“套取”技术机密。4月，中国监管机构要求美国科技巨头Meta解除对Manus的收购订单（这家创业公司专攻AI智能体，尽管其中国联合创始人已将公司迁至新加坡）。随后中国又收紧了所有跨境AI交易规则。就在本月初，路透社报道称，中国监管者与企业之间曾就是否限制外国人获取中国最先进模型展开讨论。"
             },
             {
               "id": "p009",
               "en": "The performance of the best models is creating new reasons to think hard about AI safety. In Beijing earlier this year, several Chinese military types expressed shock at how America and Israel had used AI to find targets in Iran (even if Mr Trump’s botched war inspires scorn in China, broadly). If China develops near-Mythos-grade tools that could build destructive cyber- or bioweapons, its leaders would have good cause to fear giving adversaries or bad actors access to that technology.",
-              "zh": ""
+              "zh": "最顶尖模型的进展又带来了新的AI安全考量。今年年初在北京，几位中国军方人士对美国和以色列如何利用AI在伊朗寻找目标感到震惊（即便在中国，特朗普这场一团糟的战争仍普遍遭到轻视）。如果中国能研发出接近神话级水平的工具，用于制造破坏性网络武器或生物武器，它的领导人完全有理由担忧将该技术交到对手或不良行为者手中。"
             },
             {
               "id": "p010",
               "en": "Finally, competition with America is set to intensify. Rumours abound that the Trump administration is weighing whether to stop Americans using Chinese AI models, at least for government work. National security is one explanation, but so is the growing popularity of Chinese LLMs as a cheap tool for basic tasks.",
-              "zh": ""
+              "zh": "最后，与美国的竞争预料将加剧。外界流传许多传闻，称特朗普政府正在考虑是否禁止美国人使用中国AI模型，至少在政府工作中禁止使用。国家安全是一种解释，但中国LLM因价格低廉、可用于基础任务而日益受欢迎，也是另一种背景原因。"
             },
             {
               "id": "p011",
               "en": "For all these reasons, embracing China is a risky hedge against a domineering America. Like a secret policeman in a hippy wig, China has always been an unlikely champion of openness. Party chiefs enjoy the propaganda win of painting America as a bully. They hope that low-cost AI will hook foreigners on Chinese digital infrastructure. But if openness ever clashes with national security or political power, they will choose control in an instant.■",
-              "zh": ""
+              "zh": "基于所有这些原因，拥抱中国并不是对抗专横美国的稳妥对冲。中国就像戴着嬉皮假发的特务，始终是个不太可信的“开放”拥护者。党内高层享受着把美国描绘成恶霸所带来的宣传胜利。他们希望低价AI能让外国人沉迷于中国的数字基础设施。但一旦“开放”与国家安全或政治权力发生冲突，他们会瞬间选择控制。■"
             },
             {
               "id": "p012",
               "en": "Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.",
-              "zh": ""
+              "zh": "《经济学人》订阅者可以订阅我们的《观点》周刊，栏目汇集了我们最优秀的专栏、特约评论与读者来信。"
             }
-          ]
+          ],
+          "translated_at": "2026-07-21T17:04:15+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "050-eli-lilly-is-reinventing-the-pharma-business",
@@ -3953,94 +4155,101 @@
           "order": 50,
           "section": "Business",
           "title_en": "Eli Lilly is reinventing the pharma business",
-          "title_zh": "",
+          "title_zh": "礼来公司正在重塑制药行业",
           "rubric_en": "The world’s largest drugmaker is betting big on preventive medicines—and learning from big tech",
-          "rubric_zh": "",
+          "rubric_zh": "全球最大的制药商正押注预防性用药，并向科技巨头学习",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "In 1876 Eli Lilly, a veteran of the civil war, founded a company in Indianapolis to bring scientific rigour to a medicines market awash with quack cures and miracle remedies. In doing so, he helped usher in the modern pharmaceutical industry. A century and a half later, the company that bears his name wants to reinvent it again.",
-              "zh": ""
+              "zh": "1876 年，内战老兵埃利·利利在印第安纳波利斯创办了一家公司，试图为当时充斥着江湖偏方和神药的药品市场带来科学严谨性。通过这一举措，他推动了现代制药产业的诞生。一个半世纪之后，以其姓氏命名的公司又一次想要重塑行业。"
             },
             {
               "id": "p002",
               "en": "It has the scale to try. Lilly is the world’s most valuable drugmaker and the first pharmaceutical company to be worth more than $1trn, joining a club mostly dominated by tech giants. Since the start of 2023 its share price has more than tripled. Analysts expect its revenue to grow by around 15% a year, on average, until the end of the decade, more than three times the median of its peers. Investors now value Lilly more like a tech giant than a drugmaker (see chart).",
-              "zh": ""
+              "zh": "它有足够的规模去尝试这一转变。利拉是世界上最有价值的制药公司，也是第一家市值突破 1 万亿美元的制药企业，加入了一个长期由科技巨头主导的“俱乐部”。自2023年初以来，其股价已翻了三倍多。分析师预计其收入到本十年末将平均每年增长约15%，是同业中位数的三倍以上。如今，投资者更愿意像看待科技巨头而非制药企业一样估值利拉（见图表）。"
             },
             {
               "id": "p003",
               "en": "Much of that euphoria rests on GLP-1s, a new class of obesity drugs that have transformed both the company and the industry. Zepbound, Lilly’s slimming jab, generated $4.9bn in sales in its first full year on the market in 2024. This year analysts expect sales to be quadruple that figure. The company now accounts for three-fifths of GLP-1 sales in America. Bloomberg Intelligence, a research group, estimates that Lilly could capture two-thirds of a global obesity-drug market worth more than $120bn a year by 2030.",
-              "zh": ""
+              "zh": "这股狂热很大程度上依托于 GLP-1 这一新一代减肥药类别，它正在改变这家公司和整个行业。利拉的减重注射药 Zepbound 在2024年上市首个完整年度实现了49亿美元销售额。今年分析师预计该数字将是当时的四倍。利拉目前已占美国 GLP-1 销售额的三分之二。彭博情报（Bloomberg Intelligence）估计，到2030年，利拉或可在一项价值每年超过1200亿美元的全球肥胖药市场中拿下三分之二。"
             },
             {
               "id": "p004",
               "en": "For many bosses, conquering one of the biggest markets in pharmaceutical history would be enough. Not for Dave Ricks, Lilly’s chief executive. In an interview with The Economist, Mr Ricks laid out a grander plan. He wants to turn his company into a different kind of drugmaker: one focused on keeping people healthy rather than simply treating disease, while borrowing ideas about business from Silicon Valley.",
-              "zh": ""
+              "zh": "对许多高管而言，征服制药史上最大的市场之一已足够了。对利拉首席执行官戴夫·里克斯（Dave Ricks）而言则不然。就在接受《经济学人》采访时，他提出了更宏大的规划。他希望将公司打造为一种不同类型的制药商：不只是治疗疾病，而是致力于保持人们健康，并且从硅谷借鉴商业思路。"
             },
             {
               "id": "p005",
               "en": "Lilly’s rapid rise in obesity drugs helps explain its confidence. Novo Nordisk, a Danish rival, launched its treatment in America more than two years before Lilly. Yet by 2025 Zepbound had overtaken Novo’s drug. Mr Ricks credits both superior science and execution. Zepbound produced greater weight loss with fewer side-effects. Lilly also invested early in manufacturing, priced lower and quickly recognised that obesity would become a consumer market as much as a medical one.",
-              "zh": ""
+              "zh": "利拉在减重药领域的快速崛起解释了他的自信。丹麦竞争对手诺和诺德（Novo Nordisk）在美国推出其相关治疗方案早于利拉两年多。然而到2025年，Zepbound 已超越诺和诺德的对应药物。里克斯把这一结果归因于更强的科学与执行力。Zepbound 在减重效果上更强、副作用更少。利拉也提前布局了生产，定价更低，并且很快意识到肥胖将成为一个与医疗需求同等重要的消费市场。"
             },
             {
               "id": "p006",
               "en": "Its lead in obesity medicines is now being tested. More than 120 companies are developing drugs, with at least 190 candidates in clinical trials. Lilly’s answer is to “cover the chessboard” with treatments offering different combinations of efficacy, tolerability and convenience. Manufacturing is another advantage. Obesity is a “capacity game”, Mr Ricks says. Since 2020 Lilly has committed more than $50bn to expanding production, betting that the ability to make these medicines at scale will matter as much as discovering them.",
-              "zh": ""
+              "zh": "利拉在肥胖类药物上的领先地位现在正接受考验。现已有120多家公司在开发相关药物，至少有190个候选药物进入临床试验。利拉的回应是“像下满盘棋一样”覆盖多种治疗方案，提供不同组合的疗效、耐受性与便利性。制造能力是另一大优势。利拉的里克斯称，肥胖治疗是“产能博弈”。自2020年以来，利拉已承诺投资逾500亿美元用于扩产，押注能否大规模制造这些药物将与研发本身同等重要。"
             },
             {
               "id": "p007",
               "en": "For Lilly, however, there is a bigger prize than slimming waistlines. GLP-1s are proving useful beyond their original purpose, reducing the risk of cardiovascular disease, sleep apnoea and chronic kidney disease. Early evidence suggests they may also help with addiction and psychiatric illness. Now the big question for Lilly is: can its medicines prevent maladies from developing in the first place?",
-              "zh": ""
+              "zh": "然而，对利拉来说，更大的目标不只是瘦身。GLP-1 药物在最初用途之外也在展现价值，可降低心血管疾病、睡眠呼吸暂停和慢性肾病风险。早期证据还显示它们可能对成瘾和精神疾病也有帮助。如今对利拉而言更大的问题是：其药物能否在疾病真正发生前就把它们预防掉？"
             },
             {
               "id": "p008",
               "en": "The pursuit of prevention is shaping Lilly’s pipeline. In June it paid $7.8bn to acquire Centessa Pharmaceuticals, a biotech company developing a treatment for narcolepsy, which affects the brain’s ability to regulate sleep cycles. Daniel Skovronsky, Lilly’s chief scientist, says that part of the appeal of drugs that regulate sleep is that their benefits may be just as broad as those of GLP-1s. Lilly is also testing its Alzheimer’s drug, donanemab, in patients without symptoms to see if early treatment can delay, or even prevent, the disease.",
-              "zh": ""
+              "zh": "预防导向正在重塑利拉的研发管线。6月，利拉以78亿美元收购了生物技术公司 Centessa Pharmaceuticals，该公司正在开发治疗发作性睡病（又称发作性嗜睡症）的药物，后者影响大脑调控睡眠周期的能力。利拉首席科学家丹尼尔·斯科弗龙斯基（Daniel Skovronsky）表示，调节睡眠的药物吸引力之一在于，其受益范围可能与 GLP-1 一样广。利拉还在无症状患者中测试阿尔茨海默病药物 donanemab，看看早期治疗是否能延缓，甚至阻止疾病的发展。"
             },
             {
               "id": "p009",
               "en": "The model comes with plenty of challenges, Mr Ricks admits. Today’s health-care systems, he says, are designed to treat illness, not prevent it. Then there is the thorny question of who pays. The costs of preventive medicines are immediate, but the savings may not emerge for years, making them difficult for insurers to value and reimburse. Prevention also risks over-diagnosis and over-treatment, raising difficult questions about who should receive medicines, and when.",
-              "zh": ""
+              "zh": "这一模式并非没有困难，里克斯承认。今天的医疗体系是为了治疗疾病而设计，而非预防疾病。除此之外，还存在难题：谁来付费？预防性药物的成本是即时发生的，但节省支出可能多年后才体现，这让保险公司难以准确评估其价值并予以报销。预防还可能带来过度诊断与过度治疗，进而引发谁应当用药、何时用药这两个尖锐问题。"
             },
             {
               "id": "p010",
               "en": "A business built on prevention has to stay much closer to patients than pharma traditionally has. It must persuade people to start treatment earlier, make medicines easy to obtain and keep them on therapy for years. That is why Mr Ricks increasingly talks about Lilly less as a drugmaker and more as a technology company, emphasising a frictionless customer experience and the creation of platforms.",
-              "zh": ""
+              "zh": "一个建立在预防上的商业模式必须比传统制药更贴近患者。它要求企业说服人们更早开始治疗、让药物获取更方便，并帮助患者连续用药多年。这也是为什么里克斯越来越多地把利拉描述为一家技术公司而不单是制药企业，强调无摩擦的客户体验和平台化建设。"
             },
             {
               "id": "p011",
               "en": "Health-care transactions are among the “most miserable, difficult things” people experience, Mr Ricks says. Patients struggle to understand prices and navigate a fragmented system, particularly in America, leaving them with little control over their care. Mr Ricks argues that buying a medicine should be as simple as knowing the price and getting it easily. LillyDirect, the company’s online pharmacy, is one attempt to make that happen by building a more direct relationship with consumers. Today more than half of new patients starting on its GLP-1s come through online channels including LillyDirect.",
-              "zh": ""
+              "zh": "里克斯说，医疗交易是人们经历过的“最痛苦、最复杂的事情”之一。患者常常难以理解价格，也难以在碎片化体系中寻路，尤其在美国，结果对自身治疗缺乏控制权。里克斯认为，买药应像知道价格并轻松拿到药一样简单。利拉直销平台 LillyDirect 就是试图实现这一点的举措之一，它通过与消费者建立更直接的关系提供更顺畅的就医体验。如今超过一半的新患者在开始使用其 GLP-1 药物时，都是通过在线渠道（包括 LillyDirect）完成的。"
             },
             {
               "id": "p012",
               "en": "Then there is drugmaking itself. Discovering and launching a drug typically takes more than a decade, costs upwards of $2.5bn and largely starts from scratch each time. Lilly seeks to change that. Mr Ricks describes GLP-1s not as a product but as a platform—a common foundation on which multiple medicines can be built by adding other hormones. The manufacturing crossovers are just as important. Other drugs, particularly injectables, can “ride on the same rails” as GLP-1s, sharing much of the same manufacturing network, helping to lower costs.",
-              "zh": ""
+              "zh": "再来看制药本身。研发并推出一种药物通常需要十多年，成本超过25亿美元，并且每次都几乎要从零开始。利拉希望改变这一点。里克斯把 GLP-1 视为产品线之外的平台——一个通用基础，未来可在其上叠加其他激素开发多种药物。生产端的交叉兼容同样重要。其他药物，尤其是注射剂型，也可以“搭乘同一道轨道”与 GLP-1 共用大量同类生产网络，从而降低成本。"
             },
             {
               "id": "p013",
               "en": "Mr Ricks is not entirely besotted with Silicon Valley. He warns against “enshittification”, the tendency of platforms to serve themselves rather than their users. In health care, he says, that is a risk the industry cannot afford.",
-              "zh": ""
+              "zh": "里克斯并不完全迷恋硅谷。他警惕所谓“enshittification”，即平台逐渐服务于自身利益而非用户利益的倾向。他表示，在医疗领域，这种风险是行业无法承受的。"
             },
             {
               "id": "p014",
               "en": "Nor is he as optimistic as some about artificial intelligence. Sir Demis Hassabis, head of Google DeepMind, has spoken of the technology’s potential to “cure all disease” within a decade. Anthropic, an AI lab, has launched an initiative to discover drugs using its models. Lilly, for its part, has teamed up with Nvidia, a chipmaker, to build what they describe as the industry’s most powerful AI supercomputer, which will be used to train biomedical models. It has also begun sharing AI models trained on its proprietary data with selected biotech companies in exchange for them feeding data back in. But Mr Ricks cautions that today’s models do not understand biology. Until AI can reason about the underlying rules of the body, its role in drug discovery will remain limited. “It’s going to be a long and difficult ride.” The nearer-term gains from AI, he argues, lie in making the wider health-care system, with its endless paperwork, less byzantine.",
-              "zh": ""
+              "zh": "他也没有像某些人那样过度乐观看待人工智能。谷歌 DeepMind 的 Demis Hassabis 爵士曾称该技术十年内可能“治愈所有疾病”。AI 实验室 Anthropic 已发起用其模型来发现药物的计划。利拉方面与芯片公司英伟达（Nvidia）合作，打造他们称之为行业最强的 AI 超级计算机，用于训练生物医学模型。利拉还与部分生物科技公司共享基于自有数据训练的 AI 模型，以换取这些公司回传数据。不过里克斯提醒，现有模型并不真正理解生物学。直到 AI 能推理人体底层规律之前，其在药物发现中的作用仍会受限。正如他所说，“这是一场漫长而艰难的历程”。他认为，AI 的短期收益更多在于让充满文书工作的医疗体系变得没那么复杂。"
             },
             {
               "id": "p015",
               "en": "Mr Ricks has adopted one other convention from Silicon Valley. Unlike most pharma bosses, who shy away from the limelight, he has become a familiar presence on podcasts and at public forums, where he discusses the future of health care as much as Lilly itself. Partly, he says, that reflects his company’s position at the top of the industry. But he also thinks big pharma can do a better job of explaining itself. By having a public presence he hopes to make the industry, and its role in society, a little easier to understand. ■",
-              "zh": ""
+              "zh": "里克斯还从硅谷借鉴了另一种惯例。与大多数不善于公开露面的制药高管不同，他越来越常出现在播客和公开论坛，讨论的不仅是利拉，也包括医疗保健的未来。部分原因在于他认为公司在行业中的领先地位让自己肩负起更高责任；但他更希望大型制药企业能更好地解释自身。通过公开露面，他期望让这个行业，以及其在社会中的角色，变得更容易被理解。■"
             },
             {
               "id": "p016",
               "en": "To track the trends shaping commerce, industry and technology, sign up to “The Bottom Line”, our weekly subscriber-only newsletter on global business.",
-              "zh": ""
+              "zh": "想了解正在塑造商业、产业和技术趋势的动态，请订阅《The Bottom Line》——我们每周发布、仅限订阅者阅读的全球商业通讯。"
             }
-          ]
+          ],
+          "translated_at": "2026-07-21T17:04:30+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "051-demis-hassabis-has-a-plan-to-harness-ai-safely",
@@ -4050,64 +4259,71 @@
           "order": 51,
           "section": "Business",
           "title_en": "Demis Hassabis has a plan to harness AI safely",
-          "title_zh": "",
+          "title_zh": "Demis Hassabis 制定了安全驾驭人工智能的方案",
           "rubric_en": "The Google DeepMind co-founder sets out his vision in an exclusive interview",
-          "rubric_zh": "",
+          "rubric_zh": "谷歌 DeepMind 联合创始人专访中阐述了他的愿景",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "THE WORLD’S artificial-intelligence superpowers are beginning to throw their weight around. The American government’s short-lived decision to withhold foreigners’ access to Fable, a whizzy AI model from Anthropic, reflected not just a desire for control over the technology but also fear of the dangers it could pose in the wrong hands. Now China is said to be considering curbing overseas access to its most advanced models. Yet for AI to be harnessed safely, the industry needs a plan that is coherent and predictable. Sir Demis Hassabis, the co-founder of Google DeepMind, thinks he has one.",
-              "zh": ""
+              "zh": "世界范围的人工智能“超级大国”正在开始显露其影响力。美国政府短暂决定限制外国用户使用 Anthropic 的高性能 AI 模型 Fable，不仅反映了对这项技术的控制欲，也反映了对其落入错误手中可能带来危险的担忧。如今，据称中国也在考虑限制海外对其最先进模型的访问。然而，要让人工智能安全可控地发挥作用，行业需要一个连贯且可预期的方案。谷歌 DeepMind 的联合创始人 Demis Hassabis 爵士认为，他已经想出了一个。"
             },
             {
               "id": "p002",
               "en": "Sir Demis has sketched out proposals for AI regulation in the past. His latest attempt—published online on July 14th and elaborated in an interview with The Economist—is more concrete. The American government, he says, should develop a system for testing the safety of new AI models before they are released. “It’s important that it’s not just an industry body,” he adds. But a regular government agency wouldn’t do either. “It would not be able to move fast enough, or have the right resources.” Instead, Sir Demis suggests taking inspiration from FINRA, the Financial Industry Regulatory Authority, a private agency in America that regulates brokers and stock markets.",
-              "zh": ""
+              "zh": "Hassabis 爵士过去也提出过人工智能监管方案。他的最新提议—于 7 月 14 日在线发布，并在《经济学人》的一次专访中进一步展开—更具操作性。他说，美国政府应该建立一套在新型人工智能模型发布前测试其安全性的制度。“重要的是，这不能只是一个行业机构。”他补充道。但一个常规政府机构也做不到这一点。“它既不能足够快地行动，也缺乏合适的资源。”因此，Hassabis 爵士建议借鉴美国金融业监管机构 FINRA 的做法，FINRA 是一家监管经纪人与证券市场的民间机构。"
             },
             {
               "id": "p003",
               "en": "It is a pragmatic proposal. Gone are the optimistic hopes, still held by some of his peers, of first establishing international consensus: America, he says, must lead the way. Agreement is not required because other countries will fall in line in order to maintain access to American technology and the vast American market. One day that could even extend to China, helping to avert a race to the bottom on safety. Although Sir Demis thinks the scheme should initially be voluntary for model-makers, his expectation is that it will end up mandatory. FINRA, by way of example, has hard enforcement powers delegated to it by the state.",
-              "zh": ""
+              "zh": "这是一个务实的方案。许多同行仍抱有乐观期待，认为应先建立国际共识，但他认为美国必须走在前列。无需先达成一致，因为其他国家会为了维持对美国技术和美国巨大市场的访问而跟进。将来这种情况甚至可能扩展到中国，从而帮助避免安全标准的逐底竞争。虽然 Hassabis 爵士认为该机制起初应对模型开发者采取自愿形式，但他预计最终会变成强制性安排。以 FINRA 为例，它的严格执法权力就是由州政府委托下放的。"
             },
             {
               "id": "p004",
               "en": "Sir Demis’s approach differs from that suggested by Sam Altman, the boss of OpenAI, who wrote an op-ed in the Financial Times earlier this month. Both men agree that the work of the new oversight body would be to establish standards, analyse risks and ensure that only countries that have joined the cause gain access to cutting-edge AI. Mr Altman, however, has called for an international effort, albeit one co-ordinated by America. Both proposals were presented to world leaders at a recent G7 summit in France.",
-              "zh": ""
+              "zh": "Hassabis 爵士的做法不同于 OpenAI 负责人 Sam Altman 近期在《金融时报》撰写观点文章时提出的方案。两人都认同，新监管机构的工作应是制定标准、分析风险，并确保只有加入这一行动的国家才能获得前沿人工智能的访问权限。然而，Altman 倡导的是国际化的努力，尽管仍由美国协调。两种方案都在最近于法国举行的 G7 峰会期间提交给了各国领导人。"
             },
             {
               "id": "p005",
               "en": "Sir Demis’s new proposal is the most detailed to have arrived from an AI bigwig. So far the industry’s senior figures have been more comfortable calling for rules in the abstract than designing regulatory agencies from scratch. Sir Demis, by contrast, has considered many of the practical details. He says the new agency should be funded by the industry, and that much of its immediate attention would be directed towards recruiting a talented team (existing AI-safety bodies, such as those in America and Britain, could offer support in the short term).",
-              "zh": ""
+              "zh": "Hassabis 爵士的这项新提案，是目前来自一位人工智能巨头的最为详细方案。迄今为止，行业高层人物更愿意抽象地呼吁立法规则，而不是从零开始设计监管机构。相比之下，Hassabis 先生则考虑了许多实际细节。他表示，新机构应由行业出资，且其大量短期精力将放在招募一支高质量团队上（美国和英国现有的一些人工智能安全机构在短期内可提供支持）。"
             },
             {
               "id": "p006",
               "en": "Sir Demis suggests that the new agency should focus on the labs making the most capable AI models (which includes his own). Earlier proposals from America and the European Union looked to the amount of computing power used to train a model as a rough guide for when oversight was required. Sir Demis instead suggests designating AI models as “frontier” if they meet certain thresholds across a selected set of benchmarks. The creators of those models would then be designated as “frontier labs”, placing extra responsibilities on them. Sir Demis is proud of the “elegant” way that approach sidesteps the question of whether academic or open-source models should be included or not. What matters is their capabilities.",
-              "zh": ""
+              "zh": "Hassabis 建议新机构应关注那些开发最强大人工智能模型的实验室（其中包括他自己的实验室）。美国和欧盟早期的提案曾以训练模型所消耗的算力作为大致依据来判断是否需要监管。Hassabis 则建议，通过一组筛选基准为模型设置“边界模型”条件，只要达到某些门槛即可。那些模型的开发者随后被定为“frontier实验室”，从而承担额外责任。Hassabis 为这种处理方式的“优雅”感到自豪，因为它巧妙地绕开了是否应将学术模型或开源模型纳入的争论。关键在于模型能力本身。"
             },
             {
               "id": "p007",
               "en": "Selecting the right benchmarks would be an important function of the new agency. Existing tests of AI models focus largely on commercial capabilities, including software coding and general knowledge. Some organisations have gone further: Britain’s AI Security Institute, for example, has developed a well-regarded test for hacking capabilities which simulates breaking into a power station. But other characteristics, such as how willing a model is to ignore a user’s instructions or pretend to be less capable than it is, are rarely examined in a systematic way that could be used to set a safety threshold.",
-              "zh": ""
+              "zh": "选择合适的评测基准将是新机构的重要职能。现有的人工智能模型测试主要侧重于商业能力，比如软件编码和常识知识。一些机构走得更远：例如，英国 AI 安全研究所（AI Security Institute）开发了一个颇受认可的黑客能力测试，模拟入侵电站的情形。但其他特征，如模型愿不愿意无视用户指令，或故意装作比实际更不擅长，通常很少被系统性地考察，难以用于建立安全门槛。"
             },
             {
               "id": "p008",
               "en": "Securing support from within the increasingly fractious AI community will not be easy, though the areas in common with Mr Altman’s proposal suggest it is not impossible. The American government also appears to have been listening, and is said to be close to unveiling its preferred approach. Then will come the hard part. “No proposal would be immune to being executed poorly,” Sir Demis admits. “There are obviously versions of this that could be not very useful.”",
-              "zh": ""
+              "zh": "在日益分裂的人工智能社区内部赢得支持并不容易，不过与 Altman 提案的重合点表明这并非不可能。美国政府似乎也在认真倾听，据说已接近发布其偏好的方案。接下来就会是困难部分。“任何方案都可能执行不当，”Hassabis 承认。“显然，某些版本可能并不太有用。”"
             },
             {
               "id": "p009",
               "en": "Yet the Nobel laureate argues that urgent action is required. “Time is short, the hour is late,” he says. “We’ve seen the cyber threat; there’s much more serious threats coming down the line. Something has to be done: this is the time.” ■",
-              "zh": ""
+              "zh": "尽管如此，这位诺贝尔奖得主认为，当前必须采取紧急行动。“时间很短，时机不等人，”他说。“我们已经见识过网络安全威胁；更严重的威胁正在陆续到来。必须有所作为：现在就是时候。” ■"
             },
             {
               "id": "p010",
               "en": "To track the trends shaping commerce, industry and technology, sign up to “The Bottom Line”, our weekly subscriber-only newsletter on global business.",
-              "zh": ""
+              "zh": "想了解正在塑造商业、产业和科技的趋势，请订阅《The Bottom Line》，这是我们每周仅对订阅者开放的全球商业通讯。"
             }
-          ]
+          ],
+          "translated_at": "2026-07-21T17:04:45+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "052-how-high-can-red-bull-fly",
@@ -4117,69 +4333,76 @@
           "order": 52,
           "section": "Business",
           "title_en": "How high can Red Bull fly?",
-          "title_zh": "",
+          "title_zh": "红牛还能飞得更高吗？",
           "rubric_en": "The world’s most formidable marketing machine faces growing threats",
-          "rubric_zh": "",
+          "rubric_zh": "世界上最强大的营销机器正面临日益增多的威胁",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "CAn Red Bull give die Mannschaft wiiings? After Germany was bundled out of the World Cup on June 29th the national football federation turned to Jürgen Klopp to take charge of the team. The celebrated coach—who has agreed in principle to take the job—is currently the Austrian company’s “global head of soccer”, overseeing eight clubs around the world.",
-              "zh": ""
+              "zh": "红牛能给“德意志国家队”长出翅膀吗？在德国队于6月29日出局于世界杯之后，德国足球联合会转而请约翰内斯·克洛普接任球队主教练。这位备受赞誉的教练已原则性同意接掌大权，目前担任奥地利红牛公司的“足球全球负责人”，负责管理其在世界范围内的八家俱乐部。"
             },
             {
               "id": "p002",
               "en": "Over the decades the world’s leading maker of energy drinks has come to play an outsize role in all manner of sports, from football to Formula One. It is a marketing strategy that Dietrich Mateschitz, Red Bull’s founder, pursued with gusto. Mateschitz adapted his drink in the 1980s from Krating Daeng, a Thai energy tonic. (The Yoovidhya family, its creator’s heirs, own 51% of Red Bull.) The Austrian proved to have a rare talent for marketing. “Red Bull verleiht Flüüügel” (”Red Bull gives you wiiings”) was his idea. So was sponsoring Felix Baumgartner, an Austrian skydiver who in 2012 jumped to Earth from a helium balloon in the stratosphere.",
-              "zh": ""
+              "zh": "数十年来，世界最大的能量饮料制造商已在多种体育项目中发挥了巨大影响，从足球到一级方程式赛车皆如此。这是其创始人迪特里希·马特施奇茨推动的一项炽热营销战略。马特施奇茨在20世纪80年代将红牛改良自泰国能量补剂克拉廷达英（Krating Daeng）。（它的创始家族优维德亚（Yoovidhya）仍持有红牛51%的股权。）这位奥地利人展现出罕见的营销天赋。“Red Bull verleiht Flüüügel”（“红牛给你翅膀”）就是他的主意。赞助奥地利跳伞员菲利克斯·鲍姆加特纳并组织其2012年从氦气气球中跳入平流层再返回地球，也是出于同样的思路。"
             },
             {
               "id": "p003",
               "en": "When Mateschitz died in 2022, some thought Red Bull would fall as quickly as it had risen. He had no clear successor: a three-man board, all of whom keep a low profile, took over management. (Mateschitz’s son Mark inherited his 49% stake, but has no operative role.)",
-              "zh": ""
+              "zh": "马特施奇茨于2022年去世后，不少人认为红牛会像它崛起一样迅速失势。他没有明确指定继承人；一个三人管理小组接管了运营，该小组成员都保持低调。 （马特施奇茨的儿子马克继承了他49%的股份，但并不参与经营。）"
             },
             {
               "id": "p004",
               "en": "Yet Red Bull has continued to fly. Last year it sold 14bn cans, up by 10% from 2024. It has 28% of the global market, well ahead of Monster, its main rival, with 17%. It has stayed aloft mainly by sticking to Mateschitz’s strategy. Even so, threats from regulators and new competitors loom.",
-              "zh": ""
+              "zh": "然而，红牛依然在高空飞行。去年其销量达到140亿罐，同比增长10%，高于2024年水平。其全球市场份额为28%，远超主要竞争对手怪兽（Monster）的17%。红牛之所以能维持领先，主要是因为坚持了马特施奇茨的策略。尽管如此，监管者和新竞争对手带来的威胁正悄然逼近。"
             },
             {
               "id": "p005",
               "en": "The triumvirate that now runs Red Bull has kept to the pricier end of the market. A standard 250ml can costs around $2.40 at Walmart, America’s biggest supermarket. The company still outsources manufacturing to long-term business partners: Rauch Fruchtsäfte, another Austrian firm, mixes and cans the drinks; America’s Ball Corporation supplies the aluminium cans. This has helped Red Bull stay debt-free.",
-              "zh": ""
+              "zh": "如今管理红牛的三位人物仍将定位放在较高价位。标准的250毫升罐装饮品在美国最大连锁超市沃尔玛售价约为2.40美元。公司仍将制造环节外包给长期合作伙伴：另一家奥地利公司Rauch Fruchtsäfte负责调配与罐装，而美国Ball Corporation提供铝罐。这一模式帮助红牛保持了无负债状态。"
             },
             {
               "id": "p006",
               "en": "Red Bull continues to spend around 30% of sales on marketing—more than €3bn ($3.4bn) last year. Coca-Cola, the world leader in soft drinks, spends around 10% and Monster 7.5%. It eschews conventional advertising, instead making its own content through Red Bull Media House, Austria’s biggest media company after ORF, the state broadcaster. It encompasses a TV network, film and TV studios, a record label and several magazines.",
-              "zh": ""
+              "zh": "红牛每年仍将约30%的销售额用于市场营销，去年的支出超过30亿欧元（34亿美元）。而世界软饮料龙头可口可乐的这一比例约为10%，怪兽仅为7.5%。它不采用传统广告，而是依靠红牛媒体集团（Red Bull Media House）制作自己的内容。该集团是奥地利仅次于国家广播公司ORF的第二大媒体企业，旗下包括电视网络、影视制作室、唱片公司以及数本杂志。"
             },
             {
               "id": "p007",
               "en": "Not everybody is a fan. Some criticise its sponsorship of extreme sports. Almost two dozen athletes have died while performing its stunts. Last year the European Commission began investigating whether Red Bull had broken EU competition rules by using its dominant position to press retailers to stop selling rivals’ wares or to place them unfavourably.",
-              "zh": ""
+              "zh": "并非所有人都认可红牛。有人批评其极限运动赞助。几乎有两个多打运动员在其表演的特技中丧生。去年，欧盟委员会开始调查红牛是否违反欧盟竞争规则，是否利用其市场主导地位要求零售商停止销售竞争对手产品，或将其商品放在不利位置。"
             },
             {
               "id": "p008",
               "en": "Another line of criticism concerns the side-effects of its signature product, which contains caffeine, taurine and sugar. The company says that “health authorities around the world have concluded that Red Bull is safe to consume,” and points out that a 250ml can contains the same amount of caffeine as a cup of home-brewed coffee. But studies show that, even in moderate amounts, it is harmful for children, as it increases heart rate and blood pressure. The American Academy of Paediatrics and the Food and Drug Administration recommend that children should avoid energy drinks. Latvia, Lithuania and Poland are among the countries that ban their sale to under-18s. Britain is mulling doing so for under-16s. For its part, Red Bull notes that energy drinks “are not recommended for children”, and that it does not market its products to them.",
-              "zh": ""
+              "zh": "另一类争议指向其招牌产品的副作用。该饮品含有咖啡因、牛磺酸和糖。公司表示“世界各国卫生机构已认定红牛安全可饮”，并指出一罐250毫升含有与一杯自制咖啡相当的咖啡因含量。但研究显示，即便适量饮用，对儿童也有害，因为它会提高心率和血压。美国儿科学会（American Academy of Paediatrics）和美国食品药品监督管理局（FDA）都建议儿童避免饮用能量饮料。拉脱维亚、立陶宛和波兰已将其列为禁止向18岁以下销售的国家之一。英国正在研究是否对16岁以下人群实行同类限制。红牛方面则表示，能量饮料“不建议儿童饮用”，且公司并不向儿童做产品营销。"
             },
             {
               "id": "p009",
               "en": "New competitors are eager to position themselves as a healthier alternative. Celsius, an American brand, contains no added sugar and far fewer calories than Red Bull (but more than twice the caffeine). Known to some as “Red Bull for women”, it has become the number three energy drink in America, after Red Bull and Monster.",
-              "zh": ""
+              "zh": "新竞争者正积极把自己定位为更健康的替代品。美国品牌Celsius不添加糖，热量远低于红牛（但咖啡因含量却是红牛的两倍以上）。该品牌被一些人称作“女性版红牛”，目前已成为美国第三大能量饮料品牌，仅次于红牛和怪兽。"
             },
             {
               "id": "p010",
               "en": "For now, Red Bull remains on top. When Mateschitz originally adapted Krating Daeng to European palates, experts told him that no one would want it. He ignored them, charged a premium price for the concoction and built a market for it based largely on its adventurous image. You might call it gravity-defying. ■",
-              "zh": ""
+              "zh": "目前红牛仍居榜首。马特施奇茨最初将克拉廷达英改良为符合欧洲人口味时，专家曾对他说没有人会买账。他无视这些意见，给这款配方定了高价，并几乎完全凭借其冒险形象创建了市场。你可以把它称为“逆重力”。"
             },
             {
               "id": "p011",
               "en": "To track the trends shaping commerce, industry and technology, sign up to “The Bottom Line”, our weekly subscriber-only newsletter on global business.",
-              "zh": ""
+              "zh": "想跟踪正在塑造商业、产业和技术的趋势，请订阅我们每周仅面向订阅者的《The Bottom Line》通讯。"
             }
-          ]
+          ],
+          "translated_at": "2026-07-21T17:04:58+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "053-how-to-sell-a-kettle",
@@ -4189,69 +4412,76 @@
           "order": 53,
           "section": "Business",
           "title_en": "How to sell a kettle",
-          "title_zh": "",
+          "title_zh": "如何销售一只水壶",
           "rubric_en": "Brand positioning reaches boiling point",
-          "rubric_zh": "",
+          "rubric_zh": "品牌定位来到沸点",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "You asked me to develop ideas for a new brand strategy. As a reminder, this is the messaging that we use at the moment: “If you want to boil water, you need a kettle. If you need a kettle, you want the Brewmaster. The fast, reliable and affordable way to make the perfect drink.” The positioning is practical, price-conscious and successful. But it is also unexciting. If we want to grow, we need to take a higher share of mind with a different sort of consumer.",
-              "zh": ""
+              "zh": "你让我为一个新品牌战略提供想法。先提醒你一下，目前我们使用的这套表述是： “如果你想把水煮沸，就需要一把水壶。如果你需要水壶，你就会选择 Brewmaster。快速、可靠且价格实惠的完美饮品制作方式。” 这个定位务实、注重价格，而且很成功。但它也缺乏惊喜感。如果我们想要增长，就需要用不同类型的消费者来占据更高的心智占有率。"
             },
             {
               "id": "p002",
               "en": "I have put some sample copy for each positioning strategy below, and taken the liberty of adapting the product name and stressing planned new features where that feels appropriate. I look forward to hearing your comments when we meet in a couple of weeks.",
-              "zh": ""
+              "zh": "我在每种定位策略下面都给出了一些示例文案，并在合适的时候擅自调整了产品名称，同时强调了计划中的新功能。我们几周后见面时，期待听到你的反馈。"
             },
             {
               "id": "p003",
               "en": "Luxury. Water is the wellspring of life, the faint promise of evolution, the pulsing aquifer of quintessence. Water is the bringer of dreams, fragile and precious. Water is the mark of organisms taking shape, of mighty civilisations marching through the centuries, of the search for habitable planets in distant galaxies. And here on Earth, water is the source of profound moments of human connection. The Eau Chaud is an idea more than it is an object. You never own a kettle. You merely look after it until the next conversation.",
-              "zh": ""
+              "zh": "奢华。水是生命的源泉，是演化的微光，是精华的脉动脉搏。水是梦想的使者，脆弱而珍贵。水是生物成形的印记，是伟大文明跨越世纪的轨迹，是在遥远星系中寻找适居星球的征途。而在地球上，水更是人类深刻联结时刻的源头。Eau Chaud 更多是一个理念，而不只是一件物品。你并不真正拥有一把水壶，只是在下一次对话到来之前照顾它。"
             },
             {
               "id": "p004",
               "en": "Premium, design-led. You would know it by its silhouette alone. The unmistakable spout-and-handle shape of the Kettöl adds lustre to every kitchen. Its muted tones ensure that it blends with every aesthetic choice. The mid-century-inspired design features a classic plug and cable, which connects to a perfectly rounded base station. Brushed steel surrounds a transparent water indicator with stylised pictures of cups, so you always know how full the Kettöl is. A warm blue light tells you that the kettle is on, as does the gently immersive sound of boiling. Once the kettle has boiled, it can be lifted from the base station by using a laminated blond-wood handle and taken directly to your waiting cups. And so on.",
-              "zh": ""
+              "zh": "高端、以设计为先。只看它的轮廓就能认出来。Kettöl 独特的壶嘴与把手轮廓为每个厨房都增添了光泽。它的低饱和色调确保可以与任何审美风格和谐共处。受到中世纪风格启发的设计采用经典的插头和线缆，连接到一个圆润的底座。拉丝钢包围着一个透明水位指示窗，上面有杯子造型的图案，让你始终清楚 Kettöl 里的水位。温暖的蓝色指示灯会告诉你水壶正在加热，轻柔而沉浸的沸腾声也会提示你这一点。待水沸腾后，你可以用覆膜的淡木色木柄把它从底座提起，直接拿去放在等候中的杯子里。诸如此类。"
             },
             {
               "id": "p005",
               "en": "For early adopters. The KetGPT takes the kettle into the agentic era. At the front door and fancy a cup of tea? Just woken up and desperate for your first coffee? Get out your phone, fire up the KetGPT app, enter your login details and tell your kettle to start boiling. That’s not all. You can ask your kettle how the boiling process is going in text or voice mode, and it will reply. It will even send a notification to your phone when the boiling process is complete. You set the task. The KetGPT will take it from there, entirely autonomously. (Token costs not included.)",
-              "zh": ""
+              "zh": "面向早期采用者。KetGPT 将水壶带入了“智能体时代”。在门口想喝杯茶？刚起床就急着喝第一杯咖啡？拿出你的手机，打开 KetGPT 应用，输入登录信息，并告诉你的水壶开始烧水。事情不止于此。你可以用文字或语音模式问它沸腾进度如何，它会回复。它甚至会在烧水完成时向你的手机发送通知。你只需下达任务，KetGPT 就会全权自动接手。（不含 Token 费用。）"
             },
             {
               "id": "p006",
               "en": "Environmental. Introducing the Keco—for people who care. Our latest kettle is designed to retain heat, meaning that water is still tepid four hours after it has boiled. It runs on electricity. It can be recycled. A kettle should warm water, not the planet. (No children are involved in manufacturing of the Keco.)",
-              "zh": ""
+              "zh": "环保。推出 Keco——为在乎的人打造。我们最新的水壶采用保温设计，意味着它在沸腾四小时后，水仍然是温热状态。它使用电力驱动，可以回收再利用。水壶应该温暖水，不该加热地球。（Keco 的生产过程中未涉及任何儿童。）"
             },
             {
               "id": "p007",
               "en": "Gen Z. Enjoy some coastal grandma and eclectic grandpa core with the new Vintage kettle. For content creators who crave cosy-cottage vibes. [If we go down this route, I will really need some help. I talked to a few young people and they suggested these words, but none of it makes any sense.]",
-              "zh": ""
+              "zh": "Z 世代。享受这款 Vintage 水壶带来的“海边奶奶范”和“折衷爷爷核心”，适合想要温馨度假小屋氛围的内容创作者。[如果我们走这条路线，我真的需要很多帮助。我和几个年轻人聊过，他们给了这些词，但我觉得每一个都听不太懂。]"
             },
             {
               "id": "p008",
               "en": "Heritage. The Stove Top has been warming water and hearts for well over 100 years. Still today, its comforting digital whistle marks the end of every boil, the start of every pour. Each Stove Top is assembled and put into its box by employees who have spent their lives around kettles. Our master kettlers live in an industrial heartland and some of them wear overalls. Anyone can make a hot drink. Only the Stove Top can make you feel part of history.",
-              "zh": ""
+              "zh": "传承。Stove Top 已经温暖了超过 100 年的水与人心。直到今天，它安抚人心的数字口哨声都标志着每一轮沸腾结束、每一次倒水开始。每一台 Stove Top 都由与水壶打交道了大半辈子的员工装配并装盒。我们的资深“熬壶师”生活在工业重镇，其中一些人还穿着工装。任何人都能煮出一杯热饮，只有 Stove Top 能让你感到自己是历史的一部分。"
             },
             {
               "id": "p009",
               "en": "Wellness. The Kato is a central part of your health and fitness regime. Its water-heating technology fits seamlessly into every nutrition plan, from turmeric lattes and bone broths to chicory coffees and matcha green teas. Our trained team of advisers is on hand 24 hours a day, seven days a week to answer your queries. Worried about the effect of steam on your breathing? Uncertain what all those flaky bits at the bottom are doing to your microbiome? The Kato is with you every step of the way on your journey to becoming a better you. (Comes with a small wearable sensor that tells you whether you are still alive.)",
-              "zh": ""
+              "zh": "健康。Kato 是你健康与健身计划中的核心一环。它的加热技术可无缝融入任何营养方案，从姜黄拿铁、骨头汤到菊苣咖啡和抹茶绿茶。我们受训的顾问团队每周七天、每天 24 小时都在线，随时解答你的问题。担心蒸汽对呼吸的影响？不确定底部那些片状物在微生物群上到底在做什么？Kato 会在你追求更好自己的每一步陪伴你。（配有一枚小型可穿戴传感器，帮助你确认自己是否还活着。）"
             },
             {
               "id": "p010",
               "en": "Populist. If scalding hot water and the risk of a burn do not scare you, buy the Boiler. A kettle for real patriots. Not suitable for herbal teas and other woke beverages. Used by veterans, among others. Made in this country, except for some essential components. ■",
-              "zh": ""
+              "zh": "大众主义。若高温烫水和烫伤风险并不让你退缩，就买 Boiler。这是给真正爱国者的水壶。并不适用于草本茶和其他“觉醒”饮品。该产品被退伍军人等群体所使用。除了一些关键零部件外，全在本国制造。■"
             },
             {
               "id": "p011",
               "en": "Step inside the world of work with our Bartleby newsletter. Each week our white-collar oracle muses on the agonies of office life.",
-              "zh": ""
+              "zh": "走进职场世界，关注我们的 Bartleby 周刊。每周，我们的白领预言家都会思考办公室生活里的种种煎熬。"
             }
-          ]
+          ],
+          "translated_at": "2026-07-21T17:05:12+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "054-how-sk-hynix-became-the-king-of-advanced-memory-chips",
@@ -4261,79 +4491,86 @@
           "order": 54,
           "section": "Business",
           "title_en": "How SK Hynix became the king of advanced memory chips",
-          "title_zh": "",
+          "title_zh": "SK海力士如何成为先进内存芯片的“王者”",
           "rubric_en": "Its advantages will not protect it if demand falters",
-          "rubric_zh": "",
+          "rubric_zh": "其优势在需求放缓时也未必能保住领先地位",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "In the early 2000s a sharp downturn in the market for memory chips pushed Hynix Semiconductor, as it was known at the time, to the brink of collapse. Sales fell by half, and the South Korean company’s market capitalisation sank to just above $500m. A decade of brutal restructuring ensued, during which it narrowly survived an effort by Micron, an American competitor, to buy it for parts. In 2012 the floundering chipmaker was acquired by SK Group, a local conglomerate.",
-              "zh": ""
+              "zh": "在2000年代初，内存芯片市场的急剧下滑几乎将当时名为Hynix Semiconductor的海力士推向崩溃边缘。销售额腰斩，韩国公司的市值一度降到仅略高于5亿美元。此后公司经历了十年的“残酷”重组，期间它几乎被美国竞争对手美光（Micron）以剥离资产的方式收购。2012年，这家举步维艰的芯片制造商被本土财团SK集团收购。"
             },
             {
               "id": "p002",
               "en": "These days things look very different for SK Hynix. In June it briefly dethroned Samsung Electronics as South Korea’s most valuable company. It is now neck-and-neck with its long-time rival in the global market for memory chips, and well ahead in the high-bandwidth memory (HBM) required for artificial intelligence.",
-              "zh": ""
+              "zh": "如今，SK海力士的处境已有天壤之别。6月，它一度超越三星电子，成为韩国市值最高的公司。如今它在全球内存芯片市场与长期竞争对手几乎并驾齐驱，而且在人工智能所需的高带宽内存（HBM）市场中走在更前面。"
             },
             {
               "id": "p003",
               "en": "The AI boom has fuelled a vertiginous rise in SK Hynix’s market capitalisation, which in May passed $1trn. On July 10th the company listed its shares on America’s Nasdaq exchange, raising $26.5bn in the process, a record for a foreign company. Although its share price slumped on the following trading day, with investors wary of the increasingly lofty valuations of chipmakers, it is still up by around 1,000% since the start of 2025. The money raised in the listing, along with the $50bn of cash its operations generated in the 12 months to March, will fund an ambitious expansion (see chart). “We’re going to double our whole capacity in the next five years,” Chey Tae-won, the chairman of SK Group, pledged last month. Appetite for its chips is voracious: sales in its most recent quarter were triple the level a year earlier.",
-              "zh": ""
+              "zh": "AI热潮推高了SK海力士的市值，5月一度突破1万亿美元，几乎是疯狂的上升。7月10日，公司在美国纳斯达克上市，筹资265亿美元，这是外国公司创纪录的一笔。尽管次日其股价下跌，因为投资者担心芯片制造商持续走高的估值，但自2025年初以来，公司股价仍上涨了约1000%。上市筹集的资金，再加上截至3月的12个月内其经营产生的500亿美元现金，将用于一项雄心勃勃的扩产计划（见图表）。SK集团主席郑泰源上个月表示：“我们将在未来五年将全公司产能翻一倍。”市场对其芯片的需求非常旺盛：其最新一季销售额是上一年的三倍。"
             },
             {
               "id": "p004",
               "en": "SK Hynix cannot take credit for the AI boom. But its turnaround is remarkable nonetheless. The chipmaking industry’s intense capital requirements and technological sophistication favour incumbents. Underdogs rarely pull ahead. How has SK Hynix done it?",
-              "zh": ""
+              "zh": "SK海力士无法将AI浪潮的红利全部归于自身，但其转型仍然值得称道。芯片制造业高昂的资本投入门槛和复杂的技术要求天然有利于行业 incumbents，后进者很少能反超。SK海力士是如何做到的？"
             },
             {
               "id": "p005",
               "en": "Part of the explanation lies in its nimbleness. Stuck in the shadow of Samsung, which controlled around 40% of the memory market (against Hynix’s roughly 25%) in the early 2010s, the runner-up started looking for ways to leapfrog the competition. Identifying novel ways to circumvent the physical limits of increasingly tiny chips became a focus, recalls Park Sung-wook, its chief executive in 2013-18. Opportunity struck in 2008 when AMD, an American company that itself played second fiddle to Intel, asked SK Hynix to create a new form of stacked memory chip for a graphics processor. The pair had previously worked together on an earlier graphics-memory chip that had proved a great success. Although the early trial of HBM, launched in 2013, proved too pricey for customers, it demonstrated that stacking memory chips vertically could achieve significantly faster speeds.",
-              "zh": ""
+              "zh": "部分原因在于其反应敏捷。2010年代初，三星在内存市场中占据约40%份额，而Hynix仅约25%，长期受制于三星的阴影，后者才会寻找“超越”竞争对手的路径。其时任首席执行官朴成旭回忆称，识别并突破越来越小芯片的物理极限成为公司的重点方向。2008年，美国AMD向SK海力士发出合作邀请，希望其为一款图形处理器开发一种新型堆叠内存芯片。此前双方曾共同开发过一款早期图形内存芯片，市场反响非常成功。尽管2013年推出的早期HBM试验产品对客户来说过于昂贵，但它证明了通过垂直叠放内存芯片可以实现显著更高的速度。"
             },
             {
               "id": "p006",
               "en": "Missteps from rivals provided an added boost. In 2019 Samsung downsized its HBM team to invest in other types of chips. Engineers who still believed in the technology fled to SK Hynix. A crop of engineers from Intel, which was struggling with product delays, joined the South Korean memory-maker too.",
-              "zh": ""
+              "zh": "竞争对手的失误也给了SK海力士额外助力。2019年，三星缩减HBM团队规模，转而投入其他类型芯片。仍坚定看好该技术的工程师陆续转投SK海力士。英特尔也在遭遇产品延期困境期间，一批工程师加盟了这家韩国内存制造商。"
             },
             {
               "id": "p007",
               "en": "Corporate culture has also played an important part. Samsung is known to reward internal competition through a cut-throat meritocracy. SK Hynix, on the other hand, embraces collaboration. Hyun Sun-yeop, its former human-resources chief, argues that company-wide practices such as frequent one-on-ones let employees speak out and share information, in contrast with Samsung’s more hierarchical and siloed environment.",
-              "zh": ""
+              "zh": "企业文化同样发挥了重要作用。三星以严格功利主义式的“内部竞逐”著称；而SK海力士则更强调协作。其前人力资源负责人玄善曳（Hyun Sun-yeop）表示，公司推行的“一对一”沟通等做法，让员工更容易发声和共享信息，这与三星更强调等级制和部门壁垒的环境形成鲜明对比。"
             },
             {
               "id": "p008",
               "en": "Engineers are also encouraged to tinker, with unsuccessful projects turned into “failure case studies”. That has led to innovations such as “mass reflow-molded underfill”, which packages together stacked chips by filling gaps between them with a moulding liquid, helping to dissipate heat. Such techniques helped SK Hynix beat Samsung to market with HBM3, the fourth generation of the product, in 2022, making it the sole supplier of cutting-edge memory to Nvidia, the king of AI chips.",
-              "zh": ""
+              "zh": "公司也鼓励工程师动手实验，不成功的项目会被转化为“失败案例”。这推动了如“mass reflow-molded underfill（大规模回流模压底填充）”等创新：通过填充两片堆叠芯片之间的空隙，提升散热效果。这些技术帮助SK海力士在2022年先于三星推出HBM3（该产品的第四代），从而成为AI芯片巨头英伟达的唯一前沿内存供应商。"
             },
             {
               "id": "p009",
               "en": "SK Hynix could still falter. It has never faced such a position, as a market leader during a period of relentless expansion. Samsung and Micron are catching up; both are set to supply some HBM for Nvidia’s upcoming Vera Rubin server rack, and Samsung has been regaining its lead in conventional memory. The three businesses, which together dominate the memory market, have all unveiled dizzying investment plans. Last month the two South Korean giants announced over $2trn of investment up to 2040, including in a “mega-cluster” of chip facilities in Yongin, a city near Seoul.",
-              "zh": ""
+              "zh": "SK海力士仍可能出现波动。公司此前从未在持续扩张阶段以市场领先者身份经受考验。三星和美光正在追赶：双方都将向英伟达即将发布的Vera Rubin服务器机柜供应部分HBM，而三星也在传统内存领域重夺领先。三大主导内存市场的企业都已公布了令人目眩的投资计划。上月，这两家韩国巨头宣布了截至2040年的超过2万亿美元投资承诺，其中包括在首尔附近永仁市建设“超级集群”式芯片园区。"
             },
             {
               "id": "p010",
               "en": "Soaring demand and fierce competition increase the risk of over-investment, a regular feature of boom periods in the notoriously cyclical memory market. At the peak of the last cycle, in 2018, SK Hynix’s capital expenditure hit $15bn (or 40% of revenue). Then in 2019 a slowing server market led to a halving of memory prices. The firm’s sales fell by 33% the following year, while steep fixed costs meant operating profits collapsed by 87%.",
-              "zh": ""
+              "zh": "旺盛需求与激烈竞争提升了过度投资的风险，这在以周期性著称的内存市场繁荣期是常见现象。上一轮周期高点发生在2018年，当年SK海力士资本支出达到150亿美元（约占收入40%）。而在2019年，服务器市场放缓使内存价格腰斩。次年公司销售下滑33%，而高昂的固定成本导致营业利润下滑87%。"
             },
             {
               "id": "p011",
               "en": "This time the company has promised to limit capital spending to about a third of revenue (over the past 12 months it has averaged 22%). It also insists that long-term supply agreements, negotiated on more stringent terms than in the past, give it years of visibility on sales. That may help the eventual down-cycle to “not be as violent”, says Jing Jie Yu of Morningstar, a research firm. But even if demand remains high relative to the past, any reduction could arrive just as the new capacity currently being built comes online. Bernstein, a broker, reckons that memory prices, which have risen nearly ten-fold in the past year, will probably peak next year, precipitating a 45% drop in sales at SK Hynix in 2028. Rising Chinese memory-makers such as CXMT and YMTC could add to the excess supply.",
-              "zh": ""
+              "zh": "这一次，SK海力士承诺将资本支出控制在约三分之一收入水平（过去12个月均值为22%）。公司还强调，当前签订的长期供货协议在更严格条款下为其带来了数年的销售可预见性。晨星的研究员余静杰（Jing Jie Yu）认为，这有助于未来下行周期“不至于过于猛烈”。但即便需求仍高于过去，需求回落也可能在新产能陆续投产的阶段出现。伯恩斯坦证券估计，过去一年内存价格几乎上涨十倍，明年或见顶，进而推高2028年SK海力士销售额下降45%。如长江存储（YMTC）和长鑫存储（CXMT）这类中国厂商的崛起，可能进一步推高供应过剩。"
             },
             {
               "id": "p012",
               "en": "SK Hynix also faces growing demands from politicians. It is under pressure from Lee Jae Myung, South Korea’s president, to expand capacity in the country’s less-developed south-west, where SK Hynix recently announced over $260bn-worth of investments to create another chipmaking cluster. Although the region is abundant in water and power, executives are wary of moving too much capacity away from Seoul, where talent and industrial networks concentrate. America, too, is prodding. Howard Lutnick, its commerce secretary, is reportedly in talks with the chipmaker to build more in America. The firm has already committed to a $4bn facility in Indiana. SK Hynix is discovering that success brings challenges of its own. ■",
-              "zh": ""
+              "zh": "SK海力士也面临政治层面的增长压力。韩国总统李在明要求公司在国内西南部欠发达地区扩产，最近SK海力士刚宣布将投资逾2600亿美元，建设另一个芯片制造集群。尽管该地区水电资源充足，管理层仍担心把过多产能外移离开首尔，因为那里集中了人才与产业网络。美国方面也在施压。美国商务部长霍华德·卢特尼克（Howard Lutnick）据报道正在与该公司讨论进一步在美扩产。公司此前已承诺在印第安纳州建设一座40亿美元工厂。SK海力士正逐步体会到：成功也会带来新的挑战。■"
             },
             {
               "id": "p013",
               "en": "To track the trends shaping commerce, industry and technology, sign up to “The Bottom Line”, our weekly subscriber-only newsletter on global business.",
-              "zh": ""
+              "zh": "想追踪塑造商业、产业与技术格局的趋势，请订阅《底线》（The Bottom Line）——我们的每周会员专属全球商业通讯。"
             }
-          ]
+          ],
+          "translated_at": "2026-07-21T17:05:28+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "055-meet-the-committee-to-buy-europe",
@@ -4343,69 +4580,76 @@
           "order": 55,
           "section": "Business",
           "title_en": "Meet the committee to buy Europe",
-          "title_zh": "",
+          "title_zh": "认识“收购欧洲委员会”",
           "rubric_en": "The continent’s dealmakers deserve much more attention",
-          "rubric_zh": "",
+          "rubric_zh": "欧洲的交易推动者值得得到更多关注",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "Europe wants bigger firms. Its apparatchiks say so every time they talk about integration and competitiveness. “The leaders want true European champions,” announced António Costa, the Portuguese head of the European Council, in February. “We limited consolidation, constrained risk and postponed cross-border investments,” complained Mario Draghi, an Italian banker who wrote a door-stopper of a report on the topic, in a speech in May.",
-              "zh": ""
+              "zh": "欧洲需要更大的企业。每当他们谈到一体化和竞争力时，体制内人士都会这样说。“各国领导人希望孕育真正的欧洲冠军，”葡萄牙籍欧洲理事会主席安东尼奥·科斯塔在二月宣布。 “我们对并购的限制过多、风险受到压制，以及跨境投资被拖延了，”写过一份内容分量极重的相关报告、并在五月发表演讲的意大利银行家马里奥·德拉基抱怨道。"
             },
             {
               "id": "p002",
               "en": "Ideally these “champions” would be born loyal to the European project: golden geese reared under Brussels’ proposed “EU Inc” incorporation rules. In practice they must be forged by mergers. Big pan-European deals require big pan-European dealmakers. Can the continent produce such figures? Can it stand them? Consider the recent fortunes of the three busiest: Andrea Orcel, an Italian investment banker, Xavier Niel, a French telecoms entrepreneur, and Daniel Kretinsky, a Czech corporate raider. Call them the committee to buy Europe.",
-              "zh": ""
+              "zh": "理想情况下，这些“冠军”应当天生忠于欧洲项目：像“欧盟公司”规则下饲养出来的“金蛋鹅”。现实中，它们只能通过并购炼成。大规模的泛欧洲交易需要大规模的泛欧洲交易高手。这个大陆能培养出这类人物吗？它能容纳这些人物吗？看看三位最忙的人物：安德里亚·奥塞尔，这位意大利投资银行家；谢维尔·尼尔，这位法国电信企业家；以及丹尼尔·克雷季斯基，这位捷克企业掠夺者。把他们称作“收购欧洲委员会”也许并不过分。"
             },
             {
               "id": "p003",
               "en": "Mr Orcel is the boss of UniCredit, Italy’s most outward-looking bank and its second-largest by assets. He made his name as a hard-charging adviser on big bank tie-ups in the 2000s. Now he is slowly consummating one of his own. In September 2024, when Mr Draghi’s report was released, UniCredit disclosed its initial stake in Commerzbank, a German lender. Since then Mr Orcel has been portrayed as an invader—by the top brass at Commerzbank (“not good form”); by two successive German chancellors (UniCredit is “destroying” trust, Friedrich Merz said in May); and by the German bankers’ union (“the potential for chaos is growing”).",
-              "zh": ""
+              "zh": "奥塞尔先生是意大利最具对外姿态、资产规模全国第二的UniCredit首席执行官。他在二十世纪末到二十一世纪初，以一位在大型银行并购交易中以强势见长的顾问而成名。如今，他正在缓慢完成一桩属于自己的并购。二〇二四年九月，在德拉基发表报告后不久，UniCredit披露了其在德国银行Commerzbank中的初始持股。自那以后，奥塞尔先生被描绘成侵略者——Commerzbank高层称其“做法欠妥”；两任德国总理（五一时，弗里德里希·默茨说UniCredit正在“摧毁”信任）；以及德国银行家工会则警告“混乱的潜力正在加大”。"
             },
             {
               "id": "p004",
               "en": "Patience and a tolerance for pain, though, come naturally to the committee’s members. For all the drama, UniCredit now controls just under half of the voting rights in Commerzbank. That is not enough to merge the pair. But it is sufficient for Mr Orcel to declare tentative victory over the German financial establishment and turn an eye to the chaos consuming the Italian one. The main issue there is control over Monte dei Paschi di Siena (MPS), the world’s oldest bank, and Generali, an insurer in which MPS, UniCredit and a cast of Italy’s richest industrial families own shares. The Italian state is in the process of selling its stake in MPS, but keeps threatening to expropriate bank profits for good measure.",
-              "zh": ""
+              "zh": "不过，委员会成员天生有耐心，也能接受痛苦。尽管戏剧性冲突不断，UniCredit如今只拥有Commerzbank略少于一半的投票权。这还不足以完成两家公司合并。但这已足以让奥塞尔先生宣布在德国金融圈争夺中暂时胜出，并把目光转向正在动荡的意大利。那里最主要的问题，是对世界上最古老银行之一蒙特德伊帕斯基银行（MPS）以及意大利保险巨头Generali的控制。MPS、UniCredit和一些意大利最富有的工业家族共同持有Generali股权。意大利国家正在出售其在MPS中的股份，但同时又反复威胁要额外没收银行利润。"
             },
             {
               "id": "p005",
               "en": "Mr Niel is that rarest of European creatures: an entrepreneur. He made a fortune selling internet access on the cheap, bringing greater competition to the continent’s telecoms industry. Now he is helping to consolidate it. In America there are eight telecoms companies with more than half a million customers. In Europe there are 40. The Americans wring about three times as much revenue out of each customer and lavish far more on new infrastructure (and their shareholders).",
-              "zh": ""
+              "zh": "尼尔先生是欧洲最罕见的“生物”之一：企业家。在网上以低价提供接入服务、从而让欧洲电信行业竞争更激烈的过程中，他赚得盆满钵满。如今他正在帮助推动行业整合。在美国，拥有超过五十万名客户的电信企业有八家；在欧洲则有四十家。美国运营商每名客户能带来的收入大约是欧洲的三倍，并且在新基础设施（以及股东）投入上花得远更多。"
             },
             {
               "id": "p006",
               "en": "As well as operations in France and Italy, Mr Niel has big stakes in telcos in Sweden, Ireland and Ukraine, utilising a baroque corporate structure that would make a Brussels committee blush. In May he sold a position in the Belgian state-owned carrier. This month he acquired one in Vodafone, a British giant whose largest market is Germany.",
-              "zh": ""
+              "zh": "除在法国和意大利的业务外，尼尔先生还在瑞典、爱尔兰和乌克兰的电信公司中持有大量股份，其运用的是一种巴洛克式复杂公司结构，让任何布鲁塞尔委员会都不禁脸红。在五月，他卖出了在比利时国有运营商中的一笔股份。本月，他又收购了沃达丰在德国市场最大、且总部在英国的股份。"
             },
             {
               "id": "p007",
               "en": "As a pan-European collector of influence in a single sector, Mr Niel is bested only by Bernard Arnault, whose luxury conglomerate, LVMH, is gigantic but has not bought much of late (Mr Niel’s partner is Mr Arnault’s daughter). Last year Iliad, Mr Niel’s main operation, considered a tie-up with Telecom Italia, which has since returned to the warm embrace of the state (by selling itself to Italy’s postal service, naturally). In June his company was part of a consortium which agreed to buy, and then break up, SFR, the second biggest French operator. Committee members must step over the bodies of those who have come before. SFR is owned by Altice, the slowly imploding operation of the French dealmaker Patrick Drahi. Vodafone is so big in Germany because it made the largest hostile takeover in history there in 2000, right before the telecoms bubble burst.",
-              "zh": ""
+              "zh": "在单一行业内、泛欧洲范围内的影响力整合者中，尼尔先生仅次于贝尔纳·阿诺特——其奢侈品帝国LVMH体量巨大，但近来几乎没有大举收购（尼尔先生的合作伙伴是阿诺特的女儿）。去年，尼尔先生的核心公司Iliad曾考虑与Telecom Italia达成合并；而Telecom Italia随后又回到了国家温暖的怀抱（也就是把自己卖给了意大利邮政体系）。今年六月，他的公司曾参与一个财团，达成并随后拆分法国第二大运营商SFR的协议。委员会成员要迈步前行，就必须踏过前辈们留下的遗骸。SFR由法国交易高手帕特里克·德莱赫的Altice所有，而Altice正步履维艰地解体。沃达丰之所以在德国如此强势，是因为其在二〇〇〇年之前夕，正是在德国完成了史上最大规模的恶意收购。"
             },
             {
               "id": "p008",
               "en": "Mr Kretinsky is harder to categorise than Mr Orcel or Mr Niel. He is neither hired gun nor entrepreneur, but operates more like a one-man hedge fund. In the 2010s he acquired unfashionable coal and power assets from those without the stomach to operate them. These days he is better known as Europe’s grocer. In 2024 he gained control of Casino, a French retailer, during a complicated debt restructuring. (Mr Niel, to whom Mr Kretinsky sold his stake in Le Monde, a French newspaper, in 2023 also made a bid.) Last year he bought Metro, a German store, and became the biggest shareholder in Sainsbury’s, a British one.",
-              "zh": ""
+              "zh": "克雷季斯基先生比奥塞尔或尼尔先生更难归类。他既不是受雇“职业枪手”，也不是企业家，更像是一个“单兵版对冲基金”。在二〇一〇年代，他从不愿再经营的公司那里买下了并不时髦的煤炭和电力资产。如今他更广为人知的是欧洲的杂货商。二〇二四年，他在一场复杂的债务重组中取得了法国零售商Casino的控制权。（2023年他把自己在《世界报》（Le Monde）中的股份卖给了尼尔先生，后者当时也曾提出竞购。）去年，他又买下德国连锁店Metro，并成为英国连锁超市Sainsbury’s的最大股东。"
             },
             {
               "id": "p009",
               "en": "Mr Kretinsky’s tastes are extraordinarily eclectic. Until recently he held a 20% stake in Thyssenkrupp Steel, Germany’s largest producer. In November he acquired 4% of TotalEnergies, a French oil major, and he recently became the largest shareholder in West Ham, a football club that has just been relegated from England’s Premier League. That list may well be out of date by the time this column reaches readers of our print edition in Britain, owing to appalling delays at Royal Mail, which Mr Kretinsky also owns.",
-              "zh": ""
+              "zh": "克雷季斯基先生的口味极其杂乱。直到最近，他还持有德国最大制造商蒂森克虏伯钢铁（Thyssenkrupp Steel）20%的股份。11月，他又买入法国石油巨头道达尔能源（TotalEnergies）4%的股份；并且最近成为刚刚降级出英超联赛的英格兰足球俱乐部西汉姆联的最大股东。到这篇专栏在英国印刷版面向读者发行时，这份持仓名单很可能就已经过时了——毕竟皇家邮政的延迟令人发指，而克雷季斯基也持有那家公司。"
             },
             {
               "id": "p010",
               "en": "It is remarkable that the dealmaking trio are not better known. Their fortunes matter greatly to the old world. None is a saint acting out of public interest. Yet Europe needs its dealmakers. Mr Orcel’s struggles in Germany are a clear test of whether Europe wants to build a continental rather than a provincial financial system. Messrs Niel and Kretinsky are central to the future of European telecoms and energy, both of which are vital for its competitiveness. It is equally remarkable that, between them, the trio appear in seemingly every corporate saga on the continent. Perhaps that illustrates how dynamic they are. Or perhaps it reflects how small European business has become. ■",
-              "zh": ""
+              "zh": "令人意外的是，这三位交易高手并不更出名。他们的得失与这片旧大陆联系重大。没有一位是出于公共利益而行事的圣人。然而欧洲离不开这些交易高手。奥塞尔在德国的艰难处境，是检验欧洲到底想建构的是大陆型金融体系还是地方主义金融体系的一场明晰试验。尼尔先生与克雷季斯基两人对欧洲电信和能源的未来至关重要，而这两个领域都决定了欧洲的竞争力。更令人意外的是，这三人似乎几乎出现在欧洲每一出企业传奇叙事之中。也许这说明他们十分精力充沛；也许它反映了欧洲商业已走到多么狭小的地步。■"
             },
             {
               "id": "p011",
               "en": "Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.",
-              "zh": ""
+              "zh": "《经济学人》订阅者可以订阅我们的《观点》通讯，内容汇集了我们最精彩的主编文章、时评、客座论文和读者来信。"
             }
-          ]
+          ],
+          "translated_at": "2026-07-21T17:05:43+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low",
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "056-storm-clouds-gather-over-americas-financial-supremacy",
@@ -4502,7 +4746,11 @@
               "en": "For more expert analysis of the biggest stories in economics, finance and markets, sign up to Money Talks, our weekly subscriber-only newsletter.",
               "zh": ""
             }
-          ]
+          ],
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "057-americas-hormuz-brinkmanship-is-worsening-a-global-fuel-crunch",
@@ -4574,7 +4822,11 @@
               "en": "For more expert analysis of the biggest stories in economics, finance and markets, sign up to Money Talks, our weekly subscriber-only newsletter.",
               "zh": ""
             }
-          ]
+          ],
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "058-chinas-trade-gap-is-narrowing-and-other-surprises",
@@ -4656,7 +4908,11 @@
               "en": "For more expert analysis of the biggest stories in economics, finance and markets, sign up to Money Talks, our weekly subscriber-only newsletter.",
               "zh": ""
             }
-          ]
+          ],
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "059-can-kevin-warshs-fed-force-5-reimagine-monetary-policymaking",
@@ -4723,7 +4979,11 @@
               "en": "For more expert analysis of the biggest stories in economics, finance and markets, sign up to Money Talks, our weekly subscriber-only newsletter.",
               "zh": ""
             }
-          ]
+          ],
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "060-what-investment-gurus-get-wrong",
@@ -4795,7 +5055,11 @@
               "en": "Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.",
               "zh": ""
             }
-          ]
+          ],
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "061-how-to-shrink-the-feds-dollar7trn-balance-sheet",
@@ -4872,7 +5136,11 @@
               "en": "Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.",
               "zh": ""
             }
-          ]
+          ],
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "062-the-rate-at-which-earth-is-absorbing-energy-is-alarming-climate-scientis",
@@ -5104,7 +5372,11 @@
               "en": "For more coverage of climate change, sign up for the Climate Issue, our fortnightly subscriber-only newsletter, or visit our climate-change hub.",
               "zh": ""
             }
-          ]
+          ],
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "063-how-to-train-for-a-heatwave",
@@ -5181,7 +5453,11 @@
               "en": "After a free, evidence-based guide to health and wellness? Sign up to our weekly Well Informed newsletter.",
               "zh": ""
             }
-          ]
+          ],
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "064-a-very-silly-adaptation-of-the-odyssey",
@@ -5278,7 +5554,11 @@
               "en": "For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist, our weekly subscriber-only newsletter",
               "zh": ""
             }
-          ]
+          ],
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "065-why-sir-christopher-nolan-inspires-such-devotionand-contempt",
@@ -5365,7 +5645,11 @@
               "en": "For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist, our weekly subscriber-only newsletter",
               "zh": ""
             }
-          ]
+          ],
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "066-emo-culture-was-not-just-a-phase-as-it-turns-out",
@@ -5422,7 +5706,11 @@
               "en": "For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist, our weekly subscriber-only newsletter",
               "zh": ""
             }
-          ]
+          ],
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "067-a-mystery-street-artist-is-taking-over-cities",
@@ -5479,7 +5767,11 @@
               "en": "For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist, our weekly subscriber-only newsletter",
               "zh": ""
             }
-          ]
+          ],
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "068-george-sands-life-was-a-heady-mix-of-sex-and-serious-fiction",
@@ -5536,7 +5828,11 @@
               "en": "For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist, our weekly subscriber-only newsletter",
               "zh": ""
             }
-          ]
+          ],
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "069-the-wild-gripping-story-of-the-nord-stream-pipeline-bombing",
@@ -5608,7 +5904,11 @@
               "en": "For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist, our weekly subscriber-only newsletter",
               "zh": ""
             }
-          ]
+          ],
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         },
         {
           "id": "070-humphrey-smith-dictated-what-a-good-pub-should-be",
@@ -5675,11 +5975,17 @@
               "en": "The same unsparing attitude applied to his pubs. By the 2020s half of them were closed, awaiting his approved sort of manager. They included the Angel and White Horse, the flagship pub and his own favourite, right by the brewery. There was nothing wrong with either his beer, or his relatively cheap prices; all pubs were struggling, with around 300 closing every year. But Humphrey’s had an extra disadvantage: his rules. Like Orwell, he yearned to hang on to an idyll of the past. But Orwell had admitted that The Moon Under Water did not, and probably could not, exist. ■",
               "zh": ""
             }
-          ]
+          ],
+          "issue_published_at": "2026-07-18",
+          "article_published_at": "July 16th 2026",
+          "published_at": "July 16th 2026",
+          "published_date_source": "article"
         }
       ],
-      "translated_count": 47,
-      "updated_at": "2026-07-21T16:51:19+08:00"
+      "translated_count": 55,
+      "updated_at": "2026-07-21T17:15:50+08:00",
+      "source_type": "magazine",
+      "published_at": "2026-07-18"
     }
   ]
 }

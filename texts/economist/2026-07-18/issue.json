@@ -17,7 +17,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 16,
       "translation_status": "translated",
-      "path": "articles/001-politics/bilingual.json"
+      "path": "articles/001-politics/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "002-business",
@@ -30,7 +34,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 14,
       "translation_status": "translated",
-      "path": "articles/002-business/bilingual.json"
+      "path": "articles/002-business/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "003-cartoon-continuing-uncertainty-over-the-strait-of-hormuz",
@@ -43,7 +51,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 5,
       "translation_status": "translated",
-      "path": "articles/003-cartoon-continuing-uncertainty-over-the-strait-of-hormuz/bilingual.json"
+      "path": "articles/003-cartoon-continuing-uncertainty-over-the-strait-of-hormuz/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "004-donald-trumps-gutting-of-the-department-of-justice",
@@ -56,7 +68,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 14,
       "translation_status": "translated",
-      "path": "articles/004-donald-trumps-gutting-of-the-department-of-justice/bilingual.json"
+      "path": "articles/004-donald-trumps-gutting-of-the-department-of-justice/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "005-its-too-darn-hot-blame-global-dimming",
@@ -69,7 +85,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 12,
       "translation_status": "translated",
-      "path": "articles/005-its-too-darn-hot-blame-global-dimming/bilingual.json"
+      "path": "articles/005-its-too-darn-hot-blame-global-dimming/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "006-donald-trumps-blind-alley",
@@ -82,7 +102,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 11,
       "translation_status": "translated",
-      "path": "articles/006-donald-trumps-blind-alley/bilingual.json"
+      "path": "articles/006-donald-trumps-blind-alley/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "007-chinas-rulers-have-a-woman-problem",
@@ -95,7 +119,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 11,
       "translation_status": "translated",
-      "path": "articles/007-chinas-rulers-have-a-woman-problem/bilingual.json"
+      "path": "articles/007-chinas-rulers-have-a-woman-problem/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "008-how-to-make-ai-safeand-lessen-dependence-on-america-and-china",
@@ -108,7 +136,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 10,
       "translation_status": "translated",
-      "path": "articles/008-how-to-make-ai-safeand-lessen-dependence-on-america-and-china/bilingual.json"
+      "path": "articles/008-how-to-make-ai-safeand-lessen-dependence-on-america-and-china/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "009-america-should-stop-making-it-so-hard-to-have-fun",
@@ -121,7 +153,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 10,
       "translation_status": "translated",
-      "path": "articles/009-america-should-stop-making-it-so-hard-to-have-fun/bilingual.json"
+      "path": "articles/009-america-should-stop-making-it-so-hard-to-have-fun/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "010-the-united-states-is-once-again-in-a-state-of-rebellion",
@@ -134,7 +170,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 29,
       "translation_status": "translated",
-      "path": "articles/010-the-united-states-is-once-again-in-a-state-of-rebellion/bilingual.json"
+      "path": "articles/010-the-united-states-is-once-again-in-a-state-of-rebellion/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "011-would-europeans-fight-if-it-came-to-that",
@@ -147,7 +187,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 10,
       "translation_status": "translated",
-      "path": "articles/011-would-europeans-fight-if-it-came-to-that/bilingual.json"
+      "path": "articles/011-would-europeans-fight-if-it-came-to-that/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "012-israels-future-hangs-in-the-balance",
@@ -160,7 +204,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 32,
       "translation_status": "translated",
-      "path": "articles/012-israels-future-hangs-in-the-balance/bilingual.json"
+      "path": "articles/012-israels-future-hangs-in-the-balance/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "013-donald-trumps-transformation-of-the-department-of-justice-will-be-hard-t",
@@ -173,7 +221,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 26,
       "translation_status": "translated",
-      "path": "articles/013-donald-trumps-transformation-of-the-department-of-justice-will-be-hard-t/bilingual.json"
+      "path": "articles/013-donald-trumps-transformation-of-the-department-of-justice-will-be-hard-t/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "014-democrats-challenge-a-big-hollywood-tie-up",
@@ -186,7 +238,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 11,
       "translation_status": "translated",
-      "path": "articles/014-democrats-challenge-a-big-hollywood-tie-up/bilingual.json"
+      "path": "articles/014-democrats-challenge-a-big-hollywood-tie-up/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "015-cities-are-rethinking-what-happens-after-dark",
@@ -199,7 +255,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 9,
       "translation_status": "translated",
-      "path": "articles/015-cities-are-rethinking-what-happens-after-dark/bilingual.json"
+      "path": "articles/015-cities-are-rethinking-what-happens-after-dark/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "016-americas-other-elections-problem",
@@ -212,7 +272,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 12,
       "translation_status": "translated",
-      "path": "articles/016-americas-other-elections-problem/bilingual.json"
+      "path": "articles/016-americas-other-elections-problem/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "017-lindsey-graham-tried-to-save-the-wrong-countries-from-donald-trump",
@@ -225,7 +289,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 9,
       "translation_status": "translated",
-      "path": "articles/017-lindsey-graham-tried-to-save-the-wrong-countries-from-donald-trump/bilingual.json"
+      "path": "articles/017-lindsey-graham-tried-to-save-the-wrong-countries-from-donald-trump/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "018-the-panama-canal-is-growing-more-important",
@@ -238,7 +306,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 17,
       "translation_status": "translated",
-      "path": "articles/018-the-panama-canal-is-growing-more-important/bilingual.json"
+      "path": "articles/018-the-panama-canal-is-growing-more-important/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "019-the-biggest-schools-training-americas-doctors-are-in-the-caribbean",
@@ -251,7 +323,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 9,
       "translation_status": "translated",
-      "path": "articles/019-the-biggest-schools-training-americas-doctors-are-in-the-caribbean/bilingual.json"
+      "path": "articles/019-the-biggest-schools-training-americas-doctors-are-in-the-caribbean/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "020-argentina-v-england-is-one-of-the-most-intense-rivalries-in-sport",
@@ -264,7 +340,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 8,
       "translation_status": "translated",
-      "path": "articles/020-argentina-v-england-is-one-of-the-most-intense-rivalries-in-sport/bilingual.json"
+      "path": "articles/020-argentina-v-england-is-one-of-the-most-intense-rivalries-in-sport/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "021-is-aung-san-suu-kyi-dead",
@@ -277,7 +357,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 11,
       "translation_status": "translated",
-      "path": "articles/021-is-aung-san-suu-kyi-dead/bilingual.json"
+      "path": "articles/021-is-aung-san-suu-kyi-dead/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "022-an-unreliable-america-is-drawing-asias-middle-powers-closer",
@@ -290,7 +374,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 10,
       "translation_status": "translated",
-      "path": "articles/022-an-unreliable-america-is-drawing-asias-middle-powers-closer/bilingual.json"
+      "path": "articles/022-an-unreliable-america-is-drawing-asias-middle-powers-closer/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "023-haunted-houses-are-in-demand-in-japan",
@@ -303,7 +391,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 8,
       "translation_status": "translated",
-      "path": "articles/023-haunted-houses-are-in-demand-in-japan/bilingual.json"
+      "path": "articles/023-haunted-houses-are-in-demand-in-japan/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "024-a-real-but-selective-crackdown-on-cambodias-scam-industry",
@@ -316,7 +408,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 8,
       "translation_status": "translated",
-      "path": "articles/024-a-real-but-selective-crackdown-on-cambodias-scam-industry/bilingual.json"
+      "path": "articles/024-a-real-but-selective-crackdown-on-cambodias-scam-industry/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "025-an-incomplete-list-of-falling-objects-in-india",
@@ -329,7 +425,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 9,
       "translation_status": "translated",
-      "path": "articles/025-an-incomplete-list-of-falling-objects-in-india/bilingual.json"
+      "path": "articles/025-an-incomplete-list-of-falling-objects-in-india/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "026-china-is-dealing-with-its-own-manosphere",
@@ -342,7 +442,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 16,
       "translation_status": "translated",
-      "path": "articles/026-china-is-dealing-with-its-own-manosphere/bilingual.json"
+      "path": "articles/026-china-is-dealing-with-its-own-manosphere/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "027-xi-jinping-expels-another-leader-from-his-top-team",
@@ -355,7 +459,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 6,
       "translation_status": "translated",
-      "path": "articles/027-xi-jinping-expels-another-leader-from-his-top-team/bilingual.json"
+      "path": "articles/027-xi-jinping-expels-another-leader-from-his-top-team/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "028-china-wants-to-end-ai-romances",
@@ -368,7 +476,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 10,
       "translation_status": "translated",
-      "path": "articles/028-china-wants-to-end-ai-romances/bilingual.json"
+      "path": "articles/028-china-wants-to-end-ai-romances/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "029-a-squeezed-china-is-trying-to-wring-more-from-its-state-assets",
@@ -381,7 +493,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 12,
       "translation_status": "translated",
-      "path": "articles/029-a-squeezed-china-is-trying-to-wring-more-from-its-state-assets/bilingual.json"
+      "path": "articles/029-a-squeezed-china-is-trying-to-wring-more-from-its-state-assets/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "030-donald-trump-has-no-good-options-for-reopening-the-strait-of-hormuz",
@@ -394,7 +510,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 16,
       "translation_status": "translated",
-      "path": "articles/030-donald-trump-has-no-good-options-for-reopening-the-strait-of-hormuz/bilingual.json"
+      "path": "articles/030-donald-trump-has-no-good-options-for-reopening-the-strait-of-hormuz/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "031-americas-other-battle-with-iran",
@@ -407,7 +527,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 12,
       "translation_status": "translated",
-      "path": "articles/031-americas-other-battle-with-iran/bilingual.json"
+      "path": "articles/031-americas-other-battle-with-iran/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "032-the-ebola-epidemic-is-getting-out-of-control",
@@ -420,7 +544,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 13,
       "translation_status": "translated",
-      "path": "articles/032-the-ebola-epidemic-is-getting-out-of-control/bilingual.json"
+      "path": "articles/032-the-ebola-epidemic-is-getting-out-of-control/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "033-a-hit-new-show-takes-on-polygamy-in-modern-south-africa",
@@ -433,7 +561,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 7,
       "translation_status": "translated",
-      "path": "articles/033-a-hit-new-show-takes-on-polygamy-in-modern-south-africa/bilingual.json"
+      "path": "articles/033-a-hit-new-show-takes-on-polygamy-in-modern-south-africa/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "034-how-to-preserve-africas-architectural-gems",
@@ -446,7 +578,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 10,
       "translation_status": "translated",
-      "path": "articles/034-how-to-preserve-africas-architectural-gems/bilingual.json"
+      "path": "articles/034-how-to-preserve-africas-architectural-gems/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "035-ukraines-reformist-defence-minister-is-ousted",
@@ -459,7 +595,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 10,
       "translation_status": "translated",
-      "path": "articles/035-ukraines-reformist-defence-minister-is-ousted/bilingual.json"
+      "path": "articles/035-ukraines-reformist-defence-minister-is-ousted/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "036-europe-seems-set-to-ease-its-carbon-pricing",
@@ -472,7 +612,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 10,
       "translation_status": "translated",
-      "path": "articles/036-europe-seems-set-to-ease-its-carbon-pricing/bilingual.json"
+      "path": "articles/036-europe-seems-set-to-ease-its-carbon-pricing/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "037-sweden-squashed-migration-the-populist-right-wants-to-go-further",
@@ -485,7 +629,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 13,
       "translation_status": "translated",
-      "path": "articles/037-sweden-squashed-migration-the-populist-right-wants-to-go-further/bilingual.json"
+      "path": "articles/037-sweden-squashed-migration-the-populist-right-wants-to-go-further/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "038-opening-the-border-between-spain-and-gibraltar",
@@ -498,7 +646,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 6,
       "translation_status": "translated",
-      "path": "articles/038-opening-the-border-between-spain-and-gibraltar/bilingual.json"
+      "path": "articles/038-opening-the-border-between-spain-and-gibraltar/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "039-why-berlins-airport-is-still-completely-hopeless",
@@ -511,7 +663,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 6,
       "translation_status": "translated",
-      "path": "articles/039-why-berlins-airport-is-still-completely-hopeless/bilingual.json"
+      "path": "articles/039-why-berlins-airport-is-still-completely-hopeless/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "040-in-praise-of-scandinavias-risky-and-dirty-playgrounds",
@@ -524,7 +680,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 9,
       "translation_status": "translated",
-      "path": "articles/040-in-praise-of-scandinavias-risky-and-dirty-playgrounds/bilingual.json"
+      "path": "articles/040-in-praise-of-scandinavias-risky-and-dirty-playgrounds/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "041-can-andy-burnham-keep-his-own-mps-under-control",
@@ -537,7 +697,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 13,
       "translation_status": "translated",
-      "path": "articles/041-can-andy-burnham-keep-his-own-mps-under-control/bilingual.json"
+      "path": "articles/041-can-andy-burnham-keep-his-own-mps-under-control/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "042-lessons-from-a-cat-about-to-outlast-yet-another-prime-minister",
@@ -550,7 +714,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 8,
       "translation_status": "translated",
-      "path": "articles/042-lessons-from-a-cat-about-to-outlast-yet-another-prime-minister/bilingual.json"
+      "path": "articles/042-lessons-from-a-cat-about-to-outlast-yet-another-prime-minister/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "043-glasgow-rescuer-of-the-commonwealth-games-needs-saving-too",
@@ -563,7 +731,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 11,
       "translation_status": "translated",
-      "path": "articles/043-glasgow-rescuer-of-the-commonwealth-games-needs-saving-too/bilingual.json"
+      "path": "articles/043-glasgow-rescuer-of-the-commonwealth-games-needs-saving-too/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "044-violence-is-reshaping-british-political-life",
@@ -576,7 +748,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 11,
       "translation_status": "translated",
-      "path": "articles/044-violence-is-reshaping-british-political-life/bilingual.json"
+      "path": "articles/044-violence-is-reshaping-british-political-life/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "045-britains-bookies-have-weathered-a-tricky-world-cup",
@@ -589,7 +765,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 7,
       "translation_status": "translated",
-      "path": "articles/045-britains-bookies-have-weathered-a-tricky-world-cup/bilingual.json"
+      "path": "articles/045-britains-bookies-have-weathered-a-tricky-world-cup/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "046-londons-private-members-clubs-are-proliferating",
@@ -602,7 +782,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 12,
       "translation_status": "translated",
-      "path": "articles/046-londons-private-members-clubs-are-proliferating/bilingual.json"
+      "path": "articles/046-londons-private-members-clubs-are-proliferating/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "047-sir-keirs-bucket-list",
@@ -615,111 +799,147 @@
       "date": "July 16th 2026",
       "paragraph_count": 12,
       "translation_status": "translated",
-      "path": "articles/047-sir-keirs-bucket-list/bilingual.json"
+      "path": "articles/047-sir-keirs-bucket-list/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "048-sovereign-ai-independent-of-america-and-china-is-a-pipe-dream",
       "order": 48,
       "section": "International",
       "title_en": "Sovereign AI, independent of America and China, is a pipe dream",
-      "title_zh": "",
+      "title_zh": "独立于美国和中国的“主权AI”仍是幻想",
       "rubric_en": "But a degree of protection from coercion remains possible",
-      "rubric_zh": "",
+      "rubric_zh": "但一定程度上摆脱胁迫仍有可能",
       "date": "July 16th 2026",
       "paragraph_count": 29,
-      "translation_status": "pending",
-      "path": "articles/048-sovereign-ai-independent-of-america-and-china-is-a-pipe-dream/bilingual.json"
+      "translation_status": "translated",
+      "path": "articles/048-sovereign-ai-independent-of-america-and-china-is-a-pipe-dream/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "049-when-chinas-open-source-ai-is-a-trap",
       "order": 49,
       "section": "International",
       "title_en": "When China’s open-source AI is a trap",
-      "title_zh": "",
+      "title_zh": "当中国的开源人工智能是一场陷阱",
       "rubric_en": "America’s quest for AI dominance is scary. China is not the solution",
-      "rubric_zh": "",
+      "rubric_zh": "美国对人工智能主导权的追求令人不安。中国不是答案",
       "date": "July 16th 2026",
       "paragraph_count": 12,
-      "translation_status": "pending",
-      "path": "articles/049-when-chinas-open-source-ai-is-a-trap/bilingual.json"
+      "translation_status": "translated",
+      "path": "articles/049-when-chinas-open-source-ai-is-a-trap/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "050-eli-lilly-is-reinventing-the-pharma-business",
       "order": 50,
       "section": "Business",
       "title_en": "Eli Lilly is reinventing the pharma business",
-      "title_zh": "",
+      "title_zh": "礼来公司正在重塑制药行业",
       "rubric_en": "The world’s largest drugmaker is betting big on preventive medicines—and learning from big tech",
-      "rubric_zh": "",
+      "rubric_zh": "全球最大的制药商正押注预防性用药，并向科技巨头学习",
       "date": "July 16th 2026",
       "paragraph_count": 16,
-      "translation_status": "pending",
-      "path": "articles/050-eli-lilly-is-reinventing-the-pharma-business/bilingual.json"
+      "translation_status": "translated",
+      "path": "articles/050-eli-lilly-is-reinventing-the-pharma-business/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "051-demis-hassabis-has-a-plan-to-harness-ai-safely",
       "order": 51,
       "section": "Business",
       "title_en": "Demis Hassabis has a plan to harness AI safely",
-      "title_zh": "",
+      "title_zh": "Demis Hassabis 制定了安全驾驭人工智能的方案",
       "rubric_en": "The Google DeepMind co-founder sets out his vision in an exclusive interview",
-      "rubric_zh": "",
+      "rubric_zh": "谷歌 DeepMind 联合创始人专访中阐述了他的愿景",
       "date": "July 16th 2026",
       "paragraph_count": 10,
-      "translation_status": "pending",
-      "path": "articles/051-demis-hassabis-has-a-plan-to-harness-ai-safely/bilingual.json"
+      "translation_status": "translated",
+      "path": "articles/051-demis-hassabis-has-a-plan-to-harness-ai-safely/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "052-how-high-can-red-bull-fly",
       "order": 52,
       "section": "Business",
       "title_en": "How high can Red Bull fly?",
-      "title_zh": "",
+      "title_zh": "红牛还能飞得更高吗？",
       "rubric_en": "The world’s most formidable marketing machine faces growing threats",
-      "rubric_zh": "",
+      "rubric_zh": "世界上最强大的营销机器正面临日益增多的威胁",
       "date": "July 16th 2026",
       "paragraph_count": 11,
-      "translation_status": "pending",
-      "path": "articles/052-how-high-can-red-bull-fly/bilingual.json"
+      "translation_status": "translated",
+      "path": "articles/052-how-high-can-red-bull-fly/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "053-how-to-sell-a-kettle",
       "order": 53,
       "section": "Business",
       "title_en": "How to sell a kettle",
-      "title_zh": "",
+      "title_zh": "如何销售一只水壶",
       "rubric_en": "Brand positioning reaches boiling point",
-      "rubric_zh": "",
+      "rubric_zh": "品牌定位来到沸点",
       "date": "July 16th 2026",
       "paragraph_count": 11,
-      "translation_status": "pending",
-      "path": "articles/053-how-to-sell-a-kettle/bilingual.json"
+      "translation_status": "translated",
+      "path": "articles/053-how-to-sell-a-kettle/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "054-how-sk-hynix-became-the-king-of-advanced-memory-chips",
       "order": 54,
       "section": "Business",
       "title_en": "How SK Hynix became the king of advanced memory chips",
-      "title_zh": "",
+      "title_zh": "SK海力士如何成为先进内存芯片的“王者”",
       "rubric_en": "Its advantages will not protect it if demand falters",
-      "rubric_zh": "",
+      "rubric_zh": "其优势在需求放缓时也未必能保住领先地位",
       "date": "July 16th 2026",
       "paragraph_count": 13,
-      "translation_status": "pending",
-      "path": "articles/054-how-sk-hynix-became-the-king-of-advanced-memory-chips/bilingual.json"
+      "translation_status": "translated",
+      "path": "articles/054-how-sk-hynix-became-the-king-of-advanced-memory-chips/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "055-meet-the-committee-to-buy-europe",
       "order": 55,
       "section": "Business",
       "title_en": "Meet the committee to buy Europe",
-      "title_zh": "",
+      "title_zh": "认识“收购欧洲委员会”",
       "rubric_en": "The continent’s dealmakers deserve much more attention",
-      "rubric_zh": "",
+      "rubric_zh": "欧洲的交易推动者值得得到更多关注",
       "date": "July 16th 2026",
       "paragraph_count": 11,
-      "translation_status": "pending",
-      "path": "articles/055-meet-the-committee-to-buy-europe/bilingual.json"
+      "translation_status": "translated",
+      "path": "articles/055-meet-the-committee-to-buy-europe/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "056-storm-clouds-gather-over-americas-financial-supremacy",
@@ -732,7 +952,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 16,
       "translation_status": "pending",
-      "path": "articles/056-storm-clouds-gather-over-americas-financial-supremacy/bilingual.json"
+      "path": "articles/056-storm-clouds-gather-over-americas-financial-supremacy/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "057-americas-hormuz-brinkmanship-is-worsening-a-global-fuel-crunch",
@@ -745,7 +969,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 11,
       "translation_status": "pending",
-      "path": "articles/057-americas-hormuz-brinkmanship-is-worsening-a-global-fuel-crunch/bilingual.json"
+      "path": "articles/057-americas-hormuz-brinkmanship-is-worsening-a-global-fuel-crunch/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "058-chinas-trade-gap-is-narrowing-and-other-surprises",
@@ -758,7 +986,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 13,
       "translation_status": "pending",
-      "path": "articles/058-chinas-trade-gap-is-narrowing-and-other-surprises/bilingual.json"
+      "path": "articles/058-chinas-trade-gap-is-narrowing-and-other-surprises/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "059-can-kevin-warshs-fed-force-5-reimagine-monetary-policymaking",
@@ -771,7 +1003,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 10,
       "translation_status": "pending",
-      "path": "articles/059-can-kevin-warshs-fed-force-5-reimagine-monetary-policymaking/bilingual.json"
+      "path": "articles/059-can-kevin-warshs-fed-force-5-reimagine-monetary-policymaking/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "060-what-investment-gurus-get-wrong",
@@ -784,7 +1020,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 11,
       "translation_status": "pending",
-      "path": "articles/060-what-investment-gurus-get-wrong/bilingual.json"
+      "path": "articles/060-what-investment-gurus-get-wrong/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "061-how-to-shrink-the-feds-dollar7trn-balance-sheet",
@@ -797,7 +1037,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 12,
       "translation_status": "pending",
-      "path": "articles/061-how-to-shrink-the-feds-dollar7trn-balance-sheet/bilingual.json"
+      "path": "articles/061-how-to-shrink-the-feds-dollar7trn-balance-sheet/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "062-the-rate-at-which-earth-is-absorbing-energy-is-alarming-climate-scientis",
@@ -810,7 +1054,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 43,
       "translation_status": "pending",
-      "path": "articles/062-the-rate-at-which-earth-is-absorbing-energy-is-alarming-climate-scientis/bilingual.json"
+      "path": "articles/062-the-rate-at-which-earth-is-absorbing-energy-is-alarming-climate-scientis/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "063-how-to-train-for-a-heatwave",
@@ -823,7 +1071,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 12,
       "translation_status": "pending",
-      "path": "articles/063-how-to-train-for-a-heatwave/bilingual.json"
+      "path": "articles/063-how-to-train-for-a-heatwave/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "064-a-very-silly-adaptation-of-the-odyssey",
@@ -836,7 +1088,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 16,
       "translation_status": "pending",
-      "path": "articles/064-a-very-silly-adaptation-of-the-odyssey/bilingual.json"
+      "path": "articles/064-a-very-silly-adaptation-of-the-odyssey/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "065-why-sir-christopher-nolan-inspires-such-devotionand-contempt",
@@ -849,7 +1105,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 14,
       "translation_status": "pending",
-      "path": "articles/065-why-sir-christopher-nolan-inspires-such-devotionand-contempt/bilingual.json"
+      "path": "articles/065-why-sir-christopher-nolan-inspires-such-devotionand-contempt/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "066-emo-culture-was-not-just-a-phase-as-it-turns-out",
@@ -862,7 +1122,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 8,
       "translation_status": "pending",
-      "path": "articles/066-emo-culture-was-not-just-a-phase-as-it-turns-out/bilingual.json"
+      "path": "articles/066-emo-culture-was-not-just-a-phase-as-it-turns-out/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "067-a-mystery-street-artist-is-taking-over-cities",
@@ -875,7 +1139,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 8,
       "translation_status": "pending",
-      "path": "articles/067-a-mystery-street-artist-is-taking-over-cities/bilingual.json"
+      "path": "articles/067-a-mystery-street-artist-is-taking-over-cities/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "068-george-sands-life-was-a-heady-mix-of-sex-and-serious-fiction",
@@ -888,7 +1156,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 8,
       "translation_status": "pending",
-      "path": "articles/068-george-sands-life-was-a-heady-mix-of-sex-and-serious-fiction/bilingual.json"
+      "path": "articles/068-george-sands-life-was-a-heady-mix-of-sex-and-serious-fiction/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "069-the-wild-gripping-story-of-the-nord-stream-pipeline-bombing",
@@ -901,7 +1173,11 @@
       "date": "July 16th 2026",
       "paragraph_count": 11,
       "translation_status": "pending",
-      "path": "articles/069-the-wild-gripping-story-of-the-nord-stream-pipeline-bombing/bilingual.json"
+      "path": "articles/069-the-wild-gripping-story-of-the-nord-stream-pipeline-bombing/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     },
     {
       "id": "070-humphrey-smith-dictated-what-a-good-pub-should-be",
@@ -914,9 +1190,15 @@
       "date": "July 16th 2026",
       "paragraph_count": 10,
       "translation_status": "pending",
-      "path": "articles/070-humphrey-smith-dictated-what-a-good-pub-should-be/bilingual.json"
+      "path": "articles/070-humphrey-smith-dictated-what-a-good-pub-should-be/bilingual.json",
+      "issue_published_at": "2026-07-18",
+      "article_published_at": "July 16th 2026",
+      "published_at": "July 16th 2026",
+      "published_date_source": "article"
     }
   ],
-  "translated_count": 47,
-  "updated_at": "2026-07-21T16:51:19+08:00"
+  "translated_count": 55,
+  "updated_at": "2026-07-21T17:15:50+08:00",
+  "source_type": "magazine",
+  "published_at": "2026-07-18"
 }

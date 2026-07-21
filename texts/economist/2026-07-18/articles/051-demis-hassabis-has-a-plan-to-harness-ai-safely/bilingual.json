@@ -6,62 +6,69 @@
   "order": 51,
   "section": "Business",
   "title_en": "Demis Hassabis has a plan to harness AI safely",
-  "title_zh": "",
+  "title_zh": "Demis Hassabis 制定了安全驾驭人工智能的方案",
   "rubric_en": "The Google DeepMind co-founder sets out his vision in an exclusive interview",
-  "rubric_zh": "",
+  "rubric_zh": "谷歌 DeepMind 联合创始人专访中阐述了他的愿景",
   "date": "July 16th 2026",
   "origin_url": "",
-  "translation_status": "pending",
+  "translation_status": "translated",
   "paragraphs": [
     {
       "id": "p001",
       "en": "THE WORLD’S artificial-intelligence superpowers are beginning to throw their weight around. The American government’s short-lived decision to withhold foreigners’ access to Fable, a whizzy AI model from Anthropic, reflected not just a desire for control over the technology but also fear of the dangers it could pose in the wrong hands. Now China is said to be considering curbing overseas access to its most advanced models. Yet for AI to be harnessed safely, the industry needs a plan that is coherent and predictable. Sir Demis Hassabis, the co-founder of Google DeepMind, thinks he has one.",
-      "zh": ""
+      "zh": "世界范围的人工智能“超级大国”正在开始显露其影响力。美国政府短暂决定限制外国用户使用 Anthropic 的高性能 AI 模型 Fable，不仅反映了对这项技术的控制欲，也反映了对其落入错误手中可能带来危险的担忧。如今，据称中国也在考虑限制海外对其最先进模型的访问。然而，要让人工智能安全可控地发挥作用，行业需要一个连贯且可预期的方案。谷歌 DeepMind 的联合创始人 Demis Hassabis 爵士认为，他已经想出了一个。"
     },
     {
       "id": "p002",
       "en": "Sir Demis has sketched out proposals for AI regulation in the past. His latest attempt—published online on July 14th and elaborated in an interview with The Economist—is more concrete. The American government, he says, should develop a system for testing the safety of new AI models before they are released. “It’s important that it’s not just an industry body,” he adds. But a regular government agency wouldn’t do either. “It would not be able to move fast enough, or have the right resources.” Instead, Sir Demis suggests taking inspiration from FINRA, the Financial Industry Regulatory Authority, a private agency in America that regulates brokers and stock markets.",
-      "zh": ""
+      "zh": "Hassabis 爵士过去也提出过人工智能监管方案。他的最新提议—于 7 月 14 日在线发布，并在《经济学人》的一次专访中进一步展开—更具操作性。他说，美国政府应该建立一套在新型人工智能模型发布前测试其安全性的制度。“重要的是，这不能只是一个行业机构。”他补充道。但一个常规政府机构也做不到这一点。“它既不能足够快地行动，也缺乏合适的资源。”因此，Hassabis 爵士建议借鉴美国金融业监管机构 FINRA 的做法，FINRA 是一家监管经纪人与证券市场的民间机构。"
     },
     {
       "id": "p003",
       "en": "It is a pragmatic proposal. Gone are the optimistic hopes, still held by some of his peers, of first establishing international consensus: America, he says, must lead the way. Agreement is not required because other countries will fall in line in order to maintain access to American technology and the vast American market. One day that could even extend to China, helping to avert a race to the bottom on safety. Although Sir Demis thinks the scheme should initially be voluntary for model-makers, his expectation is that it will end up mandatory. FINRA, by way of example, has hard enforcement powers delegated to it by the state.",
-      "zh": ""
+      "zh": "这是一个务实的方案。许多同行仍抱有乐观期待，认为应先建立国际共识，但他认为美国必须走在前列。无需先达成一致，因为其他国家会为了维持对美国技术和美国巨大市场的访问而跟进。将来这种情况甚至可能扩展到中国，从而帮助避免安全标准的逐底竞争。虽然 Hassabis 爵士认为该机制起初应对模型开发者采取自愿形式，但他预计最终会变成强制性安排。以 FINRA 为例，它的严格执法权力就是由州政府委托下放的。"
     },
     {
       "id": "p004",
       "en": "Sir Demis’s approach differs from that suggested by Sam Altman, the boss of OpenAI, who wrote an op-ed in the Financial Times earlier this month. Both men agree that the work of the new oversight body would be to establish standards, analyse risks and ensure that only countries that have joined the cause gain access to cutting-edge AI. Mr Altman, however, has called for an international effort, albeit one co-ordinated by America. Both proposals were presented to world leaders at a recent G7 summit in France.",
-      "zh": ""
+      "zh": "Hassabis 爵士的做法不同于 OpenAI 负责人 Sam Altman 近期在《金融时报》撰写观点文章时提出的方案。两人都认同，新监管机构的工作应是制定标准、分析风险，并确保只有加入这一行动的国家才能获得前沿人工智能的访问权限。然而，Altman 倡导的是国际化的努力，尽管仍由美国协调。两种方案都在最近于法国举行的 G7 峰会期间提交给了各国领导人。"
     },
     {
       "id": "p005",
       "en": "Sir Demis’s new proposal is the most detailed to have arrived from an AI bigwig. So far the industry’s senior figures have been more comfortable calling for rules in the abstract than designing regulatory agencies from scratch. Sir Demis, by contrast, has considered many of the practical details. He says the new agency should be funded by the industry, and that much of its immediate attention would be directed towards recruiting a talented team (existing AI-safety bodies, such as those in America and Britain, could offer support in the short term).",
-      "zh": ""
+      "zh": "Hassabis 爵士的这项新提案，是目前来自一位人工智能巨头的最为详细方案。迄今为止，行业高层人物更愿意抽象地呼吁立法规则，而不是从零开始设计监管机构。相比之下，Hassabis 先生则考虑了许多实际细节。他表示，新机构应由行业出资，且其大量短期精力将放在招募一支高质量团队上（美国和英国现有的一些人工智能安全机构在短期内可提供支持）。"
     },
     {
       "id": "p006",
       "en": "Sir Demis suggests that the new agency should focus on the labs making the most capable AI models (which includes his own). Earlier proposals from America and the European Union looked to the amount of computing power used to train a model as a rough guide for when oversight was required. Sir Demis instead suggests designating AI models as “frontier” if they meet certain thresholds across a selected set of benchmarks. The creators of those models would then be designated as “frontier labs”, placing extra responsibilities on them. Sir Demis is proud of the “elegant” way that approach sidesteps the question of whether academic or open-source models should be included or not. What matters is their capabilities.",
-      "zh": ""
+      "zh": "Hassabis 建议新机构应关注那些开发最强大人工智能模型的实验室（其中包括他自己的实验室）。美国和欧盟早期的提案曾以训练模型所消耗的算力作为大致依据来判断是否需要监管。Hassabis 则建议，通过一组筛选基准为模型设置“边界模型”条件，只要达到某些门槛即可。那些模型的开发者随后被定为“frontier实验室”，从而承担额外责任。Hassabis 为这种处理方式的“优雅”感到自豪，因为它巧妙地绕开了是否应将学术模型或开源模型纳入的争论。关键在于模型能力本身。"
     },
     {
       "id": "p007",
       "en": "Selecting the right benchmarks would be an important function of the new agency. Existing tests of AI models focus largely on commercial capabilities, including software coding and general knowledge. Some organisations have gone further: Britain’s AI Security Institute, for example, has developed a well-regarded test for hacking capabilities which simulates breaking into a power station. But other characteristics, such as how willing a model is to ignore a user’s instructions or pretend to be less capable than it is, are rarely examined in a systematic way that could be used to set a safety threshold.",
-      "zh": ""
+      "zh": "选择合适的评测基准将是新机构的重要职能。现有的人工智能模型测试主要侧重于商业能力，比如软件编码和常识知识。一些机构走得更远：例如，英国 AI 安全研究所（AI Security Institute）开发了一个颇受认可的黑客能力测试，模拟入侵电站的情形。但其他特征，如模型愿不愿意无视用户指令，或故意装作比实际更不擅长，通常很少被系统性地考察，难以用于建立安全门槛。"
     },
     {
       "id": "p008",
       "en": "Securing support from within the increasingly fractious AI community will not be easy, though the areas in common with Mr Altman’s proposal suggest it is not impossible. The American government also appears to have been listening, and is said to be close to unveiling its preferred approach. Then will come the hard part. “No proposal would be immune to being executed poorly,” Sir Demis admits. “There are obviously versions of this that could be not very useful.”",
-      "zh": ""
+      "zh": "在日益分裂的人工智能社区内部赢得支持并不容易，不过与 Altman 提案的重合点表明这并非不可能。美国政府似乎也在认真倾听，据说已接近发布其偏好的方案。接下来就会是困难部分。“任何方案都可能执行不当，”Hassabis 承认。“显然，某些版本可能并不太有用。”"
     },
     {
       "id": "p009",
       "en": "Yet the Nobel laureate argues that urgent action is required. “Time is short, the hour is late,” he says. “We’ve seen the cyber threat; there’s much more serious threats coming down the line. Something has to be done: this is the time.” ■",
-      "zh": ""
+      "zh": "尽管如此，这位诺贝尔奖得主认为，当前必须采取紧急行动。“时间很短，时机不等人，”他说。“我们已经见识过网络安全威胁；更严重的威胁正在陆续到来。必须有所作为：现在就是时候。” ■"
     },
     {
       "id": "p010",
       "en": "To track the trends shaping commerce, industry and technology, sign up to “The Bottom Line”, our weekly subscriber-only newsletter on global business.",
-      "zh": ""
+      "zh": "想了解正在塑造商业、产业和科技的趋势，请订阅《The Bottom Line》，这是我们每周仅对订阅者开放的全球商业通讯。"
     }
-  ]
+  ],
+  "translated_at": "2026-07-21T17:04:45+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low",
+  "issue_published_at": "2026-07-18",
+  "article_published_at": "July 16th 2026",
+  "published_at": "July 16th 2026",
+  "published_date_source": "article"
 }

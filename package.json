@@ -11,6 +11,7 @@
     "start": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext start",
     "extract": "node scripts/extract-epub.mjs",
     "translate": "node scripts/translate-issue.mjs",
+    "export:pages": "npm run build && node scripts/export-pages.mjs",
     "validate:texts": "node scripts/validate-texts.mjs",
     "test": "npm run validate:texts && npm run build && node --test tests/rendered-html.test.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",

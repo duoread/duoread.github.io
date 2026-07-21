@@ -10,6 +10,7 @@ const epubPath = args.epub ?? "data/raw/economist/2026-07-18/TheEconomist.2026.0
 const issue = args.issue ?? inferIssue(epubPath);
 const publication = args.publication ?? "economist";
 const outputRoot = args.out ?? path.join("texts", publication, issue);
+const issuePublishedAt = args.published_at ?? issue;
 
 const raw = await readFile(epubPath);
 const zip = await JSZip.loadAsync(raw);
@@ -34,19 +35,24 @@ for (const entry of entries) {
   const slug = `${String(order).padStart(3, "0")}-${toSlug(article.title_en)}`;
   const articleDir = path.join(outputRoot, "articles", slug);
   await mkdir(articleDir, { recursive: true });
+  const publishedDate = resolvePublishedDate(article.date, issuePublishedAt);
 
   const bilingual = {
     id: slug,
     source_href: entry.href,
     publication,
     issue,
+    issue_published_at: issuePublishedAt,
+    article_published_at: article.date,
+    published_at: publishedDate.value,
+    published_date_source: publishedDate.source,
     order,
     section: article.section,
     title_en: article.title_en,
     title_zh: "",
     rubric_en: article.rubric_en,
     rubric_zh: "",
-    date: article.date,
+    date: publishedDate.value,
     origin_url: article.origin_url,
     translation_status: "pending",
     paragraphs: article.paragraphs.map((en, index) => ({
@@ -68,7 +74,11 @@ for (const entry of entries) {
     title_zh: "",
     rubric_en: article.rubric_en,
     rubric_zh: "",
-    date: article.date,
+    issue_published_at: issuePublishedAt,
+    article_published_at: article.date,
+    published_at: publishedDate.value,
+    published_date_source: publishedDate.source,
+    date: publishedDate.value,
     paragraph_count: bilingual.paragraphs.length,
     translation_status: "pending",
     path: `articles/${slug}/bilingual.json`,
@@ -77,8 +87,10 @@ for (const entry of entries) {
 
 const issueJson = {
   publication,
+  source_type: "magazine",
   issue,
   title: `The Economist ${issue}`,
+  published_at: issuePublishedAt,
   source_epub: epubPath,
   extracted_at: localTimestamp(),
   article_count: articles.length,
@@ -107,6 +119,14 @@ function inferIssue(filePath) {
   const match = filePath.match(/(\d{4})[.-](\d{2})[.-](\d{2})/);
   if (!match) return "unknown-issue";
   return `${match[1]}-${match[2]}-${match[3]}`;
+}
+
+function resolvePublishedDate(articleDate, issueDate) {
+  const articleValue = articleDate?.trim();
+  if (articleValue) {
+    return { value: articleValue, source: "article" };
+  }
+  return { value: issueDate, source: "issue" };
 }
 
 async function readZipText(zip, name) {

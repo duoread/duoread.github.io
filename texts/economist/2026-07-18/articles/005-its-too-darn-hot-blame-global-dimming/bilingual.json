@@ -76,5 +76,9 @@
   ],
   "translated_at": "2026-07-21T14:27:53+08:00",
   "translation_provider": "codex",
-  "translation_model": "codex-default"
+  "translation_model": "codex-default",
+  "issue_published_at": "2026-07-18",
+  "article_published_at": "July 16th 2026",
+  "published_at": "July 16th 2026",
+  "published_date_source": "article"
 }

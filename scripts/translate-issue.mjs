@@ -16,6 +16,7 @@ const openaiModel =
 const limit = args.limit ? Number(args.limit) : Number.POSITIVE_INFINITY;
 const only = args.article ?? "";
 const force = args.force === "true" || args.force === "1";
+const retries = args.retries ? Number(args.retries) : 2;
 
 const issue = JSON.parse(await readFile(path.join(textsRoot, "issue.json"), "utf8"));
 let translated = 0;
@@ -32,10 +33,14 @@ for (const articleRef of issue.articles) {
   if (!force && article.translation_status === "translated") continue;
 
   console.log(`Translating ${article.order}. ${article.title_en}`);
-  const translatedArticle =
-    provider === "openai"
-      ? await translateWithOpenAI(article, openaiModel)
-      : await translateWithCodex(article, codexModel);
+  const translatedArticle = await withRetries(
+    () =>
+      provider === "openai"
+        ? translateWithOpenAI(article, openaiModel)
+        : translateWithCodex(article, codexModel),
+    retries,
+    article,
+  );
 
   assertAligned(article, translatedArticle);
   const { path: _articlePath, ...articleData } = article;
@@ -76,6 +81,22 @@ function parseArgs(argv) {
     if (value && value !== "true") i += 1;
   }
   return parsed;
+}
+
+async function withRetries(operation, attempts, article) {
+  let lastError;
+  for (let attempt = 1; attempt <= attempts + 1; attempt += 1) {
+    try {
+      return await operation();
+    } catch (error) {
+      lastError = error;
+      if (attempt > attempts) break;
+      console.warn(
+        `Retrying ${article.order}. ${article.title_en} after translation parse/run failure (${attempt}/${attempts})`,
+      );
+    }
+  }
+  throw lastError;
 }
 
 async function translateWithOpenAI(article, model) {
@@ -218,6 +239,11 @@ async function rebuildIndexes(root) {
       title_zh: articleData.title_zh,
       rubric_zh: articleData.rubric_zh,
       translation_status: articleData.translation_status,
+      issue_published_at: articleData.issue_published_at,
+      article_published_at: articleData.article_published_at,
+      published_at: articleData.published_at,
+      published_date_source: articleData.published_date_source,
+      date: articleData.date,
     });
   }
 

@@ -30,7 +30,7 @@ test("renders the bilingual magazine reader", async () => {
 
   const html = await response.text();
   assert.match(html, /<title>双语交替阅读<\/title>/i);
-  assert.match(html, /The Economist/);
+  assert.match(html, /Parallel Reader/);
   assert.match(html, /切换段落语言/);
   assert.match(html, /Politics/);
   assert.match(html, /漫画：霍尔木兹海峡局势持续不明朗/);

@@ -20,6 +20,10 @@ The reader displays one language per original paragraph.
 - Inverted mode: the language choice is reversed.
 - The UI exposes this as a `切换段落语言` button.
 
+## Publication Dates
+
+Magazine articles use the article-level publication date when the source EPUB exposes one. If an article does not expose a more precise date, it inherits the magazine issue publication date.
+
 ## Translation Model
 
 `scripts/translate-issue.mjs` supports Codex CLI and OpenAI API backends.

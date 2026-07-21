@@ -1,6 +1,6 @@
 # Project Memory
 
-This project builds a local bilingual magazine reader for language learning.
+This project builds a multi-source bilingual magazine reader for language learning.
 
 Read in this order:
 
