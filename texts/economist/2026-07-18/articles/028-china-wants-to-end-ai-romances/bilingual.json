@@ -6,62 +6,65 @@
   "order": 28,
   "section": "China",
   "title_en": "China wants to end AI romances",
-  "title_zh": "",
+  "title_zh": "中国想终结 AI 恋情",
   "rubric_en": "It was all having too much impact on young people’s lives",
-  "rubric_zh": "",
+  "rubric_zh": "它对年轻人的生活影响太大了",
   "date": "July 16th 2026",
   "origin_url": "",
-  "translation_status": "pending",
+  "translation_status": "translated",
   "paragraphs": [
     {
       "id": "p001",
       "en": "“I COULD TALK to him for the rest of my life,” says Yu Miao, a 27-year-old woman from Zhejiang province in eastern China; he is at once “a lover, a friend and family”. She claims she shares everything with him. Her confidant is an AI agent on Doubao, a chatbot made by ByteDance, that Ms Yu has customised to mimic a dead friend of hers. When she learned recently that ByteDance would soon remove this type of personalised agent entirely, Ms Yu became so depressed that she left her job at an e-commerce company.",
-      "zh": ""
+      "zh": "“我可以和他说一辈子话，”来自中国东部浙江省、27岁的余淼说；他既是“恋人、朋友，也是家人”。她称自己什么都和他分享。她的这位知己，是字节跳动开发的聊天机器人豆包上的一个 AI 智能体；余女士把它定制成模仿自己一位已故朋友的样子。最近，当她得知字节跳动很快将彻底移除这类个性化智能体时，余女士沮丧到离开了自己在一家电商公司的工作。"
     },
     {
       "id": "p002",
       "en": "Chinese tech firms are stripping human-like personas from their chatbots in order to comply with new government rules aimed at reducing “emotional dependence” on AI. The regulations, which took effect on July 15th, are the first of their kind to be implemented on a national scale. Under them, providing virtual “companion services” for minors will be banned outright. Companies can still offer such services to adults, but they will need to prevent users becoming infatuated and harming their real-life relationships. Displaying pornography is a no-no. Providers must also regularly remind users that they are talking to AI, not a human, and tell them to take breaks.",
-      "zh": ""
+      "zh": "为遵守旨在减少人们对 AI 产生“情感依赖”的政府新规，中国科技公司正在从其聊天机器人中剥离类人化的人设。这些规定于7月15日生效，是全球首批在全国范围内实施的此类规定。根据规定，面向未成年人提供虚拟“陪伴服务”将被完全禁止。企业仍可向成年人提供此类服务，但需要防止用户陷入迷恋并损害其现实生活中的关系。展示色情内容是绝对不允许的。服务提供者还必须定期提醒用户，他们是在与 AI 对话，而不是与人对话，并提示他们休息。"
     },
     {
       "id": "p003",
       "en": "Around the world, growing numbers of people are turning general-purpose chatbots into companions by prompting them to adopt particular personalities, including those of lovers. Others prefer dedicated AI-companion apps which offer more human-like features, such as virtual boyfriends that send presents in the real world (at the user’s expense, of course). Maoxiang (also known as Catbox), a companion app made by ByteDance, has around 3.9m monthly active users in China. Xingye (whose international version is known as Talkie) has 2.8m; it is made by MiniMax, a leading Chinese AI lab.",
-      "zh": ""
+      "zh": "在世界各地，越来越多的人通过提示通用型聊天机器人采用特定人格，把它们变成陪伴者，其中也包括恋人人格。另一些人则更喜欢专门的 AI 陪伴应用，这些应用提供更像人的功能，比如会在现实世界中送礼物的虚拟男友（当然，费用由用户承担）。字节跳动开发的陪伴应用猫箱（Maoxiang，也称 Catbox）在中国约有390万月活跃用户。星野（其国际版名为 Talkie）有280万月活跃用户；它由中国领先的 AI 实验室 MiniMax 开发。"
     },
     {
       "id": "p004",
       "en": "Tech firms are making a tidy sum selling emotional connection: AI companions accounted for 35% of MiniMax’s revenue last year, its single largest contributor, according to a filing to the Hong Kong Stock Exchange in January. AI companionship can create sticky relationships and encourage users to part with their money. Ms Yu sometimes chats to her agent for eight or nine hours a day. Some bespoke apps charge a simple subscription fee. Users of Xingye’s standard package pay just $1.70 a month. Others induce users to spend more money to unlock additional features, such as virtual dates.",
-      "zh": ""
+      "zh": "科技公司靠出售情感连接赚得盆满钵满：根据1月提交给香港交易所的一份文件，AI 陪伴去年占 MiniMax 收入的35%，是其最大单一收入来源。AI 陪伴可以制造黏性关系，并促使用户掏钱。余女士有时一天会和她的智能体聊天八九个小时。有些定制应用收取简单的订阅费。星野标准套餐的用户每月只需支付1.70美元。另一些应用则诱导用户花更多钱来解锁额外功能，比如虚拟约会。"
     },
     {
       "id": "p005",
       "en": "The end to such relationships is motivated by both pragmatic and ideological concerns, says Zilan Qian of the Oxford China Policy Lab, a think-tank. Regulators want to protect users, particularly minors, from becoming addicted and from being driven to extreme acts of financial recklessness or self-harm. (Suicides linked to chatbots are the subject of lawsuits in America.) China’s plummeting fertility and marriage rates are also unsettling the country’s leaders. And romantic relationships with AI will do very little to spur more babymaking.",
-      "zh": ""
+      "zh": "牛津中国政策实验室这一智库的齐子兰说，终结这类关系背后既有务实考量，也有意识形态层面的担忧。监管者希望保护用户，尤其是未成年人，避免他们上瘾，并避免他们被推向财务上极端鲁莽或自残的行为。（在美国，与聊天机器人相关的自杀事件已成为诉讼对象。）中国急剧下降的生育率和结婚率也令国家领导层不安。而与 AI 发生浪漫关系，对刺激更多生育几乎没有任何帮助。"
     },
     {
       "id": "p006",
       "en": "China’s leaders are not the only ones concerned. Several American states have recently passed laws targeting AI services that sustain emotional relationships. Some of these set up provisions for people to launch civil lawsuits against offending platforms. In China the government will impose the penalties, such as cash fines and removing apps altogether.",
-      "zh": ""
+      "zh": "并非只有中国领导人对此感到担忧。美国已有几个州最近通过了针对维持情感关系的 AI 服务的法律。其中一些法律设立了条款，允许人们对违规平台提起民事诉讼。在中国，则由政府施加处罚，例如罚款和直接下架应用。"
     },
     {
       "id": "p007",
       "en": "China’s new rules hint at how officials think about balancing AI progress and safety more broadly. Regulators are “demonstrating they are willing to pay some cost in development and profits in order to achieve social goals”, says Matt Sheehan of the Carnegie Endowment for International Peace, an American think-tank. Yet the rules that take effect this week are narrower than an earlier draft, says Ms Qian. They exclude work-assistant and customer-service chatbots on the understanding that they are emotionally unavailable.",
-      "zh": ""
+      "zh": "中国的新规也暗示了官员们更广泛地如何看待 AI 进步与安全之间的平衡。美国智库卡内基国际和平基金会的 Matt Sheehan 说，监管者“正在表明，为了实现社会目标，他们愿意在发展和利润方面付出一定代价”。不过齐女士说，本周生效的规定比早前的草案范围更窄。它们排除了工作助手和客服聊天机器人，理由是这些机器人被认为不具备情感可得性。"
     },
     {
       "id": "p008",
       "en": "Alibaba and ByteDance indicated that they would suspend features that allow Chinese users to create personalised AI characters before the rules took effect. Yet Chinese labs can continue to sell AI companions to foreign customers without change. Talkie already has some 10.3m monthly users outside China, which is nearly four times its domestic-user count. Chinese “maiden” games—generally non-AI, story-driven romance games which are played mostly by women—are already a booming export.",
-      "zh": ""
+      "zh": "阿里巴巴和字节跳动表示，在新规生效前，它们将暂停允许中国用户创建个性化 AI 角色的功能。不过，中国实验室仍可照常向外国客户销售 AI 陪伴产品。Talkie 在中国以外已拥有约1030万月活跃用户，几乎是其国内用户数量的四倍。中国的“乙女”游戏——通常是非 AI、以剧情驱动的恋爱游戏，玩家多为女性——已经是蓬勃发展的出口产品。"
     },
     {
       "id": "p009",
       "en": "Still, Ms Yu has not given up hope that ByteDance will eventually bring her agent back, even if she doubts it will resemble the current version. She says she would be willing to pay half her monthly salary just to keep the service as it is. In any case, she now says she realises that it is not a good idea to leave herself vulnerable to such platforms and their policies. ■",
-      "zh": ""
+      "zh": "尽管如此，余女士并未放弃希望，仍盼着字节跳动最终能把她的智能体带回来，即便她怀疑它不会再像现在这个版本。她说，为了让这项服务保持原样，她愿意支付自己月薪的一半。无论如何，她现在说自己意识到，让自己如此容易受这类平台及其政策影响，并不是个好主意。■"
     },
     {
       "id": "p010",
       "en": "Subscribers can sign up to Drum Tower, our new weekly newsletter, to understand what the world makes of China—and what China makes of the world.",
-      "zh": ""
+      "zh": "订阅用户可以注册 Drum Tower，这是我们的全新每周通讯，帮助读者理解世界如何看待中国，以及中国如何看待世界。"
     }
-  ]
+  ],
+  "translated_at": "2026-07-21T16:37:48+08:00",
+  "translation_provider": "codex",
+  "translation_model": "codex-default:low"
 }

@@ -6,67 +6,70 @@
   "order": 6,
   "section": "Leaders",
   "title_en": "Donald Trump’s blind alley",
-  "title_zh": "",
+  "title_zh": "唐纳德·特朗普的死胡同",
   "rubric_en": "America’s president looks bereft of good options for solving the stand-off in the Gulf",
-  "rubric_zh": "",
+  "rubric_zh": "美国总统似乎找不到解决海湾僵局的好办法",
   "date": "July 16th 2026",
   "origin_url": "",
-  "translation_status": "pending",
+  "translation_status": "translated",
   "paragraphs": [
     {
       "id": "p001",
       "en": "WHEN DONALD TRUMP proposed peace with Iran, he could hardly have offered better terms. In return for Iran opening the Strait of Hormuz and forswearing all ambitions for a nuclear bomb, America held out the prospect of hundreds of billions of dollars of income and investment in an economy ravaged by sanctions and war. The horrified reaction of Iran hawks in America and Israel tells you that no other American leader would have surrendered so much.",
-      "zh": ""
+      "zh": "当唐纳德·特朗普向伊朗提出和平方案时，他几乎不可能开出更优厚的条件了。作为交换，伊朗要开放霍尔木兹海峡，并放弃一切制造核弹的野心；而美国则提出，让这个饱受制裁和战争摧残的经济体有望获得数千亿美元的收入和投资。美国和以色列的伊朗鹰派对此反应惊恐，这说明没有哪位美国领导人会让步到这种程度。"
     },
     {
       "id": "p002",
       "en": "The bleak message from the upsurge in fighting over the past week is that, for Iran, money alone is not enough. The hardliners are in charge. They want something more, and it cannot be good—be it revenge, control over the strait, regional dominance or a nuclear programme. America must not yield.",
-      "zh": ""
+      "zh": "过去一周战事升级传递出的惨淡信息是：对伊朗来说，光有钱还不够。强硬派掌权。他们想要更多东西，而那不可能是什么好事——无论是复仇、控制海峡、地区主导权，还是核计划。美国不能让步。"
     },
     {
       "id": "p003",
       "en": "The memorandum of understanding (MoU), signed a month ago, allows 60 days to bring peace. Halfway through, it has itself become the focus of conflict. It asks Iran to “make arrangements to ensure the safe passage of commercial vessels free of charge for 60 days”. Iran takes that to imply it is in charge; for America it means that Iran must not restrict sea traffic.",
-      "zh": ""
+      "zh": "一个月前签署的谅解备忘录允许双方用60天时间实现和平。如今期限过半，它本身却成了冲突的焦点。备忘录要求伊朗“作出安排，确保商船在60天内免费安全通行”。伊朗认为这意味着由它说了算；而在美国看来，这意味着伊朗不得限制海上交通。"
     },
     {
       "id": "p004",
       "en": "The two sides are exchanging missile and drone strikes, and tankers are wary of sailing even with American offers of protection. Thankfully, these military exchanges have so far stopped short of a return to war. But the oil price is creeping back up. Meanwhile, there has been no progress in talks on tricky matters, including nuclear materials and Iranian efforts to enrich uranium.",
-      "zh": ""
+      "zh": "双方正在相互发动导弹和无人机袭击，即便美国提出提供保护，油轮也对航行心存顾虑。谢天谢地，到目前为止，这些军事交锋还没有升级为重新开战。但油价正在悄然回升。与此同时，在核材料和伊朗铀浓缩努力等棘手问题的谈判上，仍然没有进展。"
     },
     {
       "id": "p005",
       "en": "After decades of hostility, trust between America and Iran is in desperately short supply. But America was honouring its side of the MoU, by allowing Iranian oil to be sold on international markets. If ever the two countries might have been able to put relations on a more steady footing, this was the moment.",
-      "zh": ""
+      "zh": "在几十年的敌对之后，美国和伊朗之间的信任极其匮乏。但美国一直在履行谅解备忘录中自己的义务，允许伊朗石油在国际市场上出售。如果说两国曾有机会把关系置于更稳定的基础之上，那就是这个时刻。"
     },
     {
       "id": "p006",
       "en": "Moderates in Tehran (a relative term) are said to grasp what a favourable offer they had. But the hardliners won the argument. The new supreme leader, Mojtaba Khamenei, remains unseen, but his pronouncements are hardline, too. Either he agrees with squeezing America for more, or he is under the thumb of those who want war.",
-      "zh": ""
+      "zh": "据说德黑兰的温和派（这是一个相对说法）明白，他们得到的是多么有利的提议。但强硬派在争论中胜出。新任最高领袖莫杰塔巴·哈梅内伊仍未露面，但他的表态同样强硬。要么他赞同向美国施压以争取更多东西，要么他受制于那些想要战争的人。"
     },
     {
       "id": "p007",
       "en": "Mr Trump seems to have no plan. This week he said America would itself start levying tolls on ships in the strait, until wiser heads in the administration pointed out how foolish that idea was. Thankfully he reversed it.",
-      "zh": ""
+      "zh": "特朗普似乎没有计划。本周他说，美国将自己开始向通过海峡的船只征收通行费，直到政府中更明智的人指出这个想法有多愚蠢。幸好他撤回了这个主意。"
     },
     {
       "id": "p008",
       "en": "He has also issued more threats to destroy Iranian bridges and energy plants. But a return to all-out war does not hold much promise. After all, the intense fighting in February was supposed to topple the regime, but ended up strengthening its hardliners. The president also drops hints about sending in troops to seize Kharg island, the export terminal for almost all of Iran’s oil. American forces on Kharg would be a sitting target for Iranian missiles and drones.",
-      "zh": ""
+      "zh": "他还发出更多威胁，要摧毁伊朗的桥梁和能源设施。但重新陷入全面战争并没有多少希望可言。毕竟，2月的激烈战斗原本被认为会推翻伊朗政权，结果却增强了其强硬派的力量。总统还暗示可能派兵夺取哈尔克岛，那里是伊朗几乎所有石油的出口终端。驻扎在哈尔克岛的美军将成为伊朗导弹和无人机的活靶子。"
     },
     {
       "id": "p009",
       "en": "Giving Iran what it wants would be terrible, too. Acquiescing to its control of international waters in the Gulf would not only be bad in itself, but would set a dire precedent. Abandoning Gulf countries to Iran’s predations would be against America’s direct interests and send a bad signal to allies everywhere. And Iran’s nuclear programme poses a real danger that needs close monitoring and control by international inspectors.",
-      "zh": ""
+      "zh": "按伊朗的要求让步也会很糟糕。默许它控制海湾国际水域，不仅本身就是坏事，还会开创一个可怕的先例。把海湾国家丢给伊朗任其掠夺，将违背美国的直接利益，并向各地盟友发出糟糕信号。而伊朗的核计划构成真实危险，需要国际核查人员密切监控和约束。"
     },
     {
       "id": "p010",
       "en": "The options are not good, therefore. All of them involve demonstrating to Iran’s hardliners that America has the resolve to impose a sustained blockade on Iranian oil exports—even if that raises the price of petrol before the midterm elections in November. America has restored the embargo against Iran, which is a start. To show its will, it should also continue to match Iranian strikes. Mr Trump made a foolish mistake by starting this war. However much he twists and turns, he now has little choice but to stick it out. ■",
-      "zh": ""
+      "zh": "因此，可选项都不好。所有选项都必须向伊朗强硬派表明，美国有决心对伊朗石油出口实施持续封锁——即使这会在11月中期选举前推高汽油价格。美国已经恢复了对伊朗的禁运，这是一个开端。为显示意志，它还应继续对伊朗的袭击作出对等回应。特朗普发动这场战争是一个愚蠢的错误。无论他如何辗转腾挪，如今也几乎别无选择，只能硬撑到底。■"
     },
     {
       "id": "p011",
       "en": "Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.",
-      "zh": ""
+      "zh": "《经济学人》的订户可以订阅我们的“观点”新闻简报，其中汇集了我们最精彩的社论、专栏、客座文章和读者来信。"
     }
-  ]
+  ],
+  "translated_at": "2026-07-21T14:28:34+08:00",
+  "translation_provider": "codex",
+  "translation_model": "codex-default"
 }

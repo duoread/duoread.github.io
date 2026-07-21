@@ -6,52 +6,55 @@
   "order": 42,
   "section": "Britain",
   "title_en": "Lessons from a cat about to outlast yet another prime minister",
-  "title_zh": "",
+  "title_zh": "一只猫即将又熬走一位首相，它给人的启示",
   "rubric_en": "Number 10’s canny feline can teach Andy Burnham a thing or two",
-  "rubric_zh": "",
+  "rubric_zh": "唐宁街10号这只精明的猫，能教安迪·伯纳姆一两招",
   "date": "July 16th 2026",
   "origin_url": "",
-  "translation_status": "pending",
+  "translation_status": "translated",
   "paragraphs": [
     {
       "id": "p001",
       "en": "Around Westminster he is known as self-serving and territorial. “A little shit”, is how one minister has described him. Larry the cat, “Chief Mouser to the Cabinet Office” (to give him his official title), has been in post for 15 years and is on his sixth prime minister. As he prepares to turn his bottom to his seventh, Larry has lessons to offer his new housemate.",
-      "zh": ""
+      "zh": "在威斯敏斯特一带，它以自利、地盘意识强而闻名。“一个小混蛋”，一位大臣曾这样形容它。拉里这只猫，“内阁办公厅首席捕鼠官”（这是它的正式头衔），已经在任15年，经历了六任首相。眼看它又要把屁股转向第七位首相，拉里有几条经验可以传授给这位新室友。"
     },
     {
       "id": "p002",
       "en": "Start with a good backstory. Like many an effective political operator, Larry came from the wrong side of the tracks. His redemption began when he was selected for office from Battersea Dogs and Cats Home during David Cameron’s tenure as prime minister; he was the first to get the title he now holds.",
-      "zh": ""
+      "zh": "首先，要有一个漂亮的背景故事。和许多高明的政治操盘手一样，拉里出身并不光鲜。它的逆袭始于戴维·卡梅伦担任首相期间，当时它从巴特西猫狗之家被选中上任；它也是第一个获得如今这个头衔的猫。"
     },
     {
       "id": "p003",
       "en": "Next, either do the job well or maintain the perception that you are. Larry is streetwise and known as “a bit of a bruiser”. But his mousing instincts are much debated. Media stationed outside the famous black door have confirmed two recent kills. Behind closed doors there is scepticism. His official government page notes his solution to the rodent problem remains in the “tactical planning stage” and that he often tests “antique furniture for napping quality”.",
-      "zh": ""
+      "zh": "其次，要么把工作干好，要么维持住你干得很好的印象。拉里很懂街头生存之道，还以“有点好斗”著称。但它捕鼠的本能一直颇有争议。驻守在那扇著名黑门外的媒体已证实它最近有两次捕杀记录。可在闭门之后，人们对此仍有怀疑。英国政府官网上关于它的页面写道，它解决鼠患的方案仍处于“战术规划阶段”，而且它经常测试“古董家具是否适合打盹”。"
     },
     {
       "id": "p004",
       "en": "Third, be media-savvy. Larry keeps journalists at tail’s length, slinking away from any who approach. But he knows how to exploit media opportunities, having photo-bombed world leaders like Volodymyr Zelensky of Ukraine. In 2019 he stole headlines by sheltering from rain under “The Beast”, Donald Trump’s armoured limousine.",
-      "zh": ""
+      "zh": "第三，要懂媒体。拉里与记者保持一尾之距，凡是有人靠近，它就溜走。但它知道如何利用媒体机会，曾抢镜多国领导人，比如乌克兰总统弗拉基米尔·泽连斯基。2019年，它躲在唐纳德·特朗普的装甲豪华轿车“野兽”下面避雨，抢走了新闻头条。"
     },
     {
       "id": "p005",
       "en": "Finally, suffer no challengers. A long-running feud with Palmerston, the former chief mouser at the Foreign Office, culminated in a fight. Larry reportedly lost a collar; Palmerston hurt his ear.",
-      "zh": ""
+      "zh": "最后，不容挑战者。拉里与外交部前首席捕鼠官帕默斯顿长期不和，最终以一场打斗收场。据报道，拉里丢了一只项圈；帕默斯顿伤了耳朵。"
     },
     {
       "id": "p006",
       "en": "Such canny political manoeuvring has blessed Larry with public-approval ratings that most politicians would sell their cat for. He has over 900,000 followers on his unofficial X account and is frequently sent gifts from fans.",
-      "zh": ""
+      "zh": "这种精明的政治腾挪，让拉里拥有了多数政客愿意“卖猫求得”的公众支持率。它的非官方X账号拥有超过90万名关注者，也经常收到粉丝寄来的礼物。"
     },
     {
       "id": "p007",
       "en": "But the whiskers are greying. In cat years, Larry is about 92 (Winston Churchill was 80 when he left office). Unlike many British leaders, the chief mouser looks set to exit on his own terms.■",
-      "zh": ""
+      "zh": "不过，它的胡须已经灰白。按猫的年龄算，拉里大约92岁了（温斯顿·丘吉尔离任时80岁）。与许多英国领导人不同，这位首席捕鼠官看来将按自己的方式退场。■"
     },
     {
       "id": "p008",
       "en": "For more expert analysis of the biggest stories in Britain, sign up to Blighty, our weekly subscriber-only newsletter.",
-      "zh": ""
+      "zh": "如需更多关于英国重大新闻的专家分析，请订阅Blighty，我们每周一期、仅面向订户的新闻通讯。"
     }
-  ]
+  ],
+  "translated_at": "2026-07-21T16:47:43+08:00",
+  "translation_provider": "codex",
+  "translation_model": "codex-default:low"
 }

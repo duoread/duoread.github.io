@@ -36,26 +36,30 @@ type SiteContent = {
 
 export function ReaderApp({ content }: { content: SiteContent }) {
   const issue = content.issues[0];
-  const firstReadableArticle =
-    issue.articles.find((article) => article.translation_status === "translated") ??
-    issue.articles[0];
+  const translatedArticles = issue.articles.filter(
+    (article) => article.translation_status === "translated",
+  );
+  const readableArticles =
+    translatedArticles.length > 0 ? translatedArticles : issue.articles;
+  const firstReadableArticle = readableArticles[0];
   const [activeId, setActiveId] = useState(firstReadableArticle?.id ?? "");
   const [inverted, setInverted] = useState(false);
   const [query, setQuery] = useState("");
 
   const activeArticle =
-    issue.articles.find((article) => article.id === activeId) ?? issue.articles[0];
+    readableArticles.find((article) => article.id === activeId) ??
+    firstReadableArticle;
 
   const filteredArticles = useMemo(() => {
     const needle = query.trim().toLowerCase();
-    if (!needle) return issue.articles;
-    return issue.articles.filter((article) =>
+    if (!needle) return readableArticles;
+    return readableArticles.filter((article) =>
       [article.title_en, article.title_zh, article.section]
         .join(" ")
         .toLowerCase()
         .includes(needle),
     );
-  }, [issue.articles, query]);
+  }, [readableArticles, query]);
 
   const translatedCount =
     issue.translated_count ??

@@ -6,157 +6,160 @@
   "order": 10,
   "section": "Letters",
   "title_en": "The United States is once again in a state of rebellion",
-  "title_zh": "",
+  "title_zh": "美国再次处于反叛状态",
   "rubric_en": "Also this week, the backlash against AI, homelessness, Eisenhower and roads, oil predictions",
-  "rubric_zh": "",
+  "rubric_zh": "本周还谈到：对人工智能的反弹、无家可归问题、艾森豪威尔与公路、石油预测",
   "date": "July 16th 2026",
   "origin_url": "",
-  "translation_status": "pending",
+  "translation_status": "translated",
   "paragraphs": [
     {
       "id": "p001",
       "en": "Letters are welcome via email to letters@economist.comFind out more about how we process your letter",
-      "zh": ""
+      "zh": "欢迎通过电子邮件 letters@economist.com 来信。了解更多关于我们如何处理来信的信息。"
     },
     {
       "id": "p002",
       "en": "Your sweeping analysis of “The Wrecking-ball revolution” (July 4th) in geopolitics initiated by Donald Trump concluded by contemplating a new balance-of-power regime that nevertheless remains grounded in the principles established by the peace of Westphalia in 1648. Those treaties recognised the sovereign state as “the fundamental notion on which geopolitics is founded”, you said.",
-      "zh": ""
+      "zh": "你们对唐纳德·特朗普在地缘政治上发起的“破坏球革命”（7月4日）所作的宏观分析，最后设想了一种新的均势体制，但它仍然植根于1648年《威斯特伐利亚和约》确立的原则。你们说，那些条约承认主权国家是“地缘政治赖以建立的基本概念”。"
     },
     {
       "id": "p003",
       "en": "Otto von Bismarck and Henry Kissinger were the masters of balancing power. Both assessed national interests on a truly grand strategic scale. Mr Trump has replaced that with the art of the deal. A good example of this is the Abraham accords between Israel and the United Arab Emirates. The accords bring parties together to negotiate an agreement that serves their mutual interests. Although no overarching geopolitical blueprint may be guiding the process, the parties must still consider the wider consequences that any agreement may have within their respective spheres of influence and among their partners.",
-      "zh": ""
+      "zh": "奥托·冯·俾斯麦和亨利·基辛格是平衡权力的大师。两人都能从真正宏大的战略尺度评估国家利益。特朗普先生用交易的艺术取而代之。以色列与阿拉伯联合酋长国之间的《亚伯拉罕协议》就是一个很好的例子。这些协议把各方带到一起，谈判达成一项符合彼此利益的安排。尽管整个过程未必有一套总体地缘政治蓝图作为指引，各方仍必须考虑任何协议可能在各自势力范围内以及在伙伴之间产生的更广泛后果。"
     },
     {
       "id": "p004",
       "en": "This emphasis on one-to-one dealmaking may be seen as a new way of rethinking the international order, as you suggested, without losing sight of the enduring logic of the balance of power. Rather than relying on grand designs, bilateral deals are themselves a mechanism for creating a balance of power.",
-      "zh": ""
+      "zh": "正如你们所指出的，这种对一对一交易的强调，可以被视为重新思考国际秩序的一种新方式，同时并不忽视均势的持久逻辑。双边交易本身就是一种创造均势的机制，而不是依赖宏大设计。"
     },
     {
       "id": "p005",
       "en": "Josef ErnstBremen, Germany",
-      "zh": ""
+      "zh": "Josef Ernst 德国不来梅"
     },
     {
       "id": "p006",
       "en": "The revolt you describe is real enough, but the diagnosis is too convenient. Americans have not suddenly decided that immigration, foreigners and liberalism are intolerable. They have noticed that borders, universities, labour markets and public services are often managed as if citizens were merely one constituency among many, and not necessarily the preferred one.",
-      "zh": ""
+      "zh": "你们描述的反叛确实存在，但诊断过于方便。美国人并不是突然认定移民、外国人和自由主义令人无法容忍。他们注意到，边境、大学、劳动力市场和公共服务的管理方式，往往像是把公民只当作众多群体中的一个，而且还不一定是优先考虑的那个。"
     },
     {
       "id": "p007",
       "en": "The distinctions matter. Opposition to illegal immigration is not opposition to immigration. Nor is America plainly succumbing to a wave of Christian nationalism. Much of what you call nativism is closer to a demand for cultural confidence, a belief that liberal societies should be able to say what their norms are before importing large numbers of people from countries shaped by very different religious and legal traditions.",
-      "zh": ""
+      "zh": "这些区别很重要。反对非法移民并不等于反对移民。美国也并非显然正在屈服于一股基督教民族主义浪潮。你们所谓的本土主义，其中很大一部分更接近于对文化自信的要求，即认为自由社会在从宗教和法律传统截然不同的国家大量引入人口之前，应当能够说清自己的规范是什么。"
     },
     {
       "id": "p008",
       "en": "This is not a uniquely American spasm. Britain faces much the same argument, though perhaps with more queuing and less ammunition. One suspects that at certain London brunch tables “racism” remains the most socially efficient explanation for voters who have noticed that the old settlement is not working.",
-      "zh": ""
+      "zh": "这并不是美国独有的一阵痉挛。英国面临的争论大体相同，只不过也许排队更多、枪弹更少。有人会怀疑，在伦敦某些早午餐餐桌上，对那些已经发现旧安排行不通的选民来说，“种族主义”仍是社交上最省事的解释。"
     },
     {
       "id": "p009",
       "en": "The post-war order is indeed under strain. But the wrecking ball was handed to voters by institutions that stopped asking for consent.",
-      "zh": ""
+      "zh": "战后秩序确实承受着压力。但那只破坏球，是由那些不再寻求同意的机构交到选民手里的。"
     },
     {
       "id": "p010",
       "en": "Michael LauckHouston",
-      "zh": ""
+      "zh": "Michael Lauck 休斯敦"
     },
     {
       "id": "p011",
       "en": "“Do not compute” (June 27th) highlighted the public backlash to AI data centres. But your example of a mid-size data centre using only as much water as two golf courses was a mild injustice for those of us who enjoy spending our weekends out on the links.",
-      "zh": ""
+      "zh": "《不要计算》（6月27日）重点谈到了公众对人工智能数据中心的反弹。不过，你们举例说一个中型数据中心用水量仅相当于两个高尔夫球场，这对我们这些喜欢周末去球场挥杆的人来说，多少有点小小的不公。"
     },
     {
       "id": "p012",
       "en": "The sources of the water for a data centre and a golf course differ in ways that matter locally. Golf courses mainly rely on non-potable water from ponds, reclaimed wastewater and the like. By contrast, data centres often tap potable or near-potable freshwater, often from public utilities or aquifers. This distinction is crucial. The issue is not just how much water is used, but whether this competes directly with households.",
-      "zh": ""
+      "zh": "数据中心和高尔夫球场的水源不同，而这种差异在当地很重要。高尔夫球场主要依靠池塘、再生废水等非饮用水。相比之下，数据中心往往取用可饮用或接近可饮用的淡水，而且常常来自公共供水系统或含水层。这一区别至关重要。问题不只是用了多少水，而是这种用水是否直接与家庭用水竞争。"
     },
     {
       "id": "p013",
       "en": "Corbin DorfnerScottsdale, Arizona",
-      "zh": ""
+      "zh": "Corbin Dorfner 亚利桑那州斯科茨代尔"
     },
     {
       "id": "p014",
       "en": "The conflict around AI and data centres is not so much about the technology itself as it is the far larger contest between those who wish to live in a world ruled by CAESARE (Credentialed Academic Experts Should Always Run Everything) and those who don’t. CAESARE and his loyal followers should first consider how best to go about gaining the trust of the rest of Earth’s inhabitants. Humility and empathy would be a good start.",
-      "zh": ""
+      "zh": "围绕人工智能和数据中心的冲突，与其说关乎技术本身，不如说关乎一场更大的较量：一方希望生活在由 CAESARE（“有资质的学术专家应当永远掌管一切”）统治的世界里，另一方则不愿如此。CAESARE 及其忠实追随者应当首先想想，怎样才能最好地赢得地球上其他居民的信任。谦逊和同理心会是一个不错的开端。"
     },
     {
       "id": "p015",
       "en": "Steve AcetoMontreat, North Carolina",
-      "zh": ""
+      "zh": "Steve Aceto 北卡罗来纳州蒙特里特"
     },
     {
       "id": "p016",
       "en": "There was one important detail missing from your article on Denver’s progress towards solving its homelessness problem (“Down, not out”, June 20th). Providing temporary shelter and eventually permanent housing to 100% of the currently homeless will not fully solve the problem. The reservoir of potentially new homeless people is an order of magnitude greater than the number of homeless. About half of poverty households spend more than 90% of their income on housing. Each is one small misfortune away from homelessness.",
-      "zh": ""
+      "zh": "你们关于丹佛在解决无家可归问题上取得进展的文章（《境况好转，尚未脱困》，6月20日）遗漏了一个重要细节。为目前无家可归者中的100%提供临时住所，并最终提供永久住房，并不能彻底解决问题。潜在新增无家可归者的蓄水池，比现有无家可归者人数高出一个数量级。约有一半贫困家庭把超过90%的收入花在住房上。每一个家庭都只差一次小小的不幸，就可能沦为无家可归。"
     },
     {
       "id": "p017",
       "en": "The cost to create housing at this scale is significantly larger than any city can afford, so the short answer to your question about how much progress cities can make without broader support is not much. The economic and political will does not exist to make the substantial investment necessary to truly solve Denver or any city’s homelessness problem.",
-      "zh": ""
+      "zh": "按这样的规模建造住房，其成本远超任何城市所能负担。因此，对于你们提出的城市在没有更广泛支持的情况下能取得多少进展这个问题，简短的答案是：不多。无论是丹佛还是任何城市，要真正解决无家可归问题，都需要大量投资，而目前并不存在作出这种投资的经济和政治意愿。"
     },
     {
       "id": "p018",
       "en": "Tom RosenthalProfessor emeritus at the David Geffen School of MedicineUniversity of California, Los Angeles",
-      "zh": ""
+      "zh": "Tom Rosenthal 加州大学洛杉矶分校大卫·格芬医学院荣休教授"
     },
     {
       "id": "p019",
       "en": "“The wheel deal” (July 4th) looked at the history of Route 66 and mentioned that Dwight Eisenhower created the federal-highways act after being so impressed with Germany’s autobahn during the second world war. Eisenhower perceived the need for America’s interstate freeways long before that. As a lieutenant-colonel in 1919 he witnessed the American army’s gruelling two-month, 3,200 mile (5,100km) coast-to-coast convoy from Washington, DC, to San Francisco over what had been named the Lincoln Highway.",
-      "zh": ""
+      "zh": "《轮上交易》（7月4日）回顾了66号公路的历史，并提到德怀特·艾森豪威尔在第二次世界大战期间对德国高速公路印象深刻，后来制定了联邦公路法。其实，艾森豪威尔早在那之前就已经意识到美国需要州际高速公路。1919年，身为陆军中校的他亲眼见证了美国陆军一次艰苦的、历时两个月、横跨3,200英里（5,100公里）的海岸到海岸车队行军，从华盛顿特区沿着当时被命名为林肯公路的路线前往旧金山。"
     },
     {
       "id": "p020",
       "en": "Much of the route west of Chicago was a rutted dirt road. The ordeal deeply influenced the future president regarding the national security imperative for modern road networks, culminating in the Federal Aid Highway Act of 1956. Michael Owen’s splendid book, “After Ike”, recounts the convoy’s ordeal.",
-      "zh": ""
+      "zh": "芝加哥以西的大部分路段都是布满车辙的土路。这场磨难深刻影响了这位未来总统对现代道路网络作为国家安全必需品的看法，并最终促成了1956年的《联邦援助公路法》。Michael Owen 的精彩著作《After Ike》讲述了那支车队的艰难经历。"
     },
     {
       "id": "p021",
       "en": "DAVID SMOLLARSan Diego",
-      "zh": ""
+      "zh": "DAVID SMOLLAR 圣迭戈"
     },
     {
       "id": "p022",
       "en": "I was surprised to see The Economist acknowledging it was wrong about its prediction that oil prices would remain very high (“We woz wrong about oil”, July 4th). The year is far from over. No one can accurately predict what Donald Trump will do next (except for his insiders) or how those actions may drive prices. You may have lost only the battle and not the war, especially as the ceasefire is unravelling. Maybe you were a bit too quick in claiming defeat.",
-      "zh": ""
+      "zh": "看到《经济学人》承认自己关于油价将维持高位的预测错了（《俺们对石油判断错了》，7月4日），我感到惊讶。今年还远未结束。没有人能准确预测唐纳德·特朗普下一步会做什么（他的内部人士除外），也无法预测这些行动会如何推动价格。你们也许只是输掉了一场战斗，而不是整场战争，尤其是停火正在瓦解。也许你们有点太快认输了。"
     },
     {
       "id": "p023",
       "en": "Jamal Russell BlackLondon",
-      "zh": ""
+      "zh": "Jamal Russell Black 伦敦"
     },
     {
       "id": "p024",
       "en": "Morris Adelman, the Adam Smith of the oil industry, once said that oil prices are bound to fluctuate between infinity and $2 per barrel. Even he was wrong, because oil prices fell below zero during the pandemic in April 2020. This is a cautionary tale for anyone who makes predictions and the reason why I reject your mea culpa. Why the oil-price shock never materialised is still a mystery. It seems the over-optimism of financial investors in stock markets has leaked into energy and pushed prices lower. It is too early to dismiss the “la-la land” hypothesis.",
-      "zh": ""
+      "zh": "被称为石油业亚当·斯密的 Morris Adelman 曾说，油价必然会在无穷大和每桶2美元之间波动。即便是他也错了，因为在2020年4月疫情期间，油价跌到了零以下。对任何做预测的人来说，这是一个警示故事，也是我不接受你们认错的原因。油价冲击为何从未出现，仍然是个谜。似乎是股市金融投资者的过度乐观蔓延到了能源市场，并把价格推低。现在就排除“异想天开”假说还为时过早。"
     },
     {
       "id": "p025",
       "en": "Davide TabarelliNE Nomisma EnergiaBologna, Italy",
-      "zh": ""
+      "zh": "Davide Tabarelli NE Nomisma Energia 意大利博洛尼亚"
     },
     {
       "id": "p026",
       "en": "Admitting you made a mistake brought to mind the claim made by Stephen Dedalus in James Joyce’s “Ulysses”. Some “errors are volitional and are the portals of discovery”.",
-      "zh": ""
+      "zh": "你们承认自己犯了错误，让人想起詹姆斯·乔伊斯《尤利西斯》中斯蒂芬·迪达勒斯提出的说法。有些“错误是出于意志的，是发现之门”。"
     },
     {
       "id": "p027",
       "en": "Gerald SmithWellington, New Zealand",
-      "zh": ""
+      "zh": "Gerald Smith 新西兰惠灵顿"
     },
     {
       "id": "p028",
       "en": "It was a big relief to learn that The Economist is not always wrong and gets the future right from time to time. May I make my own modest prediction? In another quarter of a century, The Economist will still call the OECD “a club of mostly rich countries”.",
-      "zh": ""
+      "zh": "得知《经济学人》并不总是错，而且时不时也能正确预见未来，真是让人大大松了一口气。我可以作一个自己小小的预测吗？再过四分之一个世纪，《经济学人》仍会把经合组织称为“一个主要由富国组成的俱乐部”。"
     },
     {
       "id": "p029",
       "en": "Michael BildeJaegerspris, Denmark",
-      "zh": ""
+      "zh": "Michael Bilde 丹麦耶厄斯普里斯"
     }
-  ]
+  ],
+  "translated_at": "2026-07-21T14:31:47+08:00",
+  "translation_provider": "codex",
+  "translation_model": "codex-default"
 }

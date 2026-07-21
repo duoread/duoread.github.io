@@ -8,6 +8,8 @@ const args = parseArgs(process.argv.slice(2));
 const textsRoot = args.root ?? path.join("texts", "economist", "2026-07-18");
 const provider = args.provider ?? process.env.TRANSLATION_PROVIDER ?? "codex";
 const codexModel = args.model ?? process.env.CODEX_TRANSLATION_MODEL ?? "";
+const codexReasoningEffort =
+  args.reasoning ?? process.env.CODEX_TRANSLATION_REASONING ?? "low";
 const openaiModel =
   args.model ?? process.env.OPENAI_TRANSLATION_MODEL ?? "gpt-5.3-codex-spark";
 const limit = args.limit ? Number(args.limit) : Number.POSITIVE_INFINITY;
@@ -43,7 +45,10 @@ for (const articleRef of issue.articles) {
     translation_status: "translated",
     translated_at: localTimestamp(),
     translation_provider: provider,
-    translation_model: provider === "openai" ? openaiModel : codexModel || "codex-default",
+    translation_model:
+      provider === "openai"
+        ? openaiModel
+        : `${codexModel || "codex-default"}:${codexReasoningEffort}`,
     paragraphs: article.paragraphs.map((paragraph, index) => ({
       ...paragraph,
       zh: translatedArticle.paragraphs[index].zh,
@@ -52,6 +57,7 @@ for (const articleRef of issue.articles) {
 
   await writeJson(articlePath, merged);
   await writeFile(path.join(path.dirname(articlePath), "zh.md"), zhMarkdown(merged), "utf8");
+  await rebuildIndexes(textsRoot);
   translated += 1;
 }
 
@@ -89,17 +95,32 @@ async function translateWithCodex(article, model) {
   const cacheDir = path.join(path.dirname(path.join(textsRoot, article.path)), ".translation-cache");
   await mkdir(cacheDir, { recursive: true });
   const outputPath = path.join(cacheDir, "codex-output.json");
-  const args = ["exec", "-s", "read-only", "--ephemeral", "-o", outputPath];
+  const args = [
+    "exec",
+    "-c",
+    `model_reasoning_effort="${codexReasoningEffort}"`,
+    "-s",
+    "read-only",
+    "--ephemeral",
+    "-o",
+    outputPath,
+  ];
   if (model) args.push("-m", model);
   args.push("-");
 
-  execFileSync("codex", args, {
-    cwd: process.cwd(),
-    input: promptFor(article),
-    stdio: ["pipe", "ignore", "inherit"],
-    encoding: "utf8",
-    maxBuffer: 1024 * 1024 * 20,
-  });
+  try {
+    execFileSync("codex", args, {
+      cwd: process.cwd(),
+      input: promptFor(article),
+      stdio: ["pipe", "ignore", "pipe"],
+      encoding: "utf8",
+      maxBuffer: 1024 * 1024 * 20,
+    });
+  } catch (error) {
+    const stderr = error.stderr?.toString("utf8") ?? "";
+    const tail = stderr.split("\n").slice(-40).join("\n");
+    throw new Error(`Codex translation failed for ${article.id}\n${tail}`);
+  }
 
   const output = await readFile(outputPath, "utf8");
   return parseModelJson(output);
