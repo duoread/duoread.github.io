@@ -6,76 +6,79 @@
   "order": 63,
   "section": "Science & technology",
   "title_en": "How to train for a heatwave",
-  "title_zh": "",
+  "title_zh": "如何适应酷热天气",
   "rubric_en": "A nice, hot bath can go a long way",
-  "rubric_zh": "",
+  "rubric_zh": "一场舒适又热的热水澡能带来很大帮助",
   "date": "July 16th 2026",
   "origin_url": "",
-  "translation_status": "pending",
+  "translation_status": "translated",
   "paragraphs": [
     {
       "id": "p001",
       "en": "ENGLAND’S football team set up camp in West Palm Beach, Florida, on June 1st, almost two weeks before the start of the 2026 World Cup. That was so the players, many of whom were used to training in the mild climate of Britain, could adapt to the blistering heat of the host nations. But as July has brought western Europe’s third heatwave of 2026, even those not competing in elite sports might wonder how they can train appropriately to beat the heat.",
-      "zh": ""
+      "zh": "英格兰足球队于6月1日在美国佛罗里达州西棕榈滩驻训，这距2026年世界杯开幕还有近两个星期。这样做是为了让许多习惯在英国温和气候下训练的球员，提前适应东道国炙热的天气。但随着7月来临，西欧在2026年迎来了第三次热浪，即使是不参加顶级体育赛事的人，也可能会想：自己该如何在训练中合适地“抗热”呢？"
     },
     {
       "id": "p002",
       "en": "Preparing for heat requires exposure to heat. That increases levels of blood plasma—the watery stuff which carries blood cells around the body—meaning the heart does not have to work as hard to pump blood, and can beat in a more leisurely manner for longer.",
-      "zh": ""
+      "zh": "要做好防暑训练，关键是要让身体接触高温。这样会提高血浆水平——也就是体内携带血细胞的水状成分——使心脏不必如此辛苦地泵血，并且可以更长时间地以更轻松的节奏跳动。"
     },
     {
       "id": "p003",
       "en": "More plasma also improves blood flow to the skin. There, tiny sweat glands release water and electrolytes onto the skin’s surface, whence the water evaporates, cooling the body. As the body adapts to heat it lowers the temperature at which perspiration begins, as well as the amount of electrolytes lost.",
-      "zh": ""
+      "zh": "更多的血浆也会改善血液流向皮肤。皮肤上的汗腺会把水分和电解质排到皮肤表面，再由水分蒸发带走热量，从而给身体降温。随着身体对高温的适应，出汗开始的体温阈值会降低，同时流失的电解质也会减少。"
     },
     {
       "id": "p004",
       "en": "The best way to bring about such changes is “controlled hyperthermia”. Unfortunately, that involves being locked in a heat chamber for 90 minutes and monitored with a rectal thermometer. In the sweltering heat, participants spend 30 minutes exercising to raise their core body temperatures to a target value—usually 38.5°C. The next hour is then spent alternating between exercise and rest to keep their temperature fixed at the target. And you have to repeat this daily for five to seven days.",
-      "zh": ""
+      "zh": "促成这些变化的最佳方式是“受控高温负荷训练”。遗憾的是，这通常需要被锁在一个高温舱里90分钟，并由医护人员用直肠温度计监测体温。在闷热环境中，参与者先进行30分钟运动，将核心体温提高到目标值——通常为38.5°C。接下来的一个小时则在运动与休息之间交替进行，以将体温稳定在目标值。然后这种训练要每天重复进行五到七天。"
     },
     {
       "id": "p005",
       "en": "Few people, however, have a heat chamber—or the necessary monitoring equipment—in their living room. Fortunately, scientists have devised methods more appropriate for everyday life.",
-      "zh": ""
+      "zh": "然而，很少有人在客厅里有一个热舱——更别说配套的监测设备了。幸运的是，科学家们已经提出了更适合日常生活的做法。"
     },
     {
       "id": "p006",
       "en": "The simplest is to exercise outside in the heat, says Neil Maxwell, an environmental physiologist at the University of Brighton, in Britain. “That will naturally acclimatise you.”",
-      "zh": ""
+      "zh": "正如英国布莱顿大学的环境生理学家尼尔·麦克斯韦尔（Neil Maxwell）所说，最简单的方法就是在高温环境下在户外运动。“这会自然地帮助你完成热适应。”"
     },
     {
       "id": "p007",
       "en": "Even better is to add a hot bath. A study published in 2016, in the Scandinavian Journal of Medicine & Science in Sports, found that 40 minutes on a treadmill in 18°C heat followed by 40 minutes in a hot bath, daily for six days, improved several measures of acclimatisation.",
-      "zh": ""
+      "zh": "更好的方法是再加上热水澡。一项于2016年发表在《Scandinavian Journal of Medicine & Science in Sports》（《斯堪的纳维亚医学与运动科学杂志》）的研究发现，每天在18°C的热环境中跑步机运动40分钟，随后再在热水中浸泡40分钟，连续六天，可以改善多项热适应指标。"
     },
     {
       "id": "p008",
       "en": "In fact, as work published in April in Healthcare found, hot baths alone can do the trick. This research, which looked at healthy adults aged over 65, showed that an hour a day in a 40°C bath produced signs of acclimatisation after just four days. So there is, as it were, no need to sweat it. Simply immersing yourself in hot water brings about the necessary increase in core temperature, says Laura Wilson of Middlesex University, also in Britain, who led the study.",
-      "zh": ""
+      "zh": "事实上，正如4月发表在《Healthcare》上的一项研究所显示，仅靠热水澡也能达到同样效果。这项研究调查了65岁以上的健康成年人，发现每天在40°C的热水中浸泡1小时，仅四天后就出现了热适应迹象。因此，换句话说，你没必要大费周章。英国米德尔塞克斯大学（Middlesex University）的劳拉·威尔逊（Laura Wilson）——该研究的负责人——表示，仅仅让身体浸入热水中，就足以带来核心体温的必要上升。"
     },
     {
       "id": "p009",
       "en": "Acclimatisation is not permanent. “If you don’t keep exposing yourself to heat, then you’re going to start losing the adaptive benefits,” says Dr Maxwell. Still, only a few days of training are needed in the lead-up to a heatwave. The evidence suggests 75-80% of adaptations build up in the first four to seven days.",
-      "zh": ""
+      "zh": "热环境适应不是永久性的。“如果你不持续让自己暴露在高温下，那么你会开始失去这些适应带来的益处，”麦克斯韦尔医生说。不过，在热浪来临前只需要训练几天。证据表明，75%至80%的适应变化会在前四到七天内建立。"
     },
     {
       "id": "p010",
       "en": "Heat can be dangerous. And acclimatisation is not immunity. The usual risks from heat still apply. “Try and replace 150% of the fluid you lose during any kind of session to acclimatise,” says Dr Wilson. “If you’re starting to feel faint or dizzy or lightheaded, take yourself out of the environment.”",
-      "zh": ""
+      "zh": "高温很危险，而且热适应并不等于免疫。平时高温带来的风险仍然适用。“在任何形式的训练中，尽量补回你流失体液量的150%，以帮助身体适应，”威尔逊医生说。“如果你开始出现头晕、发软或眼前发黑，请立刻离开高温环境。”"
     },
     {
       "id": "p011",
       "en": "When done safely, however, some simple tactics could help take the edge off the weather. Jumping in a hot bath may not be appealing as temperatures begin to rise. But your future self will thank you for it. ■",
-      "zh": ""
+      "zh": "不过，只要方法得当，一些简单策略也能帮助减轻天气带来的压力。随着气温上升，跳进热水澡可能并不吸引人，但你的未来自己会为此感激。■"
     },
     {
       "id": "p012",
       "en": "After a free, evidence-based guide to health and wellness? Sign up to our weekly Well Informed newsletter.",
-      "zh": ""
+      "zh": "想获取一份免费的循证健康与养生指南？订阅我们的每周 Well Informed 时事通讯。"
     }
   ],
   "issue_published_at": "2026-07-18",
   "article_published_at": "July 16th 2026",
   "published_at": "July 16th 2026",
-  "published_date_source": "article"
+  "published_date_source": "article",
+  "translated_at": "2026-07-21T17:56:56+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
 }

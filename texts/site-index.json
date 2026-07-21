@@ -1,7 +1,7 @@
 {
   "publication": "economist",
   "current_issue": "2026-07-18",
-  "generated_at": "2026-07-21T17:15:50+08:00",
+  "generated_at": "2026-07-21T18:02:20+08:00",
   "issues": [
     {
       "publication": "economist",
@@ -4659,98 +4659,101 @@
           "order": 56,
           "section": "Finance & economics",
           "title_en": "Storm clouds gather over America’s financial supremacy",
-          "title_zh": "",
+          "title_zh": "美国金融主导地位之上的乌云密布",
           "rubric_en": "Its payments firms may be the first casualties",
-          "rubric_zh": "",
+          "rubric_zh": "支付公司可能是最先受损的一方",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "LAST MONTH Jamieson Greer, America’s top trade official, complained that Pix, a Brazilian instant-payments system, unfairly disadvantages American firms such as Visa and Mastercard. America proposed an extra 25% tariff on Brazil in response. Yet Brazilians seem unmoved. “Pix is a Brazilian achievement and we will not give it up,” replied Luiz Inácio Lula da Silva, Brazil’s president and a frequent critic of American power. Even his right-wing rival, Flávio Bolsonaro, said he was unwilling to forgo the system, instead suggesting a compromise in which Brazil would promise not to link Pix to cross-border payment infrastructure that rivals America’s.",
-              "zh": ""
+              "zh": "上个月，美国最高贸易官员贾米森·格里尔抱怨巴西即时支付系统Pix不公平地排斥了美国公司，如Visa和万事达，因此美国作出回应，拟对巴西再征收25%的附加关税。然而，巴西人似乎并不在意。巴西总统路易斯·伊纳西奥·卢拉·达·席尔瓦，这位经常抨击美国强势影响力的人，回应说：“Pix是巴西的一项成就，我们不会放弃它。”即便是他在政治立场上对立的右翼对手弗拉维奥·博索纳罗也表示，他不愿意放弃该系统，并提出了一种折衷方案：巴西愿意承诺不将Pix与与美国相竞争的跨境支付基础设施对接。"
             },
             {
               "id": "p002",
               "en": "The episode captures the new geopolitical reality of global finance. As America pursues what Scott Bessent, the treasury secretary, recently described as “economic statecraft in the 21st century”, in which global access to the dollar and the American economy is “no longer unconditional”, and other countries try to respond in kind, the global financial system is splintering into regional and national systems. This is happening first in payments. It means a headache for Visa and Mastercard, the industry’s American duopoly.",
-              "zh": ""
+              "zh": "这一事件反映了全球金融正在形成的新地缘政治现实。正如财政部长斯科特·贝森特最近所说，美国正在推动他称之为“21世纪的经济国家战略”，即全球对美元和美国经济的进入权“不再是无条件的”，而其他国家也在以同样方式回应之际，全球金融体系正在分裂为区域性和国家性体系。这一进程最先出现在支付领域。这对Visa和万事达这两家美国“二寡头”企业来说意味着一场头痛。"
             },
             {
               "id": "p003",
               "en": "In January Aurore Lalucq, chair of the European Parliament’s economic- and monetary-affairs group, warned that a hostile America could cut off access to payments infrastructure. “You won’t be able to say you weren’t warned,” she said, urging Europe to build its own alternatives. Weeks later a group of British bank bosses reportedly met in London to discuss building a British rival to Visa and Mastercard. “It’s important for all of us [to] have digital payment under our control,” echoed Christine Lagarde, president of the European Central Bank (ECB), in an interview.",
-              "zh": ""
+              "zh": "1月，欧洲议会经济与货币事务小组负责人奥罗尔·拉卢克警告称，一个敌对的美国可能会切断对支付基础设施的访问权限。“你不能说自己没有被提醒，”她说，并敦促欧洲建立自己的替代体系。几周后，一群英国银行高管据说在伦敦会晤，讨论建立一个对抗Visa和万事达的英国替代支付体系。“让我们每个人都能掌握自己的数字支付体系很重要，”欧洲央行（ECB）行长克里斯汀·拉加德在一次采访中回应道。"
             },
             {
               "id": "p004",
               "en": "Fear of Western-led payments systems used to be confined to places that have “fractious geopolitical relationships” with America, notes John Collison of Stripe, a payments firm. After American and European sanctions cut off Russia’s access to international payments infrastructure, the country shifted to its own messaging system (SFPS) and card network (Mir). China, too, has built cross-border infrastructure, through public initiatives and expansion of private giants like Alipay and WeChat Pay.",
-              "zh": ""
+              "zh": "支付公司Stripe的约翰·科利森指出，以前对美国主导的支付体系的担忧主要局限于与美国“地缘政治关系紧张”的国家。随着美国和欧洲对俄罗斯实施制裁，切断了其对国际支付基础设施的接入，俄罗斯转而使用了自己的信息系统（SFPS）和银行卡网络（Mir）。中国也在通过公共倡议以及像支付宝、微信支付等民营巨头的扩张，建设跨境支付基础设施。"
             },
             {
               "id": "p005",
               "en": "While much discussion has focused on the dollar’s role, policymakers now see payments infrastructure as a more viable path to independence. Xu Gao, an economist at Bank of China, a lender, argued in May that, rather than focusing on converting cross-border flows to yuan, China should prioritise “[securing] international payment channels” and “expanding the renminbi payment network globally”.",
-              "zh": ""
+              "zh": "尽管讨论长期围绕美元的作用展开，但政策制定者如今认为，支付基础设施才是更可行的独立路径。中国银行经济学家徐高在五月指出，中国与其把跨境资金流向人民币化，更应优先“巩固国际支付通道”，并“在全球范围内扩大人民币支付网络”。"
             },
             {
               "id": "p006",
               "en": "In this respect, China and Russia are no longer outliers. Today diversifying from America is “the ardent desire of policymakers in practically every country”, says Eswar Prasad of Cornell University.",
-              "zh": ""
+              "zh": "在这一点上，中国和俄罗斯不再是离群者。康奈尔大学的 Eswar Prasad 表示，如今在几乎每个国家，政策制定者“迫切希望”减少对美国的依赖。"
             },
             {
               "id": "p007",
               "en": "One option for those looking to diversify the rails on which cross-border payments travel is to build native systems. Several European projects are speeding up after years of delays. The Single Euro Payments Area, a set of rails for euro-denominated payments, now counts 41 countries as members. A coalition of European banks and fintech firms have backed Wero, a digital-wallet system meant to integrate national fast-payments systems such as iDeal, a Dutch platform. “It’s simple, seamless and Made in Europe,” brags Wero’s site. The ECB also hopes to launch a central-bank issued digital euro by 2029.",
-              "zh": ""
+              "zh": "对于那些希望多元化跨境支付所依赖通道的人来说，一个选择是建立本土系统。经过多年拖延，若干欧洲项目正在加速推进。欧元支付区（Single Euro Payments Area）这一欧元计价支付通道体系现已有 41 个国家加入。由一批欧洲银行和金融科技公司支持的 Wero 是一套数字钱包系统，旨在整合各国的快速支付系统，例如荷兰平台 iDeal。Wero 官网炫耀道：“它简单、无缝，并且是欧洲制造。”欧洲央行还希望在 2029 年推出由央行发行的数字欧元。"
             },
             {
               "id": "p008",
               "en": "An alternative is to shunt from American rails onto those of the other superpower. Bank of China has lately added dozens of countries to its digital-yuan system for cross-border exchanges, notes Josh Lipsky of the Atlantic Council, a think-tank. In March China’s Cross-Border Interbank Payment System, a rival to the Belgian-based, American-dominated SWIFT interbank network, carried a record 920bn yuan ($134bn) in average daily flows, 20% more than the same month last year. In April single-day transaction volume hit a new all-time high of 1.2trn yuan, according to FXC Intelligence, a data provider.",
-              "zh": ""
+              "zh": "另一种选择是把跨境支付从美国通道转移到另一个超级大国的通道上。大西洋理事会的智库研究员 Josh Lipsky 指出，中国银行近来已将数十个国家接入其跨境数字人民币系统。三月，中国跨境银行间支付系统（CIPS）——这是与总部位于比利时、由美国主导的 SWIFT 银行间网络竞争的体系——创下 9200 亿人民币（1340 亿美元）的单月平均日均流量纪录，比去年同期高出 20%。据数据提供商 FXC Intelligence 称，四月单日交易量又创下 1.2 万亿人民币的新历史高位。"
             },
             {
               "id": "p009",
               "en": "A third choice is to eschew international projects in favour of bilateral deals. United Payments Interface (UPI), India’s QR-code-based system, currently works in nine other countries, with several more in the process of joining. Ritesh Shukla of NPCI International, which runs UPI’s efforts abroad, says his team has “a rich road map” for further expansion, both through linking existing systems and helping countries build their own. “Our brand promises that we will make you sovereign, to fulfil your own domestic commitments and to drive your own national agenda,” he notes.",
-              "zh": ""
+              "zh": "第三种选择是放弃国际项目，转而采用双边合作。印度基于二维码的统一支付接口（UPI）目前已在另外九个国家运行，并有更多国家正在加入。印度国家支付公司国际部（NPCI International）的Ritesh Shukla表示，负责海外推进UPI的团队已经为进一步扩张制定了“丰富的路线图”，既包括连接现有系统，也包括帮助各国建立本国系统。他指出：“我们品牌承诺让你保持主权，履行你自身的国内承诺，并推动你自己的国家议程。”"
             },
             {
               "id": "p010",
               "en": "In the short run, insufficient liquidity in some currencies may limit the volume of transfers in other corridors, so the vast majority of payments will still touch American rails (or ones to which it has access). Eventually, innovations in digital money may mean many more retail payments can bypass incumbent channels entirely. But in the medium term, as Mr Prasad notes, bilateral and multilateral deals linking national payments systems like Pix and UPI may allow countries to shield significant flows from existing card and correspondent-banking systems.",
-              "zh": ""
+              "zh": "在短期内，部分货币流动性不足可能会限制其他通道中的转账规模，因此绝大多数支付仍将依赖美国通道（或美国可及的通道）。最终，数字货币方面的创新可能意味着更多零售支付将完全绕开现有的主流渠道。但从中期看，正如普拉萨德先生所说，像 Pix 与 UPI 这样的国家支付体系之间的双边和多边安排，可能使各国能够将大额资金流从现有卡支付和代理行体系中隔离开来。"
             },
             {
               "id": "p011",
               "en": "This could hurt the American payments incumbents. The rise of “sovereign” systems, especially in Europe, a big source of Visa’s and Mastercard’s international business, could erode their enviable operating margins of over 50%. In their latest annual reports, both brought up “preferential” treatment of domestic payments systems as a risk to business. That may be one reason why investors have lately been lukewarm about the duopoly, despite healthy earnings. After a sustained rise starting in 2023, their share prices have been choppy in the past year (see chart).",
-              "zh": ""
+              "zh": "这可能会损害美国本土的支付巨头。尤其在欧洲，“主权”体系的兴起——这正是Visa和Mastercard国际业务的重要来源——可能会侵蚀其令人羡慕的、超过50%的经营利润率。在最新年报中，两家公司都提到对本国支付体系“偏好”待遇的增加是经营风险之一。这或许是为何投资者近期对这对寡头态度偏冷，尽管其盈利表现仍然稳健。自2023年起股价持续上升后，在过去一年里其股价又出现了明显震荡（见图表）。"
             },
             {
               "id": "p012",
               "en": "Oliver Jenkyn, Visa’s president of global markets, says he has been travelling the world to reassure governments that the firm is sensitive to local concerns. In May the firm unveiled a €500m ($571m) investment in European infrastructure, including a technology centre in Poland set to open in 2027. In April its bosses said they were teaming up with UnionPay, a Chinese firm, to offer real-time payments in China.",
-              "zh": ""
+              "zh": "Visa全球市场总裁Oliver Jenkyn表示，他一直在全球各地拜访，以安抚各国政府，并表明公司会重视当地关切。5月，该公司推出了5亿欧元（5.71亿美元）的欧洲基础设施投资，其中包括计划于2027年落成的波兰技术中心。4月时，该公司高管宣布与中国企业银联合作，在中国推出实时支付服务。"
             },
             {
               "id": "p013",
               "en": "Mastercard is also rushing to protect its business from geopolitical shifts. “A European payment network exists today operating for Europe’s benefit. That network is Mastercard,” wrote Kelly Devine, the president of Mastercard’s business on the continent, in 2025. To back up such claims, the firm is building three data centres in France at a cost of €250m, adding to the dozen it already has in Europe.",
-              "zh": ""
+              "zh": "万事达（Mastercard）也在加紧保护其业务免受地缘政治变化冲击。其欧洲业务总裁凯利·德温（Kelly Devine）在2025年写道：“如今存在一个为了欧洲利益而运作的欧洲支付网络，而这个网络就是万事达。”为了支撑这一说法，该公司正在法国建设三座数据中心，耗资2.5亿欧元，加上其在欧洲已拥有的十二个数据中心。"
             },
             {
               "id": "p014",
               "en": "The turn towards sovereignty may cause problems for more than just card giants. The Financial Stability Board, an international group that has monitored cross-border progress, reckons that fragmentation will probably prevent the G20 group of large economies from achieving international payments goals—particularly faster and cheaper remittance payments—that it set out in 2020.",
-              "zh": ""
+              "zh": "这种走向支付主权化可能会给不止支付巨头带来麻烦。金融稳定理事会（Financial Stability Board）——一个一直在监督跨境支付进展的国际组织——认为，这种碎片化很可能会阻碍二十国集团（G20）实现其在2020年提出的国际支付目标，尤其是让汇款更快、更便宜的目标。"
             },
             {
               "id": "p015",
               "en": "But the more serious risk, Mr Lipsky notes, is that countries’ pursuit of payments sovereignty may one day mean various regional systems become incompatible. That would increase financial fraud and sanctions evasion. It would also harm the global economy. A report sponsored by SWIFT (and compiled by Economist Enterprise, our sister company) estimates that, if current patterns continue, financial fragmentation could shave 2.6% off global GDP by 2030. Countries may find that the price of payments sovereignty is higher than they think. So may America.■",
-              "zh": ""
+              "zh": "但利普斯基先生指出，更严重的风险在于，各国追求支付主权最终可能导致不同地区系统互不兼容。这将增加金融欺诈和制裁规避行为，也会伤害全球经济。一份由SWIFT赞助、由《经济学人企业》研究部（Economist Enterprise，隶属我们的姊妹公司）编制的报告估计，如果当前趋势持续到2030年，金融碎片化可能会使全球GDP减少2.6%。各国最终可能会发现，支付主权的代价比想象中更高。美国也不例外。■"
             },
             {
               "id": "p016",
               "en": "For more expert analysis of the biggest stories in economics, finance and markets, sign up to Money Talks, our weekly subscriber-only newsletter.",
-              "zh": ""
+              "zh": "如要获得更多关于经济、金融和市场最重磅新闻的深度专家解读，请订阅《Money Talks》——我们每周发布、仅面向订阅用户的通讯。"
             }
           ],
           "issue_published_at": "2026-07-18",
           "article_published_at": "July 16th 2026",
           "published_at": "July 16th 2026",
-          "published_date_source": "article"
+          "published_date_source": "article",
+          "translated_at": "2026-07-21T17:49:16+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low"
         },
         {
           "id": "057-americas-hormuz-brinkmanship-is-worsening-a-global-fuel-crunch",
@@ -4760,73 +4763,76 @@
           "order": 57,
           "section": "Finance & economics",
           "title_en": "America’s Hormuz brinkmanship is worsening a global fuel crunch",
-          "title_zh": "",
+          "title_zh": "美国在霍尔木兹海峡的极限施压正在加剧全球燃油短缺",
           "rubric_en": "Rising oil prices are only part of the problem",
-          "rubric_zh": "",
+          "rubric_zh": "油价上涨只是问题的一部分",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "On july 13th President Donald Trump said America would reinstate its naval blockade on Iran and charge a 20% fee on cargo passing through the Strait of Hormuz. Brent crude, the global oil-price benchmark, jumped by 10%, to $83 a barrel. That night America launched air strikes on Iran, which responded by hitting two Emirati tankers with missiles. Yet Brent is still a quarter below April’s peak, even though the truce signed in June looks dead and Hormuz traffic has nearly stopped.",
-              "zh": ""
+              "zh": "7月13日，唐纳德·特朗普宣布，美国将恢复对伊朗的海上封锁，并对经霍尔木兹海峡通行的货运征收20%的费用。以布伦特原油为代表的全球油价基准上升了10%，升至每桶83美元。当晚，美国发动了对伊朗的空袭，伊朗随后用导弹打击了两艘阿联酋油轮。然而，即便6月签署的停火协议似乎已经失效，霍尔木兹海峡的通航几乎停滞，布伦特原油价格仍只比4月的高点低约四分之一。"
             },
             {
               "id": "p002",
               "en": "One reason prices have not risen further is that oil markets still deem it likely that, with America’s midterm elections four months away, Mr Trump will cave. On July 14th he dropped his plans for a transit fee, which is to be replaced by unspecified Gulf investments in America. A bigger factor is that the world’s supply of crude currently outpaces demand—not because production has surged, but because idled refineries are consuming less. At 79m barrels per day (b/d), the global output of refined products remains 7m b/d below pre-war levels (see chart 1, top panel).",
-              "zh": ""
+              "zh": "油价没有进一步大幅上涨的一个原因，是因为市场仍然认为随着美国大选中期选举还有四个月时间，特朗普会后退。7月14日，他取消了征收过境费的计划，取而代之的是未披露内容的美国海湾地区投资。另一个更大的因素是，当前全球原油供应仍然超过需求——这并非因为产量激增，而是因为停工中的炼油厂消耗了更少原油。目前全球成品油产量为每天7,900万桶，仍比战争前水平低700万桶/日（见图1上方面板）。"
             },
             {
               "id": "p003",
               "en": "As a result, even as crude abounds, refined products remain scarce. Their prices are between 35% and 60% higher than before the war (see chart 1, bottom panel) and traders are wagering billions that they will rise further. The International Energy Agency, an official forecaster, warns that the crunch will get much worse unless flows through Hormuz resume. The margin that refiners in Europe make on diesel is the highest since at least 2011; in America “3-2-1” crack spreads—a measure of profitability for turning crude into petrol and diesel—are hitting a record. In Asia a barrel of jet fuel fetches around $150, up from $100 or so before the war.",
-              "zh": ""
+              "zh": "因此，即便原油供应充足，成品油依然紧缺。它们的价格比战争前高出35%到60%（见图1下方面板），交易员已经投注数十亿美元，押注其将继续上涨。官方预测机构国际能源署警告称，除非霍尔木兹海峡的运输重新恢复，否则这种短缺会变得更为严重。欧洲炼油厂从柴油中获得的利润率是2011年以来最高；在美国，“3-2-1”裂解价差——衡量将原油转为汽油和柴油的盈利能力——正在创下纪录。在亚洲，一桶喷气燃油的价格约为150美元，远高于战前的100美元左右。"
             },
             {
               "id": "p004",
               "en": "How bad will it get? That depends on the prospects for exports from three places: the Gulf, China and Russia. Those are uncertain at best. The Gulf used to be the largest exporter of “middle” distillates, such as diesel and jet fuel. Since February, with Hormuz mostly closed, supplies have cratered (see chart 2) and refineries’ throughput has dropped by 30% (or 3m b/d). Although crude can leave the Gulf in pipelines bypassing the strait, no such route exists for refined products. Exports picked up a bit as Hormuz partially reopened, but now only Iranian crude is getting out.",
-              "zh": ""
+              "zh": "局势会有多糟，还取决于未来三地出口前景：海湾地区、中国和俄罗斯。这些地区的前景都十分不确定。海湾地区过去是“中馏分”产品如柴油和航空煤油最大的出口地。自2月以来，随着霍尔木兹海峡大都关闭，供应出现断崖式下滑（见图2），炼油厂开工率下降了30%，约30万桶/日。虽然原油可以通过绕过海峡的管道输往海湾外，但成品油没有这类运输通道。随着霍尔木兹海峡部分重开，出口稍有回升，但目前只剩伊朗原油在出口。"
             },
             {
               "id": "p005",
               "en": "Worse, since the war began Iranian strikes have knocked out 1.4m b/d of Gulf refining capacity. The exact extent of damage remains unknown. Sarah Raffoul of Argus Media, a price-reporting agency, expects fuel exports to recover in three to four months—if Hormuz reopens.",
-              "zh": ""
+              "zh": "更糟的是，自战争开始以来，伊朗的打击已使海湾炼油能力减少了 140 万桶/日。实际损失范围仍不确定。油价咨询机构 Argus Media 的Sarah Raffoul预计，如果霍尔木兹海峡重新开放，燃料出口将在三到四个月内恢复。"
             },
             {
               "id": "p006",
               "en": "Chinese refineries are processing 3m b/d fewer than in February. China is usually a huge exporter of petrol and diesel, but the government prohibited state-owned refiners from selling abroad during much of the war. That ban was lifted in July, as long as refiners’ stocks did not drop below the pre-war levels of late February. China’s big oil firms have tentatively increased their collective export target to roughly two-thirds of what they were selling a year ago. But with tensions in Hormuz rising, a proper lifting of export restrictions now looks a long way off, says Frédéric Lasserre of Gunvor, a trading firm. A full ban could return at any point.",
-              "zh": ""
+              "zh": "中国炼油厂的处理量比2月少了300万桶/日。中国通常是汽油和柴油的大型出口国，但战争期间政府禁止国有炼油企业对外销售汽柴油。该禁令在七月解除，但前提是炼油企业的库存不低于2月下旬战前水平。中国的大型石油公司已试探性地把它们的总体出口目标提高到去年同期约三分之二。但是，随着霍尔木兹海峡紧张局势上升，枪口直指的“全面”放开出口限制看起来还很遥远，交易公司 Gunvor 的弗雷德里克·拉塞尔（Frédéric Lasserre）说，全面禁令随时可能再次出现。"
             },
             {
               "id": "p007",
               "en": "Meanwhile Russia’s refineries are under assault. Ukraine’s drone campaign against them has shifted up several gears since April. Drones are hitting more targets, more often, and farther into Russia (a mega-plant in western Siberia, 2,500km from the front, was struck on July 6th). These include sophisticated units within the refineries that upgrade crude-oil fractions into high-value products. Some can take months to repair.",
-              "zh": ""
+              "zh": "与此同时，俄罗斯炼油厂也遭到攻击。乌克兰对其的无人机行动自四月以来明显升级。无人机攻击更频繁、覆盖更多目标，且深入俄罗斯本土更远——一座位于西伯利亚西部、距前线2500公里的超大型装置在7月6日遭到袭击。这些袭击包括炼油厂内的复杂装置，这些装置将原油馏分升级为高附加值产品，其中一些设备的修复可能需要数月时间。"
             },
             {
               "id": "p008",
               "en": "In June Russia’s refineries processed 3.8m b/d of crude, 1.5m b/d down from the level in January, estimates JPMorgan Chase, a bank. Most petrol and kerosene usually stays in Russia; now shortages, in the middle of holiday season, are causing chaos. In some regions drivers have queued for days, sales have been rationed and pump prices are up to 50% above normal. Farming, utilities and logistics are being disrupted, too. Nearly half of Russia’s diesel, and almost all its fuel oil, used in shipping, is usually exported. Russia is the world’s second-largest supplier of diesel (with 12% of global exports) and the leader in fuel oil (16%). Exports have slumped and the government has prohibited further diesel shipments.",
-              "zh": ""
+              "zh": "摩根大通一份估计显示，6月俄罗斯炼厂处理了380万桶/日的原油，比1月水平低了150万桶/日。通常大部分汽油和煤油都留在国内；如今在假日旺季，短缺正引发混乱。一些地区，驾驶员排了多日队伍，销售被限额，油枪价格高出正常水平50%。农业、公共事业和物流也受到干扰。俄罗斯柴油近一半、几乎全部用于航运的燃料油通常也会出口。俄罗斯是全球第二大柴油出口国（占全球柴油出口12%），也是燃料油出口第一大国（占16%）。但出口已大幅下滑，政府已禁止进一步运输柴油。"
             },
             {
               "id": "p009",
               "en": "That affects more than merely the few buyers braving Western sanctions against Russia. Turkey, the main one, will now keep its refined diesel at home, starving the rest of the Mediterranean, notes Mick Strautmann of Vortexa, a ship-tracker. Brazil is replacing Russian diesel with American supply, further squeezing Atlantic buyers. The loss may ripple across other products, as refiners prioritise diesel output over jet fuel and petrol, says Benedict George of Argus.",
-              "zh": ""
+              "zh": "这影响的不仅仅是勇闯对俄制裁的少数买家。土耳其这个主要买家将把精炼柴油留在本国使用，从而使地中海其他地区供应减少，Vortexa 的船舶跟踪分析师 Mick Strautmann 这样指出。巴西正在用美国柴油替代俄罗斯柴油，进一步挤压大西洋沿岸的买家。Vortexa 还指出，随着炼油厂把柴油产量置于航空煤油和汽油之上，损失可能会进一步向其他成品油产品蔓延。"
             },
             {
               "id": "p010",
               "en": "If the shooting stops in the Gulf and Hormuz reopens reliably, Asian refining resurges and Russian output recovers, supply will return just as the summer ends. But those are big ifs. A less benign scenario would oblige America—the world’s swing exporter—and importers to draw down already low stocks. Eventually product prices would jump further, squashing demand and encouraging refineries to produce more (in which case crude prices would also rise). The biggest oil shock in history is not over. The mood of motorists in America and Europe still hangs on battles thousands of miles away.■",
-              "zh": ""
+              "zh": "如果海湾停火并且霍尔木兹海峡稳定重开，亚洲炼油将反弹，俄罗斯产量也会恢复，供应将在夏季结束时回归。但这些都要建立在许多前提之上。一个不太乐观的情形将迫使美国——世界上最关键的“摇摆”石油出口国——以及各大进口国动用已经偏低的库存。最终，成品油价格会进一步上升，压缩需求，并促使炼油厂加大产量（在这种情况下，原油价格也会随之上涨）。历史上最大的石油冲击尚未结束。美国和欧洲的消费者情绪，依旧受制于数千英里之外的博弈。■"
             },
             {
               "id": "p011",
               "en": "For more expert analysis of the biggest stories in economics, finance and markets, sign up to Money Talks, our weekly subscriber-only newsletter.",
-              "zh": ""
+              "zh": "如需获取更多关于经济、金融与市场重大事件的专家解读，请订阅《Money Talks》，我们每周仅限订阅者阅读的通讯。"
             }
           ],
           "issue_published_at": "2026-07-18",
           "article_published_at": "July 16th 2026",
           "published_at": "July 16th 2026",
-          "published_date_source": "article"
+          "published_date_source": "article",
+          "translated_at": "2026-07-21T17:50:02+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low"
         },
         {
           "id": "058-chinas-trade-gap-is-narrowing-and-other-surprises",
@@ -4836,83 +4842,86 @@
           "order": 58,
           "section": "Finance & economics",
           "title_en": "China’s trade gap is narrowing. And other surprises",
-          "title_zh": "",
+          "title_zh": "中国的贸易逆差正在收窄。还有其他意外",
           "rubric_en": "The world’s second-biggest economy is stumbling into fiscal austerity",
-          "rubric_zh": "",
+          "rubric_zh": "世界第二大经济体正在步入财政紧缩境地",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "China’s GDP growth figures are often suspiciously smooth. Last year the government set a target of 5%—and the sprawling $19trn economy duly grew by just that amount, as if the combined endeavours of 760m workers and 30m corporations could be choreographed by a committee. This year the government has permitted itself half a percentage point of drama, setting a target range of 4.5-5%. Few think the official outcome will depart far from this interval.",
-              "zh": ""
+              "zh": "中国的GDP增长数字常常显得诡异地平稳。去年政府定下5%的目标，而这座拥有约1.9万亿美元规模（约19万亿美元）且规模庞大的经济体正好增长了这个百分点，仿佛760万? 不，760m（7.6亿）名劳动者和3000万家企业的合力都能由一个委员会统一编排。今年政府给自己留了半个百分点的“戏剧性”空间，设定了4.5%到5%的目标区间。很少有人认为官方结果会离这个区间太远。"
             },
             {
               "id": "p002",
               "en": "The GDP numbers for the second quarter, released on July 15th, therefore raised a few eyebrows. The economy grew by 4.3%, year on year. That is hardly a disaster. But it was slower than expected and the weakest since 2022, when China was still imposing citywide lockdowns to fight covid-19.",
-              "zh": ""
+              "zh": "因此，7月15日公布的第二季度GDP数据让不少人皱起了眉头。按同比口径，经济增长了4.3%。这绝不是一场灾难，但它低于预期，也是自2022年以来最慢的一次增长——当时中国仍在全国范围内实施封城式封控以抗击新冠病毒。"
             },
             {
               "id": "p003",
               "en": "Even that disappointing number would not have been possible without help from abroad. Last year’s trade surplus exceeded $1.2trn (see chart 1). And in June goods exports surged by more than a quarter in dollar terms, year on year. As containerfuls of merchandise chug towards their destinations, China’s trading partners, especially the European Union, are bracing themselves for a second “China shock” akin to the upheaval after the country’s entry into the World Trade Organisation in 2001.",
-              "zh": ""
+              "zh": "即便是这个让人失望的数字，也不可能在没有外部助力的情况下出现。去年的贸易顺差超过了1.2万亿美元（见图表1）。而在6月，货物出口按美元计算同比增长超过四分之一。随着满满一船货柜驶向目的地，中国的贸易伙伴，尤其是欧盟，正在为“第二次中国冲击”做准备，这次类似于该国于2001年加入世界贸易组织后引发的巨大震荡。"
             },
             {
               "id": "p004",
               "en": "But a closer look reveals something different. “China’s trade surplus has peaked,” concludes Adam Wolfe of Absolute Strategy Research, a firm of analysts. In June imports rose faster than exports, by 36%. The surplus in the first half of 2026 was lower, in dollar terms, than a year before.",
-              "zh": ""
+              "zh": "但再仔细看就会看到不一样的情况。Absolute Strategy Research 的分析师Adam Wolfe指出，“中国的贸易顺差已经见顶”。6月进口增长快于出口，涨幅为36%。按美元计量，2026年上半年顺差低于一年前。"
             },
             {
               "id": "p005",
               "en": "The Iran war is only partly responsible for the turning-point. China is, of course, paying more for oil than it did last year. But it has softened the blow by dramatically cutting the volume of its imports. In explaining the diminishing surplus, crude matters less than chips. China is both a big exporter and a big importer of semiconductors. Its imports of integrated circuits in May, for example, were up by some 70% year on year in dollar terms. That rise was entirely due to higher chip prices.",
-              "zh": ""
+              "zh": "伊朗战争仅是转折点形成的部分原因。中国当然比去年为石油支付了更多费用，但它通过大幅削减进口数量来缓冲了影响。解释顺差收窄时，石油作用反而比不上芯片。中国既是半导体的大出口国，也是大进口国。以集成电路为例，中国5月的进口额同比增长了约70%，这全部是由芯片价格上涨所致。"
             },
             {
               "id": "p006",
               "en": "China’s overdependence on exports has been clear for some time. Many analysts therefore hope its leaders will turn again to fiscal stimulus to lift domestic spending. Meanwhile, the opposite is happening. The government is stumbling into “de facto austerity”, as Xiangrong Yu and Xinyu Ji of Citigroup, a bank, have put it.",
-              "zh": ""
+              "zh": "中国过度依赖出口的问题已经很久以来都很明显。因此，许多分析人士因此希望其领导层再次动用财政刺激措施来提振国内消费。与此同时，发生的却是相反的局面。正如花旗银行的于翔荣和季欣宇所说，政府正“不由自主地”走向事实上的财政紧缩。"
             },
             {
               "id": "p007",
               "en": "Tax revenues have grown strongly in recent months. From January to May the authorities gathered 6.2% more in value-added tax and 12.2% more in personal-income taxes than they did a year before. Thanks to energetic trading in China’s stock markets, stamp duties also brought in far more than usual, rising by 89%.",
-              "zh": ""
+              "zh": "税收在最近几个月明显增长。1月至5月，政府共征收的增值税比去年同期多6.2%，个人所得税多12.2%。得益于中国股市的活跃交易，印花税的收入也高于往常，增长了89%。"
             },
             {
               "id": "p008",
               "en": "Some of this reflects the return of inflation, which increases the nominal value of purchases, boosting VAT. The tax authorities have also put more effort into enforcement. Since last year, for instance, automated text messages have instructed taxpayers to declare all their overseas income and assets going back to 2022.",
-              "zh": ""
+              "zh": "其中一部分反映了通胀回升，购买金额在名义上提高，从而推高了增值税。税务部门也加大了征管力度。比如自去年起，税务部门会通过自动短信要求纳税人申报其所有境外收入和资产，并追溯到2022年。"
             },
             {
               "id": "p009",
               "en": "So although the central government is spending more, it is also collecting more. The budget deficit, combining central and local governments, has narrowed a little over the past 12 months. That is the opposite of what stimulus requires—and of what a weak economy needs.",
-              "zh": ""
+              "zh": "因此，尽管中央政府的支出在增加，但它也在收更多税。过去12个月里，中央和地方政府合并后的财政赤字有所收窄。这与刺激政策所需要的方向相反，也与疲弱经济所需要的方向相反。"
             },
             {
               "id": "p010",
               "en": "The mix of fiscal spending has also changed in counterintuitive ways. China’s leader, Xi Jinping, champions high-tech manufacturing, calling on entrepreneurs and local officials to cultivate “new productive forces”. He has also warned in the past against “welfarism”, arguing that handouts can make people lazy. You might assume, then, that public spending had drifted towards technology and education and away from social safety-nets.",
-              "zh": ""
+              "zh": "财政支出结构也以一种不直观的方式发生了变化。中国国家主席习近平大力推动高科技制造业，呼吁企业家和地方官员培育“新的生产力”。他过去也曾警告“福利主义”，认为发放补贴会让人变得懒散。由此你可能会猜测，公共支出已经从社会保障网转向科技和教育。"
             },
             {
               "id": "p011",
               "en": "But as Citi’s economists point out, the emerging fiscal “pecking order” seems instead to favour social security (which includes pensions, unemployment insurance, anti-poverty handouts and efforts to put people back to work). These items’ share of the government’s main budget has grown in recent years (see chart 2). The slice devoted to technology and education has remained steady, and the share ploughed into infrastructure has declined.",
-              "zh": ""
+              "zh": "但正如花旗的经济学家指出，正在出现的财政“优先顺序”似乎反而偏向社会保障（包括养老金、失业保险、反贫困救济以及帮助失业者重新就业的措施）。近年来，这些项目在政府主要预算中的占比有所上升（见图表2）。而用于科技和教育的预算份额则基本持平，基础设施投入的占比则在下降。"
             },
             {
               "id": "p012",
               "en": "This picture does not capture everything. It leaves out China’s state-owned enterprises. It also excludes special government funds, which have their own missions and money. Nonetheless, the numbers reveal some fiscal home truths. In a weak economy and an ageing society, the humdrum demands of the elderly, the unemployed and the poor will always make their presence felt, whatever the leader’s preferences. Chinese technology may be white-hot. But its economy is cooling. And its population is increasingly grey.■",
-              "zh": ""
+              "zh": "这个图景并未反映全部情况，它忽略了中国的国有企业，也排除了设有专门任务和资金的专项政府基金。尽管如此，数据也揭示了一些财政上的现实：在经济疲软和老龄化社会中，无论领导层偏好如何，老年人、失业者和贫困人口这些看似普通却不容忽视的需求，始终会持续存在。中国的科技或许正处于白热化阶段，但经济正在降温。并且其人口结构也正在进一步老龄化。■"
             },
             {
               "id": "p013",
               "en": "For more expert analysis of the biggest stories in economics, finance and markets, sign up to Money Talks, our weekly subscriber-only newsletter.",
-              "zh": ""
+              "zh": "如果你想获取更多关于经济、金融和市场领域最重要新闻的专家分析，请订阅《Money Talks》——我们每周的付费订阅通讯。"
             }
           ],
           "issue_published_at": "2026-07-18",
           "article_published_at": "July 16th 2026",
           "published_at": "July 16th 2026",
-          "published_date_source": "article"
+          "published_date_source": "article",
+          "translated_at": "2026-07-21T17:50:53+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low"
         },
         {
           "id": "059-can-kevin-warshs-fed-force-5-reimagine-monetary-policymaking",
@@ -4922,68 +4931,71 @@
           "order": 59,
           "section": "Finance & economics",
           "title_en": "Can Kevin Warsh’s Fed force 5 reimagine monetary policymaking?",
-          "title_zh": "",
+          "title_zh": "凯文·瓦什（Kevin Warsh）推动的“第5大道”货币政策会不会改写美联储的政策制定方式？",
           "rubric_en": "The new chairman enlists heavy-hitters to fight a handful of gnarly problems",
-          "rubric_zh": "",
+          "rubric_zh": "这位新主席召集了重量级人物来应对一系列棘手难题",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "FEDERAL RESERVE chairs like to leave a mark. Ben Bernanke, in charge during the global financial crisis of 2007-09, ushered in a formal inflation target and changed how the Fed talked to the world by making its deliberations less opaque. In 2015 his successor, Janet Yellen, raised interest rates after seven years near zero. Jerome Powell, who came next, launched the Fed’s first comprehensive review of its monetary-policy framework.",
-              "zh": ""
+              "zh": "美联储主席们喜欢留下自己的印记。2007年至2009年全球金融危机期间掌舵的本·伯南克（Ben Bernanke）引入了正式的通胀目标，并通过让决策讨论变得不那么不透明，改变了美联储与外界的沟通方式。2015年，他的继任者珍妮特·耶伦（Janet Yellen）在隔了七年接近零利率后提高了利率。接任后的杰罗姆·鲍威尔（Jerome Powell）则启动了美联储历史上第一次全面的货币政策框架审查。"
             },
             {
               "id": "p002",
               "en": "Kevin Warsh, the new chair, also has big ideas. One is to limit how much of its internal deliberations the Fed reveals, on the grounds that public pronouncements subsequently may make it harder for policymakers to revise their views. Another is to subject the Fed to more open external scrutiny. To that less controversial end, on July 9th Mr Warsh announced the formation of five task-forces which will review critical areas of monetary policy.",
-              "zh": ""
+              "zh": "新任主席凯文·瓦什（Kevin Warsh）同样有宏大的想法。其中之一是限制美联储公开披露其内部讨论的内容，理由是公开表态之后，政策制定者可能会更难在后续修正观点。另一个想法则是让美联储接受更公开的外部审视。为实现后一个相对不那么具争议的目标，7月9日瓦什宣布成立五个工作组，分别审视货币政策中的关键领域。"
             },
             {
               "id": "p003",
               "en": "Such brains trusts are not a new idea. In 2014 Mr Warsh, who served as a Fed governor in the financial crisis, was himself invited by the Bank of England to join one reviewing its communication practices. But whereas his predecessors at the Fed have always listened to leading figures in academic economics, business and finance behind closed doors, Mr Warsh has handed them a microphone.",
-              "zh": ""
+              "zh": "这种“智囊团”做法并不是什么新鲜事。2014年，曾在金融危机期间担任美联储理事的瓦什本人曾受邀加入英格兰银行（Bank of England）的一个评估其沟通惯例的工作组。不同的是，与历任美联储主席一直在闭门状态下听取学术经济、商界和金融界的顶尖人士意见不同，瓦什把麦克风交到了他们手里。"
             },
             {
               "id": "p004",
               "en": "Each task-force is led by a trio of notables. The one looking at how the Fed communicates includes two former central-bank presidents (from Brazil and Britain). A fellow ex-head (from India) co-chairs the team examining the Fed’s bloated balance-sheet. The former boss of Walmart, America’s biggest supermarket, will help run the group investigating alternative data sources. The group exploring the impact of artificial intelligence on jobs and productivity is co-led by an eminent Stanford University economist on secondment to Anthropic, a top AI lab, an even more eminent Silicon Valley venture capitalist and a Microsoft executive. A Nobel prizewinner is among the trio leading the task-force on understanding the causes of inflation.",
-              "zh": ""
+              "zh": "每个工作组都由三位知名人士领衔。负责研究美联储沟通方式的工作组包括两位前央行行长（来自巴西和英国）。另一组由一位前印度央行行长共同主持，专门审查美联储臃肿的资产负债表。前沃尔玛（Walmart）老板——美国最大超市的前掌舵人——将帮助推进研究替代性数据来源的组别。研究人工智能对就业和生产率影响的小组由一位现于Anthropic人工智能实验室任职的斯坦福大学著名经济学家，以及更著名的硅谷风险投资家和一位微软高管共同领导。研究通胀成因的工作组三人小组中，也有一位诺贝尔奖得主。"
             },
             {
               "id": "p005",
               "en": "These heavy-hitters will, with the help of Fed staffers, cobble together policy recommendations and present these first to the Fed board and then to the public. If things go smoothly, all this will happen by the end of the year.",
-              "zh": ""
+              "zh": "在美联储工作人员的协助下，这些重量级成员将把建议拼合成政策方案，先提交给美联储理事会，再提交给公众。如果一切顺利，所有工作都将于今年年底前完成。"
             },
             {
               "id": "p006",
               "en": "Going smoothly will, first of all, require reconciling the co-chairs’ often divergent opinions in their areas of expertise. Consider the team tasked with reviewing how the Fed thinks about inflation. Thomas Sargeant of New York University, who won the Nobel prize in 2011 for empirical work on cause and effect in the macroeconomy, is an unabashed fan of inflation targets. William White of the C.D. Howe Institute, a Canadian think-tank, is an equally staunch critic, arguing that targets have played a role in making the world more indebted and exacerbated financial boom-bust cycles. Greg Mankiw of Harvard University, who headed the Council of Economic Advisers under President George W. Bush, is in favour of targets but against spuriously precise ones like the Fed’s 2.0%.",
-              "zh": ""
+              "zh": "要顺利推进，首先要在共同主席们在各自专长领域里常常分歧的观点之间达成一致。以负责审视美联储通胀认知方式的团队为例，2011年因宏观经济因果关系的实证研究而获诺贝尔奖的纽约大学托马斯·萨金特（Thomas Sargeant）是坚定的通胀目标支持者；加拿大智库 C.D. Howe 研究院的威廉·怀特（William White）则同样坚定地反对通胀目标，认为这一做法促成了全球更高的债务水平，并加剧了金融市场的繁荣—萧条循环。哈佛大学的格雷格·曼昆（Greg Mankiw），他曾在乔治·W·布什总统时期担任经济顾问委员会主席，则支持设定通胀目标，但反对像美联储那样的“2.0%”这种过于精确的指标。"
             },
             {
               "id": "p007",
               "en": "Sparks may likewise fly in the other teams. The possible exception is the one concerned with AI. All its members are, like Mr Warsh, bullish on the technology’s transformative potential, differing only in the degree of bullishness (from the gung-ho venture capitalist, Marc Andreessen, to the more guarded Asha Sharma of Microsoft and Chad Jones, a respected academic economist). Each also has an interest in promoting an optimistic outlook, given their ties to the tech industry.",
-              "zh": ""
+              "zh": "在其他小组里，也很可能会出现针锋相对的局面。可能的例外是负责人工智能的团队。该组所有成员都与沃什一样看好这项技术的颠覆性潜力，只是在乐观程度上有差异——从激进的风险资本家马克·安德森（Marc Andreessen）到更为谨慎的微软的阿莎·夏玛（Asha Sharma）以及知名学者经济学家查德·琼斯（Chad Jones）皆是如此。鉴于他们与科技行业的联系，每个人也都有动机去推动更乐观的叙事。"
             },
             {
               "id": "p008",
               "en": "They must nevertheless, like their opposite numbers on the other teams, persuade the Fed to take their recommendations seriously—the second prerequisite for the smooth completion of Mr Warsh’s effort. In most cases, notably on the Fed’s balance-sheet and inflation targeting, the conclusions would need the consent of the Fed board or the Federal Open Markets Committee (FOMC), on which Mr Warsh has just one vote out of seven and 12, respectively, to become policy.",
-              "zh": ""
+              "zh": "尽管如此，他们同其他小组的成员一样，仍必须说服美联储认真对待自己的建议——这是沃什这项努力顺利完成的第二个前提。多数情况下，尤其是在美联储资产负债表和通胀目标议题上，结论要转化为政策，需要得到美联储理事会或联邦公开市场委员会（FOMC）的同意；而在这两个机构里，沃什各只有七票制和十二票制中的一票。"
             },
             {
               "id": "p009",
               "en": "Mr Bernanke famously spent hours discussing proposed changes to which economic forecasts the Fed would publicise, and sought a thumbs-up even from the FOMC’s handful of non-voting members. Given this culture of collegiality, Mr Warsh will have to build consensus around the five sets of conclusions. He will also need to decide how to communicate those conclusions to the world.■",
-              "zh": ""
+              "zh": "贝南克先生以长时间讨论美联储将要公布的经济预测内容而闻名，并且甚至会寻求联邦公开市场委员会（FOMC）少数无表决权成员的点头同意。在这种讲求共识的文化中，沃什先生将不得不围绕五项结论达成一致。他还需要决定如何向外界传达这些结论。■"
             },
             {
               "id": "p010",
               "en": "For more expert analysis of the biggest stories in economics, finance and markets, sign up to Money Talks, our weekly subscriber-only newsletter.",
-              "zh": ""
+              "zh": "如需获取更多关于经济、金融与市场最重磅动态的专家解读，请订阅《Money Talks》：我们每周面向订阅者发布的通讯。"
             }
           ],
           "issue_published_at": "2026-07-18",
           "article_published_at": "July 16th 2026",
           "published_at": "July 16th 2026",
-          "published_date_source": "article"
+          "published_date_source": "article",
+          "translated_at": "2026-07-21T17:51:35+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low"
         },
         {
           "id": "060-what-investment-gurus-get-wrong",
@@ -4993,73 +5005,76 @@
           "order": 60,
           "section": "Finance & economics",
           "title_en": "What investment gurus get wrong",
-          "title_zh": "",
+          "title_zh": "投资大师常见的误区",
           "rubric_en": "To see a country’s financial follies, look to its celebrity advisers",
-          "rubric_zh": "",
+          "rubric_zh": "要看一个国家的金融混乱，看看它的名人顾问就行了",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "FINANCIAL ADVICE was once doled out solely by well-paid professionals, and solely to the wealthy. Then, from the 1980s, celebrity advisers took their tips to large radio and TV audiences, especially in America. Today legions of social-media “finfluencers” spout off recommendations to anyone, anywhere.",
-              "zh": ""
+              "zh": "金融建议过去几乎只由受雇甚丰的专业人士提供，也几乎只面向富人。后来，从20世纪80年代开始，名人顾问将建议带到广大广播和电视观众面前，尤其是在美国。如今，大批社交媒体上的“金融网红”随处向任何人、任何地方给出推荐。"
             },
             {
               "id": "p002",
               "en": "As in previous decades, the recommendations of investment gurus—how to cut expenses, build a savings fund or avoid scams—are sensible and universal. Beyond the shared basics, though, their counsel differs in telling ways. They may not know it, but they hold up a mirror to their countries’ financial mores, resisting audiences’ vices or accidentally reinforcing them.",
-              "zh": ""
+              "zh": "与前几代一样，投资大师的建议——如何削减开支、建立储蓄基金或避免骗局——都很理性，也很普遍。不过，在这些共同的基本原则之外，他们的劝告在许多关键点上却大相径庭。他们或许未意识到，自己正在映照出本国的金钱观，要么有意抵制公众的投机习惯，要么却在不经意间强化了这些习惯。"
             },
             {
               "id": "p003",
               "en": "In America no young finfluencer yet matches the stature of Dave Ramsey, a gruff 65-year-old radio star turned podcaster. Much of his advice—offered in a stern, fatherly style—is evergreen, built around emergency funds, sensible saving and buying shares for the long term.",
-              "zh": ""
+              "zh": "在美国，迄今还没有任何年轻“金融网红”能与戴夫·拉姆齐匹敌。他是一位声音粗犷的65岁电台明星，后来转型为播客主播。其许多建议——以严厉、父辈式的语气提出——都经得起时间考验，围绕应急储备、理性储蓄以及长期买入股票展开。"
             },
             {
               "id": "p004",
               "en": "Mr Ramsey’s guidance, however, is puritanical in its attitude to debt. Sensibly, he urges listeners to pay off high-interest consumer debts early. But he also suggests that anyone already saving for retirement or children’s education should pay off their mortgages as fast as possible, too—even low-interest loans secured before 2022.",
-              "zh": ""
+              "zh": "然而，拉姆齐的指导在对待债务问题上带有清教徒式的色彩。他理性地建议听众尽早还清高息消费债务；但他也主张，任何已经在为退休或子女教育攒钱的人，也应尽快偿清房贷，即使是2022年前申请、利率较低的贷款也是如此。"
             },
             {
               "id": "p005",
               "en": "The rigid advice is in part a reaction against Americans’ proclivity to spend, spend, spend beyond their means. Even in periods of strong economic growth many households find themselves in financial distress through debt. In the first quarter of 2026, 13% of credit-card balances were 90 days or more overdue, close to the record high from 2010, following the global financial crisis.",
-              "zh": ""
+              "zh": "这种严厉的理财建议，在某种程度上是对美国人“花钱、花钱、还要再花钱”这一超前消费倾向的反应。即使在经济增长强劲的时期，许多家庭也会因为债务而陷入经济困境。在2026年第一季度，信用卡欠款中有13%逾期90天或更久，接近2009—2010年全球金融危机后创下的历史高位。"
             },
             {
               "id": "p006",
               "en": "Britain’s undisputed heavyweight financial guru is Martin Lewis, the founder of “Money Saving Expert”, a website. He channels a different failing: an aversion to investment. Mr Lewis’s stock-in-trade is practical penny-pinching: supermarket bargains, introductory offers and the benefits of switching banks or utility providers. By his own account, until recently he barely touched the stock market. Only in the past year has he turned his attention to Britain’s individual savings accounts for shares, a generous scheme that allows people to invest up to £20,000 ($26,700) per year without incurring the usual investment taxes.",
-              "zh": ""
+              "zh": "英国公认的理财界重量级人物是马丁·刘易斯（Martin Lewis），他是网站“Money Saving Expert”的创始人。马丁的理财方式强调另一种缺陷：对投资的厌恶。他的看家本领是实用的精打细算：超市里的低价商品、入门赠送活动，以及更换银行或公用事业服务商所带来的优惠。按他自己的说法，他直到最近才几乎不碰股市。只有在过去一年里，他才把注意力转向了英国的个人股票储蓄账户（ISA），这是一个慷慨的制度，允许人们每年投资最多20,000英镑（约26,700美元）而不必缴纳通常的投资税。"
             },
             {
               "id": "p007",
               "en": "The attitude of Mr Lewis reflects the bleak reality that many Brits own barely any equities. A measly 13% of the financial assets of British households are shares, the lowest in almost any large developed economy. In Ramseyan America the figure is 44%. No amount of scrimping and saving will compensate Britons for missing out on the profound benefits of long-term compound returns.",
-              "zh": ""
+              "zh": "刘易斯的态度反映出一个严峻现实：许多英国人几乎不持有股票。英国家庭金融资产中仅有可怜的13%是股票，这是几乎所有大型发达经济体中最低的比例。相比之下，在 Ramseyan America，这一数字是44%。再多的精打细算和储蓄也无法弥补英国人错过长期复利回报这一深远好处的代价。"
             },
             {
               "id": "p008",
               "en": "Asian personal-finance sages often pepper advice with research on individual stocks. Rachana Phadke Ranade, a chartered accountant with 5.4m YouTube followers, is one of India’s most prominent finfluencers. Her videos go beyond staid book-keeping counsel into initial public offerings, stock-market sectors and commodities. Subscriber-only videos focus on stocks of the month. South Korea’s 3PRO TV, a YouTube channel with 3m subscribers, likewise publishes several videos a day, often on market-moving news about the country’s chipmaking giants, Samsung and SK Hynix. It also sells its own investment seminars.",
-              "zh": ""
+              "zh": "亚洲的个人理财大师则常常在建议中夹带个股研究。印度最具知名度的金融意见领袖之一是拉查娜·帕德克·拉纳德（Rachana Phadke Ranade），她是一名特许会计师，在YouTube上拥有540万粉丝。她的视频内容不仅仅是枯燥的记账建议，还会涉及首次公开募股、股市板块以及大宗商品。仅会员可看的视频会聚焦“月度热股”。韩国的3PRO TV是另一个例子：这个拥有300万订阅者的YouTube频道同样几乎每天发布多条视频，经常解读关于三星和SK hynix等该国芯片巨头的市场利好消息，也会售卖自家的投资讲座。"
             },
             {
               "id": "p009",
               "en": "The advice reflects the financial culture, rather than the other way round. South Koreans and Indians (at least those with financial resources) save more than Americans or Brits, but suffer from a zeal for day-trading, often backed by leverage. About 8.5m Indians traded risky equity derivatives in the last financial year, up from fewer than 1m eight years ago. A study by Indian regulators suggested that for much of that time, nine in ten retail traders have lost money. South Korea’s stock-market boom has been chased—and driven—by an army of small investors, known as gaemi (ants). Between April and June the cumulative loans taken out to invest in stocks hit a record $40.5bn, and many punters are now facing pain as the semiconductor rally turns volatile.",
-              "zh": ""
+              "zh": "这种建议更多是反映该国的金融文化，而非由金融文化决定人们行为。韩国人和印度人（至少是有经济实力的人群）比美国人或英国人更愿意储蓄，但却深受日内交易热情驱动，而且常常使用杠杆。上个财年，大约有850万名印度人进行了高风险的股票衍生品交易，这一数字比八年前不足100万的大幅上升。印度监管机构的一项研究显示，在那段时期，大约有十分之九的普通投资者都亏了钱。韩国股市繁荣的热潮由一支被称作 gaemi（“蚂蚁”）的散户投资军团追逐并推动。从4月到6月，用于投资股票的累积借款创下了405亿美元的纪录，随着半导体反弹变得波动，许多交易者现在正面临亏损压力。"
             },
             {
               "id": "p010",
               "en": "There is nothing inherently wrong with following short-term market movements. But for most investors, constantly trading shares, let alone derivatives, is as bad an idea as saving too little or prioritising penny-pinching over compound returns. The rules of sound finances are, like Leo Tolstoy’s happy families, alike everywhere. Financial sins are sinful in their own ways—and so it is with financial advice. ■",
-              "zh": ""
+              "zh": "跟踪短线行情本身并没有什么本质错误。但对大多数投资者来说，持续买卖股票，甚至更不用说衍生品，和储蓄太少，或是把抠门当成首要目标而忽视复利收益一样，不是什么好主意。健全财务的原则，如同列夫·托尔斯泰所说的幸福家庭那样，在各地都大体相同。金融中的错误各有各的后果，金融建议也一样。"
             },
             {
               "id": "p011",
               "en": "Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.",
-              "zh": ""
+              "zh": "《经济学人》的订阅者可以注册我们的《观点》通讯，里面汇集了我们最好的社论、专栏、客座文章和读者来信。"
             }
           ],
           "issue_published_at": "2026-07-18",
           "article_published_at": "July 16th 2026",
           "published_at": "July 16th 2026",
-          "published_date_source": "article"
+          "published_date_source": "article",
+          "translated_at": "2026-07-21T17:52:28+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low"
         },
         {
           "id": "061-how-to-shrink-the-feds-dollar7trn-balance-sheet",
@@ -5069,78 +5084,81 @@
           "order": 61,
           "section": "Finance & economics",
           "title_en": "How to shrink the Fed’s $7trn balance-sheet",
-          "title_zh": "",
+          "title_zh": "如何缩小美联储7000多亿美元的资产负债表",
           "rubric_en": "Kevin Warsh will struggle to reverse the effects of bond-buying",
-          "rubric_zh": "",
+          "rubric_zh": "凯文·沃什将很难扭转购债政策留下的影响",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "IMAGINE A CITY that, after years of drought, floods a river valley and turns it into a vast reservoir. In the decade that follows, houses spread across once-barren hillsides, factories rise where water now flows freely and farmers trade their wells for irrigation canals. Soon, the city is built around abundant water. Then comes a new mayor—an irritable NIMBY who regards the whole expanse as an eyesore. What is the mayor to do?",
-              "zh": ""
+              "zh": "想象一座城市，经历多年干旱之后，某天突然泛滥成灾，把河谷冲成一片浩瀚的水库。在随后的十年里，住宅遍布过去贫瘠的山坡，工厂建在原本自由流淌的水面上，农民将井改为灌溉渠道。很快，整座城市都围绕丰沛的水资源重新建成。随后来了新任市长——一个易怒且有“不是我的后院”情结的领导人，他认为这整片广袤景观很碍眼。这样的市长该怎么办？"
             },
             {
               "id": "p002",
               "en": "Kevin Warsh, the Federal Reserve’s new chairman, faces a similar dilemma. During the global financial crisis of 2007-09 the Fed first began buying mortgage-backed securities to steady the housing market, and later long-dated Treasuries to stimulate the broader economy—a policy known as quantitative easing (QE). Three rounds of QE between 2009 and 2014, then another during the covid-19 pandemic in 2020, have swelled the Fed’s balance-sheet to $6.7trn, or nearly 21% of GDP. Treasuries account for about two-thirds of its holdings. Ever suspicious of central-bank sprawl, Mr Warsh fumed last year that this was “a proxy for the Fed’s growing imprimatur on the economy”.",
-              "zh": ""
+              "zh": "美联储新任主席凯文·沃什正面临一个类似的两难局面。2007—2009年全球金融危机期间，美联储首次开始买入抵押贷款支持证券，以稳住住房市场，随后又购买长期期债券以刺激更广泛的经济活动，这一政策后来被称为量化宽松（QE）。2009年至2014年间推出三轮QE，之后又在2020年新冠疫情期间再进行一轮，使美联储的资产负债表膨胀到6700亿美元，几乎相当于国内生产总值的21%。美国国债约占其持仓的三分之二。一直对央行权力膨胀抱有戒心的沃什去年的评论里抱怨道，这是一种“美联储对经济不断加深管控与背书的替代表现”。"
             },
             {
               "id": "p003",
               "en": "In pursuit of a lower waterline Mr Warsh has assembled a task-force of engineers: Karen Dynan of Harvard University, Raghuram Rajan, an ex-head of India’s central bank, and Jeremy Stein, a former Fed governor. Can the task be done safely?",
-              "zh": ""
+              "zh": "为了把“水位”降下来，沃什召集了一支由“工程师”组成的小组：哈佛大学的卡伦·戴南、印度前央行行长拉胡拉姆·拉詹，以及前美联储理事会成员杰里米·斯坦。这个任务能否安全完成？"
             },
             {
               "id": "p004",
               "en": "There are several objections to the Fed’s large balance-sheet. If QE works as a tool of macroeconomic stimulus—a question economists still debate—it does so by distorting the market for long-term debt. If the intervention lasts, so will the distortion. Holding long-term bonds has also proven costly during a period in which interest rates have risen. The Fed pays commercial banks a floating rate of interest on the electronic money it creates to buy bonds, known as “reserves”, which are a liability on its balance-sheet. Yet the yields the Fed earns on its bonds are locked in when they are bought—during the pandemic, at ultra-low levels.",
-              "zh": ""
+              "zh": "美联储资产负债表过于庞大有几个问题。如果QE作为宏观刺激工具有效——这是经济学界仍在争论的话题——其作用机制就是扭曲长期债务市场。如果这种干预持续下去，扭曲也会持续。并且，在利率上升阶段，持有长期债券也被证明成本高昂。美联储在其买入债券时所创造的电子货币“储备金”上，按浮动利率支付给商业银行利息，而这部分属于其负债。可美联储从债券上获得的收益率却是在购买时就已锁定的，当时正值疫情期间，利率处于极低水平。"
             },
             {
               "id": "p005",
               "en": "Mr Warsh’s main concern, however, is institutional. Although the Fed buys government bonds in secondary markets rather than directly from the Treasury, owning trillions of dollars’ worth can still make it look like Uncle Sam’s piggy bank. For now, notes Darrell Duffie of Stanford University, “these criticisms are mostly about perceptions”—more eyesore than menace.",
-              "zh": ""
+              "zh": "然而，沃什先生的主要担忧是制度层面的。虽然美联储是在二级市场购买国债，而不是直接从财政部购买，但仅拥有数万亿美元规模的资产仍然可能让外界看起来像是“萨姆大叔的钱包”在发言。斯坦福大学的达雷尔·达菲（Darrell Duffie）指出，目前这些批评“大多是基于观感的”，更像是让人不舒服的景观，而不是真正的威胁。"
             },
             {
               "id": "p006",
               "en": "To limit the risk that, in Mr Duffie’s words, the perceptions “someday become reality”, the balance-sheet must shrink. The assets cannot decline unless liabilities do, too, so the question is how much room there is on the other side of the ledger. Currency in circulation makes up about $2.5trn of the Fed’s liabilities and cannot be shrunk. The Treasury’s deposit account at the Fed adds another $800bn or so and may offer some wriggle room. The largest liability is reserves, which have risen from around $10bn before the global financial crisis to about $3.1trn today. For the balance-sheet to shrink, these must be drained from banks.",
-              "zh": ""
+              "zh": "为了降低达菲先生所说的那种“某天会变成现实”的观感风险，美联储的资产负债表必须缩小。负债也必须同步减少，否则资产无法下降，因此问题是账簿另一端到底还有多少可用空间。流通中的货币约占美联储负债的2.5万亿美元，无法缩减。财政部在美联储的存款账户又增加了约8000亿美元，可能提供一些活动空间。最大的一项负债是准备金，金融危机前约为1000亿美元，如今已升至约3.1万亿美元。若要压缩资产负债表，这部分必须从银行体系中抽离。"
             },
             {
               "id": "p007",
               "en": "The trouble is that just as the city was gradually moulded around abundant water, the banking system is now built around abundant reserves. Before the financial crisis, reserves paid no interest, so a bank with more than it needed would try to lend them to others and earn the short-term interest rate prevailing in the interbank, or “federal funds” market. As QE flooded the system, the Fed kept control of short-term rates by paying interest on reserves, reducing banks’ incentive to lend them to others. New liquidity regulations pushed in the same direction: for example, banks must show that they can meet their needs using their own liquid assets. Large reserve buffers have thus become the norm.",
-              "zh": ""
+              "zh": "问题在于，就像城市逐步围绕充沛的水源建成一样，银行体系如今也围绕充足的准备金而建立。金融危机前，准备金不计利息，因此银行若持有超出需要的准备金，通常会借给其他银行，并在同业拆借或“联邦基金”市场上赚取当时的短期利率。随着量化宽松（QE）涌入体系，美联储通过支付准备金利息来维持短期利率的控制，削弱了银行把准备金借给其他机构的激励。同样的新流动性监管也朝这个方向推进：例如，监管要求银行证明其可以使用自身的流动性资产来满足需求。因此，较大的准备金缓冲已成为常态。"
             },
             {
               "id": "p008",
               "en": "Banks also adapted their businesses to the new regime. When the Fed bought Treasuries from non-bank investors, the proceeds often landed in those investors’ bank accounts as uninsured deposits. This funding in turn allowed banks to expand their investment portfolios and extend more credit. Mr Rajan says this leads to the “ratcheting” effect: each round of QE left banks dependent on a higher level of reserves.",
-              "zh": ""
+              "zh": "银行也把业务模式调整到这种新制度下了。当美联储从非银行投资者手中买入国债时，这笔款项常常会以未受保险存款的形式进入这些投资者在银行中的账户。反过来，这种资金来源使银行得以扩大投资组合并发放更多信贷。拉詹（Rajan）先生称这会产生“阶梯式”效应：每一轮量化宽松都会让银行对更高水平的准备金形成持续依赖。"
             },
             {
               "id": "p009",
               "en": "As with draining a reservoir, judging how low the level can now fall without causing collapse is hard. During its first attempt to unwind QE, between 2017 and 2019, the Fed reduced reserves gradually, hoping to leave enough for the financial system to function. But in September 2019 reserves ran short and overnight interest rates spiked. Strains reappeared last year, as reserves neared the low-water mark. The Fed responded by buying Treasury bills at a pace of around $40bn a month from mid-December to mid-April, expanding its balance-sheet again to top up the reserve pool.",
-              "zh": ""
+              "zh": "就像给水库放水一样，要判断现在水位还能降到什么程度而又不至于造成系统崩溃并不容易。2017年至2019年间，美联储在首次尝试退出量化宽松政策时逐步减少储备金，希望留出足够的储备金以让金融体系继续运转。但2019年9月储备金趋紧，隔夜利率急速上升。去年，当储备金再次接近低位时，这种压力又重新出现。美联储随即于12月中旬到次年4月中旬期间，以每月约400亿美元的速度购买国库券，使资产负债表再次扩大，以补充储备金池。"
             },
             {
               "id": "p010",
               "en": "Stephen Miran, another former Fed governor and a critic of balance-sheet bloat, wants the Fed to cut the interest rate paid on reserves below what banks could earn by lending them in the federal-funds market. Mr Duffie favours updating Fed software to offset incoming and outgoing payments before they are settled, allowing banks to operate with smaller buffers (the Bank of England and European Central Bank have such systems). Mr Rajan has mused about the Fed letting the first institution caught in a crisis topple, as a way to discipline banks from taking too much risk in a world where abundant reserves encourage credit growth.",
-              "zh": ""
+              "zh": "另一位前任美联储理事、也是资产负债表膨胀批评者的斯蒂芬·米兰（Stephen Miran）主张，美联储应把支付给储备金的利率降到低于银行在联邦基金市场放贷所能获得的利率。道菲（Mr Duffie）则主张更新美联储的软件，在支付和收款结算前进行对冲，以便银行可以用更小的缓冲金运作（英格兰银行和欧洲央行已经有此类系统）。拉詹（Mr Rajan）曾思考过让第一家在危机中倒下的机构“先倒掉”，作为对银行的纪律约束，因为充沛的储备金会助长信贷增长并鼓励过度冒险。"
             },
             {
               "id": "p011",
               "en": "Everyone agrees that any change will take time. Even Mr Warsh has acknowledged that a balance-sheet expanded over 18 years will take “more than 18 weeks” to shrink. Rather than drain the reservoir, he may settle for changing its composition. This could mean replacing long-dated bonds with short-term Treasury bills as they mature, which would reduce the Fed’s influence over longer-term borrowing costs while leaving the balance-sheet’s size unchanged. That would not lower the waterline. But it might improve the view.■",
-              "zh": ""
+              "zh": "各方都认同任何调整都需要时间。连沃什本人也承认，一个在18年间不断扩张的资产负债表要缩小，“需要超过18周”。他可能不会真正抽干这口“水库”，而是转而调整其结构。具体做法可能是让长期债券在到期时被短期国库券替换，这会使美联储对长期借贷成本的影响减弱，同时资产负债表规模不变。这样做并不能降低“水位线”，但可能让局势看起来更好。■"
             },
             {
               "id": "p012",
               "en": "Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.",
-              "zh": ""
+              "zh": "《经济学人》订阅者可以注册我们的《评论》通讯，阅读我们最好的社评、专栏、客座文章和读者来信。"
             }
           ],
           "issue_published_at": "2026-07-18",
           "article_published_at": "July 16th 2026",
           "published_at": "July 16th 2026",
-          "published_date_source": "article"
+          "published_date_source": "article",
+          "translated_at": "2026-07-21T17:53:22+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low"
         },
         {
           "id": "062-the-rate-at-which-earth-is-absorbing-energy-is-alarming-climate-scientis",
@@ -5150,233 +5168,236 @@
           "order": 62,
           "section": "Science & technology",
           "title_en": "The rate at which Earth is absorbing energy is alarming climate scientists",
-          "title_zh": "",
+          "title_zh": "地球吸收能量的速度正在使气候科学家警觉",
           "rubric_en": "Reflections on a warming planet",
-          "rubric_zh": "",
+          "rubric_zh": "关于一个变暖行星的思考",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "IN APRIL the crew of Artemis II showed that Earth’s loveliness from afar, originally revealed by the Moon-bound Apollo missions of the 1960s and 1970s, remains one of the space age’s enduring truths. The home planet’s intricate, swirling, colourful complexities turned out to offer just as wonderful a contrast to the sloe-black of space and the drab dull Moon today as they did when seen half a century ago.",
-              "zh": ""
+              "zh": "在4月，阿耳忒弥斯二号（Artemis II）的机组再次展示了地球从遥远太空中的迷人景象。这样的景象最早在20世纪60至70年代的登月阿波罗任务中被揭示，后来也被反复印证，并且仍然是太空时代仍旧成立的真相之一。如今这颗家园行星精妙、旋涡般、色彩斑斓的复杂面貌，与半个世纪前一样，在从远处望去时，也同深邃的黑空和今天黯淡无光的月球形成了同样令人惊叹的对比。"
             },
             {
               "id": "p002",
               "en": "More prosaic observations from space, though, reveal a disturbing change. They show that the brightness with which that beauty burns is dimming. Seen from afar, Earth is looking steadily darker.",
-              "zh": ""
+              "zh": "然而，更平实的太空观测却揭示出一个令人不安的变化。它们显示，这份美丽所散发出的光芒正在变暗。从遥远处看，地球正逐渐变得更暗。"
             },
             {
               "id": "p003",
               "en": "Evidence of this dimming comes from a project called Clouds and the Earth’s Radiant Energy System (CERES). Since the end of the 1990s the CERES team at NASA, America’s space agency, has been using instruments on various satellites to do some basic planetary book-keeping. They measure the incoming sunshine (visible light and shortwave infrared) and the fraction of this that gets reflected back into space. They also measure the amount of energy shed by the planet itself. Everything with a temperature radiates energy. Earth does so in the longwave part of the infrared.",
-              "zh": ""
+              "zh": "这一变暗现象有证据来自“云与地球辐射能量系统”（CERES）计划。自20世纪90年代末以来，NASA——美国国家航空航天局——的CERES团队一直在利用不同卫星上的仪器进行一种基础的行星收支核算。他们测量入射的阳光（可见光和短波红外），以及其中被反射回太空的比例。同时，他们也测量地球自身散发出的能量总量。任何有温度的事物都会辐射能量，地球就是在红外的长波段这样做。"
             },
             {
               "id": "p004",
               "en": "The amount of sunshine reflected is known as the albedo. This is going down. Everything not reflected is absorbed, so the energy absorbed is going up. Think of it as energy income. The heat given off in the infrared, which represents the planet’s outgoings, is also increasing. As Earth gets hotter the laws of thermodynamics require it to put out more infrared, and though greenhouse gases stymie this response they cannot entirely negate it.",
-              "zh": ""
+              "zh": "被反射回去的阳光比例被称为“反照率”（albedo）。这个数值正在下降。没有被反射的部分就会被吸收，因此吸收的能量也在上升。可以把它理解为“能量收入”。而以长波红外形式向外散发的热量，也就是地球的“能量支出”，同样在增加。地球变得更热后，热力学定律要求它必须放出更多红外辐射；虽然温室气体会阻碍这一过程，但它们无法完全抵消这种变化。"
             },
             {
               "id": "p005",
               "en": "But the increased outgoings have not kept up with the increased income. In book-keeping of the financial sort, as Mr Micawber pointed out, incomings larger than outgoings result in happiness. When it comes to the planet’s energy budget, excessive income heralds misery.",
-              "zh": ""
+              "zh": "但增加的支出并没有跟上增加的收入。正如米考伯先生指出的那样，在财务记账中，收入大于支出会带来财富；但在地球的能量收支里，收入过剩预示着痛苦。"
             },
             {
               "id": "p006",
               "en": "The energy the planet absorbs but does not re-emit is known as Earth’s energy imbalance (EEI). It is the fundamental driver of climate change. If Earth’s energy accounts were balanced, there would be no long-term alteration of the climate. When the accounts fall out of balance, however, so do matters climatic. And if an imbalance goes on growing then, other things being equal, the climate will be driven further and further from its original state. Which is bad, for the measurements show the EEI has more than doubled since 2000 and continues to grow (see chart 1).",
-              "zh": ""
+              "zh": "地球吸收却未重新发出的能量被称为地球能量失衡（EEI）。它是气候变化的根本驱动力。如果地球的能量账目保持平衡，气候就不会发生长期变化。然而一旦收支失衡，气候形势也会随之改变。如果这种失衡持续扩大，在其他条件不变的情况下，气候将会越来越远离原本的状态。这很糟糕，因为观测数据显示，EEI 自2000年以来已增长了一倍以上，并且仍在上升（见图表1）。"
             },
             {
               "id": "p007",
               "en": "Until recently the EEI was more or less entirely a theoretical thing. Before satellites, the best way of measuring the whole Earth’s albedo was by training telescopes on the Moon to measure “Earthshine”—light reflected first from Earth to the Moon and then from the Moon back to Earth. Only with CERES (which still sneaks the occasional peak at the Moon for calibration purposes) were consistent long-term measurements of it possible.",
-              "zh": ""
+              "zh": "直到最近，EEI 几乎完全是一个理论概念。过去在卫星时代之前，测量整个地球反照率的最好方法，是把望远镜对准月亮，测量“地球光晕”——先从地球反射到月球，再从月球反射回地球的光。只有在 CERES（该卫星仍会为了校准而偶尔对准月亮并记录一次峰值）出现后，才可能进行长期一致的测量。"
             },
             {
               "id": "p008",
               "en": "Those measurements are, moreover, vouched for by data from a completely different source. Since the turn of the century an international programme called Argo has launched thousands of floats, which drift around the oceans measuring temperature, salinity and other things at depths of up to 6km. Since more than 90% of the energy absorbed by Earth goes into the oceans, most of the extra energy now being taken in should end up there, too. Argo’s measurements confirm that it does, tallying closely with the CERES data.",
-              "zh": ""
+              "zh": "此外，这些测量结果还得到了完全不同来源数据的佐证。自本世纪初以来，一个名为 Argo 的国际计划已经放入海洋数千个漂流浮标，它们在海洋中漂流并测量最高可达6公里深处的温度、盐度等参数。由于地球吸收的能源中有90%以上进入海洋，目前新增的能量也理应主要存储在那里。Argo 的观测证实了这一点，并且与 CERES 的数据高度一致。"
             },
             {
               "id": "p009",
               "en": "Armed with a couple of decades of results from both sources, scientists now feel they have a real handle on what the EEI is doing. And what it is doing alarms them. “For the first time we’re interpreting measurements,” says Bjorn Stevens, who runs the Max Planck Institute for Meteorology in Hamburg. “That’s a game changer for me.” And if it is scientifically exciting, the new game also looks alarming.",
-              "zh": ""
+              "zh": "凭借来自这两类数据源的数十年结果，科学家们现在觉得自己终于真正掌握了地球能量失衡（EEI）到底在发生什么，而这让他们感到不安。汉堡马克思·普朗克气象研究所所长 Bjorn Stevens 表示：“这是我们第一次能够解释测量结果。” 他补充说：“这对我来说是一次真正的转折。” 如果说这在科学上令人兴奋，那么这场“新博弈”看起来也同样令人警觉。"
             },
             {
               "id": "p010",
               "en": "This alarm takes two linked but distinct forms. The first is the likelihood that, even as the coming decade sees greenhouse-gas emissions level off and perhaps start to fall, the rate at which Earth’s surface temperature is rising will continue to quicken. Though changes in the EEI do not feed through into global temperatures in a straightforward way, feed through they do. Reto Knutti, a climate scientist at ETH Zurich, says the rate at which the EEI is going up suggests that near-term warming could be anywhere from 10% more to 30% more than the current consensus.",
-              "zh": ""
+              "zh": "这种警惕主要有两种相互关联但又不同的表现。第一种是这种可能性：即便未来十年温室气体排放量会趋于平稳，甚至可能开始下降，地表温度上升的速度仍会持续加快。虽然 EEI 的变化并不会以简单直接的方式传导到全球气温上，但它们确实会传导。苏黎世联邦理工学院（ETH Zurich）的气候科学家 Reto Knutti 表示，EEI 的上升速度表明，近期变暖幅度可能比目前共识高出 10% 到 30%。"
             },
             {
               "id": "p011",
               "en": "Evidence of such increases may well be here already. El Niño events drive up the world’s average surface temperature (and do a lot else besides) by moving heat stored in lower parts of the tropical Pacific into the ocean’s top 100 metres. In the El Niño of 2023, with Earth’s albedo the lowest ever recorded, the top of the ocean was getting a great deal of heat from elsewhere, too. A study by Minobe Shoshiro of Hokkaido University and his colleagues suggests the EEI’s contribution to upper-ocean heating when that El Niño got started was 75% higher than had been the case for this century’s previous El Niño.",
-              "zh": ""
+              "zh": "这种增加的迹象可能已经出现。厄尔尼诺现象会把储存在热带太平洋低层海域的热量输送到海洋表层 100 米范围内，从而推高全球平均地表温度，并带来其他多方面影响。2023 年的厄尔尼诺期间，地球反照率降至有史以来最低水平，海洋表层也从其他地方获得了大量额外热量。北海道大学的 Minobe Shoshiro 及其同事的一项研究表明，在当时的厄尔尼诺开始阶段，EEI 对上层海洋增暖的贡献，比本世纪此前所有厄尔尼诺事件都高出 75%。"
             },
             {
               "id": "p012",
               "en": "Dr Minobe and his colleagues showed that this massive influx of heat explained the increasing frequency of extreme conditions during those two years, which saw records of various kinds set that went well beyond what would be expected on the basis of the trend in surface temperatures. Something similar, Dr Minobe suspects, may be on the cards for this year’s El Niño, which is shaping up to be a whopper.",
-              "zh": ""
+              "zh": "Minobe 博士及其同事还显示，这股巨大的热量输入解释了这两年极端条件频率增加的原因，当年出现了多项前所未有的纪录，远远超出了仅按地表温度变化趋势所能预期的范围。Minobe 博士推测，今年的厄尔尼诺也可能出现类似情况，而且这一轮厄尔尼诺正在快速“发酵”成一次异常强势的事件。"
             },
             {
               "id": "p013",
               "en": "The second form of alarm is the degree to which all this comes as a surprise. Scientists think there are two basic reasons for Earth’s diminishing albedo. One is that stricter controls on the amount of sulphur dioxide emitted from power plants and ocean-going ships have led to fewer toxic, airborne sulphate particles, or “aerosols”. Because those tiny aerosols are also shiny aerosols, this has also made Earth dimmer. The other is that greenhouse-gas-driven climate change reduces the extent of sea-ice, shrinks glaciers and perturbs some types of cloud—all of which reduce the amount of reflected sunlight.",
-              "zh": ""
+              "zh": "第二个令人担忧的地方是，这一切让人如此意外。科学家认为地球反照率下降有两个基本原因。一是对电厂和远洋船舶排放二氧化硫的更严格控制，导致有毒的空气中硫酸盐颗粒物，或称“气溶胶”，减少。由于这些微小的气溶胶同样属于反射性气溶胶，这也使地球变得更暗。另一方面，温室气体驱动的气候变化会减少海冰范围、缩小冰川，并扰动某些类型的云——这些都会降低反射阳光的数量。"
             },
             {
               "id": "p014",
               "en": "The computer models used to understand the climate, and on which the Intergovernmental Panel on Climate Change (IPCC) relies for its predictions, capture both of these effects. But they cannot match the magnitude of the observations.",
-              "zh": ""
+              "zh": "用于理解气候、以及《政府间气候变化委员会》（IPCC）依赖其作出预测的计算机模型，捕捉到了这两种效应。但它们无法与观测到的变化幅度相匹配。"
             },
             {
               "id": "p015",
               "en": "Late last year more than 50 researchers in the field published a paper which asserted that the “strong upward trend in the imbalance is difficult to reconcile with climate models. [We are now left in] little doubt that the real world signal has left the envelope of model internal variability.”",
-              "zh": ""
+              "zh": "去年年底，领域内50多位研究人员发表了一篇论文，文中断言：“不平衡不断增强的强上升趋势难以与气候模型协调。[我们现在已经明确，现实世界的信号]已超出模型内部变率所能解释的范围。”"
             },
             {
               "id": "p016",
               "en": "This is not just a problem for science. As Maria Rugenstein of Colorado State University puts it, “Lots of people are using these models for impact assessment, for carbon budgets—for anything we say about the future, we use these models which cannot reproduce the currently observed energy imbalance.”",
-              "zh": ""
+              "zh": "这不仅仅是科学研究的问题。正如科罗拉多州立大学的Maria Rugenstein所说：“很多人都在用这些模型做影响评估、做碳预算——任何关于未来的判断，我们都依赖这些模型，但这些模型无法重现当前观测到的能量失衡。”"
             },
             {
               "id": "p017",
               "en": "This March Dr Stevens convened a meeting in Schloss Ringberg, a castle overlooking the Tegernsee, a lake in Bavaria, at which experts discussed the possible roles of clouds and sulphate particles—which, to climate scientists, are two quite different types of thing.",
-              "zh": ""
+              "zh": "今年三月，斯蒂文斯博士在巴伐利亚泰格恩湖畔的施洛斯·林格贝格城堡召开了一场会议。与会专家讨论了云和硫酸盐颗粒物可能发挥的作用——在气候科学界，前者和后者本质上是两种完全不同的东西。"
             },
             {
               "id": "p018",
               "en": "Sulphates are a so-called forcing—a change in the way energy flows through the system which is imposed from the outside. Cloud changes are feedbacks—responses to such impositions which either amplify or damp down their effects. If climate models are not producing the EEI seen in the real world, the likelihood is that they are either underestimating the cooling effects of the sulphate forcing, or that they do not accurately capture the feedbacks through which changes in net forcing lead to changes in cloud cover. For a week oceanographers, instrument designers, climate modellers, aerosol experts and atmospheric physicists tussled over the arcana of each other’s work to explain this.",
-              "zh": ""
+              "zh": "硫酸盐是一种所谓的“强迫”——也就是外部施加于系统之上的、改变能量流动方式的因素。云变化则属于“反馈”——对这类施加因素的响应，可能会放大或减弱其影响。如果气候模型未能再现现实世界中的 EEI，那么很可能是因为模型低估了硫酸盐强迫所带来的降温效应，或者没有准确捕捉到净强迫变化如何通过反馈机制导致云量变化。一个星期里，海洋学家、仪器设计师、气候模型专家、气溶胶研究者和大气物理学家在会议上反复争论彼此研究中的技术细节，试图给出解释。"
             },
             {
               "id": "p019",
               "en": "The explanation which garnered most support, according to a straw poll Dr Stevens conducted at the end of the week, was that the sulphate forcing was being miscalculated. Various measurements needed for the calculations are hard to make. “A lot of the components are not very well observed, if they’re observed at all,” says Chris Smith, who works on the matter at IIASA, an international research institute based in Austria. Aerosols are mobile but short-lived. They can travel thousands of kilometres from their source, but not the tens of thousands needed to spread around the world like greenhouse gases. This means that their effects are patchy.",
-              "zh": ""
+              "zh": "斯蒂文斯博士在周末进行的投票中显示，得到最多支持的解释是硫酸盐强迫被计算错误。为这些计算所需的各种观测数据都很难获取。奥地利的国际研究机构 IIASA 从事该课题的克里斯·史密斯表示，“许多组成成分都观察得不够好，如果有被观察到的话。” 气溶胶是可移动的，但寿命较短。它们可以从源头移动数千公里，却不足以像温室气体那样传播到全球数万公里范围，因此其影响具有斑块式特征。"
             },
             {
               "id": "p020",
               "en": "They are also various. The basic effect is directly reflecting sunlight back into space. But they have indirect effects on clouds as well, and those seem to produce more of the cooling. The properties—and sometimes the very existence—of low clouds depend on the availability of aerosols on which water vapour can condense into droplets. This means that, if they are in the right place, aerosols can brighten clouds, lengthen their lives or even bring them into existence from scratch. But all this, again, is difficult to measure.",
-              "zh": ""
+              "zh": "它们也各不相同。其基本作用是直接把阳光反射回太空，但它们对云的间接影响也很明显，而这些影响似乎带来更多降温。低云的属性，甚至其存在与否，都取决于可供水汽凝结成水滴的气溶胶是否充足。这意味着，只要位置合适，气溶胶就能使云更亮、延长云寿命，甚至从无到有地促成云的形成。但是，像这些效应一样，相关量再一次难以精确测量。"
             },
             {
               "id": "p021",
               "en": "Øivind Hodnebrog of CICERO, Norway’s main climate-research institute, and his colleagues rooted through data and models to try to form a coherent picture of the aerosols’ decline. They concluded that half the increase in the EEI trend between 2001 and 2019 could be ascribed to the cleaning up of the air, and that past estimates of this change in forcing had been 10-40% too low.",
-              "zh": ""
+              "zh": "挪威主要气候研究机构CICERO的Øivind Hodnebrog及其同事通过梳理数据和模型，试图勾画出气溶胶减少这一现象的完整图景。研究人员得出的结论是，2001年至2019年间地球能量不平衡（EEI）上升趋势的一半，可归因于空气质量改善；而此前对此强迫（辐射影响）变化的估算，普遍偏低了10%到40%。"
             },
             {
               "id": "p022",
               "en": "Since 2019, when that study ended, abatement has continued apace. Worldwide sulphur emissions have fallen from 81m tonnes to 69m. Much of that was a result of new controls on sulphur emissions from ships, which were imposed in 2020 by the International Maritime Organisation (IMO). Sulphates from ships on the high seas are particularly powerful forcers, largely because the scarcity of other nearby aerosol sources increases the marginal effect of the added ones.",
-              "zh": ""
+              "zh": "自2019年那项研究结束以来，减排行动持续推进。全球硫排放从8100万吨降至6900万吨。其主要原因之一是2020年国际海事组织（IMO）对船舶排放硫的实施新管制。来自公海船舶的硫酸盐是一类尤其强的气溶胶强迫源，这主要是因为在缺乏其他附近气溶胶来源时，新增加的这类排放会产生更高的边际效应。"
             },
             {
               "id": "p023",
               "en": "Researchers estimate that the IMO’s 2020 regulations reduced sulphur-related cooling by more than 10%. That is a bigger change to the climate than any measures taken on carbon dioxide have had. Unfortunately, it is in the wrong direction.",
-              "zh": ""
+              "zh": "研究人员估算，IMO于2020年出台的法规使与硫相关的降温效应减少了10%以上。这一变化对气候的影响，比迄今为止针对二氧化碳采取的任何措施都更大。不幸的是，它朝着错误的方向发展。"
             },
             {
               "id": "p024",
               "en": "What then of the feedbacks? Cloud cover has certainly been changing. Last year Helge Gössling of the Alfred Wegener Institute and his colleagues analysed cloud patterns for 2023, a year when temperatures hit a record high, the albedo a record low and the EEI a level that not one of the models relied on by the IPCC could match. They found a striking dearth of low-level clouds over some bits of ocean.",
-              "zh": ""
+              "zh": "那么反馈机制如何？云层覆盖确实在变化。去年的研究中，阿尔弗雷德·韦格纳研究所（AWI）的Helge Gössling及其同事分析了2023年的云图。2023年气温创下历史新高，地表反照率降至历史低位，而地球能量不平衡（EEI）却达到一个没有哪一个被IPCC采用的模型能够匹配的水平。研究人员发现，某些海域的低层云出现了明显的稀缺。"
             },
             {
               "id": "p025",
               "en": "A more recent, long-term assessment of the role of low clouds, by Paulo Ceppi of Imperial College, London, put that result into the context of a two-decade trend. It found this trend did indeed have a significant effect on the EEI, one which seems to explain about half of its growth. But it also found the trend’s strength was no larger than models predict.",
-              "zh": ""
+              "zh": "帝国理工学院（伦敦）的保罗·塞皮（Paulo Ceppi）对低层云作用进行的近期长期评估，将该结果置于二十年趋势中加以解读。研究发现，这一趋势确实对 EEI 产生了显著影响，并且似乎可以解释其增长的大约一半。然而，它也发现，这种趋势的强度并不比模型预测的更大。"
             },
             {
               "id": "p026",
               "en": "If sulphates can explain about half the growth in the EEI, as Dr Hodnebrog and his colleagues argue, and clouds can explain about half, that might seem to wrap things up. The climate remains bad and, as sulphur emissions fall yet further, things are sure to get worse. But the explanations themselves seem fine.",
-              "zh": ""
+              "zh": "如果硫酸盐能够解释 EEI 增长的大约一半，正如霍内布罗格博士（Dr Hodnebrog）及其同事所论证的那样，而云又能解释大约一半，这似乎似乎可以一刀切地解决问题。气候仍然很糟糕，并且随着硫排放进一步下降，局势注定会恶化。只是这些解释本身似乎都说得通。"
             },
             {
               "id": "p027",
               "en": "Unfortunately it is not quite that simple. For one thing some of the cloud effects, those caused by fewer aerosols, are counted in both analyses. For another, the thing the models find hardest to reproduce is not the size of the imbalance, but the degree to which it is dominated by the falling albedo. Kyle Armour of the University of Washington says that is what worries him most about the CERES data. “It’s a much larger shortwave-energy [ie, sunshine] accumulation than the models can produce. So whatever the models are doing, they appear to be missing some processes.”",
-              "zh": ""
+              "zh": "遗憾的是，事情并不那么简单。首先，部分云效应——那些由气溶胶减少引起的效应——在两项分析中都被重复计算。其次，模型最难复现的并不是能量不平衡的绝对规模，而是它被不断下降的反照率所主导的程度。华盛顿大学的凯尔·阿莫（Kyle Armour）认为这正是他最担心 CERES 数据的地方。正因为如此，他说：“这是一个远大于模型能够产生的短波能量（即阳光）积累。这说明无论模型在做什么，它们似乎都遗漏了某些过程。”"
             },
             {
               "id": "p028",
               "en": "Recent work by Gunnar Myhre, also of CICERO, along with Dr Hodnebrog, Norman Loeb of NASA’s Langley Research Centre, who is responsible for the CERES data, and Piers Forster of the University of Leeds, who led the relevant part of the 2021 IPCC report, underlines the point. They looked at how well the models considered by the IPCC dealt with the changing EEI when the rates at which absorbed shortwave and emitted longwave radiation are increasing are separated out.",
-              "zh": ""
+              "zh": "塞西罗（CICERO）的古纳·米赫雷（Gunnar Myhre）在与霍内布罗格博士、NASA 兰利研究中心的诺曼·洛布（Norman Loeb，负责 CERES 数据）以及利兹大学的皮尔斯·福斯特（Piers Forster，曾主导 2021 年 IPCC 报告相关部分）合作的最新研究进一步强调了这一点。他们检视了 IPCC 所采用的模型，在分离吸收短波辐射和向外发射长波辐射速率上升的情况下，处理变化中的 EEI 的表现。"
             },
             {
               "id": "p029",
               "en": "They concluded that even when the models came close to getting the right EEI, they got there in the wrong way. They tended to have a lower increase in absorption and a lower increase in emission; in balance-sheet terms, less income and less outgoings, even if the gap between the two was almost the same. But if all the models were wrong in the same direction, some were wronger than others. And the most wrong all had one thing in common: low “climate sensitivity”.",
-              "zh": ""
+              "zh": "他们得出的结论是，即使这些模型在接近正确的地球能量失衡（EEI）值时，也不是走得对了路。它们往往表现为吸收增加得更少、排放增加也更少；换句话说，像资产负债表一样，收入更低、支出也更低，尽管两者之间的差距几乎一样。不过，如果所有模型都在同一方向上出错，也不意味着错得同样严重。一些模型偏差更大，而偏差最大的那些有一个共同点：气候敏感性“偏低”。"
             },
             {
               "id": "p030",
               "en": "Climate sensitivity is a way of thinking about the sum of all feedbacks—an estimate of the temperature rise to be expected for a given increase in forcing. In 2021 the IPCC reckoned that the best estimate of this sensitivity, given understanding of forcing at the time, was 3°C, with a 90% chance of a value between 2°C and 5°C.",
-              "zh": ""
+              "zh": "气候敏感性是一种衡量所有反馈效应总和的方式——它估计在某一给定的强迫增量下，预期会出现多少温度上升。2021年，联合国政府间气候变化专门委员会（IPCC）推算，在当时对外部强迫的认知下，这种敏感性的最佳估计值为3°C，且有90%的概率介于2°C到5°C之间。"
             },
             {
               "id": "p031",
               "en": "Dr Myhre and his colleagues found that, when judged by their performance on the EEI, models with a sensitivity estimate of less than 2.94ºC could, with high confidence, be ruled out. The IPCC’s best estimate of climate sensitivity is, in other words, the lowest still plausible (see chart 2). Moreover, a recent study led by Gergana Gyuleva, a colleague of Dr Knutti’s at ETH Zurich, using a different measure of climate sensitivity, gets a similar result.",
-              "zh": ""
+              "zh": "Myhre博士及其同事发现，按模型在EEI上的表现来评判，气候敏感性估计低于2.94ºC的模型可以被高度确定地排除。换言之，IPCC的气候敏感性最佳估计，反而是目前仍可成立的最低值（见图2）。此外，由瑞士苏黎世联邦理工学院（ETH Zurich）Knutti博士的同事Gergana Gyuleva领导的一项近期研究，使用了不同的气候敏感性度量，也得出了相似的结果。"
             },
             {
               "id": "p032",
               "en": "A long-time champion of higher climate sensitivities is James Hansen of the Earth Institute at Columbia University. Dr Hansen, a veteran who has been working on climate models and climate sensitivity since the 1970s, thinks the answer to the question “forcings or feedbacks?” is a resounding both. Sulphate effects are big; climate sensitivity is high.",
-              "zh": ""
+              "zh": "长期支持更高气候敏感性观点的，是哥伦比亚大学地球研究所的James Hansen博士。作为一位自上世纪70年代起就从事气候模型与气候敏感性研究的资深专家，Hansen博士认为“是外部强迫，还是反馈作用”这个问题的答案是响亮的“两者皆有”。硫酸盐效应很大，气候敏感性也很高。"
             },
             {
               "id": "p033",
               "en": "As a result he believes warming is currently growing not at 0.27°C per decade, the rate Dr Forster and his colleagues currently calculate, but at a whopping 0.4°C a decade. On that basis he expects the current El Niño to make both this year and next the hottest on record (most prognosticators think that its full effects will make this happen only next year). His projections see warming since the 19th century reaching 2°C—and thus surpassing the limit enshrined in the Paris agreement on climate in 2015—by the end of the 2030s.",
-              "zh": ""
+              "zh": "因此他认为，升温目前并非福斯特博士及其同事目前计算的每十年0.27°C，而是高达每十年0.4°C。基于这一判断，他预计当前的厄尔尼诺现象会让今年和明年都成为有记录以来最热的一年（多数预测者认为其全部影响将在明年才会显现）。他的预测显示，若按此趋势，自19世纪以来的升温到本世纪30年代末将达到2°C，从而突破2015年《巴黎协定》确立的上限。"
             },
             {
               "id": "p034",
               "en": "Few of Dr Hansen’s peers agree with all of this. They take issue with the way he derives his high climate sensitivity from analysis of the ice ages and the warm periods between them. According to Dr Armour the pattern of the warming at the end of the most recent ice age did not look like the pattern of warming being seen today.",
-              "zh": ""
+              "zh": "很少有汉森博士的同行同意他全部观点。他们反对他从冰河期及其间暖期数据中推算高敏感度的做法。根据阿莫尔博士的说法，在最近一次冰河期末期出现的变暖模式，并不符合今天所看到的变暖模式。"
             },
             {
               "id": "p035",
               "en": "Most discussions of climate sensitivity deal in global averages. But it is becoming increasingly clear that patterns matter. The oceans are not warming homogeneously, and some parts of the world are better at losing heat than others.",
-              "zh": ""
+              "zh": "大多数关于气候敏感性的讨论都采用全球平均值来处理问题，但人们越来越清楚，区域格局才是真正关键。海洋并不是均匀变暖的，世界的某些地区比其他地区更擅长散失热量。"
             },
             {
               "id": "p036",
               "en": "The classic example is the “warm pool” in the western Pacific. Surface heat drives powerful convection into the atmosphere above, producing towering thunderclouds. This convection moves heat up towards the top of the atmosphere very efficiently. And once there that heat is more easily lost to space as infrared. The planet gets a radiator; its climate sensitivity goes down.",
-              "zh": ""
+              "zh": "一个经典例子是西太平洋的“暖池”。海表热量会驱动强烈对流，向上输送到其上方的大气，形成高耸的雷雨云。这种对流能非常高效地将热量输送到对流层顶部。一旦热量到达那里，就更容易以红外辐射的形式散失到太空中。此时，地球更像一个散热器，其气候敏感性就会下降。"
             },
             {
               "id": "p037",
               "en": "Work by Vince Cooper of MIT, a former student of Dr Armour, applies similar ideas to the end of the ice age. The bits of the sea surface which were most anomalously cold back then were in northern high-latitudes. And for a given amount of warming, a world where that warming is concentrated in the high-latitudes will have a higher climate sensitivity than a world of more homogeneous warming like today’s. The changes in global average temperature seen then do not imply particularly high sensitivity now. In fact, Dr Cooper thinks they suggest that today’s sensitivity is unlikely to be more than 4°C.",
-              "zh": ""
+              "zh": "麻省理工学院（MIT）的文斯·库珀（Vince Cooper）的研究，应用了类似思路来分析冰川时代的结束。那时，海洋表面最异常寒冷的区域位于高纬度北方。对于同样幅度的变暖来说，如果升温集中在高纬度地区，那么当时的世界比像今天这样更均匀变暖的世界，具有更高的气候敏感性。于是那时观察到的全球平均温度变化并不一定意味着当今的敏感性特别高。事实上，库珀博士认为，这些证据表明当今的敏感性不太可能超过4摄氏度。"
             },
             {
               "id": "p038",
               "en": "But the importance of patterns does not lie only in the past. Dr Rugenstein and others have been working for some time on the problem that the patterns of warming found in climate models do not, by and large, reflect those seen in the real world. And some aspect of this disjunction might explain why the models are not matching the real EEI. At the Ringberg meeting the number of people who thought that pattern effects might yet explain the EEI was smaller than the “forcings are wrong” crowd, but larger than any other group.",
-              "zh": ""
+              "zh": "但模式特征的重要性不仅限于过去。鲁根斯坦（Dr Rugenstein）及其他人已经研究了一段时间：气候模型中出现的变暖格局，整体上并未反映现实世界中的格局。这个脱节的某些方面，可能解释了为什么这些模型与真实的EEI不一致。在雷恩贝格（Ringberg）会议上，认为“格局效应”仍可能解释EEI的人数少于认为“强迫项错误”的人，但多于任何其他观点。"
             },
             {
               "id": "p039",
               "en": "Unfortunately, it is not clear quite what that explanation would look like—not least because, as Dr Stevens puts it, “No one knows what makes the patterns.” Are they the result of natural variability, with their arrangement over the past few decades—during some of which the warm pool radiator was working very well— largely a matter of chance? Or might they be explained through a mechanism that the models do not yet know how to capture? “My intuition”, says Dr Rugenstein, “is that the models’ ocean heat uptake is wrong.” This would lead to problems with the sea-surface temperature patterns.",
-              "zh": ""
+              "zh": "遗憾的是，人们还不清楚这种解释具体会是什么样子——最起码正如史蒂文斯博士所说，“没有人知道是什么造成了这些格局。”这些格局是自然波动的结果吗？过去几十年中它们的排列——其中有些年代海洋热辐射带非常有效——大多只是偶然？还是可以用模型尚未掌握的某种机制来解释？“我的直觉是，”鲁根斯坦博士说，“模型中的海洋吸热过程有误。”这会导致海洋表面温度格局出现问题。"
             },
             {
               "id": "p040",
               "en": "Getting models to mirror the way the ocean couples to the atmosphere is a longstanding problem, and one that looks hard to solve. But it matters immensely. The oceans of the dimming Earth have been absorbing ever more energy. They are storing up that energy. Understanding the processes involved is a matter of urgency—and a certain frustration. “What the last 25 years actually tell us about the next 25 years is open,” says Dr Rugenstein. “And that’s embarrassing as a field.”",
-              "zh": ""
+              "zh": "让模型真实反映海洋与大气的耦合关系，一直是一个长期存在且看似难以解决的问题。但它的重要性极其关键。正在变暗的地球海洋持续吸收越来越多的能量。它们在储存这些能量。理解其中的过程是当务之急，也令人十分困扰。“过去25年到底告诉我们关于未来25年的信息并不明确，”鲁根斯坦博士说，“这在这个领域是尴尬的。”"
             },
             {
               "id": "p041",
               "en": "Last year Dr Stevens and Tiffany Shaw, a researcher at the University of Chicago who looks at predictions of regional climate change, published a paper called “The Other Climate Crisis”. The first climate crisis is familiar enough: the world is heating up quickly. The other crisis, they argue, is in climate science itself, where an accumulation of anomalies suggests that some assumptions needed questioning.",
-              "zh": ""
+              "zh": "去年，斯蒂文斯博士和芝加哥大学的研究人员蒂芙妮·肖（Tiffany Shaw）共同发表了一篇题为《另一个气候危机》（The Other Climate Crisis）的论文。第一个气候危机是广为人知的：地球正在快速变暖。另一个危机，如他们所说，则存在于气候科学本身：大量反常现象的累积表明，一些既定假设有必要被重新质疑。"
             },
             {
               "id": "p042",
               "en": "Progress in understanding what the increasing amount of energy being stored in Earth’s land, sea and air system is actually going to do, they say, requires climate scientists to concentrate on the processes and predictions where models and data diverge the most. There is no more consequential divergence to get started with than the dimming of Earth. ■",
-              "zh": ""
+              "zh": "他们指出，要进一步理解地球陆地、海洋和大气系统中不断增加的储能将会产生什么实际影响，气候科学家必须把更多精力集中在模型与观测数据分歧最大的过程和预测上。与之相比，更值得优先处理、且影响更深远的分歧还没有。最值得从这一点入手的，就是地球变暗问题。■"
             },
             {
               "id": "p043",
               "en": "For more coverage of climate change, sign up for the Climate Issue, our fortnightly subscriber-only newsletter, or visit our climate-change hub.",
-              "zh": ""
+              "zh": "如需获取更多关于气候变化的报道，请订阅我们每两周一次的《气候议题》付费通讯，或访问我们的气候变化专题中心。"
             }
           ],
           "issue_published_at": "2026-07-18",
           "article_published_at": "July 16th 2026",
           "published_at": "July 16th 2026",
-          "published_date_source": "article"
+          "published_date_source": "article",
+          "translated_at": "2026-07-21T17:56:15+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low"
         },
         {
           "id": "063-how-to-train-for-a-heatwave",
@@ -5386,78 +5407,81 @@
           "order": 63,
           "section": "Science & technology",
           "title_en": "How to train for a heatwave",
-          "title_zh": "",
+          "title_zh": "如何适应酷热天气",
           "rubric_en": "A nice, hot bath can go a long way",
-          "rubric_zh": "",
+          "rubric_zh": "一场舒适又热的热水澡能带来很大帮助",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "ENGLAND’S football team set up camp in West Palm Beach, Florida, on June 1st, almost two weeks before the start of the 2026 World Cup. That was so the players, many of whom were used to training in the mild climate of Britain, could adapt to the blistering heat of the host nations. But as July has brought western Europe’s third heatwave of 2026, even those not competing in elite sports might wonder how they can train appropriately to beat the heat.",
-              "zh": ""
+              "zh": "英格兰足球队于6月1日在美国佛罗里达州西棕榈滩驻训，这距2026年世界杯开幕还有近两个星期。这样做是为了让许多习惯在英国温和气候下训练的球员，提前适应东道国炙热的天气。但随着7月来临，西欧在2026年迎来了第三次热浪，即使是不参加顶级体育赛事的人，也可能会想：自己该如何在训练中合适地“抗热”呢？"
             },
             {
               "id": "p002",
               "en": "Preparing for heat requires exposure to heat. That increases levels of blood plasma—the watery stuff which carries blood cells around the body—meaning the heart does not have to work as hard to pump blood, and can beat in a more leisurely manner for longer.",
-              "zh": ""
+              "zh": "要做好防暑训练，关键是要让身体接触高温。这样会提高血浆水平——也就是体内携带血细胞的水状成分——使心脏不必如此辛苦地泵血，并且可以更长时间地以更轻松的节奏跳动。"
             },
             {
               "id": "p003",
               "en": "More plasma also improves blood flow to the skin. There, tiny sweat glands release water and electrolytes onto the skin’s surface, whence the water evaporates, cooling the body. As the body adapts to heat it lowers the temperature at which perspiration begins, as well as the amount of electrolytes lost.",
-              "zh": ""
+              "zh": "更多的血浆也会改善血液流向皮肤。皮肤上的汗腺会把水分和电解质排到皮肤表面，再由水分蒸发带走热量，从而给身体降温。随着身体对高温的适应，出汗开始的体温阈值会降低，同时流失的电解质也会减少。"
             },
             {
               "id": "p004",
               "en": "The best way to bring about such changes is “controlled hyperthermia”. Unfortunately, that involves being locked in a heat chamber for 90 minutes and monitored with a rectal thermometer. In the sweltering heat, participants spend 30 minutes exercising to raise their core body temperatures to a target value—usually 38.5°C. The next hour is then spent alternating between exercise and rest to keep their temperature fixed at the target. And you have to repeat this daily for five to seven days.",
-              "zh": ""
+              "zh": "促成这些变化的最佳方式是“受控高温负荷训练”。遗憾的是，这通常需要被锁在一个高温舱里90分钟，并由医护人员用直肠温度计监测体温。在闷热环境中，参与者先进行30分钟运动，将核心体温提高到目标值——通常为38.5°C。接下来的一个小时则在运动与休息之间交替进行，以将体温稳定在目标值。然后这种训练要每天重复进行五到七天。"
             },
             {
               "id": "p005",
               "en": "Few people, however, have a heat chamber—or the necessary monitoring equipment—in their living room. Fortunately, scientists have devised methods more appropriate for everyday life.",
-              "zh": ""
+              "zh": "然而，很少有人在客厅里有一个热舱——更别说配套的监测设备了。幸运的是，科学家们已经提出了更适合日常生活的做法。"
             },
             {
               "id": "p006",
               "en": "The simplest is to exercise outside in the heat, says Neil Maxwell, an environmental physiologist at the University of Brighton, in Britain. “That will naturally acclimatise you.”",
-              "zh": ""
+              "zh": "正如英国布莱顿大学的环境生理学家尼尔·麦克斯韦尔（Neil Maxwell）所说，最简单的方法就是在高温环境下在户外运动。“这会自然地帮助你完成热适应。”"
             },
             {
               "id": "p007",
               "en": "Even better is to add a hot bath. A study published in 2016, in the Scandinavian Journal of Medicine & Science in Sports, found that 40 minutes on a treadmill in 18°C heat followed by 40 minutes in a hot bath, daily for six days, improved several measures of acclimatisation.",
-              "zh": ""
+              "zh": "更好的方法是再加上热水澡。一项于2016年发表在《Scandinavian Journal of Medicine & Science in Sports》（《斯堪的纳维亚医学与运动科学杂志》）的研究发现，每天在18°C的热环境中跑步机运动40分钟，随后再在热水中浸泡40分钟，连续六天，可以改善多项热适应指标。"
             },
             {
               "id": "p008",
               "en": "In fact, as work published in April in Healthcare found, hot baths alone can do the trick. This research, which looked at healthy adults aged over 65, showed that an hour a day in a 40°C bath produced signs of acclimatisation after just four days. So there is, as it were, no need to sweat it. Simply immersing yourself in hot water brings about the necessary increase in core temperature, says Laura Wilson of Middlesex University, also in Britain, who led the study.",
-              "zh": ""
+              "zh": "事实上，正如4月发表在《Healthcare》上的一项研究所显示，仅靠热水澡也能达到同样效果。这项研究调查了65岁以上的健康成年人，发现每天在40°C的热水中浸泡1小时，仅四天后就出现了热适应迹象。因此，换句话说，你没必要大费周章。英国米德尔塞克斯大学（Middlesex University）的劳拉·威尔逊（Laura Wilson）——该研究的负责人——表示，仅仅让身体浸入热水中，就足以带来核心体温的必要上升。"
             },
             {
               "id": "p009",
               "en": "Acclimatisation is not permanent. “If you don’t keep exposing yourself to heat, then you’re going to start losing the adaptive benefits,” says Dr Maxwell. Still, only a few days of training are needed in the lead-up to a heatwave. The evidence suggests 75-80% of adaptations build up in the first four to seven days.",
-              "zh": ""
+              "zh": "热环境适应不是永久性的。“如果你不持续让自己暴露在高温下，那么你会开始失去这些适应带来的益处，”麦克斯韦尔医生说。不过，在热浪来临前只需要训练几天。证据表明，75%至80%的适应变化会在前四到七天内建立。"
             },
             {
               "id": "p010",
               "en": "Heat can be dangerous. And acclimatisation is not immunity. The usual risks from heat still apply. “Try and replace 150% of the fluid you lose during any kind of session to acclimatise,” says Dr Wilson. “If you’re starting to feel faint or dizzy or lightheaded, take yourself out of the environment.”",
-              "zh": ""
+              "zh": "高温很危险，而且热适应并不等于免疫。平时高温带来的风险仍然适用。“在任何形式的训练中，尽量补回你流失体液量的150%，以帮助身体适应，”威尔逊医生说。“如果你开始出现头晕、发软或眼前发黑，请立刻离开高温环境。”"
             },
             {
               "id": "p011",
               "en": "When done safely, however, some simple tactics could help take the edge off the weather. Jumping in a hot bath may not be appealing as temperatures begin to rise. But your future self will thank you for it. ■",
-              "zh": ""
+              "zh": "不过，只要方法得当，一些简单策略也能帮助减轻天气带来的压力。随着气温上升，跳进热水澡可能并不吸引人，但你的未来自己会为此感激。■"
             },
             {
               "id": "p012",
               "en": "After a free, evidence-based guide to health and wellness? Sign up to our weekly Well Informed newsletter.",
-              "zh": ""
+              "zh": "想获取一份免费的循证健康与养生指南？订阅我们的每周 Well Informed 时事通讯。"
             }
           ],
           "issue_published_at": "2026-07-18",
           "article_published_at": "July 16th 2026",
           "published_at": "July 16th 2026",
-          "published_date_source": "article"
+          "published_date_source": "article",
+          "translated_at": "2026-07-21T17:56:56+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low"
         },
         {
           "id": "064-a-very-silly-adaptation-of-the-odyssey",
@@ -5467,98 +5491,101 @@
           "order": 64,
           "section": "Culture",
           "title_en": "A very silly adaptation of “The Odyssey”",
-          "title_zh": "",
+          "title_zh": "《奥德赛》一部颇为荒诞的改编",
           "rubric_en": "Sir Christopher Nolan’s film is emblematic of its time",
-          "rubric_zh": "",
+          "rubric_zh": "克里斯托弗·诺兰的这部电影代表了它那个时代",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "The squabbles have been epic. Sir Christopher Nolan’s adaptation of “The Odyssey” was causing conniptions long before anyone had even seen the thing. Ahead of its release on July 17th, there was harrumphing over everything from the actress playing Helen (too black); the colour of the plume on Odysseus’s helmet (too red); the soldiers’ armour (also too black, and too Batman-like) and the vocabulary of Odysseus’s son (too American: at one point he says “Dad”). On YouTube the film’s trailer was met with criticism. “If I saw this on a plane, I’d still walk out,” reads one disgruntled comment.",
-              "zh": ""
+              "zh": "争议大得惊人。克里斯托弗·诺兰改编的《奥德赛》在正式上映之前就已经引发了轰动。影片定于7月17日上映前，争议便从女主海伦的选角（太黑了）、奥德修斯头盔上的羽饰颜色（太红了）、士兵的铠甲（也太黑、太像蝙蝠侠）到奥德修斯儿子的用词（太美国化：有一处他说“Dad”）无所不包。影片预告片在YouTube上也遭到批评。一条不满评论写道：“如果我在飞机上看这部片，我仍然会下飞机。”"
             },
             {
               "id": "p002",
               "en": "The film itself is unlikely to allay any anxieties about anachronisms. In everything from its scenery to its psychology it says far more about the modern West than about ancient Greece. Startling liberties are taken with the plot to turn Odysseus, the archetypally flawed ancient hero, into a simple modern goody by flattening his flaws. Any bad behaviour is explained away either by drug use or hinted to be due to proto-PTSD (the overdiagnosis epidemic having apparently reached the ancient shores of Ithaca). The ending, which has him pierced by arrows and turned into a St Sebastian-style pincushion, is sillier still.",
-              "zh": ""
+              "zh": "影片本身也不太可能平息人们对时代错置的担忧。它从布景到人物心理几乎都更像在诉说当代西方，而非古希腊。为了把奥德修斯这个典型的“有缺陷”古典英雄改造成一个单纯的现代正面形象，影片在情节上做出了令人震惊的取舍，压平了他的缺点。影片把任何不当行为都归咎于吸毒，或暗示源于一种“早期PTSD”（似乎“过度诊断”已一并漂到了伊萨卡的古老海岸）。结局里他被箭射中后化作“圣塞巴斯蒂安式”穿针刺绣的靶盘般的样子，更是荒诞离谱。"
             },
             {
               "id": "p003",
               "en": "The scenery is similarly unsuitable, and often far too pretty. Soldiers in elegant gunmetal grey look less like ancient warriors than Warhammer toys. The ochre, candlelit palaces do not resemble warlords’ lairs but boutique hotels. During the beach scenes with the nymph Calypso (Charlize Theron), Odysseus (Matt Damon) seems less to be in agonising exile than on a Caribbean mini-break (they are wearing lots of linen). And the less said about the Cyclops, the better.",
-              "zh": ""
+              "zh": "布景同样不合适，而且常常太过好看。身披雅致枪灰色铠甲的士兵，看上去不像古代勇士，更像是战锤（Warhammer）模型玩具。黄褐色、烛光照亮的宫殿，也不像霸主的隐居营寨，更像精品酒店。奥德修斯和海神女（卡吕普索）在海滩上的片段（女主由查莉泽·塞隆饰演，奥德修斯由马特·达蒙饰演）更像是去加勒比海度了个短途度假（两人都穿着大量亚麻布），而不是在承受痛苦的放逐。对独眼巨人的描写越少提及越好。"
             },
             {
               "id": "p004",
               "en": "This is irksome but typical. Every adaptation of an ancient text is as much about its own era as the original work; less a lens than a mirror. The ancient Athenians transformed Homeric epic into psychologically acute tragedy. In the 18th century Alexander Pope’s translation managed to make Odysseus sound like an effete Enlightenment poet rather than an ancient warrior-king. In 1922 James Joyce’s version offered sex, stream of consciousness and that Modernist literary staple: boredom.",
-              "zh": ""
+              "zh": "这种情况令人恼火，却并不罕见。每一次古典文本的改编，本质上都和原作一样，反映的是自身时代；它更像一面镜子，而非一只镜片。古代雅典人把荷马史诗改写成了心理深刻的悲剧。18世纪，亚历山大·蒲柏的译本让奥德修斯听起来像一位文雅的启蒙时代诗人，而不是一位古代的武士国王。1922年，詹姆斯·乔伊斯的版本则加入了性、意识流，以及现代主义文学的经典元素：无聊。"
             },
             {
               "id": "p005",
               "en": "In this way, Sir Christopher’s retelling is part of a time-honoured tradition. It is manifestly a product of the present day. Female characters offer frequent apologias for feminism (not a noted strong suit of the ancients). The casus belli of the Trojan war is given as a desire to improve trade routes, as if Agamemnon were merely a blameless advocate for free trade rather than one of antiquity’s greatest thugs.",
-              "zh": ""
+              "zh": "在这个意义上，克里斯托弗·诺兰的重述属于一项历史悠久的传统。它显然是当下时代的产物。女角色频繁为女权主义发声（这并非古人所擅长的强项）。特洛伊战争的开战理由被说成是为了改善贸易路线，仿佛阿伽门农只是一个无可指摘的自由贸易倡导者，而不是古代最凶狠的恶霸之一。"
             },
             {
               "id": "p006",
               "en": "Adaptations have some latitude, for “The Odyssey” contains multitudes. In one of the most famous scenes, the god Proteus transforms into a lion, then a snake, then rushing water. “The Odyssey” is more protean still. In the three millennia since it was composed, it has been on an odyssey all its own.",
-              "zh": ""
+              "zh": "改编自《奥德赛》有一定的解释空间，因为《奥德赛》本身内涵丰富。 在最著名的一个场景中，海神波塞冬化作一头狮子，又化作一条蛇，接着变成奔腾的水流。《奥德赛》本身更具多变性。在它成书后的三千年里，它一直经历着属于自己的一次“奥德赛式”漂流与变形。"
             },
             {
               "id": "p007",
               "en": "The poem has become a noun (an odyssey) and an adjective (Odyssean). It has become a play, a TV series, a novel (“Ulysses”) and a porn film (“Odyssey: The Ultimate Trip”). It has become a lunar lander (IM-1 Odysseus), a large asteroid (1143 Odysseus) and a body lotion (which, with notes of black pepper and sandalwood, no doubt smells better than its namesake would have).",
-              "zh": ""
+              "zh": "这部史诗已经成为一个名词（odyssey），也成为一个形容词（Odyssean）。它又变成一部戏剧、一部电视剧、一部小说（《尤利西斯》）和一部色情电影（《Odyssey: The Ultimate Trip》）。它还成为一艘登月器（IM-1 Odysseus）、一颗大行星（1143 Odysseus）以及一款润肤乳（带有黑胡椒和檀香气味，毫无疑问闻起来会比它的名字来源更好闻）。"
             },
             {
               "id": "p008",
               "en": "It is therefore not surprising that Odysseus, the sacker of cities, has been transformed once again by Sir Christopher. In other ways it is surprising, as “The Odyssey” has been a wrecker of reputations. In 2024 a film starring Ralph Fiennes was dismissed as “dull” and a “slog”. A movie of 1954, starring Kirk Douglas, was described as “weird” and “vapid”.",
-              "zh": ""
+              "zh": "所以，战神奥德修斯（Odysseus）再次被克里斯托弗改造成别样形态并不令人意外。另一些方面则更令人意外，因为《奥德赛》历来是“毁名作”——它毁掉过不少作品的评价。在2024年，一部由拉尔夫·费因斯主演的电影被批评为“枯燥”与“漫长乏味”。一部1954年的电影，主角是柯克·道格拉斯，也被描述为“怪异”和“空洞”。"
             },
             {
               "id": "p009",
               "en": "Sir Christopher has form on tricky topics: his previous film, “Oppenheimer”, about particle physics and nuclear weapons, grossed almost $1bn at the box office. Still, he has learned that “The Odyssey” is not an easy book to film.",
-              "zh": ""
+              "zh": "克里斯托弗·诺兰在处理棘手题材方面一向是得心应手：他上一部关于粒子物理和核武器的电影《奥本海默》在票房上几乎赚到10亿美元。不过，他也已经明白《奥德赛》并不是一部容易拍成电影的书。"
             },
             {
               "id": "p010",
               "en": "That porn flick hints at why: it describes itself, with admirable artistic honesty, as “Three unrelated stories”. The original “Odyssey” is not much better. It tells the tale of Odysseus’s ten-year journey home from the Trojan war and thus is commonly thought of as a kind of watery Greek road trip. But it is also a sex-and-sea-monsters film, a father-and-son film and a husband-and-wife film.",
-              "zh": ""
+              "zh": "那部电影也从侧面提示了原因：它用可敬的艺术诚实自称是“三个不相关的故事”。原著《奥德赛》也不算容易处理。它讲述了奥德修斯从特洛伊战争归乡、历时十年的旅程，因此常被当作一种“泼天”希腊公路片来看待；但它同时也是一部性与海怪题材的片子，一部父子关系电影，也是一部夫妻关系电影。"
             },
             {
               "id": "p011",
               "en": "Its structure is fiendishly twisty. It is about Odysseus—but readers do not meet him for four books. Moreover, many of the stories that you think of as archetypally Odyssean are either not told at all or told in brisk narrative flashback: the Sirens slip by in some 60 lines and the Lotus-Eaters in about 20. It is, as Sir Christopher said, “the original non-linear narrative”. It is, says Emily Wilson, a classicist who published a dazzling translation in 2017, “complicated”.",
-              "zh": ""
+              "zh": "它的结构狡猾得令人头疼。它写的是奥德修斯，但读者前四卷都见不到他。另外，许多我们认为是典型“奥德赛式”的故事，要么根本没被讲述，要么只在叙事回闪中匆匆一带而过：海妖情节大约只用60行，罗托斯食人花（神话中的“食莲花者”）也只占约20行。诺兰本人曾说，这是一种“最早的非线性叙事”；而2017年出版过一部极具亮点译本的古典文学学者艾米莉·威尔逊（Emily Wilson）则称它“复杂”。"
             },
             {
               "id": "p012",
               "en": "It is also very famous. The second work of Western literature, it was once assumed to be secondary in seriousness to its more manly prequel, “The Iliad”. Yet in recent years its fame has far eclipsed it. The first Penguin Classic ever printed was “The Odyssey”. The pyramid of intellectual biomass resting upon it is vast. It is only 12,000 lines long, but look up “Odyssey” in the British Library and you are offered 34,000 titles: almost three for every line. “Iliad” returns a mere 9,000.",
-              "zh": ""
+              "zh": "它也非常出名。作为西方文学中的第二部作品，它曾被认为严肃性上不及更“阳刚”的前作《伊利亚特》。但近几年，它的名声已经远远盖过了后者。企鹅经典（Penguin Classic）第一本付印的书就是《奥德赛》。围绕它建立起来的思想金字塔非常庞大。它只有12,000行，但在英国图书馆里检索“Odyssey”，会出现34,000个书目：几乎每一行都对应三条记录；而“Iliad”只有9,000条。"
             },
             {
               "id": "p013",
               "en": "That it has become yet another film—and created yet more debates—is further proof of its permanence. There are two ways to see such squabbles. One is to engage with them on their own terms. These gripes have some validity: in Homer, Helen is clearly described as “white-armed”; Odysseus probably didn’t wear a red-plumed helmet (red was a Spartan habit); ancient Greek armour was bronze, not Batman-ish; and Odysseus’s son definitely didn’t say “Dad”. As Tim Whitmarsh, Regius professor of Greek at Cambridge University, points out: “The ancient Greeks spoke Greek.”",
-              "zh": ""
+              "zh": "它又成为另一部电影，并引发了更多争论，这反而进一步证明了它的持久性。对这些争执可以有两种解读。第一种是按争执本身来回应：这些抱怨确有一定道理。荷马的文本中，海伦确实被明确写作“白臂（白纤手）”；奥德修斯大概没有戴着红羽毛头盔（红色是斯巴达人的习俗）；古希腊的盔甲是青铜的，而不是“蝙蝠侠式”的；而且奥德修斯的儿子绝对没有说“Dad”。正如剑桥大学拉吉厄斯希腊语教授蒂姆·惠特马什（Tim Whitmarsh）指出的：“古希腊人说的是希腊语。”"
             },
             {
               "id": "p014",
               "en": "The other way to see these arguments is as proof of the malleability of “The Odyssey”. In an era in which people bristle at American influence in Europe, it lets people bristle at Americanisms (“Dad!”) in ancient Greece. In an era anxious about the excessively manly manosphere, people can fret over excessively manly armour. In an era riven by debates about race, people have engaged in bad-tempered rows over casting. We are not arguing about “The Odyssey” when we argue about “The Odyssey”. We are arguing about ourselves.",
-              "zh": ""
+              "zh": "另一种看法是，把这些争论视作《奥德赛》可塑性的证明。在一个对欧洲受美国影响神经紧绷的时代，它允许人们对古希腊中的“美国式”说法（“Dad!”）生气；在一个对“男子气概”过盛的男性话语圈（manosphere）焦虑的时代，人们会对过于“男性化”的盔甲斤斤计较；在一个被种族争论撕扯的时代，人们则围绕选角爆发激烈争吵。我们在讨论《奥德赛》时并不是在辩论《奥德赛》本身。我们其实在辩论的是我们自己。"
             },
             {
               "id": "p015",
               "en": "Each generation remakes “The Odyssey” in its own image: you get the version you deserve. The clever, quarrelsome ancient Athenians took Homer and transformed him into clever, quarrelsome tragedy. The Modernists turned him into Modernist prose and poetry. The simplistic, visual modern world has taken Homer and turned him into social-media spats and an absurd Cyclops—and thus into a tragedy that is all its own. ■",
-              "zh": ""
+              "zh": "每一代人都在按自己的样子重塑《奥德赛》：你看到的是你所应得的版本。聪明而爱争辩的古雅典人把荷马改造成了聪明而爱争辩的悲剧。现代主义者把他改写成了现代主义散文和诗歌。而这个简化、视觉化的现代世界，将荷马变成了社交媒体上的口角和一场荒诞的独眼巨人故事——于是《奥德赛》也就变成了一部属于这个时代自己的悲剧。■"
             },
             {
               "id": "p016",
               "en": "For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist, our weekly subscriber-only newsletter",
-              "zh": ""
+              "zh": "如需了解更多最新图书、电影、电视剧、专辑和争议，欢迎订阅 Plot Twist，每周一期、仅向订阅者开放。"
             }
           ],
           "issue_published_at": "2026-07-18",
           "article_published_at": "July 16th 2026",
           "published_at": "July 16th 2026",
-          "published_date_source": "article"
+          "published_date_source": "article",
+          "translated_at": "2026-07-21T17:57:49+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low"
         },
         {
           "id": "065-why-sir-christopher-nolan-inspires-such-devotionand-contempt",
@@ -5568,88 +5595,91 @@
           "order": 65,
           "section": "Culture",
           "title_en": "Why Sir Christopher Nolan inspires such devotion—and contempt",
-          "title_zh": "",
+          "title_zh": "为何克里斯托弗·诺兰会赢得如此狂热的追捧与蔑视",
           "rubric_en": "His films are ambitious and technically brilliant, but often emotionally detached",
-          "rubric_zh": "",
+          "rubric_zh": "他的电影雄心勃勃、技术上出色，却常常情感上显得疏离",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "THE SEVEN most dangerous words anyone can say to a film aficionado are: “What do you think of Christopher Nolan?” The question will almost certainly elicit one of two reactions: a long, fevered disquisition on the masterful craftsmanship of his 12 feature films (now 13, with the release of “The Odyssey”)—or eye-rolling contempt. Almost nobody will shrug and say, “Eh, he’s fine.”",
-              "zh": ""
+              "zh": "对电影发烧友来说，最危险的七个词之一就是：“你怎么看克里斯托弗·诺兰？”这个问题几乎必然引发两种反应之一：要么是对他这位导演12部长片（现在有了《奥德赛》后是13部）炉火纯青工艺的漫长、热烈论辩，要么就是翻个白眼的轻蔑。几乎没人会不经思索地耸肩说一句：“嗯，还行。”"
             },
             {
               "id": "p002",
               "en": "Perhaps that is unsurprising: ambitious artists tend to provoke strong reactions, and Sir Christopher Nolan is nothing if not ambitious. He is the seventh-highest-grossing film director ever, and the most important British film-maker since Alfred Hitchcock. Like Hitchcock, he is devoted to the technical work of film-making: “The Odyssey” is the first blockbuster to be shot entirely on IMAX film, a format that produces sumptuous images but is harder to work with than digital cinematography.",
-              "zh": ""
+              "zh": "这也许并不令人惊讶：有抱负的艺术家本就容易激起强烈反应，而克里斯托弗·诺兰绝对不是没有抱负的。按票房总额计算，他是有史以来第七位最高票房导演，也是阿尔弗雷德·希区柯克之后最重要的英国电影人。和希区柯克一样，他痴迷于电影制作的技术层面： 《奥德赛》是第一部全片都用 IMAX 胶片拍摄的商业大片，这种格式能带来华丽的画面，但比数字电影摄影更难驾驭。"
             },
             {
               "id": "p003",
               "en": "Sir Christopher stands out from his peers for having the widest-ranging, most original and brainiest oeuvre. Like many directors working today, he has done franchise flicks—he made three Batman films between 2005 and 2012—but they were an interlude rather than the capstone of his career. So what is it about Sir Christopher that makes him such a divisive film-maker?",
-              "zh": ""
+              "zh": "诺兰在同行中之所以格外突出，是因为他的作品覆盖面最广、最有原创性、也最“有脑”。和许多当代导演一样，他也拍过系列电影——2005年至2012年间他拍了三部《蝙蝠侠》——但那只是职业生涯中的一次插曲，而不是压轴之作。那究竟是什么，让诺兰成为一位如此两极分化的电影作者？"
             },
             {
               "id": "p004",
               "en": "Start with the man himself. He was born in 1970 to a British father and an American mother. He works with family: his wife, Emma Thomas, produces his films; his uncle, John Nolan, acted in some of them; he writes with his brother Jonathan; and his four children worked on “The Odyssey”. He is efficient, known for shooting films quickly and often to budget.",
-              "zh": ""
+              "zh": "先从他本人说起。他于1970年出生，父亲是英国人，母亲是美国人。他的创作离不开家庭：妻子艾玛·托马斯负责制作他的电影；叔叔约翰·诺兰参演了其中几部；他与哥哥乔纳森共同执笔；他的四个孩子也参与了《奥德赛》的制作。他工作高效，以拍片节奏快且常常控制住预算而闻名。"
             },
             {
               "id": "p005",
               "en": "Tom Shone, a film critic who wrote a book about Sir Christopher, has described him as “a very familiar type of Englishman…the kind of upper-middle-class son of the home counties one could imagine with a career in the City who plays rugby with his fellow brokers on the weekend”. That implies a streak of conservatism, which emerges in his work. His final Batman film, “The Dark Knight Rises” (2012), warns against the tempting, corrosive zeal of revolutionary violence. Paternal duty powers “Interstellar” (2014). “Dunkirk” (2017) celebrates British doughtiness.",
-              "zh": ""
+              "zh": "电影评论家汤姆·肖恩在一本关于克里斯托弗·诺兰的著作中把他描述为“一个非常熟悉的英格兰人类型……那种你可以想象得到的英格兰中上层家庭出身的‘本都县’子弟，在城市里有一份职业，周末与同事经纪人一起打橄榄球的人”。这暗示出一种保守主义倾向，而这种倾向在他的作品中也有所体现。他的最终一部《蝙蝠侠》电影《黑暗骑士崛起》（2012）警示人们革命性暴力所带来的诱惑与侵蚀性的狂热。《星际穿越》（2014）则以“父职责任”作为动力源。《敦刻尔克》（2017）歌颂了英国人的坚韧不拔。"
             },
             {
               "id": "p006",
               "en": "However, his films are defined less by conservatism than by their slipperiness. His breakout film, “Memento” (2000), about an amnesiac trying to solve his wife’s murder, would be chewed over by fans and detractors for years afterwards. Many viewers praised its structural inventiveness: black-and-white scenes tell a story chronologically and colour ones tell one in reverse. They meet at the end.",
-              "zh": ""
+              "zh": "然而，与其说他的电影由保守主义定义，不如说更容易让人觉得它们滑溜难以把握。他的突破之作《记忆碎片》（2000）讲述一位失忆男子试图侦破妻子谋杀案，这部片子多年后仍被影迷与反对者反复讨论。许多观众称赞其结构上的巧思：黑白场景按时间顺序推进，而彩色场景则倒着讲述；两者在结尾处交会。"
             },
             {
               "id": "p007",
               "en": "More tricksiness would follow. “Inception” (2010) imagined the manipulation of dreams for corporate espionage. “Interstellar” takes place on multiple planets and features a wormhole and a black hole. Three narratives come together in “Dunkirk”. In “Tenet” (2020) people and objects move forwards and backwards through time. Even “Oppenheimer” (2023), a biopic of an American theoretical physicist, jumps between the 1930s, 1940s and 1950s.",
-              "zh": ""
+              "zh": "更多更诡谲的手法接踵而至。《盗梦空间》（2010）构想了通过梦境操控来实施企业间间谍活动。《星际穿越》发生在多个行星之间，并出现了虫洞与黑洞。《敦刻尔克》里有三条叙事线交汇。《信条》（2020）中，人和物体都会在时间中前行和后退。即便是《奥本海默》（2023）这样一部关于美国理论物理学家的传记片，也在20世纪30年代、40年代和50年代之间跳转。"
             },
             {
               "id": "p008",
               "en": "Sir Christopher’s films often provide a satisfying moment of realisation. But they rarely reward viewers who ruminate on the plot after the credits roll. In the case of “Memento”, for instance, you might wonder how a character with amnesia remembers his amnesia. Roger Ebert, a late American film critic, joked that the protagonist “suffers from a condition brought on by a screenplay that finds it necessary, and it’s unkind of us to inquire too deeply”.",
-              "zh": ""
+              "zh": "诺兰的电影常常能带来一个令人满足的“恍然大悟”时刻。但它们很少会奖励那些在片尾字幕后仍反复思索情节的观众。以《记忆碎片》为例，你可能会想：一个失忆者究竟如何记得自己患有失忆症？已故美国影评人罗杰·艾伯特开玩笑说，男主角“遭受了一种由电影剧本引发的状态，而这种状态本身就有其合理性；我们若深追其因，未免有失礼貌。”"
             },
             {
               "id": "p009",
               "en": "Similar questions could be asked of dreams, wormholes or, in “The Prestige” (2006), his film about magicians, cloning and teleportation. All of it makes for entertaining cinema, but it does not make much sense. Viewers’ enjoyment of these films hinges on their willingness to suspend scepticism and tune into the vibe.",
-              "zh": ""
+              "zh": "同样的问题也可以拿来问他的梦境、虫洞，或《致命魔术》（2006）——这部关于魔术师、克隆与传送的电影。所有这些素材都能拍出有趣的电影，但并不十分讲得通。观众对这些影片的欣赏，取决于他们是否愿意暂时搁置怀疑，转而投入它的氛围。"
             },
             {
               "id": "p010",
               "en": "A more serious charge concerns Sir Christopher’s treatment of female characters. The most important woman in “Memento” is the protagonist’s dead wife. Dead wives or girlfriends also further the plots of “The Prestige”, “Inception”, “The Dark Knight” and “Interstellar”. “Dunkirk” features just two minor female characters.",
-              "zh": ""
+              "zh": "一个更严肃的指控涉及诺兰对女性角色的处理。《记忆碎片》里最重要的女性角色是主人公的已故妻子。《致命魔术》《盗梦空间》《黑暗骑士》和《星际穿越》中，已故的妻子或女友也都推动着情节发展。《敦刻尔克》里只出现了两个次要女性角色。"
             },
             {
               "id": "p011",
               "en": "This charge can be overblown, though. “Interstellar” features two strong female figures. Anne Hathaway, Katie Holmes and Maggie Gyllenhaal play integral roles in the Batman films. And Emily Blunt got an Oscar nod for her stellar performance as J. Robert Oppenheimer’s (admittedly stoic and long-suffering) wife. Sir Christopher has not written a female protagonist just as Greta Gerwig, a star female director, has not written a male one in her solo projects.",
-              "zh": ""
+              "zh": "不过，这一指控可能有些夸大。《星际穿越》中有两个性格鲜明的女性角色。安妮·海瑟薇、凯蒂·霍尔姆斯和玛吉·吉伦哈尔在《蝙蝠侠》系列电影中都扮演了重要角色。艾米莉·布朗特因其出色演绎J·罗伯特·奥本海默的妻子而获奥斯卡提名，这位妻子虽确实坚忍且长期承受痛苦。诺兰并没有写过女性主角，正如明星女性导演格蕾塔·格威格在她的个人作品中也没有写过男性主角。"
             },
             {
               "id": "p012",
               "en": "For it is not women, but people, in whom Sir Christopher has only recently begun to show interest. The protagonist in “Tenet”, as well as a pivotal character in “Dunkirk”, has no name. Many film-makers progress from small, intimate films to bigger-budget, higher-concept ones; in some ways, Sir Christopher has taken the opposite path, going from films that unfold like puzzles to something more human.",
-              "zh": ""
+              "zh": "因为真正的问题并非在于女性，而是人物；诺兰直到最近才开始真正关注“人”。《信条》里的主角，以及《敦刻尔克》里一个关键人物，都是没有名字的。许多电影人是从小制作、私密题材的电影走向预算更高、理念更宏大的作品；在某种程度上，诺兰走的是相反路线，从像谜题一样展开的电影走向更偏向人性的一面。"
             },
             {
               "id": "p013",
               "en": "“Oppenheimer” depicted the enmity between the titular character and Lewis Strauss, his bureaucratic nemesis. As such, it was Sir Christopher’s first film to feature a conflict of actual personalities, as opposed to goals, as in “Interstellar”, “Inception” and “The Prestige”, or good versus evil, as in “Tenet” and his superhero films. In making “The Odyssey”—the story of a man returning to his family—Sir Christopher has, like the gods of Homer, started paying attention to mere mortals. ■",
-              "zh": ""
+              "zh": "《奥本海默》描绘了片名人物与其官僚宿敌路易斯·斯特劳斯之间的敌对关系。因此，这成为诺兰首部以真实人物之间的冲突为核心的电影，不同于《星际穿越》《盗梦空间》和《致命魔术》中围绕目标的冲突，或《信条》与他那几部超级英雄电影中的“善与恶”对立。在拍摄《奥德赛》——一个男人重返家人的故事——时，诺兰像荷马笔下的诸神一样，开始关注普通人。"
             },
             {
               "id": "p014",
               "en": "For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist, our weekly subscriber-only newsletter",
-              "zh": ""
+              "zh": "如果想了解更多最新的书籍、电影、电视剧、专辑和争议，请订阅 Plot Twist，我们每周为订阅者推出的通讯。"
             }
           ],
           "issue_published_at": "2026-07-18",
           "article_published_at": "July 16th 2026",
           "published_at": "July 16th 2026",
-          "published_date_source": "article"
+          "published_date_source": "article",
+          "translated_at": "2026-07-21T17:58:43+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low"
         },
         {
           "id": "066-emo-culture-was-not-just-a-phase-as-it-turns-out",
@@ -5659,58 +5689,61 @@
           "order": 66,
           "section": "Culture",
           "title_en": "Emo culture was not just a phase, as it turns out",
-          "title_zh": "",
+          "title_zh": "事实证明，Emo文化并不只是昙花一现",
           "rubric_en": "The business of misery is thriving as emo bands go back on tour",
-          "rubric_zh": "",
+          "rubric_zh": "当Emo乐队重返巡演时，商业化的“忧郁情绪”生意又火了起来",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "EMO CULTURE was all the rage in 2006. In fact, rage was part of the appeal: “emo” stands for “emotional hardcore”, a style of music that combines intense punk-rock stylings with introspective lyrics. Bands such as My Chemical Romance, Fall Out Boy, Panic! at the Disco and Paramore made the upper reaches of the charts in America and Britain. Teenagers sporting heavy black eyeliner and side fringes gathered in city centres and posted moody selfies on Facebook and Myspace.",
-              "zh": ""
+              "zh": "2006年，EMO 文化风靡一时。实际上，“狂热”也是其吸引力的一部分：Emo 是“emotional hardcore”（情绪硬核）的缩写，指一种将强烈的朋克摇滚风格与内省式歌词结合的音乐类型。像 My Chemical Romance、Fall Out Boy、Panic! at the Disco 和 Paramore 的歌曲一度在美国和英国的排行榜上名列前茅。许多穿着浓重黑色眼线和侧分刘海的十几岁少年少女聚集在市中心，在 Facebook 和 Myspace 上发布情绪化的自拍照。"
             },
             {
               "id": "p002",
               "en": "Now emo is back. My Chemical Romance is marking the 20th anniversary of its album “The Black Parade” with a worldwide stadium tour. The band recently played three gigs at Wembley Stadium in London. Each night the 90,000-capacity venue was packed with screaming fans who had dug out their studded belts for the occasion.",
-              "zh": ""
+              "zh": "如今，Emo 正在回归。My Chemical Romance 正在用一场遍及全球的体育场巡演，纪念其专辑《The Black Parade》发行 20 周年。该乐队最近在伦敦的温布利球场连演三场。每一场，这座可容纳 90,000 人的场地都被穿着装束并拿出钉珠皮带的尖叫粉丝们挤满。"
             },
             {
               "id": "p003",
               "en": "It is not just My Chemical Romance that is getting fans in their feels. Fall Out Boy has toured in recent years. All Time Low played its biggest show ever at the O2 Arena in London earlier this year. Jimmy Eat World is currently on tour to celebrate the 25th anniversary of its “Bleed American” record. (One track urges the listener not to “write yourself off yet”—the band seemingly took its own advice to heart.)",
-              "zh": ""
+              "zh": "不仅仅是 My Chemical Romance 在触动粉丝的情绪。Fall Out Boy 近年也又出发巡演。All Time Low 今年早些时候在伦敦 O2 体育馆举办了有史以来最大的演出。Jimmy Eat World 目前正在巡演，以庆祝其专辑《Bleed American》发行 25 周年。（其中一首曲目呼吁听众“不要轻言放弃自己”，而这支乐队似乎也把这句建议放在心上并付诸行动。）"
             },
             {
               "id": "p004",
               "en": "The genre’s comeback has been building for some time. When We Were Young, a pop-punk and emo festival, launched in California in 2017 and has since moved to a bigger spot in Las Vegas. It has proved there is still a market for misery. But the trend is reaching its zenith now because of the 20-year nostalgia cycle that affects everything from fashion to games and tv shows.",
-              "zh": ""
+              "zh": "这一流派的复兴其实酝酿已久。2017 年，We Were Young 这个融合流行朋克与 emo 的音乐节在加州开办，后来又迁到更大的拉斯维加斯场地。它证明了市场上对“悲观忧郁”仍有需求。不过，这一潮流之所以走到巅峰，是因为 20 年怀旧循环正在发力，它影响着从时尚到电子游戏再到电视剧的一切。"
             },
             {
               "id": "p005",
               "en": "Today fans can find dedicated emo club nights and brunches. Dana Egan leads spin classes at Psycle, a fitness studio in London, to an emo soundtrack. She is thrilled to see the music making a return; she was “always an emo kid”.",
-              "zh": ""
+              "zh": "如今，粉丝们已经能找到专门的Emo俱乐部之夜和Brunch活动。伦敦的一家健身工作室 Psycle 的教练 Dana Egan 会在Emo配乐中带领动感单车课程。她为音乐的回归而兴奋不已，因为“我一直都算是一个Emo孩子”。"
             },
             {
               "id": "p006",
               "en": "The crowds at concerts often span the generations. Millennials—the original emos—attend alongside Gen Z fans who discovered the bands after most had split up. Rhys Boyle, one such follower, says that “My Chemical Romance broke up when I was 13. And I remember thinking, ‘Oh man, I’m not gonna be able to see them live ever.’”",
-              "zh": ""
+              "zh": "演唱会现场常常是跨代际的混合人群。出生于千禧一代的“原始Emo”乐迷和Z世代粉丝并肩而坐，后者是在大多数乐队解散后才发现这些乐队的。Rhys Boyle 作为这类追随者之一说：“我的化学浪漫乐队（My Chemical Romance）在我13岁时解散。那时我记得自己想：‘天啊，我再也看不到他们的现场了。’”"
             },
             {
               "id": "p007",
               "en": "Fans insist emo has endured because it offers a sense of empathy and community in hostile, bewildering times. “A lot of people who are emo are a bit neurodivergent, a bit queer and a bit weird,” says Nez Ray, a fan at Wembley; the music makes them feel as though they are not alone. Perhaps the angst and the eyeliner are here to stay, then. As “Welcome to the Black Parade”, My Chemical Romance’s biggest hit, puts it: “We want you all to know/We’ll carry on.”■",
-              "zh": ""
+              "zh": "粉丝们坚持认为，Emo之所以经久不衰，是因为它在充满敌意、令人困惑的时代里，仍能带来共鸣与社群感。韦姆伯利的影迷 Nez Ray 说：“很多Emo人有些神经多样，也有些酷儿气质，再加上一点点古怪。”这类音乐让他们觉得自己并不孤单。也许，这种焦虑和浓重的眼线会一直存在。正如My Chemical Romance的代表作《Welcome to the Black Parade》所唱的：‘我们想让你们都知道 / 我们会继续走下去。’"
             },
             {
               "id": "p008",
               "en": "For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist, our weekly subscriber-only newsletter",
-              "zh": ""
+              "zh": "想了解更多最新图书、电影、电视剧、专辑和争议话题，请订阅 Plot Twist，我们每周的限会员通讯。"
             }
           ],
           "issue_published_at": "2026-07-18",
           "article_published_at": "July 16th 2026",
           "published_at": "July 16th 2026",
-          "published_date_source": "article"
+          "published_date_source": "article",
+          "translated_at": "2026-07-21T17:59:11+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low"
         },
         {
           "id": "067-a-mystery-street-artist-is-taking-over-cities",
@@ -5720,58 +5753,61 @@
           "order": 67,
           "section": "Culture",
           "title_en": "A mystery street artist is taking over cities",
-          "title_zh": "",
+          "title_zh": "一位神秘的街头艺术家正在占领各大城市",
           "rubric_en": "You can hunt for his mosaics in Paris and beyond",
-          "rubric_zh": "",
+          "rubric_zh": "你可以在巴黎等地追寻他的马赛克作品",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "STANDING AT THE top of the Eiffel Tower, almost everyone looks down. Tourists jostle to peer at Paris’s famous landmarks and the snaking Seine. Yet those in the know gaze upwards: they climb to the highest public platform to view not the metropolis, but a mosaic. Up in one nook is a small pixelated artwork made from ceramic tiles, which depicts a blue creature with a cloud.",
-              "zh": ""
+              "zh": "站在埃菲尔铁塔顶端时，几乎每个人都会向下望去。游客们挤在一起，想要一睹巴黎著名地标和蜿蜒流淌的塞纳河。然而，真正懂行的人会抬头看去：他们爬上最高的公众观景平台，不是去看这座大都市，而是去看一幅马赛克。高处的一个角落里有一件由陶瓷瓷砖拼成的小型像素画，描绘的是一只头顶乌云的蓝色生物。"
             },
             {
               "id": "p002",
               "en": "Invader, the Frenchman behind the mosaic, is one of the most prolific street artists in the world. (Yes, he is even busier than Banksy.) He has planted more than 1,500 works across Paris alone. There are thousands more such “invasions” in over 80 cities around the world, from New York to Tokyo. His pixelated pictures have been affixed to the Hollywood sign and a ski lift in the Swiss Alps; they lie at the bottom of the ocean near Cancún and orbit Earth in the International Space Station (pictured above).",
-              "zh": ""
+              "zh": "这位马赛克背后的人，法国艺术家“Invader”，是世界上最多产的街头艺术家之一。（是的，他甚至比Banksy还忙。）仅在巴黎，他就已经“入侵”了1500多件作品。世界各地还有更多“入侵”作品，遍及80多个城市，从纽约到东京。"
             },
             {
               "id": "p003",
               "en": "Like any successful intruder, he often works under cover of darkness. (Invader has installed almost every piece himself, from Miami to Marrakech.) And, like any serious street artist, his identity is a secret. That hasn’t stopped him from gaining fans. If you know a child in a city that has been invaded, chances are you’ve heard of FlashInvaders, an app on which you score points for finding (or “flashing”) the mosaics. The game has more than 550,000 players, up from about 360,000 in 2024. Players have logged some 47m flashes to date.",
-              "zh": ""
+              "zh": "和任何成功的闯入者一样，他常常在夜色掩护下行动。（Invader几乎每一件作品都亲自安装，从迈阿密到马拉喀什。）和任何严肃的街头艺术家一样，他的身份一直是秘密。但这并没有阻止他赢得粉丝。若你认识某个曾经被“入侵”的城市里的孩子，你很可能听说过FlashInvaders这个应用，玩家可以在其中通过找到（或“闪现”）这些马赛克来得分。该游戏目前已有超过55万名玩家，高于2024年的约36万。玩家累计记录了约4700万次“闪现”。"
             },
             {
               "id": "p004",
               "en": "Invader uses the ancient practice of mosaic to create figures inspired by retro video games. Each tile acts as a “perfect pixel”, as Rafael Schacter, a street-art expert at University College London puts it, which makes the mosaics look like digital images. Many are variations of the crabs and UFOs found in “Space Invaders” (1978). Others reflect their surroundings, as with a fox drinking a cup of tea in London.",
-              "zh": ""
+              "zh": "Invader运用古老的马赛克技艺来创作受复古电子游戏启发的人物形象。正如伦敦大学学院的街头艺术专家拉斐尔·沙克特（Rafael Schacter）所说，每一块瓷砖都像是一个“完美像素”，因此这些马赛克看起来就像数字图像。许多作品是《太空侵略者》（1978）里螃蟹和UFO的变体。也有一些作品会呼应当地环境，比如在伦敦就有一只喝茶的狐狸。"
             },
             {
               "id": "p005",
               "en": "The pixels also mean the images can be scanned on a phone, a bit like a QR code, to play FlashInvaders. The aim of the game is not only to interact with fans, says Invader—who spoke to The Economist via email to stay anonymous—but also to spark curiosity and urban dérive (exploration). Searching for the mosaics takes you to parts of cities you wouldn’t normally see. The game can require detective work, as players must avoid being duped by impostors who try to mimic Invader’s style.",
-              "zh": ""
+              "zh": "这些像素也意味着这些图像可以像二维码一样用手机扫描，从而玩“FlashInvaders”。这款游戏的目的不仅是与粉丝互动，Invader——他通过电子邮件接受《经济学人》采访以保护身份——还想激发好奇心和“城市漫游式”探索。寻找马赛克会带你去到那些你平时不会去的城市角落。游戏有时甚至需要侦探式推理，因为玩家必须避免被那些试图模仿 Invader 风格的冒牌者误导。"
             },
             {
               "id": "p006",
               "en": "FlashInvaders has drawn comparisons to Pokémon GO, an augmented-reality app, though it was created two years earlier, in 2014. Both games encourage players to go outside in pursuit of their favourite monster or mosaic. The app also fits with a wider trend to merge digital and physical play for children, from app-assisted board games to LEGO bricks with built-in chips that respond to sound and movement. Yet FlashInvaders is free: the app is purely a passion project and makes no money.",
-              "zh": ""
+              "zh": "FlashInvaders 常被拿来与增强现实应用《Pokémon GO》作比较，尽管它更早于两年、也就是2014年推出。两款游戏都鼓励玩家走出室外，去追逐自己最喜欢的怪物或马赛克。该应用也符合更广泛的趋势：将数字和实体游戏结合给孩子们玩，从手机辅助的桌游到内置芯片、能对声音和动作作出反应的乐高积木。尽管如此，FlashInvaders 是免费的：这款应用完全是出于兴趣而做，并且不以盈利为目的。"
             },
             {
               "id": "p007",
               "en": "The app stands out because it encourages people to “look at their environment in a different way”, notes Mr Schacter. Mobile games are often criticised for glueing people to their phones, but this one teaches you to take notice of the world around you. Whether on a little-known street or at the top of the Eiffel Tower, it’s always worth looking up. ■",
-              "zh": ""
+              "zh": "Schacter先生指出，这款应用之所以突出之处，在于它鼓励人们“用不同的方式看待周围环境”。人们常常批评手机游戏让玩家把自己“黏”在手机上，但这款游戏却教会你留意周围的世界。无论你在一条鲜为人知的街道，还是在埃菲尔铁塔顶上，抬头看看总是值得的。■"
             },
             {
               "id": "p008",
               "en": "For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist, our weekly subscriber-only newsletter",
-              "zh": ""
+              "zh": "若想了解更多最新图书、电影、电视剧、专辑和争议话题，请订阅我们每周的付费通讯《Plot Twist》。"
             }
           ],
           "issue_published_at": "2026-07-18",
           "article_published_at": "July 16th 2026",
           "published_at": "July 16th 2026",
-          "published_date_source": "article"
+          "published_date_source": "article",
+          "translated_at": "2026-07-21T17:59:47+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low"
         },
         {
           "id": "068-george-sands-life-was-a-heady-mix-of-sex-and-serious-fiction",
@@ -5781,58 +5817,61 @@
           "order": 68,
           "section": "Culture",
           "title_en": "George Sand’s life was a heady mix of sex and serious fiction",
-          "title_zh": "",
+          "title_zh": "乔治·桑的生活在性与严肃文学之间，令人目眩",
           "rubric_en": "A new biography seeks to restore the French novelist’s place in the literary canon",
-          "rubric_zh": "",
+          "rubric_zh": "一部新传记试图让这位法国小说家重返文学正典",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "HOW MUCH do you know about George Sand? If you are an Anglophone reader, the answer is probably “not a lot”. You might recall that she was a French writer and that “George Sand” was a pseudonym (her real name was Amantine Lucile Aurore Dupin de Francueil). Perhaps you know that she wore men’s clothes and smoked cigars, or that she had a long affair with Frédéric Chopin, a celebrated composer. Only a few, however, will be able to name her works—and even fewer can claim to have actually read them. (Francophone readers, meanwhile, may have studied her books in school.)",
-              "zh": ""
+              "zh": "你对乔治·桑了解多少？如果你是英语读者，答案大概是“不了解得不多”。你也许只知道她是法国作家，且“George Sand”是她的笔名（她本名叫阿曼丁·吕西尔·奥罗尔·杜潘·德·弗朗科耶）。或许你还记得她会穿男装、抽雪茄，或者她和著名作曲家弗雷德里克·肖邦有过一段长久的恋情。只有少数人能说出她的作品名字——能真正读过的人更少。（而法语读者可能在学校里读过她的书。）"
             },
             {
               "id": "p002",
               "en": "With a new biography, Fiona Sampson, a poet, hopes to change that. She argues that Sand should be thought of as “one of the great novelists of the 19th century”. Sand was prolific—she had to be, given she supported herself and various lovers by her pen—and over the course of a 45-year career she produced more than 50 novels, scores of essays, memoirs and plays, as well as thousands of letters. Ms Sampson argues that the vast body of work was influential, too, probing the inner lives of her female characters and containing “some of the first ecological literature and pioneering fictions of rural life”.",
-              "zh": ""
+              "zh": "随着一本新传记的出版，诗人菲奥娜·桑普森希望改变这种状况。她认为桑应被视为“19世纪最伟大的小说家之一”。桑创作异常丰产——她必须如此，因为她靠文字养活自己和多个情人——在四十五年的文学生涯中，她写出了五十多部小说，以及大量散文、回忆录和戏剧，还写下数以千计的书信。桑普森认为，这部庞大的作品体系同样具有影响力，深入探寻女性人物的内心世界，并包含“最早的生态文学写作”和“开拓性的乡村生活小说”。"
             },
             {
               "id": "p003",
               "en": "Still, if Sand’s reputation has become “all personality, little art” it is mostly because she was an extraordinary person. Her life was eventful, scandalous even, from the get-go: her father, scion of a distinguished military family, married her mother, a former chorus girl, shortly before Sand was born. Her beloved father died in a riding accident when she was four. Many years later, when his grave was accidentally disturbed, Sand took the opportunity to clamber in and kiss his skull.",
-              "zh": ""
+              "zh": "不过，桑的声誉之所以演变成“全部是传奇人物，艺术成分很少”，主要是因为她本身就是个与众不同的人。她的生活从一开始就多事且几乎带有丑闻色彩：她的父亲出身于显赫军人世家，却在桑出生前不久娶了她的母亲——一位前合唱团女孩。她最挚爱的父亲在她四岁时死于一次马术事故。许多年后，当父亲的坟墓被意外打扰时，桑抓住机会爬进去，亲吻了他的头骨。"
             },
             {
               "id": "p004",
               "en": "After a spell in a convent as a teenager, Sand briefly considered taking religious vows. Instead she made vows of a different kind and, at 18, married a man who turned out to be boorish and violent. Before too long Sand left him—and her children—for Paris’s literary scene. She began collaborating with Jules Sandeau, a lover, and borrowing his name. But she soon struck out on her own. After an early hit with “Indiana”, publishers began competing for the rights to her work.",
-              "zh": ""
+              "zh": "少女时期在修道院住了一阵子后，桑短暂考虑过是否要受戒。后来她转而做出了另一种“誓言”：18岁时她嫁给了一位后来被证明粗鲁而暴虐的男人。没过多久，桑就离开了他，也离开了自己的孩子，去到巴黎文学圈。她开始与情人朱尔斯·桑多合作，并借用了他的姓氏。可很快她就独立开展创作。凭借早期作品《印第安纳》获得成功后，出版商便开始竞相争夺她作品的出版权。"
             },
             {
               "id": "p005",
               "en": "“Becoming George” is a romp to read. This is partly because Sand was a libertine, and an extremely successful one at that. (She is on holiday with one paramour when he falls ill; while he is recovering, she seduces the doctor who has come to care for him.) It is also because Ms Sampson is a skilful writer, who deftly evokes the cultural firmament in which Sand lived and worked. She has an enjoyable turn of phrase, too: one man is described as “a sexless creature, something of a bulgy-eyed haddock”. Typhoid, she muses, “must be quite an effective prophylactic”.",
-              "zh": ""
+              "zh": "《成为乔治》读起来很轻快。这部分因为桑本人是个好色之徒，而且是非常成功的一类。（她在与一位情人度假时，他突然生病；在他养病期间，她勾引了来照顾他的医生。）也因为萨姆普森（Sampson）是一位功底扎实的作家，她熟练地重现了桑生存和写作所处的文化天幕。她文风也很有趣：她把某个男人形容为“一个没性欲的家伙，像一条眼球鼓鼓的鳕鱼”。她沉思道，伤寒“恐怕是种相当有效的避孕措施”。"
             },
             {
               "id": "p006",
               "en": "The biography, however, falls short of its intended aim. At times Ms Sampson tells, rather than shows, the reader that Sand’s works matter; more in-depth literary analysis would have bolstered her argument. Sand’s personality remains more intriguing than her art. She emerges as an astonishingly modern hero—so much so that you wonder why there hasn’t been a Hollywood biopic about her in recent years.",
-              "zh": ""
+              "zh": "然而，这本传记却没能完全达到其既定目标。有时，萨姆普森是在直接告诉读者桑的作品有价值，而不是通过文本本身来证明；如果有更深入的文学分析，她的论点会更有支撑。桑的个性仍然比她的艺术更耐人寻味。她呈现出一位令人震惊的现代英雄形象——以至于你会想，为什么近年来没有一部关于她的好莱坞传记电影？"
             },
             {
               "id": "p007",
               "en": "Nevertheless, some readers may still be tempted to pick up a copy of “Indiana”, “Lélia” or “Mauprat” after they have finished “Becoming George”. For Ms Sampson lays out just how many admirers Sand had, including the Brontë sisters, Fyodor Dostoyevsky and Marcel Proust. Gustave Flaubert, who exchanged letters with Sand for many years, addressed his fellow writer as chère maître (dear master). After her death, he predicted that “Her name will live in unique glory as one of the great figures of France.” Any novelist with such a famous fanbase is surely worth a try. ■",
-              "zh": ""
+              "zh": "尽管如此，一些读者在读完《成为乔治》后，仍可能会想翻开《印第安纳》《莉莉娅》或《莫普拉》一书。因为萨姆普森详细列出了桑的众多崇拜者，其中包括勃朗特姐妹、陀思妥耶夫斯基和马塞尔·普鲁斯特。加缪·福楼拜（Gustave Flaubert）与桑通信多年，曾称这位同道作家为“chère maître（亲爱的老师）”。在她去世后，他预言“她的名字将以独特的荣耀永存，作为法国伟大人物之一。”任何一位拥有如此知名读者群的小说家，都值得一试。■"
             },
             {
               "id": "p008",
               "en": "For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist, our weekly subscriber-only newsletter",
-              "zh": ""
+              "zh": "想获取最新图书、电影、电视剧、专辑与争议内容，请订阅《Plot Twist》——我们的每周订阅者专属通讯。"
             }
           ],
           "issue_published_at": "2026-07-18",
           "article_published_at": "July 16th 2026",
           "published_at": "July 16th 2026",
-          "published_date_source": "article"
+          "published_date_source": "article",
+          "translated_at": "2026-07-21T18:00:21+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low"
         },
         {
           "id": "069-the-wild-gripping-story-of-the-nord-stream-pipeline-bombing",
@@ -5842,73 +5881,76 @@
           "order": 69,
           "section": "Culture",
           "title_en": "The wild, gripping story of the Nord Stream pipeline bombing",
-          "title_zh": "",
+          "title_zh": "北溪管道爆炸案这出离奇而扣人心弦的故事",
           "rubric_en": "A technicolour account of the sabotage suggests how fast the world has changed",
-          "rubric_zh": "",
+          "rubric_zh": "这起蓄意破坏的“全景报告”显示世界已多快地改变",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "The bombs were hidden in divers’ cylinders and lowered into the Baltic Sea. In freezing darkness they were fixed to the pipes that snaked along the sea floor from Russia to Germany. The timers were set. As Bojan Pancevski shows in his new book, the resulting explosions shook Europe’s economy and the Western alliance. Revisited today, those tanks are also time capsules, messages in a bottle from an already remote past.",
-              "zh": ""
+              "zh": "炸弹被藏在潜水员的气瓶里，放入波罗的海。那时，海面上是刺骨的黑暗，炸弹被固定在从俄罗斯延伸到德国、蜿蜒于海底的管道上。定时装置被设定。正如博扬·潘采夫斯基在其新书中所展示的，这些爆炸震动了欧洲经济和西方联盟。如今重读此事，这些“水下氧气瓶”也像是来自已十分遥远过去的“瓶中信”与时间胶囊。"
             },
             {
               "id": "p002",
               "en": "Known as Nord Stream 1 and 2, the twin tubes comprised the world’s longest undersea pipeline network when they were laid in 2011 and 2021 respectively. They were always controversial. By bypassing Ukraine, they made it easier for the Kremlin to cut off its gas supplies without interrupting deliveries farther west. As Mr Pancevski writes in “The Nord Stream Conspiracy”, they were “giant tentacles” which “tied Germany and much of Europe to Russia” through dependence on Russian energy.",
-              "zh": ""
+              "zh": "这两条被称为“北溪1号”和“北溪2号”的双线管道，在2011年和2021年分别铺设时，曾是世界上最长的海底管道网络。它们一直颇具争议。由于绕开了乌克兰，这些管道让克里姆林宫更容易切断天然气供应，而不会中断进一步向西欧的输送。正如潘采夫斯基在《北溪阴谋》中写到的那样，它们是“巨大的触角”，通过对俄罗斯能源的依赖把德国及欧洲许多国家“紧紧缠在”俄罗斯身上。"
             },
             {
               "id": "p003",
               "en": "The blasts that ruptured them in September 2022, seven months into Russia’s full-scale invasion of Ukraine, spewed up gas worth $2bn in giant geysers. The facts of the case have emerged patchily; Mr Pancevski, a correspondent for the Wall Street Journal, has dug out what he thinks is the full story.",
-              "zh": ""
+              "zh": "2022年9月，正值俄方全面入侵乌克兰满七个月之际，两条管道被引爆破裂，喷涌出的气体价值2,000万美元形成了巨大的“间歇泉”。此案的事实一直是碎片化浮出水面；《华尔街日报》记者潘采夫斯基挖掘出了他认为的完整故事。"
             },
             {
               "id": "p004",
               "en": "It is gripping. In this telling, the improvised, shoestring raid was conducted by a maverick Ukrainian special-forces unit which, like much of the country’s war effort, relied partly on private funding. It was led by an officer nicknamed “the madman” who had plotted warlords’ assassinations. His team included a heavily tattooed politician and ex-cop who had trained to be a priest. Among the divers was a dauntless former erotic model, whose boyfriend was scared away from Kyiv lest he distract her. The aim was to cut Russia’s export revenues and its influence on Europe.",
-              "zh": ""
+              "zh": "这部叙事极具吸引力。按这个版本所说，这次临时拼装、低成本的突袭是由乌克兰一支特立独行的特种部队执行的，该部队在很大程度上像该国大部分战时行动一样，部分依赖私下募资。行动由一位绰号“疯子”的军官指挥，他曾策划暗杀军阀。其小队成员包括一名满身刺青的政治人物和前警察，这位前警察还接受过神父训练。参与潜水的是一位勇敢的前情色模特，她的男友被劝离开基辅，以免在行动中分散她的注意。其目标是切断俄罗斯的出口收入，并削弱其在欧洲的影响力。"
             },
             {
               "id": "p005",
               "en": "Equipped with fake IDs obtained from criminals in Bulgaria, a crew of seven rented a sloop on the German coast and sailed into the Baltic. To set the bombs they plunged 80 metres into the murk, sometimes in a vicious storm. This book isn’t misty-eyed about Ukraine’s fractious security services and snakepit politics, noting the corruption and occasional brutality that blight them. But it honours the saboteurs’ ingenuity and bravery.",
-              "zh": ""
+              "zh": "这支由七人组成的小组在保加利亚向罪犯购买的假身份证支持下，在德国海岸租下一艘快艇，驶入波罗的海。为了布设炸弹，他们有时在恶劣风暴中下潜到浑浊的80米深海。该书并未对乌克兰混乱的安全机构和如毒蛇般的政治内斗抱有迷恋式幻想，而是指出了其中长期存在的腐败和时有其的残忍。同时，它也承认了肇事者的巧思与勇气。"
             },
             {
               "id": "p006",
               "en": "The German police faced stonewalling and lies. Russia blamed America, which disliked Nord Stream, but, in this account, had got wind of the plan and tried to stop it. As Germany sent aid to Ukraine and took in refugees, the idea that the culprits might be Ukrainian was combustible. Still, the plods tracked down suspects using fingerprints, traffic cameras and facial-recognition software. A Ukrainian caught in Poland was sensationally released. Another was extradited from Italy and indicted on June 30th; German prosecutors explicitly—and explosively—say the attack was committed “on behalf of Ukrainian state authorities”.",
-              "zh": ""
+              "zh": "德国警方遭遇了紧闭大门式的阻挠与谎言。俄罗斯将责任推给美国，美国确实不喜欢北溪项目，但在这份叙述中，美国似乎早已得知这一计划并试图加以阻止。就在德国向乌克兰提供援助并接收难民之际，“嫌疑人可能是乌克兰人”这个念头便很容易引发猜疑与煽动。尽管如此，警方仍凭指纹、交通摄像头和人脸识别软件追踪到嫌疑人。一名在波兰被抓获的乌克兰人被“轰动式”地释放了。另一名则从意大利引渡回国，并在6月30日受到起诉；德国检方明确且“激进”地称，此次袭击是“代表乌克兰国家当局”实施的。"
             },
             {
               "id": "p007",
               "en": "So the saga isn’t over. But the Nord Stream era is. It is only four years since the pipeline was blown up, yet it seems a relic of a distant age. Now it appears bonkers that—after Vladimir Putin invaded Georgia and annexed Crimea—some Western statesmen thought it wise to strengthen his hold on Europe’s economy. His most terrible war has recast this episode and the preceding folly.",
-              "zh": ""
+              "zh": "因此，这个剧情并未结束。但“北溪时代”已经结束。距离管道被炸毁仅四年，如今它却像是远古时代的残留物。现在看来真是荒诞——在弗拉基米尔·普京入侵格鲁吉亚并吞并克里米亚之后，一些西方政治人物还曾认为巩固他对欧洲经济的控制是明智之举。普京发动的这场最可怕战争，让这一事件以及此前的轻率决策都被彻底重写。"
             },
             {
               "id": "p008",
               "en": "Conversely, other aspects of the tale seem less incredible than they did. In four years the notion that war is waged beyond the battlefield has become commonplace. Undersea cables are damaged; Russian hackers target Western institutions; and amateur arsonists, recruited on social media, firebombed a house owned by Britain’s prime minister. Hybrid warfare is no longer a shock but an insidious rumbling reality.",
-              "zh": ""
+              "zh": "同样地，这个故事中的其他方面如今听来反而不再显得离奇。短短四年间，“战争已不再局限于战场”的观念已成常识。海底电缆遭到破坏；俄罗斯黑客攻击西方机构；在社交媒体招募的业余纵火者甚至放火烧毁了英国首相拥有的一处住宅。混合战已经不再令人震惊，而成了隐秘却蔓延不止的一种现实。"
             },
             {
               "id": "p009",
               "en": "Conspiracism has likewise become more entrenched. The Nord Stream case features false-flag theories, subterfuge and cover-ups of a kind that seem unsurprising in the former Soviet world, where opacity has bred cynical mistrust. Paranoiacs in the West have long thought this way, too; as these worlds bleed together, ever more people do.",
-              "zh": ""
+              "zh": "阴谋论倾向也变得更加根深蒂固。北溪事件中出现了“伪旗行动”理论、诡计和掩盖行为，这在前苏联世界里并不奇怪，在那里长期的缺乏透明反而滋生了愤世嫉俗的猜疑。西方的偏执者早就如此想法；随着这两个世界逐渐相互渗透，越来越多的人也开始这样想。"
             },
             {
               "id": "p010",
               "en": "From another angle this book is a dispatch from a separate battle—between shoe-leather journalism and the forces, commercial and technological, which threaten it. For this is really a chronicle of three feats: the sabotage, the police inquiry and the author’s stupendous investigative reporting. On the record, every Ukrainian cited here denies bombing Nord Stream. Yet Mr Pancevski’s sources and perseverance let him reconstruct the mission in technicolour. No AI chatbot will ever match that. ■",
-              "zh": ""
+              "zh": "从另一种角度看，这本书像是一份来自另一场战役的现场报道：一场在一线实地新闻与威胁它的商业力量、技术力量之间的较量。因为这实际上是一部关于三项壮举的编年史：破坏行动、警方调查，以及作者令人震撼的调查性报道。公开记录中，书中所有被提及的乌克兰人都否认轰炸北溪。然而，潘切夫斯基（Pancevski）先生凭借可靠来源和坚韧不拔的毅力，重建了这次行动的全过程，细节生动。任何人工智能聊天机器人都无法与之相比。■"
             },
             {
               "id": "p011",
               "en": "For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist, our weekly subscriber-only newsletter",
-              "zh": ""
+              "zh": "如要了解更多最新图书、电影、电视剧、专辑和争议话题，请订阅 Plot Twist（每周仅向订阅者开放的通讯）"
             }
           ],
           "issue_published_at": "2026-07-18",
           "article_published_at": "July 16th 2026",
           "published_at": "July 16th 2026",
-          "published_date_source": "article"
+          "published_date_source": "article",
+          "translated_at": "2026-07-21T18:00:58+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low"
         },
         {
           "id": "070-humphrey-smith-dictated-what-a-good-pub-should-be",
@@ -5918,72 +5960,75 @@
           "order": 70,
           "section": "Obituary",
           "title_en": "Humphrey Smith dictated what a good pub should be",
-          "title_zh": "",
+          "title_zh": "霍夫雷·史密斯说了什么才算一间好酒吧",
           "rubric_en": "The lord high brewer of Tadcaster died on June 19th, aged 81",
-          "rubric_zh": "",
+          "rubric_zh": "这位“塔德卡斯特大酒厂总酿酒长”于6月19日去世，享年81岁",
           "date": "July 16th 2026",
           "origin_url": "",
-          "translation_status": "pending",
+          "translation_status": "translated",
           "paragraphs": [
             {
               "id": "p001",
               "en": "What makes an ideal English pub? In a book review of 1946, George Orwell knew. In his favourite, The Moon Under Water, the clientele were mostly “regulars”, “who occupy the same chair every evening and go there for conversation as much as for the beer”. The fittings were “uncompromisingly Victorian”, from the grained woodwork to the cast-iron fireplaces. The house had neither a radio nor a piano, and any singing “is of a decorous kind”.",
-              "zh": ""
+              "zh": "什么才算一家理想的英国酒吧？在1946年的一次书评中，乔治·奥威尔已经给出了答案。在他心目中的《月色下的水》中，顾客主要是“常客”，是那些“每晚坐在同一张椅子上，在这里谈天说地的时间甚至与喝啤酒一样多”。装修是“毫不妥协地维多利亚风格”，从纹理木作到铸铁壁炉都遵循这一风格。酒馆里既没有收音机也没有钢琴，任何歌唱“都带着端庄的气质”。"
             },
             {
               "id": "p002",
               "en": "Humphrey Smith took this to heart. As owner for nearly four decades of the proudly independent Samuel Smith Old Brewery in Tadcaster, North Yorkshire (estd. 1758), he wanted his pubs to fit Orwell’s template. And there were a lot of them: almost 300 scattered up and down Britain, mostly in small villages in the north, but also in Bristol and Bath, and 39 in London. There he owned some famous hostelries, including Ye Olde Cheshire Cheese in Fleet Street, the haunt of Dickens and Dr Johnson.",
-              "zh": ""
+              "zh": "霍夫雷·史密斯深受其影响。作为塔德卡斯特（Tadcaster）诺森约克郡那家自豪保持独立身份的塞缪尔·史密斯老啤酒厂（Samuel Smith Old Brewery，建于1758年）近四十年的老板，他希望自己的酒吧都符合奥威尔的范式。这样的酒吧不少：全国遍布近300家，主要在北方的小村庄，也有在布里斯托尔和巴斯，更有39家坐落在伦敦。他在伦敦还拥有一些著名的旅馆式酒吧，其中包括位于福勒特街的“Ye Olde Cheshire Cheese”，那里曾是狄更斯和约翰逊博士的聚会地。"
             },
             {
               "id": "p003",
               "en": "Accordingly, all his pubs had a certain look and sound about them. Dark, cosy, heavy on the leather and brass, with not a TV or a piano about. No Muzak, either; just the buzz of conversation. Nothing was for sale that was not brewed by Samuel Smith or grown in Yorkshire, even to the crisps; but no branding was allowed, inside or out. The beer (Old Brewery Bitter, Nut Brown Ale and Yorkshire Stingo, to name but a few) had been brewed from Tadcaster spring water filtered through Permian limestone, and the worts had been fermented in rare slate tanks called Yorkshire squares. Barrels were made on the premises by his own coopers, and those going to pubs round Tadcaster were delivered on a dray by two magnificent grey shire horses stabled in the brewery.",
-              "zh": ""
+              "zh": "因此，他的所有酒吧都有着某种固定的外观和氛围。偏暗、舒适，皮革和黄铜色调浓厚，并且看不见电视和钢琴。也没有轻音乐（Muzak）；只有谈话声和人声嗡鸣。店里出售的任何东西都必须是塞缪尔·史密斯酿造的，或是约克郡出产的，连薯片都不例外；而且无论店内还是店外都不允许出现任何品牌标识。所售啤酒（比如 Old Brewery Bitter、Nut Brown Ale 和 Yorkshire Stingo）都用塔德卡斯特的泉水酿造，泉水经二叠系石灰岩过滤，而麦汁则在被称作“约克郡方池”的稀有板岩发酵罐里发酵。酒桶由他自己的桶匠在酿酒厂现场制作，运往塔德卡斯特周边酒吧的酒桶则由两匹壮观的灰色夏尔马从酒厂马厩拉来的运酒马车送去。"
             },
             {
               "id": "p004",
               "en": "After all this care, he was not about to let his pubs let him down. So they also featured notices asking customers to respect the rules. There were many. No dogs, no mobile phones except outside, no laptops or tablets. No children, unless dining. No bikers or general undesirables. No men kissing each other, and no swearing. This last rule, relatively new, came in after he overheard a man using the F-word outside the Fox and Goose in Droitwich. Any staff hearing such a word were to ask the culprit to refrain. If the culprit did not do so, they must refuse to serve him.",
-              "zh": ""
+              "zh": "经过如此用心的打造，他决不能让自己的酒吧在细节上让人失望。因此，这些酒吧还都会贴出告知，要求顾客遵守规定。规定很多。不得带狗，手机只能在外面使用，不得使用笔记本电脑或平板。不得带孩子入内，除非是来用餐。不得有骑行者或其他不受欢迎人物。不得有男性间接吻，也不得说脏话。最后这条相对较新的规定，是在他听到有人在德罗伊特威奇的“狐与鹅酒吧”外面说出那个F词后加上的。凡是听到此类用语的员工，都要请对方克制；如果对方不改正，就必须拒绝为其提供服务。"
             },
             {
               "id": "p005",
               "en": "Humphrey could enforce these rules because, in 1984, he had imposed an important rule himself. Henceforth all those who ran Samuel Smith pubs were not tenants who could act on their own initiative, but managers, employed by the brewery (himself) directly. Couples were strongly preferred, and were paid around £50,000 ($67,000) a year. Aspiring applicants went on a week-long course to learn, among other things, about the brewery’s traditions. And woe betide if they fell short.",
-              "zh": ""
+              "zh": "汉弗莱之所以能强行推行这些规定，是因为在1984年他自己先制定了一条关键规则。从此，经营塞缪尔·史密斯酒吧的人不再是可以自行决策的承租人，而是由酒厂（也就是他本人）直接雇佣的经理。雇用时明确偏好成对的管理者，年薪大约是五万英镑（67,000美元）。有志应聘者要先上一个为期一周的培训课程，内容包括该酒厂的传统等各项要求。若有任何不达标，就会惹来麻烦。"
             },
             {
               "id": "p006",
               "en": "He did spot-checks himself, turning up suddenly with a little folder under his arm. Having visited the gents first, he would order a half of Old Brewery Bitter, always that, and sup it in a corner, looking carefully round. The upshot could be dire. If he found anything amiss, he would close the pub down with immediate effect. The next day his men would remove the alcohol, and the managers, who had to live on-site, would be out on the street. He did not always give his reasons. At The Abbey near Derby they offended him by posting pictures of the pub on the internet, at the New Inn in Stamford Bridge by putting perfume, he thought, in his beer, at the Cow and Calf outside Sheffield by failing to produce a chocolate fondant for dessert. That was his favourite, as they should have known.",
-              "zh": ""
+              "zh": "他还会亲自抽查，常常突然出现，胳膊下夹着一个小文件夹。先去看看男厕所后，他会点上一杯 Old Brewery Bitter 的半品脱啤酒（始终是这款），站在角落里一边小酌一边仔细观察。结果可能非常严厉。如果他发现任何毛病，就会立刻叫停酒吧营业。第二天，他的员工会把酒全部清走，住在现场的经理也会被赶到街上。至于处罚理由，他并不总是说明。像在德比附近的 The Abbey 酒吧，他因在网上贴出酒吧照片而得罪了他；在斯坦福桥的 New Inn 酒吧，他认为在啤酒里放了香水；在谢菲尔德外的 Cow and Calf 酒吧，他又因为没端出巧克力软糖甜点而犯错——那其实是他的最爱，他们本该知道。"
             },
             {
               "id": "p007",
               "en": "But then no one truly did know him, when all was said. Few men were as private as he was. He wanted no outsiders poking around in the brewery or nosing in the accounts, and in 1982 he had made his company unlimited, so no one could. (In 2018, when he refused to divulge information to the tiresome pensions regulator, he and the brewery ended up being fined nearly £28,000.) School had been at Eton, where it was hard to fit in with the posh boys, and after that it was back to the brewery. As lord of it he gave no interviews, ducked his head out of the way of any camera, and lived in such secrecy in Oxton Hall, outside Tadcaster, that the only up-to-date picture of it showed just the drive-in and a hedge.",
-              "zh": ""
+              "zh": "不过，说到底，没人真正了解他。很少有人像他这样保密。除了他之外，没人能进到酒厂或翻看账目，他在1982年把公司改为无限责任公司，也是为了同样的目的。（2018年，当他拒绝向那个烦人的养老金监管机构提供信息时，他和酒厂最终被罚款近2.8万英镑。）他在伊顿上过学，那时他很难和那些假意高傲的“上流少年”混在一起；之后他就回到酒厂。作为酒厂主人，他不接受采访，遇见摄像机会立刻躲开身影，而且在塔德卡斯特郊外的奥克斯顿庄园里过着近乎隐士般的生活，以至于当时唯一一张较新照片只拍到了入口车道和一排树篱。"
             },
             {
               "id": "p008",
               "en": "In Tadcaster itself, where he seemed to own, house or employ at least half the town, he was often seen about in his old wax jacket and wellies. A lot of what he did for the place was secret, apart from the building of the very popular Community Swimming Pool. The townsfolk, who were mostly deferential, assumed he was extremely rich, not least because he had been the first brewer to catch the American export market. Yet he was frugal, living in only one wing of Oxton Hall and travelling free on his bus pass.",
-              "zh": ""
+              "zh": "在塔德卡斯特镇上，人们常能见到他，这座城里至少有一半的人要么被他雇佣、要么住在他那儿，或是他的财产。他常穿一件旧蜡质夹克和胶靴在镇上出现。他对这座镇子的许多投入都不为外界所知，除了修建一座非常受欢迎的社区游泳池这一件事。镇民大多恭敬，多半认为他极其富有，尤其是因为他是第一个打开美国出口市场的酿酒商。然而他却很节俭，只住在奥克斯顿庄园的一翼，并且凭着自己的公交卡免费乘车。"
             },
             {
               "id": "p009",
               "en": "He also, however, kept a planning barrister on a retainer. His fights with town and county councils were legion, mostly because he wanted things to stay as they were. The worst was when the Tadcaster bypass was built through his own parkland; but that was by compulsory purchase, so nothing to be done. His plan for Tadcaster, unrealised, was to pedestrianise the centre and put back the cobblestones. Modern intrusions were kept at bay. In 2015, when the River Wharfe flooded the town and broke the 18th-century bridge that linked its two halves, he refused to spend £300,000 of public money on a temporary bridge in its place. Everyone would just have to drive the nine miles round.",
-              "zh": ""
+              "zh": "然而，他同样还长期聘用了一位规划律师担任专属顾问。他与城镇和县议会之间的冲突接连不断，主要因为他希望一切按旧样保留。最令人头疼的一次，是塔德卡斯特绕城公路穿过了他自家的公园用地；但那是依照强制征收修建的，因此无可奈何。他原本计划（但未能实现）的塔德卡斯特方案是把市中心改为步行区，并恢复鹅卵石路面，让现代化的“闯入”尽量被挡在外面。2015年，怀尔夫河漫过河岸淹没了小镇，并冲毁了连接两边的18世纪桥梁时，他拒绝拿出30万英镑公共资金去修建一座临时替代桥。所有人只能开车绕行九英里。"
             },
             {
               "id": "p010",
               "en": "The same unsparing attitude applied to his pubs. By the 2020s half of them were closed, awaiting his approved sort of manager. They included the Angel and White Horse, the flagship pub and his own favourite, right by the brewery. There was nothing wrong with either his beer, or his relatively cheap prices; all pubs were struggling, with around 300 closing every year. But Humphrey’s had an extra disadvantage: his rules. Like Orwell, he yearned to hang on to an idyll of the past. But Orwell had admitted that The Moon Under Water did not, and probably could not, exist. ■",
-              "zh": ""
+              "zh": "他对自己酒吧的态度同样毫不妥协。到了2020年代，他拥有的酒吧已有一半倒闭，等待一个他认可类型的酒吧经理接手。其中包括“天使酒吧”和“白马酒吧”，前者是旗舰店，后者是他自己的最爱，紧挨着酿酒厂。就酒和价格而言，他这两者都没问题；而且当时所有酒吧都在困难中挣扎，每年大约有300家倒闭。但哈姆弗里的麻烦还在于他的规矩。和奥威尔一样，他渴望守住一幅过去的田园理想画面。不过奥威尔自己也承认，《月亮下的水》这家酒吧并不存在，而且很可能不可能存在。■"
             }
           ],
           "issue_published_at": "2026-07-18",
           "article_published_at": "July 16th 2026",
           "published_at": "July 16th 2026",
-          "published_date_source": "article"
+          "published_date_source": "article",
+          "translated_at": "2026-07-21T18:02:20+08:00",
+          "translation_provider": "codex",
+          "translation_model": "gpt-5.3-codex-spark:low"
         }
       ],
-      "translated_count": 55,
-      "updated_at": "2026-07-21T17:15:50+08:00",
+      "translated_count": 70,
+      "updated_at": "2026-07-21T18:02:20+08:00",
       "source_type": "magazine",
       "published_at": "2026-07-18"
     }

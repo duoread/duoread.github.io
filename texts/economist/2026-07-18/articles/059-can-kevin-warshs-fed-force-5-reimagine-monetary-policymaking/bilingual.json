@@ -6,66 +6,69 @@
   "order": 59,
   "section": "Finance & economics",
   "title_en": "Can Kevin Warsh’s Fed force 5 reimagine monetary policymaking?",
-  "title_zh": "",
+  "title_zh": "凯文·瓦什（Kevin Warsh）推动的“第5大道”货币政策会不会改写美联储的政策制定方式？",
   "rubric_en": "The new chairman enlists heavy-hitters to fight a handful of gnarly problems",
-  "rubric_zh": "",
+  "rubric_zh": "这位新主席召集了重量级人物来应对一系列棘手难题",
   "date": "July 16th 2026",
   "origin_url": "",
-  "translation_status": "pending",
+  "translation_status": "translated",
   "paragraphs": [
     {
       "id": "p001",
       "en": "FEDERAL RESERVE chairs like to leave a mark. Ben Bernanke, in charge during the global financial crisis of 2007-09, ushered in a formal inflation target and changed how the Fed talked to the world by making its deliberations less opaque. In 2015 his successor, Janet Yellen, raised interest rates after seven years near zero. Jerome Powell, who came next, launched the Fed’s first comprehensive review of its monetary-policy framework.",
-      "zh": ""
+      "zh": "美联储主席们喜欢留下自己的印记。2007年至2009年全球金融危机期间掌舵的本·伯南克（Ben Bernanke）引入了正式的通胀目标，并通过让决策讨论变得不那么不透明，改变了美联储与外界的沟通方式。2015年，他的继任者珍妮特·耶伦（Janet Yellen）在隔了七年接近零利率后提高了利率。接任后的杰罗姆·鲍威尔（Jerome Powell）则启动了美联储历史上第一次全面的货币政策框架审查。"
     },
     {
       "id": "p002",
       "en": "Kevin Warsh, the new chair, also has big ideas. One is to limit how much of its internal deliberations the Fed reveals, on the grounds that public pronouncements subsequently may make it harder for policymakers to revise their views. Another is to subject the Fed to more open external scrutiny. To that less controversial end, on July 9th Mr Warsh announced the formation of five task-forces which will review critical areas of monetary policy.",
-      "zh": ""
+      "zh": "新任主席凯文·瓦什（Kevin Warsh）同样有宏大的想法。其中之一是限制美联储公开披露其内部讨论的内容，理由是公开表态之后，政策制定者可能会更难在后续修正观点。另一个想法则是让美联储接受更公开的外部审视。为实现后一个相对不那么具争议的目标，7月9日瓦什宣布成立五个工作组，分别审视货币政策中的关键领域。"
     },
     {
       "id": "p003",
       "en": "Such brains trusts are not a new idea. In 2014 Mr Warsh, who served as a Fed governor in the financial crisis, was himself invited by the Bank of England to join one reviewing its communication practices. But whereas his predecessors at the Fed have always listened to leading figures in academic economics, business and finance behind closed doors, Mr Warsh has handed them a microphone.",
-      "zh": ""
+      "zh": "这种“智囊团”做法并不是什么新鲜事。2014年，曾在金融危机期间担任美联储理事的瓦什本人曾受邀加入英格兰银行（Bank of England）的一个评估其沟通惯例的工作组。不同的是，与历任美联储主席一直在闭门状态下听取学术经济、商界和金融界的顶尖人士意见不同，瓦什把麦克风交到了他们手里。"
     },
     {
       "id": "p004",
       "en": "Each task-force is led by a trio of notables. The one looking at how the Fed communicates includes two former central-bank presidents (from Brazil and Britain). A fellow ex-head (from India) co-chairs the team examining the Fed’s bloated balance-sheet. The former boss of Walmart, America’s biggest supermarket, will help run the group investigating alternative data sources. The group exploring the impact of artificial intelligence on jobs and productivity is co-led by an eminent Stanford University economist on secondment to Anthropic, a top AI lab, an even more eminent Silicon Valley venture capitalist and a Microsoft executive. A Nobel prizewinner is among the trio leading the task-force on understanding the causes of inflation.",
-      "zh": ""
+      "zh": "每个工作组都由三位知名人士领衔。负责研究美联储沟通方式的工作组包括两位前央行行长（来自巴西和英国）。另一组由一位前印度央行行长共同主持，专门审查美联储臃肿的资产负债表。前沃尔玛（Walmart）老板——美国最大超市的前掌舵人——将帮助推进研究替代性数据来源的组别。研究人工智能对就业和生产率影响的小组由一位现于Anthropic人工智能实验室任职的斯坦福大学著名经济学家，以及更著名的硅谷风险投资家和一位微软高管共同领导。研究通胀成因的工作组三人小组中，也有一位诺贝尔奖得主。"
     },
     {
       "id": "p005",
       "en": "These heavy-hitters will, with the help of Fed staffers, cobble together policy recommendations and present these first to the Fed board and then to the public. If things go smoothly, all this will happen by the end of the year.",
-      "zh": ""
+      "zh": "在美联储工作人员的协助下，这些重量级成员将把建议拼合成政策方案，先提交给美联储理事会，再提交给公众。如果一切顺利，所有工作都将于今年年底前完成。"
     },
     {
       "id": "p006",
       "en": "Going smoothly will, first of all, require reconciling the co-chairs’ often divergent opinions in their areas of expertise. Consider the team tasked with reviewing how the Fed thinks about inflation. Thomas Sargeant of New York University, who won the Nobel prize in 2011 for empirical work on cause and effect in the macroeconomy, is an unabashed fan of inflation targets. William White of the C.D. Howe Institute, a Canadian think-tank, is an equally staunch critic, arguing that targets have played a role in making the world more indebted and exacerbated financial boom-bust cycles. Greg Mankiw of Harvard University, who headed the Council of Economic Advisers under President George W. Bush, is in favour of targets but against spuriously precise ones like the Fed’s 2.0%.",
-      "zh": ""
+      "zh": "要顺利推进，首先要在共同主席们在各自专长领域里常常分歧的观点之间达成一致。以负责审视美联储通胀认知方式的团队为例，2011年因宏观经济因果关系的实证研究而获诺贝尔奖的纽约大学托马斯·萨金特（Thomas Sargeant）是坚定的通胀目标支持者；加拿大智库 C.D. Howe 研究院的威廉·怀特（William White）则同样坚定地反对通胀目标，认为这一做法促成了全球更高的债务水平，并加剧了金融市场的繁荣—萧条循环。哈佛大学的格雷格·曼昆（Greg Mankiw），他曾在乔治·W·布什总统时期担任经济顾问委员会主席，则支持设定通胀目标，但反对像美联储那样的“2.0%”这种过于精确的指标。"
     },
     {
       "id": "p007",
       "en": "Sparks may likewise fly in the other teams. The possible exception is the one concerned with AI. All its members are, like Mr Warsh, bullish on the technology’s transformative potential, differing only in the degree of bullishness (from the gung-ho venture capitalist, Marc Andreessen, to the more guarded Asha Sharma of Microsoft and Chad Jones, a respected academic economist). Each also has an interest in promoting an optimistic outlook, given their ties to the tech industry.",
-      "zh": ""
+      "zh": "在其他小组里，也很可能会出现针锋相对的局面。可能的例外是负责人工智能的团队。该组所有成员都与沃什一样看好这项技术的颠覆性潜力，只是在乐观程度上有差异——从激进的风险资本家马克·安德森（Marc Andreessen）到更为谨慎的微软的阿莎·夏玛（Asha Sharma）以及知名学者经济学家查德·琼斯（Chad Jones）皆是如此。鉴于他们与科技行业的联系，每个人也都有动机去推动更乐观的叙事。"
     },
     {
       "id": "p008",
       "en": "They must nevertheless, like their opposite numbers on the other teams, persuade the Fed to take their recommendations seriously—the second prerequisite for the smooth completion of Mr Warsh’s effort. In most cases, notably on the Fed’s balance-sheet and inflation targeting, the conclusions would need the consent of the Fed board or the Federal Open Markets Committee (FOMC), on which Mr Warsh has just one vote out of seven and 12, respectively, to become policy.",
-      "zh": ""
+      "zh": "尽管如此，他们同其他小组的成员一样，仍必须说服美联储认真对待自己的建议——这是沃什这项努力顺利完成的第二个前提。多数情况下，尤其是在美联储资产负债表和通胀目标议题上，结论要转化为政策，需要得到美联储理事会或联邦公开市场委员会（FOMC）的同意；而在这两个机构里，沃什各只有七票制和十二票制中的一票。"
     },
     {
       "id": "p009",
       "en": "Mr Bernanke famously spent hours discussing proposed changes to which economic forecasts the Fed would publicise, and sought a thumbs-up even from the FOMC’s handful of non-voting members. Given this culture of collegiality, Mr Warsh will have to build consensus around the five sets of conclusions. He will also need to decide how to communicate those conclusions to the world.■",
-      "zh": ""
+      "zh": "贝南克先生以长时间讨论美联储将要公布的经济预测内容而闻名，并且甚至会寻求联邦公开市场委员会（FOMC）少数无表决权成员的点头同意。在这种讲求共识的文化中，沃什先生将不得不围绕五项结论达成一致。他还需要决定如何向外界传达这些结论。■"
     },
     {
       "id": "p010",
       "en": "For more expert analysis of the biggest stories in economics, finance and markets, sign up to Money Talks, our weekly subscriber-only newsletter.",
-      "zh": ""
+      "zh": "如需获取更多关于经济、金融与市场最重磅动态的专家解读，请订阅《Money Talks》：我们每周面向订阅者发布的通讯。"
     }
   ],
   "issue_published_at": "2026-07-18",
   "article_published_at": "July 16th 2026",
   "published_at": "July 16th 2026",
-  "published_date_source": "article"
+  "published_date_source": "article",
+  "translated_at": "2026-07-21T17:51:35+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
 }

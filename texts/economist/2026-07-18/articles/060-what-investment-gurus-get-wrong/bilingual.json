@@ -6,71 +6,74 @@
   "order": 60,
   "section": "Finance & economics",
   "title_en": "What investment gurus get wrong",
-  "title_zh": "",
+  "title_zh": "投资大师常见的误区",
   "rubric_en": "To see a country’s financial follies, look to its celebrity advisers",
-  "rubric_zh": "",
+  "rubric_zh": "要看一个国家的金融混乱，看看它的名人顾问就行了",
   "date": "July 16th 2026",
   "origin_url": "",
-  "translation_status": "pending",
+  "translation_status": "translated",
   "paragraphs": [
     {
       "id": "p001",
       "en": "FINANCIAL ADVICE was once doled out solely by well-paid professionals, and solely to the wealthy. Then, from the 1980s, celebrity advisers took their tips to large radio and TV audiences, especially in America. Today legions of social-media “finfluencers” spout off recommendations to anyone, anywhere.",
-      "zh": ""
+      "zh": "金融建议过去几乎只由受雇甚丰的专业人士提供，也几乎只面向富人。后来，从20世纪80年代开始，名人顾问将建议带到广大广播和电视观众面前，尤其是在美国。如今，大批社交媒体上的“金融网红”随处向任何人、任何地方给出推荐。"
     },
     {
       "id": "p002",
       "en": "As in previous decades, the recommendations of investment gurus—how to cut expenses, build a savings fund or avoid scams—are sensible and universal. Beyond the shared basics, though, their counsel differs in telling ways. They may not know it, but they hold up a mirror to their countries’ financial mores, resisting audiences’ vices or accidentally reinforcing them.",
-      "zh": ""
+      "zh": "与前几代一样，投资大师的建议——如何削减开支、建立储蓄基金或避免骗局——都很理性，也很普遍。不过，在这些共同的基本原则之外，他们的劝告在许多关键点上却大相径庭。他们或许未意识到，自己正在映照出本国的金钱观，要么有意抵制公众的投机习惯，要么却在不经意间强化了这些习惯。"
     },
     {
       "id": "p003",
       "en": "In America no young finfluencer yet matches the stature of Dave Ramsey, a gruff 65-year-old radio star turned podcaster. Much of his advice—offered in a stern, fatherly style—is evergreen, built around emergency funds, sensible saving and buying shares for the long term.",
-      "zh": ""
+      "zh": "在美国，迄今还没有任何年轻“金融网红”能与戴夫·拉姆齐匹敌。他是一位声音粗犷的65岁电台明星，后来转型为播客主播。其许多建议——以严厉、父辈式的语气提出——都经得起时间考验，围绕应急储备、理性储蓄以及长期买入股票展开。"
     },
     {
       "id": "p004",
       "en": "Mr Ramsey’s guidance, however, is puritanical in its attitude to debt. Sensibly, he urges listeners to pay off high-interest consumer debts early. But he also suggests that anyone already saving for retirement or children’s education should pay off their mortgages as fast as possible, too—even low-interest loans secured before 2022.",
-      "zh": ""
+      "zh": "然而，拉姆齐的指导在对待债务问题上带有清教徒式的色彩。他理性地建议听众尽早还清高息消费债务；但他也主张，任何已经在为退休或子女教育攒钱的人，也应尽快偿清房贷，即使是2022年前申请、利率较低的贷款也是如此。"
     },
     {
       "id": "p005",
       "en": "The rigid advice is in part a reaction against Americans’ proclivity to spend, spend, spend beyond their means. Even in periods of strong economic growth many households find themselves in financial distress through debt. In the first quarter of 2026, 13% of credit-card balances were 90 days or more overdue, close to the record high from 2010, following the global financial crisis.",
-      "zh": ""
+      "zh": "这种严厉的理财建议，在某种程度上是对美国人“花钱、花钱、还要再花钱”这一超前消费倾向的反应。即使在经济增长强劲的时期，许多家庭也会因为债务而陷入经济困境。在2026年第一季度，信用卡欠款中有13%逾期90天或更久，接近2009—2010年全球金融危机后创下的历史高位。"
     },
     {
       "id": "p006",
       "en": "Britain’s undisputed heavyweight financial guru is Martin Lewis, the founder of “Money Saving Expert”, a website. He channels a different failing: an aversion to investment. Mr Lewis’s stock-in-trade is practical penny-pinching: supermarket bargains, introductory offers and the benefits of switching banks or utility providers. By his own account, until recently he barely touched the stock market. Only in the past year has he turned his attention to Britain’s individual savings accounts for shares, a generous scheme that allows people to invest up to £20,000 ($26,700) per year without incurring the usual investment taxes.",
-      "zh": ""
+      "zh": "英国公认的理财界重量级人物是马丁·刘易斯（Martin Lewis），他是网站“Money Saving Expert”的创始人。马丁的理财方式强调另一种缺陷：对投资的厌恶。他的看家本领是实用的精打细算：超市里的低价商品、入门赠送活动，以及更换银行或公用事业服务商所带来的优惠。按他自己的说法，他直到最近才几乎不碰股市。只有在过去一年里，他才把注意力转向了英国的个人股票储蓄账户（ISA），这是一个慷慨的制度，允许人们每年投资最多20,000英镑（约26,700美元）而不必缴纳通常的投资税。"
     },
     {
       "id": "p007",
       "en": "The attitude of Mr Lewis reflects the bleak reality that many Brits own barely any equities. A measly 13% of the financial assets of British households are shares, the lowest in almost any large developed economy. In Ramseyan America the figure is 44%. No amount of scrimping and saving will compensate Britons for missing out on the profound benefits of long-term compound returns.",
-      "zh": ""
+      "zh": "刘易斯的态度反映出一个严峻现实：许多英国人几乎不持有股票。英国家庭金融资产中仅有可怜的13%是股票，这是几乎所有大型发达经济体中最低的比例。相比之下，在 Ramseyan America，这一数字是44%。再多的精打细算和储蓄也无法弥补英国人错过长期复利回报这一深远好处的代价。"
     },
     {
       "id": "p008",
       "en": "Asian personal-finance sages often pepper advice with research on individual stocks. Rachana Phadke Ranade, a chartered accountant with 5.4m YouTube followers, is one of India’s most prominent finfluencers. Her videos go beyond staid book-keeping counsel into initial public offerings, stock-market sectors and commodities. Subscriber-only videos focus on stocks of the month. South Korea’s 3PRO TV, a YouTube channel with 3m subscribers, likewise publishes several videos a day, often on market-moving news about the country’s chipmaking giants, Samsung and SK Hynix. It also sells its own investment seminars.",
-      "zh": ""
+      "zh": "亚洲的个人理财大师则常常在建议中夹带个股研究。印度最具知名度的金融意见领袖之一是拉查娜·帕德克·拉纳德（Rachana Phadke Ranade），她是一名特许会计师，在YouTube上拥有540万粉丝。她的视频内容不仅仅是枯燥的记账建议，还会涉及首次公开募股、股市板块以及大宗商品。仅会员可看的视频会聚焦“月度热股”。韩国的3PRO TV是另一个例子：这个拥有300万订阅者的YouTube频道同样几乎每天发布多条视频，经常解读关于三星和SK hynix等该国芯片巨头的市场利好消息，也会售卖自家的投资讲座。"
     },
     {
       "id": "p009",
       "en": "The advice reflects the financial culture, rather than the other way round. South Koreans and Indians (at least those with financial resources) save more than Americans or Brits, but suffer from a zeal for day-trading, often backed by leverage. About 8.5m Indians traded risky equity derivatives in the last financial year, up from fewer than 1m eight years ago. A study by Indian regulators suggested that for much of that time, nine in ten retail traders have lost money. South Korea’s stock-market boom has been chased—and driven—by an army of small investors, known as gaemi (ants). Between April and June the cumulative loans taken out to invest in stocks hit a record $40.5bn, and many punters are now facing pain as the semiconductor rally turns volatile.",
-      "zh": ""
+      "zh": "这种建议更多是反映该国的金融文化，而非由金融文化决定人们行为。韩国人和印度人（至少是有经济实力的人群）比美国人或英国人更愿意储蓄，但却深受日内交易热情驱动，而且常常使用杠杆。上个财年，大约有850万名印度人进行了高风险的股票衍生品交易，这一数字比八年前不足100万的大幅上升。印度监管机构的一项研究显示，在那段时期，大约有十分之九的普通投资者都亏了钱。韩国股市繁荣的热潮由一支被称作 gaemi（“蚂蚁”）的散户投资军团追逐并推动。从4月到6月，用于投资股票的累积借款创下了405亿美元的纪录，随着半导体反弹变得波动，许多交易者现在正面临亏损压力。"
     },
     {
       "id": "p010",
       "en": "There is nothing inherently wrong with following short-term market movements. But for most investors, constantly trading shares, let alone derivatives, is as bad an idea as saving too little or prioritising penny-pinching over compound returns. The rules of sound finances are, like Leo Tolstoy’s happy families, alike everywhere. Financial sins are sinful in their own ways—and so it is with financial advice. ■",
-      "zh": ""
+      "zh": "跟踪短线行情本身并没有什么本质错误。但对大多数投资者来说，持续买卖股票，甚至更不用说衍生品，和储蓄太少，或是把抠门当成首要目标而忽视复利收益一样，不是什么好主意。健全财务的原则，如同列夫·托尔斯泰所说的幸福家庭那样，在各地都大体相同。金融中的错误各有各的后果，金融建议也一样。"
     },
     {
       "id": "p011",
       "en": "Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.",
-      "zh": ""
+      "zh": "《经济学人》的订阅者可以注册我们的《观点》通讯，里面汇集了我们最好的社论、专栏、客座文章和读者来信。"
     }
   ],
   "issue_published_at": "2026-07-18",
   "article_published_at": "July 16th 2026",
   "published_at": "July 16th 2026",
-  "published_date_source": "article"
+  "published_date_source": "article",
+  "translated_at": "2026-07-21T17:52:28+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
 }

@@ -6,71 +6,74 @@
   "order": 57,
   "section": "Finance & economics",
   "title_en": "America’s Hormuz brinkmanship is worsening a global fuel crunch",
-  "title_zh": "",
+  "title_zh": "美国在霍尔木兹海峡的极限施压正在加剧全球燃油短缺",
   "rubric_en": "Rising oil prices are only part of the problem",
-  "rubric_zh": "",
+  "rubric_zh": "油价上涨只是问题的一部分",
   "date": "July 16th 2026",
   "origin_url": "",
-  "translation_status": "pending",
+  "translation_status": "translated",
   "paragraphs": [
     {
       "id": "p001",
       "en": "On july 13th President Donald Trump said America would reinstate its naval blockade on Iran and charge a 20% fee on cargo passing through the Strait of Hormuz. Brent crude, the global oil-price benchmark, jumped by 10%, to $83 a barrel. That night America launched air strikes on Iran, which responded by hitting two Emirati tankers with missiles. Yet Brent is still a quarter below April’s peak, even though the truce signed in June looks dead and Hormuz traffic has nearly stopped.",
-      "zh": ""
+      "zh": "7月13日，唐纳德·特朗普宣布，美国将恢复对伊朗的海上封锁，并对经霍尔木兹海峡通行的货运征收20%的费用。以布伦特原油为代表的全球油价基准上升了10%，升至每桶83美元。当晚，美国发动了对伊朗的空袭，伊朗随后用导弹打击了两艘阿联酋油轮。然而，即便6月签署的停火协议似乎已经失效，霍尔木兹海峡的通航几乎停滞，布伦特原油价格仍只比4月的高点低约四分之一。"
     },
     {
       "id": "p002",
       "en": "One reason prices have not risen further is that oil markets still deem it likely that, with America’s midterm elections four months away, Mr Trump will cave. On July 14th he dropped his plans for a transit fee, which is to be replaced by unspecified Gulf investments in America. A bigger factor is that the world’s supply of crude currently outpaces demand—not because production has surged, but because idled refineries are consuming less. At 79m barrels per day (b/d), the global output of refined products remains 7m b/d below pre-war levels (see chart 1, top panel).",
-      "zh": ""
+      "zh": "油价没有进一步大幅上涨的一个原因，是因为市场仍然认为随着美国大选中期选举还有四个月时间，特朗普会后退。7月14日，他取消了征收过境费的计划，取而代之的是未披露内容的美国海湾地区投资。另一个更大的因素是，当前全球原油供应仍然超过需求——这并非因为产量激增，而是因为停工中的炼油厂消耗了更少原油。目前全球成品油产量为每天7,900万桶，仍比战争前水平低700万桶/日（见图1上方面板）。"
     },
     {
       "id": "p003",
       "en": "As a result, even as crude abounds, refined products remain scarce. Their prices are between 35% and 60% higher than before the war (see chart 1, bottom panel) and traders are wagering billions that they will rise further. The International Energy Agency, an official forecaster, warns that the crunch will get much worse unless flows through Hormuz resume. The margin that refiners in Europe make on diesel is the highest since at least 2011; in America “3-2-1” crack spreads—a measure of profitability for turning crude into petrol and diesel—are hitting a record. In Asia a barrel of jet fuel fetches around $150, up from $100 or so before the war.",
-      "zh": ""
+      "zh": "因此，即便原油供应充足，成品油依然紧缺。它们的价格比战争前高出35%到60%（见图1下方面板），交易员已经投注数十亿美元，押注其将继续上涨。官方预测机构国际能源署警告称，除非霍尔木兹海峡的运输重新恢复，否则这种短缺会变得更为严重。欧洲炼油厂从柴油中获得的利润率是2011年以来最高；在美国，“3-2-1”裂解价差——衡量将原油转为汽油和柴油的盈利能力——正在创下纪录。在亚洲，一桶喷气燃油的价格约为150美元，远高于战前的100美元左右。"
     },
     {
       "id": "p004",
       "en": "How bad will it get? That depends on the prospects for exports from three places: the Gulf, China and Russia. Those are uncertain at best. The Gulf used to be the largest exporter of “middle” distillates, such as diesel and jet fuel. Since February, with Hormuz mostly closed, supplies have cratered (see chart 2) and refineries’ throughput has dropped by 30% (or 3m b/d). Although crude can leave the Gulf in pipelines bypassing the strait, no such route exists for refined products. Exports picked up a bit as Hormuz partially reopened, but now only Iranian crude is getting out.",
-      "zh": ""
+      "zh": "局势会有多糟，还取决于未来三地出口前景：海湾地区、中国和俄罗斯。这些地区的前景都十分不确定。海湾地区过去是“中馏分”产品如柴油和航空煤油最大的出口地。自2月以来，随着霍尔木兹海峡大都关闭，供应出现断崖式下滑（见图2），炼油厂开工率下降了30%，约30万桶/日。虽然原油可以通过绕过海峡的管道输往海湾外，但成品油没有这类运输通道。随着霍尔木兹海峡部分重开，出口稍有回升，但目前只剩伊朗原油在出口。"
     },
     {
       "id": "p005",
       "en": "Worse, since the war began Iranian strikes have knocked out 1.4m b/d of Gulf refining capacity. The exact extent of damage remains unknown. Sarah Raffoul of Argus Media, a price-reporting agency, expects fuel exports to recover in three to four months—if Hormuz reopens.",
-      "zh": ""
+      "zh": "更糟的是，自战争开始以来，伊朗的打击已使海湾炼油能力减少了 140 万桶/日。实际损失范围仍不确定。油价咨询机构 Argus Media 的Sarah Raffoul预计，如果霍尔木兹海峡重新开放，燃料出口将在三到四个月内恢复。"
     },
     {
       "id": "p006",
       "en": "Chinese refineries are processing 3m b/d fewer than in February. China is usually a huge exporter of petrol and diesel, but the government prohibited state-owned refiners from selling abroad during much of the war. That ban was lifted in July, as long as refiners’ stocks did not drop below the pre-war levels of late February. China’s big oil firms have tentatively increased their collective export target to roughly two-thirds of what they were selling a year ago. But with tensions in Hormuz rising, a proper lifting of export restrictions now looks a long way off, says Frédéric Lasserre of Gunvor, a trading firm. A full ban could return at any point.",
-      "zh": ""
+      "zh": "中国炼油厂的处理量比2月少了300万桶/日。中国通常是汽油和柴油的大型出口国，但战争期间政府禁止国有炼油企业对外销售汽柴油。该禁令在七月解除，但前提是炼油企业的库存不低于2月下旬战前水平。中国的大型石油公司已试探性地把它们的总体出口目标提高到去年同期约三分之二。但是，随着霍尔木兹海峡紧张局势上升，枪口直指的“全面”放开出口限制看起来还很遥远，交易公司 Gunvor 的弗雷德里克·拉塞尔（Frédéric Lasserre）说，全面禁令随时可能再次出现。"
     },
     {
       "id": "p007",
       "en": "Meanwhile Russia’s refineries are under assault. Ukraine’s drone campaign against them has shifted up several gears since April. Drones are hitting more targets, more often, and farther into Russia (a mega-plant in western Siberia, 2,500km from the front, was struck on July 6th). These include sophisticated units within the refineries that upgrade crude-oil fractions into high-value products. Some can take months to repair.",
-      "zh": ""
+      "zh": "与此同时，俄罗斯炼油厂也遭到攻击。乌克兰对其的无人机行动自四月以来明显升级。无人机攻击更频繁、覆盖更多目标，且深入俄罗斯本土更远——一座位于西伯利亚西部、距前线2500公里的超大型装置在7月6日遭到袭击。这些袭击包括炼油厂内的复杂装置，这些装置将原油馏分升级为高附加值产品，其中一些设备的修复可能需要数月时间。"
     },
     {
       "id": "p008",
       "en": "In June Russia’s refineries processed 3.8m b/d of crude, 1.5m b/d down from the level in January, estimates JPMorgan Chase, a bank. Most petrol and kerosene usually stays in Russia; now shortages, in the middle of holiday season, are causing chaos. In some regions drivers have queued for days, sales have been rationed and pump prices are up to 50% above normal. Farming, utilities and logistics are being disrupted, too. Nearly half of Russia’s diesel, and almost all its fuel oil, used in shipping, is usually exported. Russia is the world’s second-largest supplier of diesel (with 12% of global exports) and the leader in fuel oil (16%). Exports have slumped and the government has prohibited further diesel shipments.",
-      "zh": ""
+      "zh": "摩根大通一份估计显示，6月俄罗斯炼厂处理了380万桶/日的原油，比1月水平低了150万桶/日。通常大部分汽油和煤油都留在国内；如今在假日旺季，短缺正引发混乱。一些地区，驾驶员排了多日队伍，销售被限额，油枪价格高出正常水平50%。农业、公共事业和物流也受到干扰。俄罗斯柴油近一半、几乎全部用于航运的燃料油通常也会出口。俄罗斯是全球第二大柴油出口国（占全球柴油出口12%），也是燃料油出口第一大国（占16%）。但出口已大幅下滑，政府已禁止进一步运输柴油。"
     },
     {
       "id": "p009",
       "en": "That affects more than merely the few buyers braving Western sanctions against Russia. Turkey, the main one, will now keep its refined diesel at home, starving the rest of the Mediterranean, notes Mick Strautmann of Vortexa, a ship-tracker. Brazil is replacing Russian diesel with American supply, further squeezing Atlantic buyers. The loss may ripple across other products, as refiners prioritise diesel output over jet fuel and petrol, says Benedict George of Argus.",
-      "zh": ""
+      "zh": "这影响的不仅仅是勇闯对俄制裁的少数买家。土耳其这个主要买家将把精炼柴油留在本国使用，从而使地中海其他地区供应减少，Vortexa 的船舶跟踪分析师 Mick Strautmann 这样指出。巴西正在用美国柴油替代俄罗斯柴油，进一步挤压大西洋沿岸的买家。Vortexa 还指出，随着炼油厂把柴油产量置于航空煤油和汽油之上，损失可能会进一步向其他成品油产品蔓延。"
     },
     {
       "id": "p010",
       "en": "If the shooting stops in the Gulf and Hormuz reopens reliably, Asian refining resurges and Russian output recovers, supply will return just as the summer ends. But those are big ifs. A less benign scenario would oblige America—the world’s swing exporter—and importers to draw down already low stocks. Eventually product prices would jump further, squashing demand and encouraging refineries to produce more (in which case crude prices would also rise). The biggest oil shock in history is not over. The mood of motorists in America and Europe still hangs on battles thousands of miles away.■",
-      "zh": ""
+      "zh": "如果海湾停火并且霍尔木兹海峡稳定重开，亚洲炼油将反弹，俄罗斯产量也会恢复，供应将在夏季结束时回归。但这些都要建立在许多前提之上。一个不太乐观的情形将迫使美国——世界上最关键的“摇摆”石油出口国——以及各大进口国动用已经偏低的库存。最终，成品油价格会进一步上升，压缩需求，并促使炼油厂加大产量（在这种情况下，原油价格也会随之上涨）。历史上最大的石油冲击尚未结束。美国和欧洲的消费者情绪，依旧受制于数千英里之外的博弈。■"
     },
     {
       "id": "p011",
       "en": "For more expert analysis of the biggest stories in economics, finance and markets, sign up to Money Talks, our weekly subscriber-only newsletter.",
-      "zh": ""
+      "zh": "如需获取更多关于经济、金融与市场重大事件的专家解读，请订阅《Money Talks》，我们每周仅限订阅者阅读的通讯。"
     }
   ],
   "issue_published_at": "2026-07-18",
   "article_published_at": "July 16th 2026",
   "published_at": "July 16th 2026",
-  "published_date_source": "article"
+  "published_date_source": "article",
+  "translated_at": "2026-07-21T17:50:02+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
 }

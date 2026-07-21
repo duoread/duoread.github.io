@@ -1,4 +1,21 @@
-# Emo culture was not just a phase, as it turns out
+# 事实证明，Emo文化并不只是昙花一现
+
 Section: Culture
 Date: July 16th 2026
-<!-- Translation pending. Run `npm run translate` to fill this file. -->
+Rubric: 当Emo乐队重返巡演时，商业化的“忧郁情绪”生意又火了起来
+
+2006年，EMO 文化风靡一时。实际上，“狂热”也是其吸引力的一部分：Emo 是“emotional hardcore”（情绪硬核）的缩写，指一种将强烈的朋克摇滚风格与内省式歌词结合的音乐类型。像 My Chemical Romance、Fall Out Boy、Panic! at the Disco 和 Paramore 的歌曲一度在美国和英国的排行榜上名列前茅。许多穿着浓重黑色眼线和侧分刘海的十几岁少年少女聚集在市中心，在 Facebook 和 Myspace 上发布情绪化的自拍照。
+
+如今，Emo 正在回归。My Chemical Romance 正在用一场遍及全球的体育场巡演，纪念其专辑《The Black Parade》发行 20 周年。该乐队最近在伦敦的温布利球场连演三场。每一场，这座可容纳 90,000 人的场地都被穿着装束并拿出钉珠皮带的尖叫粉丝们挤满。
+
+不仅仅是 My Chemical Romance 在触动粉丝的情绪。Fall Out Boy 近年也又出发巡演。All Time Low 今年早些时候在伦敦 O2 体育馆举办了有史以来最大的演出。Jimmy Eat World 目前正在巡演，以庆祝其专辑《Bleed American》发行 25 周年。（其中一首曲目呼吁听众“不要轻言放弃自己”，而这支乐队似乎也把这句建议放在心上并付诸行动。）
+
+这一流派的复兴其实酝酿已久。2017 年，We Were Young 这个融合流行朋克与 emo 的音乐节在加州开办，后来又迁到更大的拉斯维加斯场地。它证明了市场上对“悲观忧郁”仍有需求。不过，这一潮流之所以走到巅峰，是因为 20 年怀旧循环正在发力，它影响着从时尚到电子游戏再到电视剧的一切。
+
+如今，粉丝们已经能找到专门的Emo俱乐部之夜和Brunch活动。伦敦的一家健身工作室 Psycle 的教练 Dana Egan 会在Emo配乐中带领动感单车课程。她为音乐的回归而兴奋不已，因为“我一直都算是一个Emo孩子”。
+
+演唱会现场常常是跨代际的混合人群。出生于千禧一代的“原始Emo”乐迷和Z世代粉丝并肩而坐，后者是在大多数乐队解散后才发现这些乐队的。Rhys Boyle 作为这类追随者之一说：“我的化学浪漫乐队（My Chemical Romance）在我13岁时解散。那时我记得自己想：‘天啊，我再也看不到他们的现场了。’”
+
+粉丝们坚持认为，Emo之所以经久不衰，是因为它在充满敌意、令人困惑的时代里，仍能带来共鸣与社群感。韦姆伯利的影迷 Nez Ray 说：“很多Emo人有些神经多样，也有些酷儿气质，再加上一点点古怪。”这类音乐让他们觉得自己并不孤单。也许，这种焦虑和浓重的眼线会一直存在。正如My Chemical Romance的代表作《Welcome to the Black Parade》所唱的：‘我们想让你们都知道 / 我们会继续走下去。’
+
+想了解更多最新图书、电影、电视剧、专辑和争议话题，请订阅 Plot Twist，我们每周的限会员通讯。

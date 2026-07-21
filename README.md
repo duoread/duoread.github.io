@@ -83,4 +83,4 @@ npm run export:pages
 
 ## 当前数据
 
-当前已从 `TheEconomist.2026.07.18.epub` 抽取 70 篇文章和 867 个自然段。中文翻译由 `npm run translate` 填充；网站预览只展示已翻译文章。后续可以在 `texts/` 下增加其他来源。
+当前已从 `TheEconomist.2026.07.18.epub` 抽取并翻译 70 篇文章和 867 个自然段。后续可以在 `texts/` 下增加其他来源。

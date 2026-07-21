@@ -23,6 +23,6 @@ Date: 2026-07-21T17:16:18+08:00 Asia/Shanghai
 
 ## Notes
 
-- Current source has 70 extracted articles, 55 translated articles, and 15 pending articles.
+- Current source has 70 extracted and translated articles.
 - The source EPUB remains ignored under `data/raw/`.
 - GitHub Actions is configured to deploy `dist/client` to Pages from the remote `main` branch.

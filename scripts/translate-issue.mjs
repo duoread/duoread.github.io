@@ -17,6 +17,9 @@ const limit = args.limit ? Number(args.limit) : Number.POSITIVE_INFINITY;
 const only = args.article ?? "";
 const force = args.force === "true" || args.force === "1";
 const retries = args.retries ? Number(args.retries) : 2;
+const chunkSize = args.chunk_size
+  ? Number(args.chunk_size)
+  : Number(process.env.TRANSLATION_CHUNK_SIZE ?? 6);
 
 const issue = JSON.parse(await readFile(path.join(textsRoot, "issue.json"), "utf8"));
 let translated = 0;
@@ -34,15 +37,18 @@ for (const articleRef of issue.articles) {
 
   console.log(`Translating ${article.order}. ${article.title_en}`);
   const translatedArticle = await withRetries(
-    () =>
-      provider === "openai"
-        ? translateWithOpenAI(article, openaiModel)
-        : translateWithCodex(article, codexModel),
+    async () => {
+      const candidate =
+        provider === "openai"
+          ? await translateWithOpenAI(article, openaiModel)
+          : await translateWithCodex(article, codexModel);
+      assertAligned(article, candidate);
+      return candidate;
+    },
     retries,
     article,
   );
 
-  assertAligned(article, translatedArticle);
   const { path: _articlePath, ...articleData } = article;
   const merged = {
     ...articleData,
@@ -92,7 +98,7 @@ async function withRetries(operation, attempts, article) {
       lastError = error;
       if (attempt > attempts) break;
       console.warn(
-        `Retrying ${article.order}. ${article.title_en} after translation parse/run failure (${attempt}/${attempts})`,
+        `Retrying ${article.order}. ${article.title_en} after translation parse/run/alignment failure (${attempt}/${attempts})`,
       );
     }
   }
@@ -114,9 +120,46 @@ async function translateWithOpenAI(article, model) {
 }
 
 async function translateWithCodex(article, model) {
+  if (chunkSize > 0 && article.paragraphs.length > chunkSize) {
+    return translateWithCodexInChunks(article, model, chunkSize);
+  }
+  return translateCodexChunk(article, model, "all");
+}
+
+async function translateWithCodexInChunks(article, model, size) {
+  const translatedChunks = [];
+  for (let start = 0; start < article.paragraphs.length; start += size) {
+    const chunkNumber = translatedChunks.length + 1;
+    const chunkArticle = {
+      ...article,
+      paragraphs: article.paragraphs.slice(start, start + size),
+    };
+    console.log(
+      `  chunk ${chunkNumber}: ${chunkArticle.paragraphs[0].id}-${chunkArticle.paragraphs.at(-1).id}`,
+    );
+    const translatedChunk = await withRetries(
+      async () => {
+        const candidate = await translateCodexChunk(chunkArticle, model, `chunk-${chunkNumber}`);
+        assertAligned(chunkArticle, candidate);
+        return candidate;
+      },
+      retries,
+      chunkArticle,
+    );
+    translatedChunks.push(translatedChunk);
+  }
+
+  return {
+    title_zh: translatedChunks.find((chunk) => chunk.title_zh)?.title_zh ?? "",
+    rubric_zh: translatedChunks.find((chunk) => chunk.rubric_zh)?.rubric_zh ?? "",
+    paragraphs: translatedChunks.flatMap((chunk) => chunk.paragraphs),
+  };
+}
+
+async function translateCodexChunk(article, model, outputName) {
   const cacheDir = path.join(path.dirname(path.join(textsRoot, article.path)), ".translation-cache");
   await mkdir(cacheDir, { recursive: true });
-  const outputPath = path.join(cacheDir, "codex-output.json");
+  const outputPath = path.join(cacheDir, `codex-output-${outputName}.json`);
   const args = [
     "exec",
     "-c",
