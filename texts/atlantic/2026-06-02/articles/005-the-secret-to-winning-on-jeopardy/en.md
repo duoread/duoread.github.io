@@ -1,4 +1,4 @@
-# The Secret to Winning on <em>Jeopardy</em>
+# The Secret to Winning on Jeopardy
 
 Section: Dispatches
 

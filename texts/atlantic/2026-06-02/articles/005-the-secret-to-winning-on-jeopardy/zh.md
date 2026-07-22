@@ -1,3 +1,3 @@
-# The Secret to Winning on <em>Jeopardy</em>
+# The Secret to Winning on Jeopardy
 Section: Dispatches
 <!-- Translation pending. Run `npm run translate` to fill this file. -->

@@ -46,6 +46,7 @@
 
 - The initial audit rule flagged a Chinese colon ending as suspicious even though the English source paragraph also ended with a colon. The rule was narrowed to avoid this false positive.
 - The first multi-sync patch was too large for stable application and was redone as a full rewrite of the sync script.
+- Atlantic included an escaped inline HTML tag in one title; `cleanText` now strips literal tag text and the issue was re-extracted so the article slug is `005-the-secret-to-winning-on-jeopardy`.
 
 ## Project Memory Candidates
 

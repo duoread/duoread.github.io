@@ -5,7 +5,7 @@
   "title": "The Economist 2026-06-02",
   "published_at": "2026-06-02",
   "source_epub": "data/raw/atlantic/2026-06-02/Atlantic_2026.06.02.epub",
-  "extracted_at": "2026-07-22T12:11:39+08:00",
+  "extracted_at": "2026-07-22T12:16:17+08:00",
   "article_count": 13,
   "translated_count": 0,
   "articles": [
@@ -78,10 +78,10 @@
       "path": "articles/004-i-remember-america-before-the-measles-vaccine/bilingual.json"
     },
     {
-      "id": "005-the-secret-to-winning-on-lessemgreaterjeopardylessemgreater",
+      "id": "005-the-secret-to-winning-on-jeopardy",
       "order": 5,
       "section": "Dispatches",
-      "title_en": "The Secret to Winning on <em>Jeopardy</em>",
+      "title_en": "The Secret to Winning on Jeopardy",
       "title_zh": "",
       "rubric_en": "Know a little about a lot.",
       "rubric_zh": "",
@@ -92,7 +92,7 @@
       "date": "2026-06-02",
       "paragraph_count": 44,
       "translation_status": "pending",
-      "path": "articles/005-the-secret-to-winning-on-lessemgreaterjeopardylessemgreater/bilingual.json"
+      "path": "articles/005-the-secret-to-winning-on-jeopardy/bilingual.json"
     },
     {
       "id": "006-lee-friedlanders-america",

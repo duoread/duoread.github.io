@@ -286,6 +286,7 @@ function parseArticle(html, entry, htmlPath) {
 
 function cleanText(value) {
   return value
+    .replace(/<\/?[^>]+>/g, "")
     .replace(/\u00a0/g, " ")
     .replace(/\s+/g, " ")
     .replace(/\s+([,.;:!?])/g, "$1")
