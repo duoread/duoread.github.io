@@ -64,7 +64,7 @@ button {
   gap: 16px;
 }
 
-.brand-kicker,
+.brand-title,
 .section-label {
   margin: 0 0 6px;
   color: var(--accent);
@@ -74,10 +74,10 @@ button {
   text-transform: uppercase;
 }
 
-.brand-row h1 {
+.brand-title {
   margin: 0;
-  font-size: 26px;
-  line-height: 1.16;
+  font-size: 18px;
+  line-height: 1;
 }
 
 .issue-pill {

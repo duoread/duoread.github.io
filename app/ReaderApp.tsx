@@ -62,7 +62,7 @@ export function ReaderApp({ content }: { content: SiteContent }) {
   if (!issue || !activeArticle) {
     return (
       <main className="empty-shell">
-        <h1>双语交替阅读</h1>
+        <h1>DuoRead</h1>
         <p>暂无已完成翻译的文章。</p>
       </main>
     );
@@ -101,8 +101,7 @@ export function ReaderApp({ content }: { content: SiteContent }) {
       <aside className="issue-panel" aria-label="Article list">
         <div className="brand-row">
           <div>
-            <p className="brand-kicker">Parallel Reader</p>
-            <h1>双语交替阅读</h1>
+            <p className="brand-title">DuoRead</p>
           </div>
           <span className="issue-pill">{publicationLabel(issue.publication)}</span>
         </div>

@@ -29,8 +29,9 @@ test("renders the bilingual magazine reader", async () => {
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
 
   const html = await response.text();
-  assert.match(html, /<title>双语交替阅读<\/title>/i);
-  assert.match(html, /Parallel Reader/);
+  assert.match(html, /<title>DuoRead<\/title>/i);
+  assert.match(html, /DuoRead/);
+  assert.doesNotMatch(html, /<h1>双语交替阅读<\/h1>/);
   assert.match(html, /穿插语言/);
   assert.match(html, /<span>Article<\/span>/);
   assert.match(html, /Politics/);
