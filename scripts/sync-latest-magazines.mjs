@@ -21,6 +21,13 @@ const chunkSize = args.chunk_size ?? process.env.TRANSLATION_CHUNK_SIZE ?? "4";
 const retries = args.retries ?? "3";
 const publish = args.publish === "true" || args.publish === "1";
 const dryRun = args.dry_run === "true" || args.dry_run === "1";
+const backfill = args.backfill === "true" || args.backfill === "1";
+const parsedBackfillDepth = Number.parseInt(
+  args.backfill_depth ?? process.env.MAGAZINE_BACKFILL_DEPTH ?? "1",
+  10,
+);
+const backfillDepth = Number.isFinite(parsedBackfillDepth) ? Math.max(0, parsedBackfillDepth) : 1;
+const issueScanLimit = backfill ? backfillDepth + 1 : 1;
 const requestedPublications = (args.publications ?? args.publication ?? "all")
   .split(",")
   .map((item) => item.trim())
@@ -59,14 +66,35 @@ if (selectedPublications.length === 0) {
 
 let changed = false;
 const completedIssues = [];
+const publicationIssueGroups = [];
 
 for (const publication of selectedPublications) {
-  const latest = await findLatestIssue(publication);
-  const issueRoot = path.join(textsBaseRoot, publication.id, latest.issue);
-  const issuePath = path.join(issueRoot, "issue.json");
+  const issues = await findDownloadableIssues(publication, issueScanLimit);
+  publicationIssueGroups.push({ publication, issues });
+  const latest = issues[0];
 
   console.log(
     `[${localTimestamp()}] Latest ${publication.id} issue from source: ${latest.issue} (${latest.epubName})`,
+  );
+}
+
+const targetRank = backfill ? await firstIncompleteIssueRank(publicationIssueGroups) : 0;
+const targetLabel = targetRank === 0 ? "latest" : `${targetRank} issue(s) before latest`;
+
+for (const { publication, issues } of publicationIssueGroups) {
+  const target = issues[targetRank];
+  if (!target) {
+    console.log(
+      `[${localTimestamp()}] No ${publication.id} issue exists at backfill rank ${targetRank}; skipping.`,
+    );
+    continue;
+  }
+
+  const issueRoot = path.join(textsBaseRoot, publication.id, target.issue);
+  const issuePath = path.join(issueRoot, "issue.json");
+
+  console.log(
+    `[${localTimestamp()}] Target ${publication.id} issue: ${target.issue} (${targetLabel}, ${target.epubName})`,
   );
 
   if (dryRun) continue;
@@ -74,30 +102,30 @@ for (const publication of selectedPublications) {
   const existing = await readIssueIfExists(issuePath);
   if (existing && isIssueComplete(existing)) {
     console.log(
-      `[${localTimestamp()}] ${publication.id} ${latest.issue} already translated: ${existing.translated_count}/${existing.article_count}.`,
+      `[${localTimestamp()}] ${publication.id} ${target.issue} already translated: ${existing.translated_count}/${existing.article_count}.`,
     );
     continue;
   }
 
   if (!existing) {
-    const rawDir = path.join(rawBaseRoot, publication.id, latest.issue);
-    const rawPath = path.join(rawDir, latest.epubName);
+    const rawDir = path.join(rawBaseRoot, publication.id, target.issue);
+    const rawPath = path.join(rawDir, target.epubName);
     await mkdir(rawDir, { recursive: true });
-    await downloadFile(latest.downloadUrl, rawPath);
+    await downloadFile(target.downloadUrl, rawPath);
     run("node", [
       "scripts/extract-epub.mjs",
       "--epub",
       rawPath,
       "--issue",
-      latest.issue,
+      target.issue,
       "--publication",
       publication.id,
       "--published_at",
-      latest.issue,
+      target.issue,
     ]);
   } else {
     console.log(
-      `[${localTimestamp()}] ${publication.id} ${latest.issue} exists but is incomplete; continuing translation.`,
+      `[${localTimestamp()}] ${publication.id} ${target.issue} exists but is incomplete; continuing translation.`,
     );
   }
 
@@ -117,11 +145,11 @@ for (const publication of selectedPublications) {
 
   const completed = await readIssueIfExists(issuePath);
   if (!completed || !isIssueComplete(completed)) {
-    throw new Error(`${publication.id} ${latest.issue} did not finish translation after pipeline run.`);
+    throw new Error(`${publication.id} ${target.issue} did not finish translation after pipeline run.`);
   }
 
   changed = true;
-  completedIssues.push(`${publication.id} ${latest.issue}`);
+  completedIssues.push(`${publication.id} ${target.issue}`);
 }
 
 if (dryRun) {
@@ -151,7 +179,7 @@ if (publish) {
 
 console.log(`[${localTimestamp()}] Magazine sync complete.`);
 
-async function findLatestIssue(publication) {
+async function findDownloadableIssues(publication, limit) {
   const contents = await githubJson(
     `https://api.github.com/repos/${githubRepo}/contents/${publication.sourcePath}`,
   );
@@ -163,6 +191,7 @@ async function findLatestIssue(publication) {
     throw new Error(`No issue folders found under ${publication.sourcePath}`);
   }
 
+  const downloadableIssues = [];
   for (const issueDir of issueDirs) {
     const files = await githubJson(issueDir.url);
     const epub =
@@ -179,14 +208,41 @@ async function findLatestIssue(publication) {
       continue;
     }
 
-    return {
+    downloadableIssues.push({
       issue: issueDir.name.replace(/^te_/, "").replaceAll(".", "-"),
       epubName: epub.name,
       downloadUrl: epub.download_url,
-    };
+    });
+
+    if (downloadableIssues.length >= limit) break;
   }
 
-  throw new Error(`No downloadable EPUB found under ${publication.sourcePath}`);
+  if (downloadableIssues.length === 0) {
+    throw new Error(`No downloadable EPUB found under ${publication.sourcePath}`);
+  }
+
+  return downloadableIssues;
+}
+
+async function firstIncompleteIssueRank(publicationIssueGroups) {
+  let rank = 0;
+
+  while (true) {
+    const groupsWithIssue = publicationIssueGroups.filter(({ issues }) => issues[rank]);
+    if (groupsWithIssue.length === 0) return rank;
+
+    const completeness = await Promise.all(
+      groupsWithIssue.map(async ({ publication, issues }) => {
+        const issue = issues[rank];
+        const issuePath = path.join(textsBaseRoot, publication.id, issue.issue, "issue.json");
+        const existing = await readIssueIfExists(issuePath);
+        return Boolean(existing && isIssueComplete(existing));
+      }),
+    );
+
+    if (!completeness.every(Boolean)) return rank;
+    rank += 1;
+  }
 }
 
 async function findEpubFromReadme(files) {

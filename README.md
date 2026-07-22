@@ -82,7 +82,7 @@ npm run translate -- --limit 1
 
 ## 自动同步最新一期
 
-可以让远程机器每天检查源站四本杂志的最新可下载期：The Economist、The New Yorker、The Atlantic、Wired。如果最新 issue 已经完整翻译，脚本会直接跳过；如果发现新 issue，会下载 EPUB 到被忽略的 `data/raw/`，抽取到 `texts/`，用 Codex Spark 翻译，校验后导出并发布到 GitHub Pages。
+可以让远程机器每天检查源站四本杂志的最新可下载期：The Economist、The New Yorker、The Atlantic、Wired。如果最新 issue 还没完整翻译，会优先补最新 issue；四本最新 issue 都完成后，默认继续补前一期。发现要处理的 issue 后，会下载 EPUB 到被忽略的 `data/raw/`，抽取到 `texts/`，用 Codex Spark 翻译，校验后导出并发布到 GitHub Pages。
 
 ```bash
 npm run sync:magazines -- --publish true
@@ -95,6 +95,12 @@ scripts/run-daily-magazines.sh
 ```
 
 默认远程路径是 `/root/aicode/multi_language`，日志写入 `/root/aicode/runs/multi_language/logs/`。如果远程仓库名不是 `duoread`，用 `GIT_REMOTE` 指定。
+
+默认只向前补一期；需要补更多历史期时，可以设置：
+
+```bash
+MAGAZINE_BACKFILL_DEPTH=3 scripts/run-daily-magazines.sh
+```
 
 当前源站里 The Atlantic 和 Wired 的 `2026.07.02` 目录只有 README，README 里的 EPUB raw 链接返回 404；同步脚本会跳过这种不可下载 issue，选择最近一个真实可下载的 EPUB。
 

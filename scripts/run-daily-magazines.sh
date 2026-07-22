@@ -37,6 +37,9 @@ TRANSLATION_PROVIDER="${TRANSLATION_PROVIDER:-codex}" \
 CODEX_TRANSLATION_MODEL="${CODEX_TRANSLATION_MODEL:-gpt-5.3-codex-spark}" \
 CODEX_TRANSLATION_REASONING="${CODEX_TRANSLATION_REASONING:-low}" \
 TRANSLATION_CHUNK_SIZE="${TRANSLATION_CHUNK_SIZE:-4}" \
-node scripts/sync-latest-magazines.mjs --publish true --remote "$GIT_REMOTE"
+node scripts/sync-latest-magazines.mjs \
+  --publish true \
+  --remote "$GIT_REMOTE" \
+  --backfill "${MAGAZINE_BACKFILL:-true}"
 
 echo "[$(date --iso-8601=seconds)] Magazine sync finished"
