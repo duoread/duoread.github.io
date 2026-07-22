@@ -12,7 +12,7 @@ workerUrl.searchParams.set("export", `${process.pid}-${Date.now()}`);
 const { default: worker } = await import(workerUrl.href);
 
 const response = await worker.fetch(
-  new Request("https://parallel-reader.github.io/", {
+  new Request("https://duoread.github.io/", {
     headers: { accept: "text/html" },
   }),
   {
