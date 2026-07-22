@@ -263,8 +263,9 @@ button {
 }
 
 .reader-actions button {
-  min-width: 92px;
+  min-width: 138px;
   height: 38px;
+  padding: 0 14px;
   border: 0;
   border-radius: 7px;
   background: var(--accent);
@@ -276,6 +277,11 @@ button {
   display: grid;
   gap: 22px;
   padding-top: 32px;
+}
+
+.paragraphs-clickable {
+  cursor: pointer;
+  touch-action: pan-y;
 }
 
 .paragraph {

@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useMemo, useRef, useState, type PointerEvent } from "react";
 
 type Paragraph = {
   id: string;
@@ -37,43 +37,27 @@ type SiteContent = {
   issues: Issue[];
 };
 
+type ReadingMode = "interleaved" | "single";
+type Language = "zh" | "en";
+
 export function ReaderApp({ content }: { content: SiteContent }) {
   const firstIssue = content.issues[0];
   const [activeIssueKey, setActiveIssueKey] = useState(issueKey(firstIssue));
+  const [activeId, setActiveId] = useState("");
+  const [readingMode, setReadingMode] = useState<ReadingMode>("interleaved");
+  const [singleLanguage, setSingleLanguage] = useState<Language>("zh");
+  const [query, setQuery] = useState("");
+  const pointerStartRef = useRef<{ x: number; y: number } | null>(null);
+
   const issue =
     content.issues.find((candidate) => issueKey(candidate) === activeIssueKey) ?? firstIssue;
-
-  if (!issue) {
-    return (
-      <main className="empty-shell">
-        <h1>双语交替阅读</h1>
-        <p>暂无已完成翻译的文章。</p>
-      </main>
-    );
-  }
-
-  const translatedArticles = issue.articles.filter(
-    (article) => article.translation_status === "translated",
-  );
-  const readableArticles =
-    translatedArticles.length > 0 ? translatedArticles : issue.articles;
+  const translatedArticles =
+    issue?.articles.filter((article) => article.translation_status === "translated") ?? [];
+  const readableArticles = translatedArticles.length > 0 ? translatedArticles : issue?.articles ?? [];
   const firstReadableArticle = readableArticles[0];
-  const [activeId, setActiveId] = useState(firstReadableArticle?.id ?? "");
-  const [inverted, setInverted] = useState(false);
-  const [query, setQuery] = useState("");
 
   const activeArticle =
-    readableArticles.find((article) => article.id === activeId) ??
-    firstReadableArticle;
-
-  if (!activeArticle) {
-    return (
-      <main className="empty-shell">
-        <h1>双语交替阅读</h1>
-        <p>暂无已完成翻译的文章。</p>
-      </main>
-    );
-  }
+    readableArticles.find((article) => article.id === activeId) ?? firstReadableArticle;
 
   const filteredArticles = useMemo(() => {
     const needle = query.trim().toLowerCase();
@@ -86,12 +70,41 @@ export function ReaderApp({ content }: { content: SiteContent }) {
     );
   }, [readableArticles, query]);
 
+  if (!issue || !activeArticle) {
+    return (
+      <main className="empty-shell">
+        <h1>双语交替阅读</h1>
+        <p>暂无已完成翻译的文章。</p>
+      </main>
+    );
+  }
+
   const translatedCount =
     issue.translated_count ??
     issue.articles.filter((article) => article.translation_status === "translated").length;
   const activeDate = activeArticle.published_at ?? activeArticle.date;
   const activeDateLabel =
     activeArticle.published_date_source === "article" ? "文章日期" : "杂志发布日期";
+  const modeLabel =
+    readingMode === "interleaved"
+      ? "穿插语言"
+      : `一种语言 · ${singleLanguage === "zh" ? "中文" : "English"}`;
+
+  function handleReaderPointerDown(event: PointerEvent<HTMLElement>) {
+    if (event.pointerType === "mouse" && event.button !== 0) return;
+    pointerStartRef.current = { x: event.clientX, y: event.clientY };
+  }
+
+  function handleReaderPointerUp(event: PointerEvent<HTMLElement>) {
+    const start = pointerStartRef.current;
+    pointerStartRef.current = null;
+    if (!start || readingMode !== "single") return;
+    if (isInteractiveTarget(event.target)) return;
+
+    const moved = Math.hypot(event.clientX - start.x, event.clientY - start.y);
+    if (moved > 8) return;
+    setSingleLanguage((language) => (language === "zh" ? "en" : "zh"));
+  }
 
   return (
     <main className="reader-shell">
@@ -180,18 +193,25 @@ export function ReaderApp({ content }: { content: SiteContent }) {
             </span>
             <button
               type="button"
-              aria-pressed={inverted}
-              title={inverted ? "当前从英文开始交替" : "当前从中文开始交替"}
-              onClick={() => setInverted((value) => !value)}
+              aria-pressed={readingMode === "single"}
+              title={readingMode === "interleaved" ? "当前为穿插语言模式" : "当前为一种语言模式"}
+              onClick={() =>
+                setReadingMode((mode) => (mode === "interleaved" ? "single" : "interleaved"))
+              }
             >
-              切换段落语言
+              {modeLabel}
             </button>
           </div>
         </header>
 
-        <div className="paragraphs">
+        <div
+          className={readingMode === "single" ? "paragraphs paragraphs-clickable" : "paragraphs"}
+          onPointerDown={handleReaderPointerDown}
+          onPointerUp={handleReaderPointerUp}
+        >
           {activeArticle.paragraphs.map((paragraph, index) => {
-            const showChinese = inverted ? index % 2 === 1 : index % 2 === 0;
+            const showChinese =
+              readingMode === "single" ? singleLanguage === "zh" : index % 2 === 0;
             const text = showChinese
               ? paragraph.zh || "（待翻译）此段中文译文尚未生成。"
               : paragraph.en;
@@ -210,6 +230,11 @@ export function ReaderApp({ content }: { content: SiteContent }) {
       </article>
     </main>
   );
+}
+
+function isInteractiveTarget(target: EventTarget) {
+  if (!(target instanceof Element)) return false;
+  return Boolean(target.closest("button, a, input, select, textarea, label"));
 }
 
 function issueKey(issue?: Issue) {

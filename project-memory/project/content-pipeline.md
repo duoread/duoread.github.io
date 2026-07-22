@@ -16,9 +16,10 @@ The project converts authorized magazine EPUB files into reviewable bilingual te
 
 The reader displays one language per original paragraph.
 
-- Default mode: even-indexed paragraphs show Chinese, odd-indexed paragraphs show English.
-- Inverted mode: the language choice is reversed.
-- The UI exposes this as a `切换段落语言` button.
+- Default interleaved mode: even-indexed paragraphs show Chinese, odd-indexed paragraphs show English.
+- Single-language mode: every paragraph shows either Chinese or English.
+- In single-language mode, a tap inside the article paragraph area toggles Chinese/English. Pointer movement greater than the tap threshold is treated as scrolling/dragging and does not toggle language.
+- The header button switches between `穿插语言` and `一种语言`.
 
 ## Publication Dates
 
