@@ -20,6 +20,7 @@ The reader displays one language per original paragraph.
 - Single-language mode: every paragraph shows either Chinese or English.
 - In single-language mode, a tap inside the article paragraph area toggles Chinese/English. Pointer movement greater than the tap threshold is treated as scrolling/dragging and does not toggle language.
 - The header button switches between `穿插语言` and `一种语言`.
+- Desktop navigation uses a scrollable article list. Mobile navigation hides the long list and uses an article selector.
 
 ## Publication Dates
 

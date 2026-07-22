@@ -8,6 +8,7 @@
 - `scripts/run-daily-magazines.sh` is the cron wrapper for the remote machine. It logs under `/root/aicode/runs/multi_language/logs/`, uses a lock file, pulls the source branch when clean, supports `GIT_REMOTE` for remote-name differences, and runs Codex Spark with `TRANSLATION_CHUNK_SIZE=4`.
 - The reader currently passes only translated articles to the frontend, so the preview does not show untranslated placeholders.
 - The reader supports a default interleaved Chinese/English paragraph mode and a single-language mode. In single-language mode, tapping the article text toggles Chinese/English while scroll/drag movement is ignored.
+- The reader no longer shows the search box or article-count statistics. Mobile hides the long article list and uses an article selector so every article remains reachable on small screens.
 - `npm run export:pages` builds the site and writes a static GitHub Pages entrypoint at `dist/client/index.html`.
 - `npm test` validates text structure, builds the site, and checks server-rendered HTML.
 

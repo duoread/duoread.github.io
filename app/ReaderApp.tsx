@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useRef, useState, type PointerEvent } from "react";
+import { useRef, useState, type PointerEvent } from "react";
 
 type Paragraph = {
   id: string;
@@ -46,7 +46,6 @@ export function ReaderApp({ content }: { content: SiteContent }) {
   const [activeId, setActiveId] = useState("");
   const [readingMode, setReadingMode] = useState<ReadingMode>("interleaved");
   const [singleLanguage, setSingleLanguage] = useState<Language>("zh");
-  const [query, setQuery] = useState("");
   const pointerStartRef = useRef<{ x: number; y: number } | null>(null);
 
   const issue =
@@ -59,17 +58,6 @@ export function ReaderApp({ content }: { content: SiteContent }) {
   const activeArticle =
     readableArticles.find((article) => article.id === activeId) ?? firstReadableArticle;
 
-  const filteredArticles = useMemo(() => {
-    const needle = query.trim().toLowerCase();
-    if (!needle) return readableArticles;
-    return readableArticles.filter((article) =>
-      [article.title_en, article.title_zh, article.section]
-        .join(" ")
-        .toLowerCase()
-        .includes(needle),
-    );
-  }, [readableArticles, query]);
-
   if (!issue || !activeArticle) {
     return (
       <main className="empty-shell">
@@ -79,9 +67,6 @@ export function ReaderApp({ content }: { content: SiteContent }) {
     );
   }
 
-  const translatedCount =
-    issue.translated_count ??
-    issue.articles.filter((article) => article.translation_status === "translated").length;
   const activeDate = activeArticle.published_at ?? activeArticle.date;
   const activeDateLabel =
     activeArticle.published_date_source === "article" ? "文章日期" : "杂志发布日期";
@@ -117,7 +102,7 @@ export function ReaderApp({ content }: { content: SiteContent }) {
           <span className="issue-pill">{publicationLabel(issue.publication)}</span>
         </div>
 
-        <label className="search-box">
+        <label className="control-field">
           <span>Magazine</span>
           <select
             value={issueKey(issue)}
@@ -127,7 +112,6 @@ export function ReaderApp({ content }: { content: SiteContent }) {
               );
               setActiveIssueKey(event.target.value);
               setActiveId(nextIssue?.articles[0]?.id ?? "");
-              setQuery("");
             }}
           >
             {content.issues.map((candidate) => (
@@ -138,28 +122,22 @@ export function ReaderApp({ content }: { content: SiteContent }) {
           </select>
         </label>
 
-        <div className="stats-grid" aria-label="Issue status">
-          <div>
-            <span>{issue.article_count}</span>
-            <small>Articles</small>
-          </div>
-          <div>
-            <span>{translatedCount}</span>
-            <small>Translated</small>
-          </div>
-        </div>
-
-        <label className="search-box">
-          <span>Search</span>
-          <input
-            value={query}
-            onChange={(event) => setQuery(event.target.value)}
-            placeholder="Title or section"
-          />
+        <label className="control-field article-picker">
+          <span>Article</span>
+          <select
+            value={activeArticle.id}
+            onChange={(event) => setActiveId(event.target.value)}
+          >
+            {readableArticles.map((article) => (
+              <option key={article.id} value={article.id}>
+                {String(article.order).padStart(2, "0")} · {article.title_zh || article.title_en}
+              </option>
+            ))}
+          </select>
         </label>
 
         <nav className="article-list">
-          {filteredArticles.map((article) => (
+          {readableArticles.map((article) => (
             <button
               className={article.id === activeArticle.id ? "article-link active" : "article-link"}
               key={article.id}
