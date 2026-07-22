@@ -30,6 +30,12 @@ npm run dev
 npm test
 ```
 
+远程小内存机器安装依赖时建议关闭 npm audit，避免安装后漏洞元数据计算占用过高内存：
+
+```bash
+npm ci --no-audit --no-fund
+```
+
 默认抽取路径是：
 
 ```text
