@@ -33,3 +33,13 @@ Magazine articles use the article-level publication date when the source EPUB ex
 - OpenAI API backend requires `OPENAI_API_KEY` and uses `OPENAI_TRANSLATION_MODEL`.
 - The uppercase/display-name form `GPT-5.3-Codex-Spark` was rejected by `codex exec`.
 - The actual Codex slug `gpt-5.3-codex-spark` is visible in the local model catalog and passed a minimal `codex exec` probe.
+
+## Scheduled Sync
+
+The remote daily job uses `scripts/run-daily-economist.sh`, which calls `scripts/sync-latest-economist.mjs --publish true`.
+
+- The latest Economist issue is discovered from the upstream GitHub directory.
+- Existing fully translated issues are skipped.
+- New issues download their EPUB into ignored `data/raw/`.
+- Extracted and translated text under `texts/` is committed to the `source` branch.
+- The static export from `dist/client` is published to the `main` branch for `https://duoread.github.io/`.

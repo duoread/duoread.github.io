@@ -24,6 +24,7 @@ texts/                            # 整理后的文本，入库
 ```bash
 npm run extract
 npm run translate
+npm run sync:economist
 npm run validate:texts
 npm run export:pages
 npm run dev
@@ -76,6 +77,22 @@ OPENAI_TRANSLATION_MODEL=gpt-5.5 npm run translate
 ```bash
 npm run translate -- --limit 1
 ```
+
+## 自动同步最新一期
+
+可以让远程机器每天检查源站最新一期。如果最新 issue 已经完整翻译，脚本会直接退出；如果发现新 issue，会下载 EPUB 到被忽略的 `data/raw/`，抽取到 `texts/`，用 Codex Spark 翻译，校验后导出并发布到 GitHub Pages。
+
+```bash
+npm run sync:economist -- --publish true
+```
+
+cron 使用的 wrapper 是：
+
+```bash
+scripts/run-daily-economist.sh
+```
+
+默认远程路径是 `/root/aicode/multi_language`，日志写入 `/root/aicode/runs/multi_language/logs/`。
 
 ## 发布
 
