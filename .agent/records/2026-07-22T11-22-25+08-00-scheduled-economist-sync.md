@@ -12,7 +12,7 @@
 
 - Confirmed `texts/economist/2026-07-18/issue.json` reports 70 articles, 70 translated, 0 pending, and 867 paragraphs.
 - Added `scripts/sync-latest-economist.mjs` to discover the latest upstream Economist issue from `hehonghui/awesome-english-ebooks`, skip fully translated issues, download new EPUBs into ignored `data/raw/`, run extraction, translate with Codex Spark by default, validate texts, export Pages, commit `texts/`, and publish `dist/client` to the Pages branch.
-- Added `scripts/run-daily-economist.sh` as the remote cron wrapper with a lock file, dated logs under `/root/aicode/runs/multi_language/logs/`, clean-tree fast-forward pulling, and Codex Spark environment defaults.
+- Added `scripts/run-daily-economist.sh` as the remote cron wrapper with a lock file, dated logs under `/root/aicode/runs/multi_language/logs/`, clean-tree fast-forward pulling, `GIT_REMOTE` support for remote-name differences, and Codex Spark environment defaults.
 - Documented the manual and scheduled sync workflow in README and project memory.
 
 ## Files And Context Read
@@ -39,6 +39,7 @@
 
 - Initial local `npm test` failed under Node 20.20.0. Retried with `volta run npm test`, which used the project-pinned Node 22.13.0 and passed.
 - Static publish copy logic was adjusted to copy the contents of `dist/client` into the Pages worktree rather than risk creating a nested `client` directory.
+- The first remote pull attempt assumed a remote named `duoread`; the remote checkout uses `origin`, so the cron wrapper was updated to allow `GIT_REMOTE=origin`.
 
 ## Project Memory Candidates
 

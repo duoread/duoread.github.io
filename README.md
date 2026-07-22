@@ -92,7 +92,7 @@ cron 使用的 wrapper 是：
 scripts/run-daily-economist.sh
 ```
 
-默认远程路径是 `/root/aicode/multi_language`，日志写入 `/root/aicode/runs/multi_language/logs/`。
+默认远程路径是 `/root/aicode/multi_language`，日志写入 `/root/aicode/runs/multi_language/logs/`。如果远程仓库名不是 `duoread`，用 `GIT_REMOTE` 指定。
 
 ## 发布
 

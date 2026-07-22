@@ -5,7 +5,7 @@
 - 70 articles have been translated through the Codex backend.
 - No articles are currently pending translation for the 2026-07-18 Economist issue.
 - `scripts/sync-latest-economist.mjs` can check the upstream GitHub source for the latest Economist issue, skip already completed issues, and run download, extraction, Codex Spark translation, validation, static export, source commit, and Pages publish for new issues.
-- `scripts/run-daily-economist.sh` is the cron wrapper for the remote machine. It logs under `/root/aicode/runs/multi_language/logs/`, uses a lock file, pulls the source branch when clean, and runs Codex Spark with `TRANSLATION_CHUNK_SIZE=4`.
+- `scripts/run-daily-economist.sh` is the cron wrapper for the remote machine. It logs under `/root/aicode/runs/multi_language/logs/`, uses a lock file, pulls the source branch when clean, supports `GIT_REMOTE` for remote-name differences, and runs Codex Spark with `TRANSLATION_CHUNK_SIZE=4`.
 - The reader currently passes only translated articles to the frontend, so the preview does not show untranslated placeholders.
 - `npm run export:pages` builds the site and writes a static GitHub Pages entrypoint at `dist/client/index.html`.
 - `npm test` validates text structure, builds the site, and checks server-rendered HTML.
