@@ -32,6 +32,7 @@ test("renders the bilingual magazine reader", async () => {
   assert.match(html, /<title>DuoRead<\/title>/i);
   assert.match(html, /DuoRead/);
   assert.doesNotMatch(html, /<h1>双语交替阅读<\/h1>/);
+  assert.doesNotMatch(html, /issue-pill/);
   assert.match(html, /穿插语言/);
   assert.match(html, /<span>Article<\/span>/);
   assert.match(html, /data-paragraph-index="0"/);

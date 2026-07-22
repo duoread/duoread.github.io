@@ -80,17 +80,6 @@ button {
   line-height: 1;
 }
 
-.issue-pill {
-  flex: 0 0 auto;
-  padding: 7px 9px;
-  border: 1px solid var(--line);
-  border-radius: 6px;
-  background: var(--panel);
-  color: var(--muted);
-  font-size: 12px;
-  font-weight: 700;
-}
-
 .control-field {
   display: grid;
   gap: 8px;

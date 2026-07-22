@@ -1,6 +1,6 @@
 "use client";
 
-import { useLayoutEffect, useRef, useState, type PointerEvent } from "react";
+import { useEffect, useLayoutEffect, useRef, useState, type PointerEvent } from "react";
 
 type Paragraph = {
   id: string;
@@ -39,11 +39,18 @@ type SiteContent = {
 
 type ReadingMode = "interleaved" | "single";
 type Language = "zh" | "en";
+type ReaderSelection = {
+  issue: string;
+  article: string;
+};
+
+const selectionCookieName = "duoread_selection";
 
 export function ReaderApp({ content }: { content: SiteContent }) {
   const firstIssue = content.issues[0];
   const [activeIssueKey, setActiveIssueKey] = useState(issueKey(firstIssue));
   const [activeId, setActiveId] = useState("");
+  const [selectionLoaded, setSelectionLoaded] = useState(false);
   const [readingMode, setReadingMode] = useState<ReadingMode>("interleaved");
   const [interleavedLanguage, setInterleavedLanguage] = useState<Language>("zh");
   const [singleLanguage, setSingleLanguage] = useState<Language>("zh");
@@ -53,13 +60,49 @@ export function ReaderApp({ content }: { content: SiteContent }) {
 
   const issue =
     content.issues.find((candidate) => issueKey(candidate) === activeIssueKey) ?? firstIssue;
-  const translatedArticles =
-    issue?.articles.filter((article) => article.translation_status === "translated") ?? [];
-  const readableArticles = translatedArticles.length > 0 ? translatedArticles : issue?.articles ?? [];
+  const readableArticles = readableIssueArticles(issue);
   const firstReadableArticle = readableArticles[0];
 
   const activeArticle =
     readableArticles.find((article) => article.id === activeId) ?? firstReadableArticle;
+
+  useLayoutEffect(() => {
+    const anchor = pendingScrollAnchorRef.current;
+    pendingScrollAnchorRef.current = null;
+    if (!anchor) return;
+
+    const paragraph = paragraphsRef.current?.querySelector<HTMLElement>(
+      `[data-paragraph-index="${anchor.index}"]`,
+    );
+    if (!paragraph) return;
+
+    const nextTop = paragraph.getBoundingClientRect().top;
+    window.scrollBy({ top: nextTop - anchor.top, behavior: "auto" });
+  }, [activeArticle?.id, interleavedLanguage, readingMode, singleLanguage]);
+
+  useEffect(() => {
+    const savedSelection = readSelectionCookie();
+    if (savedSelection) {
+      const savedIssue = content.issues.find(
+        (candidate) => issueKey(candidate) === savedSelection.issue,
+      );
+      const savedArticles = readableIssueArticles(savedIssue);
+      const savedArticle = savedArticles.find((article) => article.id === savedSelection.article);
+      if (savedIssue) {
+        setActiveIssueKey(issueKey(savedIssue));
+        setActiveId(savedArticle?.id ?? savedArticles[0]?.id ?? "");
+      }
+    }
+    setSelectionLoaded(true);
+  }, [content.issues]);
+
+  useEffect(() => {
+    if (!selectionLoaded || !issue || !activeArticle) return;
+    writeSelectionCookie({
+      issue: issueKey(issue),
+      article: activeArticle.id,
+    });
+  }, [activeArticle, issue, selectionLoaded]);
 
   if (!issue || !activeArticle) {
     return (
@@ -77,20 +120,6 @@ export function ReaderApp({ content }: { content: SiteContent }) {
     readingMode === "interleaved"
       ? "穿插语言"
       : `一种语言 · ${singleLanguage === "zh" ? "中文" : "English"}`;
-
-  useLayoutEffect(() => {
-    const anchor = pendingScrollAnchorRef.current;
-    pendingScrollAnchorRef.current = null;
-    if (!anchor) return;
-
-    const paragraph = paragraphsRef.current?.querySelector<HTMLElement>(
-      `[data-paragraph-index="${anchor.index}"]`,
-    );
-    if (!paragraph) return;
-
-    const nextTop = paragraph.getBoundingClientRect().top;
-    window.scrollBy({ top: nextTop - anchor.top, behavior: "auto" });
-  }, [activeArticle.id, interleavedLanguage, readingMode, singleLanguage]);
 
   function handleReaderPointerDown(event: PointerEvent<HTMLElement>) {
     if (event.pointerType === "mouse" && event.button !== 0) return;
@@ -128,7 +157,6 @@ export function ReaderApp({ content }: { content: SiteContent }) {
           <div>
             <p className="brand-title">DuoRead</p>
           </div>
-          <span className="issue-pill">{publicationLabel(issue.publication)}</span>
         </div>
 
         <label className="control-field">
@@ -139,8 +167,9 @@ export function ReaderApp({ content }: { content: SiteContent }) {
               const nextIssue = content.issues.find(
                 (candidate) => issueKey(candidate) === event.target.value,
               );
+              const nextArticles = readableIssueArticles(nextIssue);
               setActiveIssueKey(event.target.value);
-              setActiveId(nextIssue?.articles[0]?.id ?? "");
+              setActiveId(nextArticles[0]?.id ?? "");
             }}
           >
             {content.issues.map((candidate) => (
@@ -258,6 +287,37 @@ function findParagraphElement(target: EventTarget) {
 function issueKey(issue?: Issue) {
   if (!issue) return "";
   return `${issue.publication}:${issue.issue}`;
+}
+
+function readableIssueArticles(issue?: Issue) {
+  if (!issue) return [];
+  const translatedArticles = issue.articles.filter(
+    (article) => article.translation_status === "translated",
+  );
+  return translatedArticles.length > 0 ? translatedArticles : issue.articles;
+}
+
+function readSelectionCookie(): ReaderSelection | null {
+  if (typeof document === "undefined") return null;
+  const encodedValue = document.cookie
+    .split("; ")
+    .find((cookie) => cookie.startsWith(`${selectionCookieName}=`))
+    ?.slice(selectionCookieName.length + 1);
+  if (!encodedValue) return null;
+
+  try {
+    const parsed = JSON.parse(decodeURIComponent(encodedValue)) as Partial<ReaderSelection>;
+    if (typeof parsed.issue !== "string" || typeof parsed.article !== "string") return null;
+    return { issue: parsed.issue, article: parsed.article };
+  } catch {
+    return null;
+  }
+}
+
+function writeSelectionCookie(selection: ReaderSelection) {
+  if (typeof document === "undefined") return;
+  const value = encodeURIComponent(JSON.stringify(selection));
+  document.cookie = `${selectionCookieName}=${value}; Max-Age=31536000; Path=/; SameSite=Lax`;
 }
 
 function publicationLabel(publication: string) {
