@@ -188,8 +188,7 @@ button {
 
 .article-header {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 24px;
+  gap: 18px;
   align-items: start;
   padding-bottom: 24px;
   border-bottom: 1px solid var(--line);
@@ -223,8 +222,17 @@ button {
 
 .reader-actions {
   display: flex;
+  flex-wrap: wrap;
   justify-content: flex-end;
-  align-items: flex-end;
+  align-items: center;
+  gap: 12px;
+}
+
+.reader-hint {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1.35;
 }
 
 .reader-actions button {
@@ -301,10 +309,6 @@ button {
 
   .article-reader {
     padding-top: 34px;
-  }
-
-  .article-header {
-    grid-template-columns: 1fr;
   }
 
   .reader-actions {

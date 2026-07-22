@@ -19,7 +19,7 @@ The reader displays one language per original paragraph.
 - Default interleaved mode: even-indexed paragraphs show Chinese, odd-indexed paragraphs show English.
 - Single-language mode: every paragraph shows either Chinese or English.
 - A tap inside an article paragraph toggles the current language display in either mode: interleaved mode flips the starting language, and single-language mode flips the whole article between Chinese and English. The tapped paragraph is used as the scroll anchor so it remains at the same viewport position after switching. Pointer movement greater than the tap threshold is treated as scrolling/dragging and does not toggle language.
-- The header button switches between `穿插语言` and `一种语言`.
+- The header button switches between `穿插语言` and `一种语言`; it sits just above the article/body divider with the hint `点击正文以切换语言`.
 - Magazine and issue are separate selectors. Selecting a magazine moves to that publication's first available issue, and selecting an issue moves to that issue's first readable article.
 - Desktop navigation uses a scrollable article list. Mobile navigation hides the long list and uses an article selector.
 - The current issue and article are persisted in the `duoread_selection` cookie; saved values are validated against currently available readable articles before restoration.

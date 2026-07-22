@@ -251,6 +251,7 @@ export function ReaderApp({ content }: { content: SiteContent }) {
           </div>
 
           <div className="reader-actions">
+            <span className="reader-hint">点击正文以切换语言</span>
             <button
               type="button"
               aria-pressed={readingMode === "single"}
