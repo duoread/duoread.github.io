@@ -60,6 +60,11 @@ export function ReaderApp({ content }: { content: SiteContent }) {
 
   const issue =
     content.issues.find((candidate) => issueKey(candidate) === activeIssueKey) ?? firstIssue;
+  const publications = uniquePublications(content.issues);
+  const activePublication = issue?.publication ?? publications[0] ?? "";
+  const publicationIssues = content.issues.filter(
+    (candidate) => candidate.publication === activePublication,
+  );
   const readableArticles = readableIssueArticles(issue);
   const firstReadableArticle = readableArticles[0];
 
@@ -113,13 +118,16 @@ export function ReaderApp({ content }: { content: SiteContent }) {
     );
   }
 
-  const activeDate = activeArticle.published_at ?? activeArticle.date;
-  const activeDateLabel =
-    activeArticle.published_date_source === "article" ? "文章日期" : "杂志发布日期";
   const modeLabel =
     readingMode === "interleaved"
       ? "穿插语言"
       : `一种语言 · ${singleLanguage === "zh" ? "中文" : "English"}`;
+
+  function activateIssue(nextIssue?: Issue) {
+    const nextArticles = readableIssueArticles(nextIssue);
+    setActiveIssueKey(issueKey(nextIssue));
+    setActiveId(nextArticles[0]?.id ?? "");
+  }
 
   function handleReaderPointerDown(event: PointerEvent<HTMLElement>) {
     if (event.pointerType === "mouse" && event.button !== 0) return;
@@ -159,26 +167,45 @@ export function ReaderApp({ content }: { content: SiteContent }) {
           </div>
         </div>
 
-        <label className="control-field">
-          <span>Magazine</span>
-          <select
-            value={issueKey(issue)}
-            onChange={(event) => {
-              const nextIssue = content.issues.find(
-                (candidate) => issueKey(candidate) === event.target.value,
-              );
-              const nextArticles = readableIssueArticles(nextIssue);
-              setActiveIssueKey(event.target.value);
-              setActiveId(nextArticles[0]?.id ?? "");
-            }}
-          >
-            {content.issues.map((candidate) => (
-              <option key={issueKey(candidate)} value={issueKey(candidate)}>
-                {publicationLabel(candidate.publication)} · {candidate.issue}
-              </option>
-            ))}
-          </select>
-        </label>
+        <div className="issue-selector-row">
+          <label className="control-field">
+            <span>Magazine</span>
+            <select
+              value={activePublication}
+              onChange={(event) => {
+                const nextIssue = content.issues.find(
+                  (candidate) => candidate.publication === event.target.value,
+                );
+                activateIssue(nextIssue);
+              }}
+            >
+              {publications.map((publication) => (
+                <option key={publication} value={publication}>
+                  {publicationLabel(publication)}
+                </option>
+              ))}
+            </select>
+          </label>
+
+          <label className="control-field">
+            <span>Issue</span>
+            <select
+              value={issueKey(issue)}
+              onChange={(event) => {
+                const nextIssue = content.issues.find(
+                  (candidate) => issueKey(candidate) === event.target.value,
+                );
+                activateIssue(nextIssue);
+              }}
+            >
+              {publicationIssues.map((candidate) => (
+                <option key={issueKey(candidate)} value={issueKey(candidate)}>
+                  {candidate.issue}
+                </option>
+              ))}
+            </select>
+          </label>
+        </div>
 
         <label className="control-field article-picker">
           <span>Article</span>
@@ -224,9 +251,6 @@ export function ReaderApp({ content }: { content: SiteContent }) {
           </div>
 
           <div className="reader-actions">
-            <span className="date-label">
-              {activeDateLabel}: {activeDate}
-            </span>
             <button
               type="button"
               aria-pressed={readingMode === "single"}
@@ -287,6 +311,10 @@ function findParagraphElement(target: EventTarget) {
 function issueKey(issue?: Issue) {
   if (!issue) return "";
   return `${issue.publication}:${issue.issue}`;
+}
+
+function uniquePublications(issues: Issue[]) {
+  return Array.from(new Set(issues.map((issue) => issue.publication)));
 }
 
 function readableIssueArticles(issue?: Issue) {

@@ -81,6 +81,7 @@ button {
 }
 
 .control-field {
+  min-width: 0;
   display: grid;
   gap: 8px;
   color: var(--muted);
@@ -88,8 +89,15 @@ button {
   font-weight: 700;
 }
 
+.issue-selector-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(110px, 0.62fr);
+  gap: 10px;
+}
+
 .control-field select {
   width: 100%;
+  min-width: 0;
   height: 40px;
   padding: 0 12px;
   border: 1px solid var(--line);
@@ -215,15 +223,8 @@ button {
 
 .reader-actions {
   display: flex;
-  flex-direction: column;
+  justify-content: flex-end;
   align-items: flex-end;
-  gap: 10px;
-}
-
-.date-label {
-  color: var(--muted);
-  font-size: 13px;
-  white-space: nowrap;
 }
 
 .reader-actions button {
@@ -307,9 +308,8 @@ button {
   }
 
   .reader-actions {
-    flex-direction: row;
     align-items: center;
-    justify-content: space-between;
+    justify-content: flex-start;
   }
 }
 
@@ -321,6 +321,10 @@ button {
 
   .brand-row {
     display: grid;
+  }
+
+  .issue-selector-row {
+    grid-template-columns: minmax(0, 1fr) minmax(96px, 0.58fr);
   }
 
   .article-reader {

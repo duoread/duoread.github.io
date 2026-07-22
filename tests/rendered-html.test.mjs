@@ -34,12 +34,15 @@ test("renders the bilingual magazine reader", async () => {
   assert.doesNotMatch(html, /<h1>双语交替阅读<\/h1>/);
   assert.doesNotMatch(html, /issue-pill/);
   assert.match(html, /穿插语言/);
+  assert.match(html, /<span>Magazine<\/span>/);
+  assert.match(html, /<span>Issue<\/span>/);
   assert.match(html, /<span>Article<\/span>/);
   assert.match(html, /data-paragraph-index="0"/);
   assert.match(html, /Politics/);
   assert.match(html, /漫画：霍尔木兹海峡局势持续不明朗/);
   assert.match(html, /深入了解这幅漫画涉及的主题/);
   assert.doesNotMatch(html, /<span>Search<\/span>/);
+  assert.doesNotMatch(html, /date-label/);
   assert.doesNotMatch(html, /<small>Articles<\/small>|<small>Translated<\/small>/);
   assert.doesNotMatch(html, /Your site is taking shape|Building your site|codex-preview/i);
 });
