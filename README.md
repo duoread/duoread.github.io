@@ -94,7 +94,12 @@ cron 使用的 wrapper 是：
 scripts/run-daily-magazines.sh
 ```
 
-默认远程路径是 `/root/aicode/multi_language`，日志写入 `/root/aicode/runs/multi_language/logs/`。如果远程仓库名不是 `duoread`，用 `GIT_REMOTE` 指定。
+默认远程路径是 `/root/aicode/multi_language`，日志写入 `/root/aicode/runs/multi_language/logs/`。如果远程仓库名不是 `duoread`，用 `GIT_REMOTE` 指定。wrapper 默认使用 `MAGAZINE_INSTALL_DEPS=auto`：只有 `node_modules` 缺失或 `package-lock.json` 更新时才执行 `npm ci --no-audit --no-fund`，日常同步会跳过依赖安装以降低远程内存峰值。需要强制安装或跳过安装时，可以设置：
+
+```bash
+MAGAZINE_INSTALL_DEPS=always scripts/run-daily-magazines.sh
+MAGAZINE_INSTALL_DEPS=never scripts/run-daily-magazines.sh
+```
 
 默认只向前补一期；需要补更多历史期时，可以设置：
 

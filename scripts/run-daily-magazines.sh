@@ -30,7 +30,28 @@ else
   git pull --ff-only "$GIT_REMOTE" source
 fi
 
-npm ci --no-audit --no-fund
+install_deps="${MAGAZINE_INSTALL_DEPS:-auto}"
+case "$install_deps" in
+  always)
+    echo "[$(date --iso-8601=seconds)] Installing dependencies (MAGAZINE_INSTALL_DEPS=always)"
+    npm ci --no-audit --no-fund
+    ;;
+  never)
+    echo "[$(date --iso-8601=seconds)] Skipping dependency install (MAGAZINE_INSTALL_DEPS=never)"
+    ;;
+  auto)
+    if [ ! -d node_modules ] || [ ! -f node_modules/.package-lock.json ] || [ package-lock.json -nt node_modules/.package-lock.json ]; then
+      echo "[$(date --iso-8601=seconds)] Installing dependencies (node_modules missing or package-lock changed)"
+      npm ci --no-audit --no-fund
+    else
+      echo "[$(date --iso-8601=seconds)] Dependencies already installed; skipping npm ci"
+    fi
+    ;;
+  *)
+    echo "[$(date --iso-8601=seconds)] Unsupported MAGAZINE_INSTALL_DEPS=$install_deps; use auto, always, or never" >&2
+    exit 1
+    ;;
+esac
 
 RUN_ROOT="$RUN_ROOT" \
 TRANSLATION_PROVIDER="${TRANSLATION_PROVIDER:-codex}" \
