@@ -3,6 +3,7 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import process from "node:process";
 import OpenAI from "openai";
+import { localTimestamp, rebuildSiteIndex } from "./site-index.mjs";
 
 const args = parseArgs(process.argv.slice(2));
 const textsRoot = args.root ?? path.join("texts", "economist", "2026-07-18");
@@ -69,11 +70,11 @@ for (const articleRef of issue.articles) {
 
   await writeJson(articlePath, merged);
   await writeFile(path.join(path.dirname(articlePath), "zh.md"), zhMarkdown(merged), "utf8");
-  await rebuildIndexes(textsRoot);
+  await rebuildIssueIndexes(textsRoot);
   translated += 1;
 }
 
-await rebuildIndexes(textsRoot);
+await rebuildIssueIndexes(textsRoot);
 console.log(`Translated ${translated} article(s).`);
 
 function parseArgs(argv) {
@@ -270,7 +271,7 @@ function zhMarkdown(article) {
     .join("\n");
 }
 
-async function rebuildIndexes(root) {
+async function rebuildIssueIndexes(root) {
   const issuePath = path.join(root, "issue.json");
   const issueData = JSON.parse(await readFile(issuePath, "utf8"));
   const hydratedArticles = [];
@@ -295,31 +296,9 @@ async function rebuildIndexes(root) {
   ).length;
   issueData.updated_at = localTimestamp();
   await writeJson(issuePath, issueData);
-
-  await writeJson(path.join("texts", "site-index.json"), {
-    publication: issueData.publication,
-    current_issue: issueData.issue,
-    generated_at: localTimestamp(),
-    issues: [{ ...issueData, articles: hydratedArticles }],
-  });
+  await rebuildSiteIndex("texts");
 }
 
 async function writeJson(filePath, data) {
   await writeFile(filePath, `${JSON.stringify(data, null, 2)}\n`, "utf8");
-}
-
-function localTimestamp() {
-  const date = new Date();
-  const offsetMinutes = -date.getTimezoneOffset();
-  const sign = offsetMinutes >= 0 ? "+" : "-";
-  const absolute = Math.abs(offsetMinutes);
-  const hh = String(Math.floor(absolute / 60)).padStart(2, "0");
-  const mm = String(absolute % 60).padStart(2, "0");
-  const yyyy = date.getFullYear();
-  const month = String(date.getMonth() + 1).padStart(2, "0");
-  const day = String(date.getDate()).padStart(2, "0");
-  const hour = String(date.getHours()).padStart(2, "0");
-  const minute = String(date.getMinutes()).padStart(2, "0");
-  const second = String(date.getSeconds()).padStart(2, "0");
-  return `${yyyy}-${month}-${day}T${hour}:${minute}:${second}${sign}${hh}:${mm}`;
 }

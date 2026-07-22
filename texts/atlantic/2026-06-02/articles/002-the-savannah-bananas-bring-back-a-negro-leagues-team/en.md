@@ -1,0 +1,171 @@
+# The Savannah Bananas Bring Back a Negro Leagues Team
+
+Section: Features
+
+Rubric: The organization is best known for its dance numbers and trick plays. Now it’s reviving one of the most entertaining—and controversial—franchises in baseball history.
+
+“My dad was a big Lakers fan,” Kobe Shaquille Robinson told me, indulging an admittedly obvious question. Robinson was born in 2001, in the middle of Kobe Bryant and Shaquille O’Neal’s three-NBA-championship run. But he discovered early on that his name couldn’t help him shoot a basketball. As an athlete, he stood out on the pitcher’s mound.
+
+Robinson is 6 foot 2 and lanky; when we met, he was wearing his hair in two-strand twists. We were talking on a Saturday afternoon in Memphis, in a retro-style downtown stadium named after an auto-parts chain. It was, in a way, the perfect venue for a conversation with an up-and-coming ballplayer—a minor-league park with all the trimmings of a major-league one. It was also, objectively speaking, an unusual workplace for a Black athlete in 2026.
+
+Back in the mid-1980s, during the prime of Ozzie Smith, Rickey Henderson, Tony Gwynn, and Dwight Gooden, more than 18 percent of Major League Baseball players were Black. Now that figure is just below 7 percent—right around where it was in 1956, less than a decade after Jackie Robinson broke the color line.
+
+No single reason explains Black Americans’ diminished footprint in the sport; the high cost of equipment and travel ball, dwindling municipal funding for youth leagues, the rise of the NFL and the NBA, and a parallel surge of Latino talent have all contributed. Despite these factors, Kobe Robinson still dreamed of a life in baseball. “I just felt like the man out there,” he said. “So I stuck with it.”
+
+Robinson’s fastball, which earned him the nickname “Hot Sauce,” carried him from a Tennessee community college to the 2021 MLB draft, where he was selected by the San Diego Padres. Injuries, however, stymied his early career: He had issues with his elbow, then his shoulder. In 2024, the Padres released him. The closest he ever got to the big show was A-ball, three rungs below the majors.
+
+At 23, Robinson was out of baseball and, he said, “in a dark space.” He took overnight caregiving shifts at a group home, delivered packages for Amazon, and searched for a way to get back on the field. Last fall, after a year on the sidelines, he found a potential opening: The Savannah Bananas were hiring.
+
+Over the past three-plus years, the Bananas have gone from a baseball curiosity to a cultural juggernaut. The team tours the country playing what it calls Banana Ball: a family-friendly, souped-up, TikTok-ready version of the national pastime. Games feature singing and dancing and celebrity cameos, plus backflipping outfielders, stilt-walking batters, and the occasional double to the gap. Last year, according to the organization’s own data, the Bananas and their affiliated teams sold 2.2 million tickets—more than 11 different MLB franchises.
+
+The Bananas are frequently compared to the Harlem Globetrotters. But unlike their basketball counterparts, who ritually defeat the rival Washington Generals, the Bananas don’t script the outcomes of their games. They play against—and sometimes lose to—a rotating band of teams with their own personalities and followings. Among their opponents are the denim-clad Texas Tailgaters, the often-shirtless Party Animals, and the Firefighters, who make their entrance in full firefighting uniforms, as if to douse an inferno in right field.
+
+Robinson filled out a Prospective Banana Ball Player form and got invited to audition for a roster spot. He knew from a former teammate who played for the Firefighters that this would not be a traditional tryout. “I didn’t want to go dressed as just a baseball player, because that’s not what they look for,” he said. Instead, he went as Frozone, the Incredibles character voiced by Samuel L. Jackson. “It looked kind of goofy,” he said of his blue-and-white bodysuit. “But I said, I don’t care. I’m going out there, and I’m pitching.” In this context, pitching meant doing a synchronized twirl with his infielders, then firing a fastball across home plate.
+
+The scouts liked what they saw. A month later, Robinson was drafted by one of two expansion teams making their Banana Ball debut in 2026: the Indianapolis Clowns.
+
+Kobe Robinson was drafted by the San Diego Padres, but never made it past A-ball. The Indianapolis Clowns are a second chance at professional baseball. (Kevin Wurm for The Atlantic)
+
+Unlike the other teams in the extended Bananas universe, the Clowns are not an original creation. They were a real baseball franchise that competed in the Negro Leagues; in 1952, they signed a teenage prospect named Hank Aaron. Like the Bananas, they were also an entertainment act. The Clowns traveled with acrobats, a “one-man jazz band” called Boogie Woogie Paul, and an actual circus clown. Some of the only existing footage of the original Clowns shows the long-limbed first baseman Reece “Goose” Tatum, who also played for the Globetrotters, dropping to his knees as if to pray for a base hit and getting awakened from a fainting spell by a smelly foot.
+
+Jesse Cole, the 42-year-old impresario behind the Bananas, has said that relaunching the Clowns is a way to honor one of Banana Ball’s forebears and preserve the legacy of the Negro Leagues. Robinson was thrilled. The Clowns “paved this way for us,” he told me. “Now we have to bring it back to this day and age and make it even better.” The Clowns also provide an opportunity to increase Black representation in baseball. Robinson, who feared that his career was over, now has another shot.
+
+Read: How the Negro Leagues shaped modern baseball
+
+But the decision to revive the Indianapolis Clowns isn’t as straightforward as it may seem. Although the team’s antics were widely popular, they could also descend into racial caricature. The Clowns rankled both their Negro Leagues peers and Black sportswriters, chief among them Wendell Smith. The influential Pittsburgh Courier columnist called the team a “fourth-rate ‘Uncle Tom’ minstrel show.” He also accused the team’s white owner—who promoted one of his star pitchers as baseball’s version of the shuffling, feebleminded minstrel character Stepin Fetchit—of profiting from “the kind of nonsense which many white people like to believe is typical and characteristic of all Negroes.”
+
+The Savannah Bananas have risen to prominence by ostentatiously breaking the rules. Cole, who is white, often talks of his admiration for P. T. Barnum, the brash showman who would do anything to attract an audience. The Bananas’ owner rightly intuited that baseball, the most hidebound of American sports, didn’t know how to market itself to a new, social-media-enabled generation. Cole makes all of his public appearances in a banana-yellow tuxedo and banana-yellow top hat; he has made swaggering nonconformity part of the brand. “If you’re not getting criticized,” he has said, “you’re playing it too safe.”
+
+Resurrecting the Clowns definitely isn’t playing it safe.
+
+When Bob Kendrick saw Banana Ball for the first time, in 2022, he felt like he was watching something at once new and very familiar. The action on the field was fast-paced and bold, and the fans were rapt. For Kendrick, the president of the Negro Leagues Baseball Museum, in Kansas City, Missouri, the scene evoked the audacity of preintegration Black baseball—the daring to build something new in opposition to the mainstream.
+
+That May, Kendrick gave Cole and his players a private tour of the museum as part of an ESPN documentary series on the Bananas. Kendrick took the team to the section that featured the Clowns and told Cole that he saw them as an ancestor of the Bananas. “I think that’s when he had the epiphany that someday he would bring back the Indianapolis Clowns,” Kendrick told me.
+
+The Clowns’ revival is a business arrangement: The Negro Leagues museum, which owns the Clowns’ intellectual property, received a fee from the Bananas for the rights to use the team’s name and develop a set of new logos. The partnership, Kendrick said, “comes along at a perfect time,” as he’s raising $50 million to build a 35,000-square-foot museum campus in Kansas City. Beyond the cash infusion, the Bananas will bring attention to the Negro Leagues, putting Black baseball history in front of a potentially huge audience.
+
+From the January 2025 issue: Caleb Gayle on the return of America’s oldest Black rodeo
+
+In a video announcing the Clowns’ return, Kendrick offered a brief lesson on why the team mattered. He name-checked the luminaries who wore a Clowns uniform: an 18-year-old Hank Aaron, a 60-something Satchel Paige, and the pathbreaking Toni Stone, who became the first woman to get consistent playing time for a professional baseball club when she joined the Clowns in 1953. Kendrick explained that the team helped popularize “shadow ball,” an elaborate routine in which real and invisible baseballs are tossed around the infield. And he said that, until the Clowns folded in the late 1980s, they were the last team standing from the Negro Leagues.
+
+The Indianapolis Clowns manager Buster Haywood and the player Toni Stone circa 1953 (Transcendental Graphics / Getty)
+
+Everything Kendrick said in the video is true. But that introduction to the Clowns is incomplete. Their full story is one of ingenuity and endurance, but also exploitation.
+
+The history of racial caricature in baseball goes back nearly as far as the organized game itself. As early as the 1870s, blackface performers began, in the words of the historian James E. Brunson III, to “exploit the game’s lucrative possibilities.” Many decades later, a team called the Zulu Cannibal Giants pushed this minstrel tradition to a dreadful extreme, taking the field in bare feet and grass skirts with “war paint” slathered on their bodies.
+
+The man who created the Cannibal Giants in the 1930s was a former Negro Leagues pitcher. The team’s Northeast booking agent was a New Yorker with a background in vaudeville. His name was Syd Pollock, and he would become best known for owning another barnstorming team: the Ethiopian Clowns. Pollock’s Clowns wore wigs and pancake makeup and played under faux-African pseudonyms such as Abbadaba and Tarzan. They also trafficked in humor that was, at best, minstrel-adjacent.
+
+Richard “King Tut” King, who’d previously had a stint with the Cannibal Giants, was the team’s most prominent comedian. He would emerge from the dugout looking like an escaped prisoner, or pantomime shooting craps before dropping his pants. His main collaborator on the Clowns was a dwarf known as Spec Bebop. (His real name was Ralph Bell.) In one recurring skit, a dentist gag, Tut would place a lit firecracker in Bebop’s mouth.
+
+In the early 1940s, Negro Leagues owners banded together to try to prohibit their teams from playing Pollock’s franchise. The ban proved impossible to enforce, though, because the Clowns were so popular—with both white and Black fans—that cash-poor Black-owned clubs felt they had no choice but to book them.
+
+The Negro American League eventually eased up on its Clowns ban, admitting them to the league in 1943. The Clowns, for their part, promised to lose the makeup and stop calling themselves Ethiopian. The team, which had been nominally based in Miami, rebranded itself, becoming the Cincinnati Clowns before moving to Indianapolis. They got rid of the paint, too, though not right away. At Howard University’s Moorland-Spingarn Research Center, I found a 1945 program touting the Clowns as the “Most Sensational Ball Club in the World.” Next to that caption was a photo of 15 men with white clown makeup slathered on their faces.
+
+The Clowns were at times competitive in their new league, but the NAL—and Black baseball as a whole—was soon decimated by integration. When Major League Baseball plucked away the likes of Jackie Robinson, Larry Doby, and Roy Campanella in the late 1940s, Black fans abandoned the Negro Leagues en masse.
+
+Richard “King Tut” King, the team’s most prominent comic act, and his main collaborator, Ralph Bell, known as Spec Bebop (Dean Conger / The Denver Post / Getty)
+
+The Clowns were better positioned than their peers to navigate the Negro Leagues’ collapse. That was largely because Pollock had a knack for making his team the center of attention. In 1953, the Clowns’ owner signed Toni Stone, declaring that baseball was the “latest masculine enterprise to fall before the advance of wearers of skirts and panties.” The team’s new female second baseman was a media and box-office sensation, reviving interest in the entire Negro American League. “Give the fans something they want to see,” a triumphant Pollock said, “and they’ll come out.”
+
+The boom didn’t last. In his book Negro League Baseball: The Rise and Ruin of a Black Institution, the historian Neil Lanctot writes that crowds dwindled the next season despite the Clowns’ addition of two new women, Connie Morgan and Mamie “Peanut” Johnson. After the 1954 season, the Clowns left the Negro American League, and a year later, all three female pioneers were out of baseball. As an independent barnstorming team, the Clowns returned to their slapstick roots and played to smaller audiences. One game in 1964—estimated attendance: 400 people—featured the 4-foot-5 Billy Vaughn playing third base in a dress and the first baseman James “Natureboy” Williams pulling an oar, a golf club, a mannequin leg, and four baseball bats out of his pants.
+
+In 1968, the Clowns reverse-integrated, adding their first white player. By the 1980s, the decade when the Clowns finally petered out, the team’s roster was entirely white.
+
+A little after 9:30 a.m., three and a half hours before the first pitch of the new Indianapolis Clowns’ Sunday matinee in Memphis, Jackie Bradley Jr. was already on the field. His task that morning in early March was to lock down his part in a mid-game song-and-dance routine. When Outkast’s “Hey Ya!” started booming from the stadium PA, though, he seemed uncertain of his moves. My scouting report: For a dancer, he’s a great center fielder.
+
+The former Red Sox star, now 36, was the first ex–major leaguer to move to Banana Ball full-time. In his Clowns debut, he caught a fly ball behind his back. “I’ve had to rewire my brain to not just catch the ball,” he told me. “Any ball that’s hit to me, I almost have to do a trick play, because they just see me catch it normal, it’s like, Oh, whatever. Do something cool.”
+
+Mastery of trick-play theory and technique is a job requirement in Banana Ball. “These guys are baseball players,” Errick Fox, the team’s head coach, told me. “You also have to flip that switch and be like, Hey guys, you’re performers.”
+
+Fox grew up in Atlanta in the ’90s, when the Braves’ lineup featured Black superstars such as Fred McGriff, David Justice, and Deion Sanders. “At that time, it was exciting,” he recalled. “All of us kind of gravitated to really want to be like those guys.” One of his first responsibilities as the Clowns’ coach, he said, was to “get some Black ballplayers.”
+
+Bradley, who’d made a cameo appearance with the Bananas in 2025 at the urging of his oldest daughter, was the team’s top recruit. The Clowns’ partnership with the Negro Leagues museum played a role in his decision to sign on, as did the potential to sway more Black athletes to get into baseball. As a young prospect in Virginia, he’d gotten used to being the only Black player on the field. “I enjoyed the people that I was around,” he said, “but I definitely wanted there to be more people to look like me.”
+
+Jackie Bradley Jr. was the first former major leaguer to play Banana Ball full-time. He was a star center fielder for the Red Sox; now he’s honing his juggling skills. (Kevin Wurm for The Atlantic)
+
+Some of Bradley’s new teammates are Banana Ball veterans. Malachi Mitchell told me that his baseball philosophy is to “play loud”—to run hard, display his emotions, and try to put on a show. That approach didn’t always go over well in Florida’s youth-baseball scene. He ran across “a lot of racist people,” he said, and “the words they would use are arrogant or he’s doing too much.” For the Savannah Bananas, too much was the perfect amount. Mitchell adopted the persona of “Flash Tha Kid,” the Bananas’ designated runner, delighting fans with his speed on the basepaths, simulated banjo playing, and willingness to eat a disgusting amount of fettuccine Alfredo in service of a comedy bit. But as one of the organization’s few Black players, Mitchell told me he sometimes “felt a little separated.” When Jesse Cole asked him if he wanted to switch to the Clowns, he said yes right away. “Now I feel at home,” he said.
+
+Another group of Clowns got pulled from baseball’s discard pile. When Nick Wilson threw his final pitch in college, he marked what he thought was the end of his career by tossing his cleats over a telephone wire. Last fall, he was selling computer equipment when he heard about a Banana Ball tryout in Nashville. It was the same audition where Kobe Robinson showed up in a Frozone costume. Wilson went as a Ninja Turtle.
+
+Wilson told me his mother hadn’t been sure about the whole Clowns thing—she worried that the team’s name might put him in a bad light. But the franchise’s connection to the Negro Leagues was meaningful to him. Wilson’s grandfather James, who died in 2017, played pro baseball in Houston in the early ’50s, when sports were still segregated in the city. Now he had the chance to carry that legacy forward. “This is history,” he told me. “Why would I not want to be a part of a team called the Clowns?”
+
+The team I saw in March wasn’t quite complete. A month later, the Clowns brought on Mo’ne Davis, who in 2014 became the first girl to throw a shutout in the Little League World Series. Twelve years later, she’s joined the Clowns’ lineage of pioneering Black female athletes. In Davis’s inaugural Clowns appearance, she retired her first batter on a routine grounder to third.
+
+From the April 2025 issue: Kaitlyn Tiffany explores why most women are not allowed to play baseball
+
+The new Clowns aren’t all Black. Among the team’s white players are the two most clownish guys on the roster: 20-year-old Fisher Polydoroff, a multi-instrumentalist magician who’s adopted the persona of a 1950s pitcher named “Ole Knuckles,” and 38-year-old Mat Wolf, a second-generation rodeo clown with a deep repertoire of trick pitches and methods for dropping his pants. (“You can do it quickly, you can do it slowly, you can do it with a spin,” he explained to me.)
+
+Saturday night’s game began with a ceremonial weigh-in. Wilson, the Clowns’ contestant, faced off against the Party Animals’ Jake Lialios, a man who (judging by his social-media presence) spends most of his waking hours covered in baby oil. Both players stood atop a pink scale, then flexed and danced bare-chested. Around the time when an on-field announcer described Wilson as “over six feet of meat,” it dawned on me that AutoZone Park would not be hosting a nuanced colloquy on Black representation in baseball.
+
+The Indianapolis Clown Nick Wilson during a weigh-in before a game against the Party Animals in March (Kevin Wurm for The Atlantic)
+
+This weekend series was really about the Party Animals. They were the “home team” in Memphis, which meant the Clowns mostly got subsumed within their opponent’s hot-pink-and-glistening-pecs aesthetic. “As the away team, we just don’t have the same number of opportunities to share and kind of story-tell,” Joe Meyer told me.
+
+Meyer is the Clowns’ 24-year-old show coordinator—the man responsible for developing the team’s look and feel. “In my role, I’ll say quite frankly, I think in some ways we had expected—or seriously considered—a person of color for it, and it’s something that’s important to us, and it is something to talk about,” he said. Nevertheless, Meyer, who is white, has the assignment, and he feels the significance of what he’s being asked to do: “Ultimately, how we build this brand is going to be how a lot of people remember not just the Clowns, but remember the Negro Leagues.”
+
+Day to day, Meyer produces and directs the Clowns’ in-game entertainment. I first spotted him prowling the field with a clipboard, watching over the team’s “Hey Ya!” dance routine. That kind of choreographed sequence—what’s known in Bananaland as an “over-the-top moment,” designed to pop live in the stadium and later on social media—tends to be a relatively small-scale production. The project that’s really consuming Meyer is the Clowns’ home-team show, which is scheduled to debut in Indianapolis in May. That will be the time, he said, when “the full brand kind of comes to life.”
+
+Traditionally, Banana Ball branding hasn’t been difficult to parse. The Party Animals are party animals. The Firefighters fight fires. The Loco Beach Coconuts, this season’s other new team, are represented by a coconut wearing sunglasses.
+
+The Clowns are more complicated. When Meyer started diving into the franchise’s past, he discovered a photo of the Ethiopian Clowns from their 1930s face-painting era. “You’re like, Whoa,” he said. “The Clowns name represented something a lot different than we think it did.”
+
+Early on, when Meyer and his colleagues were kicking around concepts for the team, he worried that they might be veering into whoa territory. He told me that he wrote up a five-page memo, essentially laying out the difference between a “minstrel show and the brand of today.” His takeaway: “If we’re super heavy in making these guys look like clowns, then we’re really playing into this just negative part of the history.”
+
+The Clowns’ logo, a pair of big red shoes, nods to the circus without approaching the realm of wigs and face paint. Still, a team known as the Clowns that can’t look too clownish presents a marketing challenge. So does the mandate to educate as well as entertain. “Fans come to Banana Ball games expecting the greatest show in sports, and a show that is more than just a Negro Leagues history night,” Meyer said.
+
+In Memphis, the best preview of a fully realized Indianapolis Clowns experience came during pregame introductions. That segment began with some musical theater: a song, “Here Come the Clowns,” that borrows its tune and pop-history approach from Hamilton’s “My Shot.” Written and performed by the team’s hosts, Brandon Bomer and Jarius Jones—both young Black men—it provides some useful background for fans who don’t know the team’s history (“We started in the Negro League, when it was hard, sweat, tears, and blood we bleed”).
+
+The Clowns do a pregame dance. (Kevin Wurm for The Atlantic)
+
+When that musical number was over, more than a dozen players picked up baseballs and started juggling—for a juggler, Jackie Bradley Jr. is also a great center fielder—while Fisher Polydoroff and Mat Wolf threw pitches back and forth between their legs. The team then started playing shadow ball, with choreography inspired by the original Clowns’ routine. There was a dive for an invisible grounder, an invisible throw from deep in the hole, and an invisible pop-up that bonked someone on the head. At one point, everyone started moving in extreme slow motion, before speeding up again. Then the finale: Malachi Mitchell did a backflip, caught an invisible ball at home plate, and—like magic—pulled a real ball from his glove.
+
+Before the Clowns’ Sunday game in Memphis, I started hearing rumors about a special guest—a figure from the team’s past. Around 11:30 a.m., he showed up at the ballpark: a small, thin man with a slight smile, dressed in a navy Notre Dame hoodie and a vintage baseball cap embroidered with a red C.
+
+Reginald Howard first crossed paths with the Clowns in the late 1940s, when he worked for the team as a batboy near his hometown of South Bend, Indiana. A decade later, he became their second baseman. Now, at 91 years old, he sat in the dugout at AutoZone Park as the modern-day Clowns leaned in close.
+
+Howard told them that he was a “disciple” of Rube Foster, the Black baseball legend who founded the first sustained Negro League. He talked about long bus rides and asked if they’d heard of the two-way star Martín Dihigo. (Kobe Robinson said yes—Dihigo is a playable character in the video game MLB: The Show.) Then Nick Wilson, the pitcher whose grandfather played in segregated Texas, asked Howard a question: How can we get Black kids to come back to baseball? His answer: You’ve got to get them while they’re young.
+
+Howard had recently published a book about how baseball lost Black children in the first place. When he stepped onto the field to get saluted by the sold-out crowd, the PA announcer read the title in a cheery vibrato: Baseball’s Silent Genocide. I don’t have comprehensive records, but I believe this was the first time the word genocide was uttered over a loudspeaker at a Banana Ball game.
+
+At a Starbucks the next day, Howard handed me a copy of his book and laid out his thesis. He believes there was a “sordid conspiracy” to preserve baseball as a predominantly white sport. As far back as his childhood, Black kids were told—and many came to believe—“this malarkey” that they were better equipped for sports other than baseball. He also watched resources shift toward all-white suburbs while they vanished in America’s inner cities. Many of the Black players who did stick with baseball ended up profoundly isolated. In the worst case, he wrote, “you begin to think there’s something wrong with you” just for liking the game.
+
+The number of Black players in Major League Baseball rose for decades after integration. But that growth eventually stalled, then reversed. The historian Louis Moore has shown that at baseball’s lower levels, Black talent was dwindling as far back as the early 1970s. Moore doesn’t call this a conspiracy, but he does attribute the decline in part to informal racial quotas.
+
+Major League Baseball now has a variety of initiatives to make the sport more accessible to Black athletes: youth academies, inner-city programs, showcases for players from historically Black colleges. The league has seen some positive returns; nine of the first 21 picks in the 2024 MLB draft were Black, and the overall percentage of Black Americans in the majors has increased slightly in the past two years. An MLB spokesperson told me that nearly a third of the 64 Black players on Opening Day rosters in 2026 emerged from the league’s development pipeline.
+
+Reginald Howard, who is 91, played for the original Indianapolis Clowns in the 1950s. In March, he visited with the new Clowns. (Kevin Wurm for The Atlantic)
+
+Jesse Cole and Bob Kendrick are, in their way, contributing to the mission to revive Black baseball. But the problem with bringing back the Clowns is the same problem the team posed in its heyday. For as long as the Negro Leagues existed, Black ballplayers and their champions were battling for recognition and respect. What they were fighting against was the idea that their version of the game was nothing but a clown show.
+
+It started with The Pittsburgh Courier’s Wendell Smith, a forceful advocate for integration in the 1940s, who believed that the Ethiopian Clowns risked discrediting the entire Negro Leagues. It continued with Piper Davis, who mentored Willie Mays as a player and manager for the Birmingham Black Barons. “If you were Black, you was a clown. Because in the movies, the only time you saw a Black man, he was a comedian or a butler,” Davis once said, reflecting on life and baseball under Jim Crow. “But didn’t nobody clown in our league but the Indianapolis Clowns. We played baseball.”
+
+Historians of Black baseball have long struggled with how to tell the story of the Clowns. Larry Lester, one of the co-founders of the Negro Leagues Baseball Museum, told me he saw the old Clowns play as a child in the 1960s. “The skits were hilarious,” he said. “But as a kid, I didn’t realize the negative stereotypes that were being portrayed.” Now, when he recounts the history of the Negro Leagues, he focuses on the greatest Black baseball teams ever assembled, such as the Homestead Grays and the Pittsburgh Crawfords.
+
+Another of the museum’s co-founders, Phil Dixon, told me that he intentionally omitted King Tut and Spec Bebop from his acclaimed photographic history of the Negro Leagues: They weren’t the image of Black baseball that he wanted to portray.
+
+Lester and Dixon have, through their research and advocacy, helped get Black baseball legends enshrined in Cooperstown and have their statistics acknowledged in the sport’s official record books. But despite their best efforts, the Clowns still play an outsize role in public memory.
+
+Malachi “Flash Tha Kid” Mitchell. His baseball philosophy is to “play loud”—which didn’t always go over well in Florida’s youth-baseball scene. (Kevin Wurm for The Atlantic)
+
+Kendrick, who presides over the Negro Leagues museum today, told me that he does not want to hide the uglier elements of the Clowns’ history. At the museum, a display featuring the Clowns notes that they “strengthened common black stereotypes and were frowned upon by league management and the black press.” Below the sign: a photo of King Tut in a billowing clown suit.
+
+How do you append that kind of caveat to the show that the new Clowns are putting on? I wanted to ask Jesse Cole this and other questions. But the Banana Ball PR team, which made the Clowns’ players available to me in Memphis, stopped replying to my inquiries and never granted my requests to speak with Cole. Meyer, the show coordinator, also didn’t respond after initially promising to share his five-page memo on what separates the modern-day Clowns from the minstrelsy of their ancestors.
+
+In our conversation, Meyer had emphasized that the larger story he wants to tell about the Clowns is one of triumph and unity—how a group of Negro Leagues players overcame adversity on the way to success. “This is all about us coming together, and it doesn’t matter who you are, doesn’t matter what you look like; you can be part of this team,” he said. The uplifting narrative he was laying out didn’t much resemble the scholarship of Lester and Dixon, to say nothing of Reginald Howard’s jeremiad.
+
+“Yes, race is a part of it,” Meyer said. “But how do we make the story about the individual players and who the Negro Leagues and the original Indianapolis Clowns actually were?” He added, “I think that that story is so, so much bigger than the story of segregation.”
+
+Who were the original Indianapolis Clowns? Some of them were history makers, like Hank Aaron and Toni Stone. Others, like King Tut and Spec Bebop, were entertainers. But most were just ordinary baseball players, men like Howard.
+
+In Memphis, Howard was introduced on the field as a man who’d suited up for the Clowns “as they barnstormed across the country, bringing joy and world-class baseball to fans of all backgrounds.” But that wasn’t the baseball life he’d actually lived. In his day, the late ’50s, the Clowns didn’t typically draw big crowds, and they weren’t playing at a world-class level. “I would like to say that I played in the same league as Larry Doby and Jackie Robinson, but it wasn’t,” he told me. “The caliber of ball was not the same.”
+
+Howard said it’s always bothered him that so much storytelling about Black baseball is “rhetoric and lies.” Given the relative dearth of information about the game’s preintegration stars, the history of the Negro Leagues has long been full of tall tales—Josh Gibson hitting a home run so prodigious that the ball didn’t come down until the next day. In the midst of all this mythology, Howard believes, telling a true story can be a radical act.
+
+When I asked Howard to describe himself as a player, he said that he was only “fair,” with quick feet, quick hands, and a good mind, but also a weak arm and warning-track power. I couldn’t help but think of Kobe Robinson and Nick Wilson, talented young players who didn’t quite have what it takes to make it all the way to the majors. Now they have the chance to keep playing the game they love.
+
+From the July/August 2023 issue: Mark Leibovich on baseball’s desperate effort to save itself from irrelevance
+
+Whether the new Indianapolis Clowns succeed in bringing Black fans and athletes back to baseball may come down more to players like Robinson and Wilson than to Bob Kendrick and Jesse Cole. In Memphis, I watched the Clowns sign autographs for a predominantly white crowd. I also saw Wilson lean down to speak with a group of Black children, giving them time and attention and a different image of what a baseball player could look like. He was getting them while they’re young.
+
+This article appears in the June 2026 print edition with the headline “The Clown Show.” When you buy a book using a link on this page, we receive a commission. Thank you for supporting The Atlantic.

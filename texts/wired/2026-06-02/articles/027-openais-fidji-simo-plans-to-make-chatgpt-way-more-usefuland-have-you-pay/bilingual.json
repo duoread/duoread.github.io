@@ -1,0 +1,431 @@
+{
+  "id": "027-openais-fidji-simo-plans-to-make-chatgpt-way-more-usefuland-have-you-pay",
+  "source_href": "feed_0/article_26/index_u3.html",
+  "publication": "wired",
+  "issue": "2026-06-02",
+  "issue_published_at": "2026-06-02",
+  "article_published_at": "Nov 17, 2025 6:00 AM",
+  "published_at": "Nov 17, 2025 6:00 AM",
+  "published_date_source": "article",
+  "order": 27,
+  "section": "Zoë Schiffer",
+  "title_en": "OpenAI's Fidji Simo Plans to Make ChatGPT Way More Useful—and Have You Pay For It",
+  "title_zh": "",
+  "rubric_en": "",
+  "rubric_zh": "",
+  "date": "Nov 17, 2025 6:00 AM",
+  "origin_url": "",
+  "translation_status": "pending",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "In case OpenAI’s structure couldn’t get any weirder—a nonprofit in charge of a for-profit that’s become a public benefit corporation—it now has two CEOs. There’s Sam Altman, chief executive of the whole company, who manages research and compute. And as of this summer, there’s Fidji Simo, the former CEO of Instacart, who manages everything else.",
+      "zh": ""
+    },
+    {
+      "id": "p002",
+      "en": "Simo hasn’t been seen much at OpenAI’s San Francisco office since she began as CEO of Applications in August. But her presence is felt at every level of the company—not least because she’s heading up ChatGPT and basically every function that might make OpenAI money. Simo is dealing with a relapse of postural orthostatic tachycardia syndrome (POTS) that makes her prone to fainting if she stands for long periods of time. So for now, she’s working from home in Los Angeles, and she’s on Slack. A lot.",
+      "zh": ""
+    },
+    {
+      "id": "p003",
+      "en": "“Being present from 8 am to midnight every day, responding within five minutes, people feel like I’m there and that they can reach me immediately, that I jump on the phone within five minutes,” she tells me. Employees confirm that this is true. OpenAI’s famously Slack-driven culture can be overwhelming for new hires. But not, apparently, for Simo. Employees say she is often seen popping into channels and threads, sharing thoughts and asking questions.",
+      "zh": ""
+    },
+    {
+      "id": "p004",
+      "en": "Simo joined during a chaotic period for OpenAI, which is expanding in nearly every direction. There are sovereign AI partnerships, new model releases, retail partnerships, multibillion-dollar compute deals, a proprietary chip, a mysterious hardware product—and of course, ChatGPT. “We do not battle for scope,” Simo says. “We battle for less scope.”",
+      "zh": ""
+    },
+    {
+      "id": "p005",
+      "en": "Outside Silicon Valley, Simo’s hiring came as a surprise. For those in the know, it was less of a shock. A native of Sète, a small fishing town in the south of France, Simo made a name for herself running the Facebook app at Meta before taking the top job at Instacart in 2021. She took the grocery startup public two years later. In the Valley, she’s known as a product visionary with a reputation for scaling consumer apps across the globe.",
+      "zh": ""
+    },
+    {
+      "id": "p006",
+      "en": "Simo’s role at OpenAI is, in large part, to do the same—turn the company’s research breakthroughs into moneymaking, must-have consumer products. She faces staggering competition from tech giants like Google and Meta, as well as AI startups founded by OpenAI alums, including Thinking Machines Lab, Anthropic, and Periodic Labs. “The thing that keeps me up at night is that the intelligence of our models is well ahead of how much people are using them,” Simo says. “I see my job as closing this gap.”",
+      "zh": ""
+    },
+    {
+      "id": "p007",
+      "en": "Since she arrived, Simo has overseen the launch of Pulse, a product that connects to users’ calendars and gives them personalized information based on their schedule, chat history, and feedback; created a jobs platform to allow people to get AI-certified and look for roles that make use of their skills; and doubled down on improving ChatGPT’s responses to people having acute mental health crises. Eventually, sources say, she’ll be the person deciding how to roll out ads in ChatGPT’s free tier.",
+      "zh": ""
+    },
+    {
+      "id": "p008",
+      "en": "We’re sitting in the light-filled modern farmhouse where Simo lives with her husband, Rémy, and their 10-year-old daughter. On the table in front of us sit a pile of pastries and a box of Rémy’s chocolates. A former engineer, he now makes desserts full-time.",
+      "zh": ""
+    },
+    {
+      "id": "p009",
+      "en": "It’s an idyllic backdrop for the person helming what might be the most ambitious startup on earth. If OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity, Simo’s goal is to build and scale the tools that make that possible. The question for her—and for OpenAI—is whether the mission can survive the business model. This interview has been edited and condensed for clarity.",
+      "zh": ""
+    },
+    {
+      "id": "p010",
+      "en": "Zoë Schiffer: You’re the CEO of Applications—and you report to Sam Altman. What has that working relationship been like?",
+      "zh": ""
+    },
+    {
+      "id": "p011",
+      "en": "Fidji Simo: What Sam wanted was the ability to focus on research and compute, so I am trying to make sure that he can free up his time. Meanwhile, he realized that this is a company that evolved primarily from a research lab but became a really important product company, and that requires a different muscle. I see my role as making that product company incredibly successful while respecting the culture of the research lab.",
+      "zh": ""
+    },
+    {
+      "id": "p012",
+      "en": "When you’re coming into a job like that, is someone checking your references?",
+      "zh": ""
+    },
+    {
+      "id": "p013",
+      "en": "[Laughs.] I think Sam had gotten references on me for like three years. Sam and I worked in the same circle, so he knew about my reputation. I don’t think he literally picked up the phone and was like, “Is she legit?”",
+      "zh": ""
+    },
+    {
+      "id": "p014",
+      "en": "I was going to ask if Mark Zuckerberg was one of yours …",
+      "zh": ""
+    },
+    {
+      "id": "p015",
+      "en": "Mark has been an incredible supporter throughout my career and has provided references many times. In this particular situation, I don’t think Sam called him.",
+      "zh": ""
+    },
+    {
+      "id": "p016",
+      "en": "You’ve talked about how at Meta you took risks and at times put your role and reputation on the line. I’m curious if you’ve identified any risks that you want to push OpenAI to take.",
+      "zh": ""
+    },
+    {
+      "id": "p017",
+      "en": "Well, taking the job felt pretty risky to me [Laughs]. I would say the thing that I don’t think we did well at Meta is actually anticipating the risks that our products would create in society.",
+      "zh": ""
+    },
+    {
+      "id": "p018",
+      "en": "At OpenAI, these risks are very real. Mental health and jobs were my first two initiatives when I came into the company. I was looking at the landscape and being like, “Yep, immediately, mental health is something that we need to address. Jobs are clearly going to face some disruption, and we have a role to play to help minimize that disruption.”",
+      "zh": ""
+    },
+    {
+      "id": "p019",
+      "en": "That’s not going to be easy, because the path is uncharted. So it is a very big responsibility, but it’s one that I feel like we have both the culture and the prioritization to really address up-front.",
+      "zh": ""
+    },
+    {
+      "id": "p020",
+      "en": "How do you feel the company is doing on mental health right now?",
+      "zh": ""
+    },
+    {
+      "id": "p021",
+      "en": "Just in the span of the last few months, we have massively reduced the prevalence of negative mental health responses. We have launched parental controls with leading protections. And we are working on age prediction to protect teens.",
+      "zh": ""
+    },
+    {
+      "id": "p022",
+      "en": "At the same time, when you have 800 million people [per week], when we know the prevalence of mental health illnesses in our society, of course you are going to have people turn to ChatGPT during acute distress moments. And doing the right thing every single time is exceptionally hard. So what we’re trying to do is catch as much as we can of the behaviors that are not ideal and then constantly refine our models.",
+      "zh": ""
+    },
+    {
+      "id": "p023",
+      "en": "But if you were to grade where the company is now and where you want it to be, what would you say?",
+      "zh": ""
+    },
+    {
+      "id": "p024",
+      "en": "It’s not as if we’re ever going to reach that point where we’re done. Every week new behaviors emerge with features that we launch where we’re like, “Oh, that’s another safety challenge to address.” A good example is mania. You look at the transcripts, and sometimes people say, “I feel super great. I haven’t slept in two days, and I feel on top of the world.” A clinical psychologist would understand that that’s not normal—that’s mania. But if you look at the words, it seems fine. So we work with psychologists to detect the signal that this isn’t someone being super excited, this is a sign of mania, and have a strategy to intervene.",
+      "zh": ""
+    },
+    {
+      "id": "p025",
+      "en": "Getting it wrong is also really annoying. If you’re a normal adult being excited and ChatGPT tells you, “Hey, you might be having a manic episode,” that’s not great. It is a very subtle area, and we’re trying to do it with as much care and as much external input as possible.",
+      "zh": ""
+    },
+    {
+      "id": "p026",
+      "en": "OpenAI is obviously one of the world’s most valuable startups, if not the most valuable, but it’s also losing billions of dollars every year.",
+      "zh": ""
+    },
+    {
+      "id": "p027",
+      "en": "What opportunities do you see to get it on a path to profitability?",
+      "zh": ""
+    },
+    {
+      "id": "p028",
+      "en": "It all comes back to the size of the markets and the value we’re providing in each market. In the past, only the wealthy had access to a team of helpers. With ChatGPT we could give everyone that team—a personal shopper, a travel agent, a financial adviser, a health coach. That is incredibly valuable, and we have barely scratched the surface. If we build that, I assume that people are going to want to pay a lot of money for that, and that revenue is going to come.",
+      "zh": ""
+    },
+    {
+      "id": "p029",
+      "en": "Meanwhile, on the enterprise side, we sell an API and ChatGPT Enterprise, which is a great product but a very thin layer compared to all the things that we could be building for enterprise. If you think about building agents for every industry and function, there is so much to build, either by us or by enabling third parties to build on top of our platform.",
+      "zh": ""
+    },
+    {
+      "id": "p030",
+      "en": "So I’m like, OK, the markets are huge. The depth of value is huge. That’s the basic formula for monetizing. Then the real question becomes, will we have the compute to deliver that?",
+      "zh": ""
+    },
+    {
+      "id": "p031",
+      "en": "OpenAI has been doing hundreds of billions of dollars’ worth of deals to build data centers. When people talk about fears around the compute deals, they’re talking not only about the scale but about the deals feeling a little circular. Or the fact that a lot of the US economy seems to hinge on OpenAI and Nvidia at this point.",
+      "zh": ""
+    },
+    {
+      "id": "p032",
+      "en": "So first off, a lot of people say, “Whoa, these compute deals are massive,” but when you look at how constrained we are internally and how much more we could do if we had more GPUs, it’s very clearly the right decision. We have a pipeline of products that are going to make massive use of compute. I know these deals look risky on the outside, but on the inside, what’s much riskier would be to not lean into compute.",
+      "zh": ""
+    },
+    {
+      "id": "p033",
+      "en": "The companies that we’re making these deals with are extremely sophisticated. They are providing these kinds of deals and this kind of financing because they are very close partners who know our business very well.",
+      "zh": ""
+    },
+    {
+      "id": "p034",
+      "en": "You take a product like Pulse, which we launched through the Pro tier. I want that to be available to everyone, but because of the compute constraints, we’re not able to do that. I’m giving you one example, but there’s 10 of those.",
+      "zh": ""
+    },
+    {
+      "id": "p035",
+      "en": "How do you use Pulse?",
+      "zh": ""
+    },
+    {
+      "id": "p036",
+      "en": "It’s super helpful for me on both the work front and the health front. On health, Pulse tells me every morning if there’s new studies published about anything related to my condition. Previously I had to research all of that. And instead of going to a medical journal, it’s all summarized in line and very clearly laid out.",
+      "zh": ""
+    },
+    {
+      "id": "p037",
+      "en": "For work, it’s similar. As you know, staying on top of AI news is a challenge. Having Pulse deliver a quick summary of what happened in the AI world is super helpful. My husband is a chocolate maker, and he’s building an advent calendar. Pulse was like, ‘Oh, you should hide a message in all of the different windows.’ He was like, ‘That’s brilliant!’",
+      "zh": ""
+    },
+    {
+      "id": "p038",
+      "en": "You’re a very successful person, and you also have a chronic illness. I’m curious what you’ve learned from managing these two things simultaneously?",
+      "zh": ""
+    },
+    {
+      "id": "p039",
+      "en": "It’s a good question. I didn’t want my disease to get in the way of my mission. If you are able to give your all to a job, you can come up with a lot of accommodations that make it possible. I recognize that I’m incredibly lucky to have worked at supportive companies, and that’s not the case for everyone. Because people never see someone senior with a chronic illness be public about it, a lot of people assume that that’s just not possible. And when I became public about it, I had a lot of people reach out and be like, “Oh my God, I realize there is a path.”",
+      "zh": ""
+    },
+    {
+      "id": "p040",
+      "en": "It’s not easy every day, just to be clear. I would much prefer to be able to do all the things. But it’s a matter of determination and prioritization. In a way, it has also made me more aware of product opportunities that I wouldn’t have been able to see before. My passion for health has allowed me to narrow in on things that we can do to help with health care.",
+      "zh": ""
+    },
+    {
+      "id": "p041",
+      "en": "You got sick when you were at Meta, right? After a pretty difficult pregnancy.",
+      "zh": ""
+    },
+    {
+      "id": "p042",
+      "en": "Yeah. I was on bed rest for five months. I had to have surgery during the pregnancy to avoid [the baby] coming out early. I started having contractions at month four. So I was at a real risk of losing her. I worked the entire time through my pregnancy. In fact, my husband just showed pictures from my 40th birthday of me holding a Zuck review from my bed. It wasn’t cool at the time to work from home. And I was presenting on Facebook Live. I worked through it, and I ended up on the other side of that with POTS. Then I had surgery for endometriosis in 2019, which made the POTS even worse. So since 2019, I haven’t come out of it, basically. I’ve just had ups and downs. But 2019 is really when it started being very, very triggered.",
+      "zh": ""
+    },
+    {
+      "id": "p043",
+      "en": "You asked what I’ve learned from this. It’s funny because you’d think I’d have thought about that, but so few journalists go there that I haven’t actually answered that question much.",
+      "zh": ""
+    },
+    {
+      "id": "p044",
+      "en": "I care a lot as part of my own mission about everybody realizing their full potential. I want a world where health conditions don’t get in the way. Either because we can cure them or because companies accommodate them. We can have technologies that make it easier.",
+      "zh": ""
+    },
+    {
+      "id": "p045",
+      "en": "I think if I had gotten sick a lot earlier and we didn’t have norms to be on Zoom, that would’ve been a lot harder. I really feel for all the people who have so much to offer the world, but these things get in the way.",
+      "zh": ""
+    },
+    {
+      "id": "p046",
+      "en": "Constraints also force you to be more creative. I think these very hard physical constraints have forced me to be very intentional about how I lead.",
+      "zh": ""
+    },
+    {
+      "id": "p047",
+      "en": "OpenAI has a famously in-person culture. How do you create trust with a team when you can’t always see them face-to-face?",
+      "zh": ""
+    },
+    {
+      "id": "p048",
+      "en": "The thing that really helped is that I was very up-front. On day one, I sent a message to everyone explaining in detail my condition, because there is a real challenge with invisible illnesses. You’d look at me and think I’m fine. And so explaining very transparently like, “Hey, I would really love to be in the office right now more than anything, and there are some days where I’m going to be able to do that, and there are some days where I have to work reclined.” I think that actually created a lot of trust. It created vulnerability up front, and that’s not easy. It’s risky when you arrive in a place to have to say that. I agonized about it for a couple weeks.",
+      "zh": ""
+    },
+    {
+      "id": "p049",
+      "en": "The thing that I try to do very well is be very present in other ways. It’s an in-person culture, but it’s also a very Slack-driven culture. I think I’m more accessible than I could be if I was running around in the office. I certainly hope that this relapse ends so that I can be in the office a lot more, but I think [my strategy] has helped so far.",
+      "zh": ""
+    },
+    {
+      "id": "p050",
+      "en": "I have heard from a lot of people that your Slack game is very strong.",
+      "zh": ""
+    },
+    {
+      "id": "p051",
+      "en": "[Laughs.] If journalists know about that, I don’t know if that’s good.",
+      "zh": ""
+    },
+    {
+      "id": "p052",
+      "en": "Part of your mandate is figuring out how ads would work inside ChatGPT. How might that look, and what’s your timeline?",
+      "zh": ""
+    },
+    {
+      "id": "p053",
+      "en": "Advertising as a model works really well when you have a lot of commerce intent. We have a ton of it already, people coming and asking for shopping advice. The important thing before we ever consider ads is making sure that our commerce experience is fantastic and that people come and really explore all the products that they want and get great recommendations.",
+      "zh": ""
+    },
+    {
+      "id": "p054",
+      "en": "So you’re not at the point where if someone asks for shopping advice, they might get recommended a paid product?",
+      "zh": ""
+    },
+    {
+      "id": "p055",
+      "en": "OpenAI has rich user data. It combines peoples’ work life, their most personal thoughts, their habits and product needs. That information is extremely attractive to advertisers. How are you thinking about data privacy as you scale?",
+      "zh": ""
+    },
+    {
+      "id": "p056",
+      "en": "Whatever we do is going to have to be extremely respectful of that. That’s why we haven’t announced anything on ads, because if we ever were to do anything, it would have to be a very different model than what has been done before.",
+      "zh": ""
+    },
+    {
+      "id": "p057",
+      "en": "What I’ve learned from building ad platforms is that the thing people don’t like about ads very often is not the ads themselves, it’s the use of the data behind the ads.",
+      "zh": ""
+    },
+    {
+      "id": "p058",
+      "en": "You were prepared for the ads question.",
+      "zh": ""
+    },
+    {
+      "id": "p059",
+      "en": "I have been asked that many times now.",
+      "zh": ""
+    },
+    {
+      "id": "p060",
+      "en": "It seems like OpenAI is expanding in a lot of different directions at once. Do you see a risk in the company trying to do too much?",
+      "zh": ""
+    },
+    {
+      "id": "p061",
+      "en": "My role is to minimize that risk. And the way you solve that is simple. You attract the best talent, so instead of one person being across 15 projects, you have the best leader for every single project. I’m very focused on hiring and making sure that we have the best possible talent.",
+      "zh": ""
+    },
+    {
+      "id": "p062",
+      "en": "We believe that every category of software is going to be reinvented for AI, and that we have a role to play in making sure that all of the products that we use in the future are AI-enabled, AI-native from the ground up. So it does require having that level of ambition and the capabilities to fulfill that ambition, which is really my job in building out the company.",
+      "zh": ""
+    },
+    {
+      "id": "p063",
+      "en": "Sora, OpenAI’s video app, launched with a pretty minimal slate of safety features and guardrails. What was the thinking behind that approach?",
+      "zh": ""
+    },
+    {
+      "id": "p064",
+      "en": "I actually think it launched with a pretty good set of safety features. We rolled out parental controls that let parents control how their kid’s likeness can be used. They can control what hours their kid uses the app. The control that I can have over my likeness is advanced and thoughtful I think, even for adults.",
+      "zh": ""
+    },
+    {
+      "id": "p065",
+      "en": "At the same time it’s a completely new form of interaction. So we are learning and refining based on the feedback.",
+      "zh": ""
+    },
+    {
+      "id": "p066",
+      "en": "I was thinking about the copyright cases, where it felt like you were more reactive.",
+      "zh": ""
+    },
+    {
+      "id": "p067",
+      "en": "What we’re hearing from copyright holders is that there is actually a lot of excitement about this new media and how their IP could go in the hands of fans in a way that increases fan engagement. But they want to make sure that the value exchange is well established. And we want that too.",
+      "zh": ""
+    },
+    {
+      "id": "p068",
+      "en": "The app got criticized as being, essentially, AI slop.",
+      "zh": ""
+    },
+    {
+      "id": "p069",
+      "en": "I think every new form of media goes through phases. First, it’s an imitation of what exists. If you look at cinema for example, it started by being just a recording of people on stage before close-ups or different shots were introduced. Here I think we’re in the same world where AI is trying to copy human output, and potentially in places with a worse version. What I’m interested in is when it moves to the next stage of true experimentation with what’s unique about the medium, and we’re starting to see that emerge. Sometimes I go through videos and I’m like, “OK, it’s more of the same,” and then all of a sudden I stop and I’m like, “Who made that?”",
+      "zh": ""
+    },
+    {
+      "id": "p070",
+      "en": "I worry a little bit about paternalism around the narrative of slop. For some people, some of this content is really entertaining. I have a friend who has a small business, and the business plan that she gets from ChatGPT, yeah, it’s not Goldman Sachs, but she will never get access to Goldman Sachs. And what she gets from ChatGPT is 10X better than anything she has ever had access to. We need to be looking at this new medium as raising the floor of what could be created before and giving minimum access to people who didn’t have access before.",
+      "zh": ""
+    },
+    {
+      "id": "p071",
+      "en": "There’s a lot of worry about AI disrupting jobs. How concerning is that for you?",
+      "zh": ""
+    },
+    {
+      "id": "p072",
+      "en": "I believe that there’s going to be massive job creation, but some job categories are going to be deeply disrupted. That’s why one of my first initiatives was launching OpenAI certifications, where we want to certify 10 million workers to be AI-ready, and a jobs marketplace to connect them with opportunities to apply those skills. We’re doing our part, but I think governments and companies are going to have a big role as well.",
+      "zh": ""
+    },
+    {
+      "id": "p073",
+      "en": "As AI continues to advance, what do you think of as humans’ edge?",
+      "zh": ""
+    },
+    {
+      "id": "p074",
+      "en": "Humanity is endlessly creative. AI gives us superpowers to be even more creative. So this notion that humans will just tap out, like, “Oh, we’re done,” doesn’t resonate with me at all.",
+      "zh": ""
+    },
+    {
+      "id": "p075",
+      "en": "I’m leaning into this with my daughter. We’re all born creators, but we sometimes forget that as adults. I see her going from idea to creation faster than I could. She’s created three businesses and she’s 10. She’s written a song, she’s written a book, because it’s just so easy.",
+      "zh": ""
+    },
+    {
+      "id": "p076",
+      "en": "So your daughter can use ChatGPT?",
+      "zh": ""
+    },
+    {
+      "id": "p077",
+      "en": "Oh, she definitely does. It’s not supposed to be for under 13, but under parental supervision, I let her use ChatGPT.",
+      "zh": ""
+    },
+    {
+      "id": "p078",
+      "en": "There’s a fear circulating that AI is going to wipe out humanity. Do you share that?",
+      "zh": ""
+    },
+    {
+      "id": "p079",
+      "en": "I wasn’t educated in that fear before I began digging into OpenAI. That said, we are doing everything we can to make sure that that doesn’t happen.",
+      "zh": ""
+    },
+    {
+      "id": "p080",
+      "en": "Would you ever consider becoming CEO of the whole company?",
+      "zh": ""
+    },
+    {
+      "id": "p081",
+      "en": "Let’s be very clear: What Sam does, I cannot do. There’s so much to do just on my scope that I think I have a decade or more of things that I can do just right there. And I’m telling you, we need all of us. We need Sam so badly. We need me.",
+      "zh": ""
+    },
+    {
+      "id": "p082",
+      "en": "Top, shirt, and shoes by Dior. Blazer by Moschino.Let us know what you think about this article. Submit a letter to the editor at [email protected].",
+      "zh": ""
+    }
+  ]
+}

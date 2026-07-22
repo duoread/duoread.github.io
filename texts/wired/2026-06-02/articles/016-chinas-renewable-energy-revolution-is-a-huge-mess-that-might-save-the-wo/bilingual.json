@@ -1,0 +1,166 @@
+{
+  "id": "016-chinas-renewable-energy-revolution-is-a-huge-mess-that-might-save-the-wo",
+  "source_href": "feed_0/article_15/index_u21.html",
+  "publication": "wired",
+  "issue": "2026-06-02",
+  "issue_published_at": "2026-06-02",
+  "article_published_at": "2026-01-20T06:00:00-05:00",
+  "published_at": "2026-01-20T06:00:00-05:00",
+  "published_date_source": "article",
+  "order": 16,
+  "section": "Jeremy Wallace",
+  "title_en": "China’s Renewable Energy Revolution Is a Huge Mess That Might Save the World",
+  "title_zh": "",
+  "rubric_en": "A global onslaught of cheap Chinese green power is upending everything in its path. No one is ready for its repercussions.",
+  "rubric_zh": "",
+  "date": "2026-01-20T06:00:00-05:00",
+  "origin_url": "",
+  "translation_status": "pending",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "There’s a particular kind of sci-fi nerd who equates fusion tech with utopia. If we could only harness the engine of the stars, it would uncork near limitless energy and neatly sweep away a whole mess of humanity’s problems. But how would that work exactly? What would the transition look like?",
+      "zh": ""
+    },
+    {
+      "id": "p002",
+      "en": "You don’t have to wonder. It’s happening now. Solar panels and wind turbines capture the fusion of the sun and convert it to electricity. And at the scale and pace that China is producing them, plenty of things stand to be swept away—including, quite possibly, the once seemingly intractable problems of energy poverty and fossil-fuel dependence. In 2024, the total installed electricity capacity of the planet—every coal, gas, hydro, and nuclear plant and all of the renewables—was about 10 terawatts. The Chinese solar supply chain can now pump out 1 terawatt of panels every year.",
+      "zh": ""
+    },
+    {
+      "id": "p003",
+      "en": "In China itself, vast energy megabases combining solar and wind stretch for miles in the country’s western deserts and Tibetan highlands, each producing the power of multiple nuclear plants and connecting to population centers in the country’s east via ultrahigh-voltage power lines. At the smaller end of the scale, panels have sprouted on rooftops all over the more populated eastern half of the country, thanks to policies that standardize the process and paperwork required to install and tie them into the grid. Huge factories, urban apartment buildings, and humble village homes are plastered with panels. In Europe, Chinese-made photovoltaic panels are so cheap that they cost less than fencing materials. Globally, the glut of solar has lowered the average cost of generating electricity to 4 cents a kilowatt hour—perhaps the cheapest form of energy ever.",
+      "zh": ""
+    },
+    {
+      "id": "p004",
+      "en": "By now, major headlines have begun to catch on to the reality that China’s renewable energy revolution is one of the biggest stories in the world, while Donald Trump’s anti-renewable vision of American energy dominance is a backward sideshow by comparison. But chroniclers of this green tech revolution almost always understate its chaos. At this point, it is far less a tightly managed, top-down creation of state subsidies than a runaway train of competition. The resulting, onrushing utopia is anything but neat. It is a panorama of coal communities decimated, price wars sweeping across one market after another, and electrical grids destabilizing as they become more central to the energy system. And absolutely no one—least of all some monolithic “China” at the control switch—knows how to deal with its repercussions.",
+      "zh": ""
+    },
+    {
+      "id": "p005",
+      "en": "In the United States, 2024 was a record-breaking year for solar. Across the entire country, those 12 months saw some 50 gigawatts of new solar capacity added. (Solar projects are typically measured by their power output, not their square footage.)",
+      "zh": ""
+    },
+    {
+      "id": "p006",
+      "en": "Here are 23 ways China is rewiring the future.",
+      "zh": ""
+    },
+    {
+      "id": "p007",
+      "en": "Now consider some different numbers, for scale and contrast. In China, the first three months of 2025 alone saw 60 gigawatts of new solar capacity added to the national grid. Then April packed in 45 more gigawatts. Finally, May added an eye-watering 92 gigawatts of new capacity, or 3 gigawatts every day.",
+      "zh": ""
+    },
+    {
+      "id": "p008",
+      "en": "The reason for this brain-warping mad dash of solar development? At the start of 2025—in an attempt to rein in the renewables sector—Beijing announced that it would discontinue a long-standing policy that had effectively propped up renewable energy prices, pegging them to that of the “baseline” coal power in each province. Any solar capacity that went in after May 2025, Beijing declared, would no longer get this deal. So the all-out solar installation frenzy was simply a mass attempt to get in under the old terms.",
+      "zh": ""
+    },
+    {
+      "id": "p009",
+      "en": "After May, sure enough, new solar deployments plummeted. The ensuing four months each added just 10 gigawatts of new solar on average, half of the prior year’s pace—but that’s still considerably faster than America at its peak.",
+      "zh": ""
+    },
+    {
+      "id": "p010",
+      "en": "In China, one problem with all this burgeoning, majestic new solar is that it’s completely overwhelming the national electrical grid, technically and economically. For electricity markets to work, grid managers must constantly balance supply and demand—but the former can’t always be throttled back when it exceeds the latter. Nuclear power plants can’t just be switched on and off whenever solar power floods the grid. And some Chinese coal plants provide heat to communities through steam—so they need to run even if the electricity they generate is superfluous.",
+      "zh": ""
+    },
+    {
+      "id": "p011",
+      "en": "One perverse result of all this energetic over-supply is that a lot of solar power simply gets wasted, or “curtailed,” to make way for dirty forms of energy that are harder to turn off. Another is that the inherently intermittent power of renewables simply makes it more challenging for managers to keep the grid stable. In August 2024, in China’s far western region of Xinjiang—where the renewables build-out is at its most grandiose—poorly handled voltage fluctuations from solar and wind caused a regional blackout and even threatened the national electrical system, according to the South China Morning Post.",
+      "zh": ""
+    },
+    {
+      "id": "p012",
+      "en": "As challenging as the glut is to manage at the technical level, its economics are even more vexing. As Econ 101 teaches, prices go down when supply rises faster than demand. But in most markets, there’s an end point to this process: free. Electricity markets are different. Some power-generating entities (like the aforementioned coal and nuclear plants) are so loath to ramp down their production that they offer to pay for the privilege of continuing to generate power. This, combined with the absolute imperative to keep the grid balanced, can create negative prices, which have become common in China’s heavily populated Shandong Province. It’s an untenable situation, but energy-hungry industrial firms are happy to milk it. Decades ago, the metals giant Weiqiao Aluminum left the Shandong grid in favor of running its own captive coal fleet to power its smelters; this past year it plugged back into the grid to take advantage of cheaper rates coming from green tech.",
+      "zh": ""
+    },
+    {
+      "id": "p013",
+      "en": "What’s more, Chinese solar manufacturers—who, if you’ll remember, might just be saving the world—are not even making money for their troubles. They’re struggling to survive a gauntlet of competition. At the root of the solar supply chain are makers of polysilicon, the purified silicon substrate base of panels. Oversupply of this product has caused prices and profits to collapse. The Chinese government has tried to get supply under control by pushing the strongest polysilicon firms to form a cartel and squeeze out lesser players who refuse to exit the market. But so far, this seems to be a long shot.",
+      "zh": ""
+    },
+    {
+      "id": "p014",
+      "en": "Workers in Zhejiang Province manufacture solar infrastructure to be exported to Southeast Asia.",
+      "zh": ""
+    },
+    {
+      "id": "p015",
+      "en": "The story is similar higher up the supply chain: Manufacturing capacity to produce solar ingots, wafers, and panels exceeds demand, sparking profit-killing price wars as firms try to keep their market share. Meanwhile, rapid technological innovation keeps forcing firms to invest in expansion with the latest and greatest designs, lest they get left behind by their competitors. When a completely new breed of solar panels yields a 10 percent difference in generation capacity, manufacturers who fail to quickly set up new production lines do so at their own peril. For the consumer, this added capacity means more energy with less real estate, perhaps a smaller parcel of land to purchase for your solar farm. For the manufacturer, it means the difference between commanding a viable price versus being dumped in the remainder bin.",
+      "zh": ""
+    },
+    {
+      "id": "p016",
+      "en": "As the oversupply of Chinese panels has spilled into the international market, the bizarre dynamics have spread with them. Just as in Shandong Province, negative prices for electricity have also become common in Germany, thanks to Chinese panels. Or take Pakistan. Around 2022, a global spike in natural gas prices made the Pakistani electrical grid even more expensive and less reliable than usual. But instead of just suffering or firing up diesel generators, millions of Pakistanis installed solar panels to free themselves from the grid. The country imported so many Chinese solar panels that the grid as a whole began to fall into what is called a death spiral. Customers started opting out, leaving the grid to charge ever higher prices, which led even more people to flee, and so on.",
+      "zh": ""
+    },
+    {
+      "id": "p017",
+      "en": "Who benefits, aside from the environment? It’s actually hard to say. The Chinese government is one of the Pakistani grid’s major creditors. So Chinese firms are undermining the economics of major development projects funded by state-owned banks.",
+      "zh": ""
+    },
+    {
+      "id": "p018",
+      "en": "If only there was more electrical storage—technology that holds solar power generated during the day and releases it in the evening—then a lot of the issues that torture China’s renewables market would be resolved. Solar panels would become more valuable to the grid, their generation wouldn’t have to be curtailed, and the producers would be able to sell more of their products at better prices. Of course, China has come to dominate this fast-growing sector as well: It is by far the world’s largest battery maker. But China’s electrical system hasn’t figured out the rules and pricing to push battery capacity onto the grid fast enough to keep up. And besides, the vast majority of the batteries that China is churning out do not end up in grid storage. They’re revolutionizing another increasingly Chinese-dominated green industry that is going fast, cheap, and out of control: automobiles.",
+      "zh": ""
+    },
+    {
+      "id": "p019",
+      "en": "In 2018, the city of Shanghai lured Tesla in to build a gigafactory with what seemed like an especially attractive offer. For years, foreign automakers like Ford, GM, Volkswagen, and Toyota had dominated the Chinese car market—the world’s largest—but were required to form joint ventures with Chinese firms for the privilege of doing business in the country. Shanghai told Tesla it could fully own its Chinese operations. Subsidies for land and cheap loans were proffered as well.",
+      "zh": ""
+    },
+    {
+      "id": "p020",
+      "en": "A major solar farm in Shandong Province.",
+      "zh": ""
+    },
+    {
+      "id": "p021",
+      "en": "Tesla’s Shanghai gigafactory was completed in 168 days. It quickly became Tesla’s largest in the world. And it was fed by a network of local component suppliers that cropped up around it. The only problem—for Tesla, anyway—was that those local firms eventually became the basis for a Chinese supply chain that supercharged the nascent electric vehicle sector in the country. Nearly overnight, firms like Nio and BYD were producing plug-in cars that could rival Tesla in cost and quality. As with solar, a wave of entrants battled for market share, causing profits to evaporate but giving consumers great choices at excellent prices.",
+      "zh": ""
+    },
+    {
+      "id": "p022",
+      "en": "By 2024, nearly half of all cars sold in China had plugs. Internal combustion automakers in China are suffering or shuttering. And the reverberations are perhaps even stronger abroad. China shifted from an also-ran to the world’s dominant auto exporter over the past five years, displacing Japan, South Korea, and Germany. It shipped more than 5.5 million cars overseas in 2024. Other countries have begun to panic that their own auto sectors could be eviscerated by the competition of cheaper, cleaner vehicles from China. The United States has effectively banned imports from China, while Europe has imposed serious tariffs.",
+      "zh": ""
+    },
+    {
+      "id": "p023",
+      "en": "Yet just like in the solar sector, where thin profits and high debts have turned some firms into sprinting zombies, the Chinese EV space is full of failed and failing enterprises. Even BYD, the biggest player globally, seems to be dangerously close to spinning out of control. Its sales over the past few months have faltered badly compared with the previous year, and murmurs about its debt burden lead some to wonder if it too might collapse—even as people around the world are still dying to get their hands on these cars, and other automakers strain to compete.",
+      "zh": ""
+    },
+    {
+      "id": "p024",
+      "en": "Indeed, the greatest beneficiaries of China’s renewables revolution may, in fact, be consumers, both inside and outside of China. In sun-blessed Australia, where rooftop solar panels sit atop nearly a third of all households, the country’s energy minister, Chris Bowen, proposed a “solar sharer program” to offer three hours of free electricity on sunny days. Solar and battery systems have allowed Hawaii to close its final coal power plant, and such systems are similarly helping other islands like Jamaica to reduce their need for imported fossil fuels.",
+      "zh": ""
+    },
+    {
+      "id": "p025",
+      "en": "One country—one leader, especially—is trying to buck this trend. Donald Trump hates many people and things, but wind turbines and solar panels seem to hold a special place of contempt in his heart. His administration has attempted to cancel major offshore and onshore wind projects, along with plans for Esmerelda 7, a solar megabase slotted for the Nevada desert that would have been worthy of Western China. Trump and his energy secretary, Chris Wright, often speak of American energy dominance, but they are crippling American firms’ ability to deploy and build the cheapest sources of electricity in the history of this planet, in favor of a combination of long-in-the-tooth arguments about fossil inevitability and long-shot bets on small modular nuclear reactors and, yes, fusion.",
+      "zh": ""
+    },
+    {
+      "id": "p026",
+      "en": "Even among billionaires who don’t share Trump’s belief that climate change is a hoax, this latter affinity for far-out, breakthrough technologies has long been a hallmark of American climate investment and philanthropy. This attitude is epitomized by Bill Gates, who once dismissed existing green technologies like solar and wind power as “cute.” Instead, Gates has always preferred a lordly, capital-intensive variety of decarbonization, plowing dollars into sci-fi technologies that remain in a perpetual state of being just five years away—not the rapid, messy approach involving solar panels sprouting on every rooftop and recalibrating electricity pricing schemes. (Recently, just as it was becoming clear that the transition to renewables was spiraling from success to success, Gates wrote a memo saying he was pulling back from climate funding altogether.)",
+      "zh": ""
+    },
+    {
+      "id": "p027",
+      "en": "Mao Zedong famously declared that a revolution is not a dinner party. It is an insurrection, an act of violence by which one class overthrows another. The green tech revolution—whose violence is principally financial, a withering assault on the value of fossil firms’ assets—is not a dinner party. Nor is it inevitable. It could still be held back or slowed down. Yes, it is the result of the conscious choices made by people, firms, and governments, many of the most critical ones made in China. But it is happening now, and faster than our systems—electricity grids, industrial sectors, labor, geopolitics, and more—are ready for.",
+      "zh": ""
+    },
+    {
+      "id": "p028",
+      "en": "And it’s a good thing, too, because there is another force powered by the sun’s fusion that is also arriving at a force and scale that we are not prepared for: climate change. When the Category 5 Hurricane Melissa tore through Jamaica, Haiti, Cuba, and the Dominican Republic in late October, killing more than 90 and leaving tens of thousands homeless, most government investments in protecting people from the storm were not up to the challenge. What did provide some refuge were rooftop solar panels, which kept the lights on when the sun rose the next morning. A global energy system undergirds modern life. Through all the chaos, that system is getting a major upgrade.",
+      "zh": ""
+    },
+    {
+      "id": "p029",
+      "en": "Let us know what you think about this article. Submit a letter to the editor at [email protected].",
+      "zh": ""
+    }
+  ]
+}

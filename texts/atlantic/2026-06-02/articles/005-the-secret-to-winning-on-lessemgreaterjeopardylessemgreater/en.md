@@ -1,0 +1,93 @@
+# The Secret to Winning on <em>Jeopardy</em>
+
+Section: Dispatches
+
+Rubric: Know a little about a lot.
+
+When you wake up on the day of your first appearance on America’s favorite quiz show, you will have more knots in your stomach than a quipu, the tied-string recordkeeping device used during the Inca empire. You will take a nervous walk through beautiful, weatherless Culver City, California, where the title song of Singin’ in the Rain was shot during a water shortage. Perhaps you will stop for a $14 juice at the boutique grocery store Erewhon, telling yourself that you have to spend money to make money. From the entrance of the Sony Pictures lot, you will be conveyed to the “check-in area” in the back of a dim parking garage; you will wonder whether this is actually some sort of hostage situation that is going to end with you at the bottom of a tar pit or, worse, on Wheel of Fortune.
+
+And when you walk into the greenroom for contestants, you will see a door in the corner labeled JEOPARDY! CHAMPION, and you will be consumed by one thought, which I will phrase in the form of a question: How do I get in there?
+
+In 2024, I competed on Jeopardy for the first time. In 1653, Izaak Walton published The Compleat Angler, a treatise on fishing technique. These two events are related, actually.
+
+No one loves The Compleat Angler more than Jeopardy does, and I am counting Izaak Walton himself; the show has asked about his book 35 times. If you want to appear on Jeopardy—and if you also want to win—it is important to know what Jeopardy likes.
+
+The mild Mexican salsa whose name translates to “beak of the rooster” is pico de gallo. Jeopardy likes this.
+
+Another popular fact is that Lucy Hayes, wife of Rutherford B., was the first first lady to host the Easter-egg roll on the White House lawn. You don’t know anything else about Lucy Hayes, and you don’t need to. Like Nebraska’s Platte River—44 mentions on the show—Jeopardy is a mile wide and an inch deep.
+
+If Jeopardy asks about Norwegian playwrights, the answer is almost always Henrik Ibsen.
+
+The Iowa painter is Grant Wood.
+
+The European duchy is Luxembourg.
+
+The Zoroastrian singer is Freddie Mercury.
+
+To win on Jeopardy, you don’t need to learn everything. You just need to learn one thing about everything.
+
+The best method for knowing one thing about everything is to have been a curious child. I grew up reading, except for at the dinner table, when Jeopardy was on; my younger brother and I would tally our correct responses on our fingers. I first took the show’s online contestant test in middle school, and when I was 18, my dad drove me to my first in-person audition in a hotel ballroom in Raleigh, North Carolina. (“Total success,” I wrote on Instagram, incorrectly.)
+
+Adriana E. Ramírez: Everyone loses on Jeopardy eventually
+
+If you were not a curious child—this is difficult to change after the fact—the second-best method is to act like a curious child. When I was invited onto the show, I checked out children’s books from the public library down the street: kids’ atlases, kids’ encyclopedias, a kids’ paperback titled What Is the Super Bowl? They were for “my nephew.” Should your librarian look askance, your checkouts can also be for my nephew, or yours, whichever is easier.
+
+These books have enormous stores of knowledge in them. Did you know that Buckminster Fuller developed the geodesic dome? (Thirty-seven mentions on Jeopardy.)
+
+Or that the 1883 eruption of Krakatoa could be heard 3,000 miles away? (Forty-four mentions.)
+
+Or that Thales, considered the world’s first true philosopher, thought all matter could eventually be subdivided into water? (Five mentions; we can’t all be Socrates.)
+
+I didn’t know either, until reading children’s reference books. Given that these volumes prioritize breadth over depth, they are perfect for the ethos of Jeopardy. Most of them are illustrated, too, which helps with recall. I found it easier to remember the Battle of Crécy after seeing a cartoon 14th-century Frenchman take a longbow arrow to the chest.
+
+Perhaps the best resource for learning the patterns of Jeopardy is the fabulous and disconcerting online database J! Archive, wherein fans have cataloged every question that has ever appeared on the show, as well as the frequency with which answers are repeated. Spend some time in the J! Archive and you will see that Australia, for instance, is historically the most common answer on the show. When in doubt: “What is Australia?”
+
+Read: The best ‘I don't know the answer’ Jeopardy answers
+
+You will see also that Jeopardy doesn’t actually ask about everything, but rather about what students of the show refer to as “the canon”—a set of knowledge that masquerades as “everything.” Shakespeare and U.S. presidents will recur, but the show doesn’t ask much about anime, or hedge funds, or risograph printing, which are all too specialized.
+
+To determine whether a bit of knowledge falls within Jeopardy’s canon, imagine whether at least two people at a dinner party of a dozen well-read guests would be familiar with it. This may strike you as a silly standard, but I appreciate the show’s vision of a well-rounded society. The nerdy conviviality of the greenroom proves that a shared body of knowledge can unite would-be foes, even if that body contains more opera facts than it really ought to. (The opera with the jester is Rigoletto; 20 mentions.)
+
+Learning all this new material should be a delight. The arduous part is remembering it. To help, you can make flash cards, ideally using an app that employs “spaced repetition,” the evidence-backed idea that a person can retain information by reviewing material at progressively longer intervals. A good algorithm will present known information just before it is forgotten.
+
+Izaak Walton is the author of The Compleat Angler.
+
+I lost my first game. As the famous thinking music faded out during Final Jeopardy, I scribbled that Shakespeare wrote “Blood will have blood” in Titus Andronicus (38 mentions) rather than Macbeth (467—yeesh). Even if I’d gotten it right, I’d still have lost. A few clues before, David, in second place, had found the remaining Daily Double and wagered enough to leapfrog into first. Winning on Jeopardy takes luck, too.
+
+For decades, contestants gallantly progressed through one category at a time. In the mid-2010s, when every other norm of civility was beginning to fall apart, Jeopardy strategy became a panicky knife fight for the Doubles, the most powerful clues on the board. You can, and should, hunt for them—they cluster toward the lower left—but fate determines whether you find one.
+
+Read: How Alex Trebek made a mundane game show brilliant
+
+You’ve probably heard that the buzzer is fickle. This is true. You are instructed to watch for indicators on the game board to illuminate at the end of a clue, but if you wait to react to them—rather than anticipating the host’s final syllable—you will be on the back foot. Even then, an opponent might be infinitesimally more precise. Buzzer Zen is elusive.
+
+The stage lights are bright, and information will fly out of your brain at just the wrong moment. Frances Cleveland was the first first lady to host the Easter-egg roll at the White House. Wait! You meant Lucy Hayes, but it is too late and you are $1,600 poorer.
+
+Luck will desert you, and it will return. I was invited back to Jeopardy for 2024’s “second chance” competition, on account of my narrow loss and—I have to imagine—toothy grin; Jeopardy, for all its meritocratic elements, is still a show on TV. I studied more, but what really changed was my fortune. I found back-to-back Daily Doubles, twice. I mentioned Taylor Swift in my mid-game anecdote and then came upon a question about her. During another game, I mentioned Celine Dion in my mid-game anecdote and then came upon a question about her (no, I did not know the answer; so sue me). One day, while I was being processed through the hostage garage, my tote of glass Erewhon bottles clanked to the ground. “My Fabergé eggs!” I yelped. Hours later: “St. Petersburg, Russia, has a museum devoted to these bejeweled objects given as Easter gifts by the czar.” I’m not saying you can conjure friendly clues, but I do believe the Alex Trebek Stage is a kismet magnet.
+
+I won my first game of Jeopardy in November 2024, and it was pure euphoria. Then I won again, and it was even better. I went on a terrifically fun tear all the way to the semifinals of the Tournament of Champions.
+
+To some extent, the success brought the fun, but it worked the other way around, too. Contestants say that they play better when they remember to enjoy themselves. One idea for some fun: Make Johnny Gilbert announce you as whatever profession you like. Jeopardy has had a “worldwide karaoke singer” and a “stay-at-home son.” If you can determine that you are going up against an accountant, perhaps arrange to have yourself introduced as “a better accountant.” Alas, there are limits. When I faced off against another Drew, I requested to sign in as “Baby.” You have control of the board, Baby! This was not allowed.
+
+By the time the Double Drew episode aired, 10 games deep, I was not really Drew anymore but “Jeopardy Drew,” a meme of myself. At the little awards ceremony that Jeopardy puts on each season, I won the trophy for Breakthrough Performance, another reminder that the contest is a show. Jeopardy, by turning me into a winner, had created another Drew who was somehow smarter, funnier, and livelier than the guy not on TV. As one producer put it: “me, but more.”
+
+When you win, you might struggle with this. Is Jeopardy You the real you, or the best version of you, or neither? Happily, these winner’s worries will plague you for only so long, because eventually Jeopardy turns you into a loser.
+
+I returned again to Jeopardy this winter for an all-stars invitational, and I did … fine. One ugly win and one beautiful loss (The Bridge of San Luis Rey; 24 mentions; my fault). Everyone’s luck runs out at some point.
+
+The winnings stay yours, of course. If you are ever struggling to fall asleep, call a champ and ask what they did with the money. It is in savings. It is invested. My friend Adriana, who won $446,600, has said she became a little splashier with her boba budget.
+
+But what you really hold on to is knowing one thing about everything. What do you do with that?
+
+Fans of trivia like to say that caring so deeply about these facts at a time of disinformation and anti-intellectualism is an act of defiance—that picking up trivia is a way to keep knowledge from being disappeared. I’m skeptical. It is a good thing to learn about the Tuskegee Airmen, but you knowing that they flew P-51 Mustangs will not stop anybody from kicking them off a curriculum.
+
+What Jeopardy likes—what I love—is knowledge for the sake of knowledge. Izaak Walton wrote The Compleat Angler in the aftermath of Oliver Cromwell’s overthrow of the English monarchy, which had forced Walton and other royalists to flee London for the countryside. There, he found peace through fishing. He wrote: “When the lawyer is swallowed up with business, and the statesman is preventing or contriving plots, then we sit on cowslip-banks, hear the birds sing, and possess ourselves in as much quietness as these silent silver streams, which we now see glide so quietly by us.”
+
+This is how I feel about playing with trivia. It is like standing on the banks of human knowledge, marveling at the volume rushing past, knowing I will never acquire more than the slightest share of it, yet contenting myself with plucking a remarkable specimen from below the surface.
+
+Read: The Atlantic on Jeopardy
+
+The champion’s room, by the way, isn’t much. It’s about six feet by six feet, and it contains a chair and a rack of shirts. The winner uses it to put on their outfit for the next game. The walls don’t even go to the ceiling.
+
+When you get in there, you will almost immediately want to get out, to rejoin the greenroom chatter. Everyone’s discussing Slovakia, and you want to share the one thing you know about it: Bratislava is the only world capital that borders two other countries.
+
+This article appears in the June 2026 print edition with the headline “How to Win on Jeopardy.” When you buy a book using a link on this page, we receive a commission. Thank you for supporting The Atlantic.

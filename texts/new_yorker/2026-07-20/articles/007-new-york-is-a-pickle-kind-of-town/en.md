@@ -1,0 +1,43 @@
+# New York Is a Pickle Kind of Town
+
+Section: The Talk of the Town
+
+The Dutch authors of a new book, “The Pickled City: The Story of New York Pickles,” stop by the brined-delicacy staple Russ & Daughters.
+
+Not all foods endure—ortolan, aspic, candy cigarettes—but the pickle may be as close to immortal as a snack can get. The world’s oldest known cookbook, from around 1700 B.C.E. Mesopotamia, includes a recipe for a pickled-fish-and-grasshopper sauce. Shakespeare wrote, in “The Tempest,” about being “in a pickle”; pickles were served aboard the Titanic. Carlos Alcaraz and Frances Tiafoe have both been known to drink pickle juice in lieu of Gatorade—no unfair advantage there. The U.S. pickle industry has an estimated revenue of three billion dollars per year.
+
+Paul van Ravestein and Monique Mulder, two principals at Mattmo Creative, a branding agency in Amsterdam, have become surprising experts in the preserved-cucumber field. In 2022, they published “De Zure Stad” (“The Sour City”), a history of Dutch pickles, then shifted focus across the Atlantic for “The Pickled City: The Story of New York Pickles.”
+
+“It’s an obsession, basically,” van Ravestein said the other day, in the hundred-and-twelve-year-old Russ & Daughters appetizing shop, on East Houston. During their New York pickle research, Mulder and van Ravestein had come upon a trove of tax-archive photographs from the early twentieth century, featuring a man posing with numbered placards in front of thousands of Lower East Side storefronts, nearly a hundred of which were pickle purveyors.
+
+“For us, suddenly, it became alive,” Mulder said. “A guy is waking up early in the morning and saying to his wife, ‘I go to my work.’ ”
+
+The pair showed the photos to Niki Russ Federman, a fourth-generation owner of Russ & Daughters, who was wearing the shop’s traditional white lab coat and doling out pickled herring in cream sauce. Her Polish-émigré great-grandfather got his start selling schmaltz herring wrapped in day-old Yiddish newspapers from a barrel, then upgraded to a pushcart, then to a horse-drawn cart, then to the original store, around the corner.
+
+“I’ve never seen it zoomed in like this!” Russ Federman said, peering at an image. “This was the J. Russ National Appetizing Store—there was nothing national about what he did. It was taking care of Jews within four square blocks.” Joel savvily rebranded as Russ’s Cut Rate Appetizing. Now Russ & Daughters has a nationwide shipping operation and a restaurant that serves eighteen-dollar Break-Fast Martinis.
+
+“Why are you still here?” van Ravestein asked. “Is it resilience or flexibility?”
+
+“Luckily, whether it was by choice or by obligation, in each generation there’s been someone in the family who made this their life,” Russ Federman replied. In 1935, the store became the first in the country to have “& Daughters” in its name. “Joel needed cheap labor,” Russ Federman said. “But also, who better to sell pickles than three cute girls with their hands in herring barrels?”
+
+“It’s a matter of communication, branding,” van Ravestein posited.
+
+“You tell the story,” Mulder added. “The food is an interface that is also your legacy.”
+
+Van Ravestein munched on a half-sour and recalled an article, from 1890, that likened pickles to alcohol or coffee: “So kids couldn’t eat them, because it gives you a kick.”
+
+Russ Federman mentioned a contemporary listicle of ten “superfoods,” most of which were sold at her store: “It’s herring, sardines, salmon, sauerkraut, liver—caviar was on the list!”
+
+“You know what we had yesterday evening?” Mulder asked, as she sipped a shrub (pickled-beet juice and vinegar, popular with the marathon-runner set). “A vermouth with pickle juice.”
+
+The Dutch visitors headed south to Sweet Pickle Books, on Orchard Street, a hip used bookstore with a pickle side hustle that was opened, in 2020, by a millennial named Leigh Altshuler, who previously served as marketing director for the Strand. Shoved in a corner was an adult-size pickle costume by the designer who made Katy Perry’s Super Bowl halftime-show sharks.
+
+Before opening her store, Altshuler had prepared three hundred and sixty jars of pickles to sell, and eventually started giving them away to people who donated books. “I was, like, ‘This for sure will last me forever. It’ll be a gimmick,’ ” she told the Dutch duo. A year later, her shop was bursting at the seams, and she kept selling out of pickles. “People had been putting it on TikTok,” she said. Altshuler had to outsource pickle production upstate, and began cranking out pickle merch. “All of a sudden, Harry Styles was wearing it,” she said. “It was a whole drama.”
+
+Mulder and van Ravestein mentioned the frenzy surrounding the Heinz pickle pin, a coveted souvenir at the 1939 New York World’s Fair.
+
+“People are obsessed with pickles!” Altshuler said. “People come in and say, ‘Oh, look at my pickle tattoo,’ or, ‘My dog’s name is Pickle.’ ”
+
+“In Holland, a lot of young people, they’ve started fermenting at home,” Mulder added.
+
+The Sweet Pickle Books building—near where “Lower East Side cool girlies” (per Altshuler) had dumpster-dived for Timothée Chalamet’s old “Marty Supreme” costumes—has been in its landlady’s family for a century and a half. Altshuler said, “Her grandfather sold melons from a pushcart outside.” ♦

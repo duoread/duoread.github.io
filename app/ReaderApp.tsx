@@ -24,6 +24,7 @@ type Article = {
 };
 
 type Issue = {
+  publication: string;
   issue: string;
   title: string;
   article_count: number;
@@ -37,7 +38,20 @@ type SiteContent = {
 };
 
 export function ReaderApp({ content }: { content: SiteContent }) {
-  const issue = content.issues[0];
+  const firstIssue = content.issues[0];
+  const [activeIssueKey, setActiveIssueKey] = useState(issueKey(firstIssue));
+  const issue =
+    content.issues.find((candidate) => issueKey(candidate) === activeIssueKey) ?? firstIssue;
+
+  if (!issue) {
+    return (
+      <main className="empty-shell">
+        <h1>双语交替阅读</h1>
+        <p>暂无已完成翻译的文章。</p>
+      </main>
+    );
+  }
+
   const translatedArticles = issue.articles.filter(
     (article) => article.translation_status === "translated",
   );
@@ -51,6 +65,15 @@ export function ReaderApp({ content }: { content: SiteContent }) {
   const activeArticle =
     readableArticles.find((article) => article.id === activeId) ??
     firstReadableArticle;
+
+  if (!activeArticle) {
+    return (
+      <main className="empty-shell">
+        <h1>双语交替阅读</h1>
+        <p>暂无已完成翻译的文章。</p>
+      </main>
+    );
+  }
 
   const filteredArticles = useMemo(() => {
     const needle = query.trim().toLowerCase();
@@ -78,8 +101,29 @@ export function ReaderApp({ content }: { content: SiteContent }) {
             <p className="brand-kicker">Parallel Reader</p>
             <h1>双语交替阅读</h1>
           </div>
-          <span className="issue-pill">{issue.title}</span>
+          <span className="issue-pill">{publicationLabel(issue.publication)}</span>
         </div>
+
+        <label className="search-box">
+          <span>Magazine</span>
+          <select
+            value={issueKey(issue)}
+            onChange={(event) => {
+              const nextIssue = content.issues.find(
+                (candidate) => issueKey(candidate) === event.target.value,
+              );
+              setActiveIssueKey(event.target.value);
+              setActiveId(nextIssue?.articles[0]?.id ?? "");
+              setQuery("");
+            }}
+          >
+            {content.issues.map((candidate) => (
+              <option key={issueKey(candidate)} value={issueKey(candidate)}>
+                {publicationLabel(candidate.publication)} · {candidate.issue}
+              </option>
+            ))}
+          </select>
+        </label>
 
         <div className="stats-grid" aria-label="Issue status">
           <div>
@@ -166,4 +210,19 @@ export function ReaderApp({ content }: { content: SiteContent }) {
       </article>
     </main>
   );
+}
+
+function issueKey(issue?: Issue) {
+  if (!issue) return "";
+  return `${issue.publication}:${issue.issue}`;
+}
+
+function publicationLabel(publication: string) {
+  const labels: Record<string, string> = {
+    economist: "The Economist",
+    new_yorker: "The New Yorker",
+    atlantic: "The Atlantic",
+    wired: "Wired",
+  };
+  return labels[publication] ?? publication;
 }

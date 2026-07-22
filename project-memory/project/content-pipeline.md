@@ -36,10 +36,11 @@ Magazine articles use the article-level publication date when the source EPUB ex
 
 ## Scheduled Sync
 
-The remote daily job uses `scripts/run-daily-economist.sh`, which calls `scripts/sync-latest-economist.mjs --publish true`.
+The remote daily job uses `scripts/run-daily-magazines.sh`, which calls `scripts/sync-latest-magazines.mjs --publish true`.
 
-- The latest Economist issue is discovered from the upstream GitHub directory.
+- The latest downloadable issue is discovered from the upstream GitHub directories for The Economist, The New Yorker, The Atlantic, and Wired.
 - Existing fully translated issues are skipped.
 - New issues download their EPUB into ignored `data/raw/`.
 - Extracted and translated text under `texts/` is committed to the `source` branch.
 - The static export from `dist/client` is published to the `main` branch for `https://duoread.github.io/`.
+- If the newest upstream directory has a README with a dead EPUB link, the sync scans older directories until it finds a downloadable EPUB.

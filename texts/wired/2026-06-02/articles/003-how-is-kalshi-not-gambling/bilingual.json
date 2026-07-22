@@ -1,0 +1,306 @@
+{
+  "id": "003-how-is-kalshi-not-gambling",
+  "source_href": "feed_0/article_2/index_u30.html",
+  "publication": "wired",
+  "issue": "2026-06-02",
+  "issue_published_at": "2026-06-02",
+  "article_published_at": "Mar 4, 2026 6:00 AM",
+  "published_at": "Mar 4, 2026 6:00 AM",
+  "published_date_source": "article",
+  "order": 3,
+  "section": "Steven Levy",
+  "title_en": "How Is Kalshi Not Gambling?",
+  "title_zh": "",
+  "rubric_en": "",
+  "rubric_zh": "",
+  "date": "Mar 4, 2026 6:00 AM",
+  "origin_url": "",
+  "translation_status": "pending",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "If you picked Seattle to win Super Bowl LX, there were multiple means to turn your hunch into cash. You could place a wager on a betting site like FanDuel or DraftKings. Or you might risk the same amount of money by taking a position in the prediction market known as Kalshi. In both cases you would have been rewarded.",
+      "zh": ""
+    },
+    {
+      "id": "p002",
+      "en": "But according to Tarek Mansour, Kalshi’s cofounder and CEO, those two acts are completely different. Kalshi is not a gambling site, Mansour says. It’s a marketplace, one regulated by the Commodity Futures Trading Commission. It’s also a startup, and securing that regulatory approval might be its most impressive innovation. Kalshi is allowed to operate in all 50 states, 20 more than allow online sports betting, and it offers markets not only on sports and election results (its most popular categories) but also on a dog’s breakfast of events including tomorrow’s temperature in Philadelphia, Taylor Swift’s wedding date, and whether Elon Musk will start a Bluesky account before 2027. One might note that some of those categories are, well, prone to manipulation by inside players.",
+      "zh": ""
+    },
+    {
+      "id": "p003",
+      "en": "This hasn’t stopped Kalshi’s growth, which has skyrocketed since it officially opened election markets in October 2024. The company has opened thousands of markets, handles over $1 billion in trades every week, and was most recently valued at $11 billion. (No surprise that Kalshi is the Arabic word for “everything.”) Nineteen states, meanwhile, have filed suit against Kalshi, challenging the claim that its operations aren’t gambling and don’t fall under their betting laws.",
+      "zh": ""
+    },
+    {
+      "id": "p004",
+      "en": "All of this is quite a jump for Mansour, a self-described math kid with mild OCD who was born in California, grew up in Lebanon, and met his cofounder, Brazilian-born Luana Lopes Lara, at MIT. Though the decision to labor through regulatory hoops before launch was risky, it paid off better than any bet made on Kalshi. Mansour also insists Kalshi provides a social good, one that unearths better information more than it builds a financial juggernaut.",
+      "zh": ""
+    },
+    {
+      "id": "p005",
+      "en": "One need not risk money in its “event contracts” to observe how quickly the wisdom of the Kalshi-verse can assess the likelihood of a given outcome. Kalshi’s marketplace beat the polls in predicting both Donald Trump’s reelection and Zohran Mamdani’s primary win in the New York City mayoral race. A recent study indicated that forecasts made on Kalshi regarding interest rates performed as well as those from Wall Street experts. On the other hand, Mansour admits that the Kashi market on the next pope gave Leo XIV a meager chance of generating white smoke.",
+      "zh": ""
+    },
+    {
+      "id": "p006",
+      "en": "When I met Mansour at Kalshi’s headquarters in Lower Manhattan, I found him engagingly combative. Four years of dealing with regulators and filing lawsuits honed his skills as a verbal warrior who enjoys debate about the social value of his company. Facing down critics who claim he’s turning reality into a betting parlor only sharpened those skills. Mansour enthusiastically took on the challenge of convincing me that a Kalshi Super Bowl position is not the same thing at all, no sir, as a straight bet on FanDuel. Putting down money on what song Bad Bunny would sing first at halftime, he argues, is no different than buying Tesla stock or life insurance. Kalshi will have to set the market on whether or not he persuaded me. I can’t predict the future.",
+      "zh": ""
+    },
+    {
+      "id": "p007",
+      "en": "This interview has been edited for length and clarity.",
+      "zh": ""
+    },
+    {
+      "id": "p008",
+      "en": "STEVEN LEVY: What led you, a kid from Lebanon, to start an app based on prediction markets?",
+      "zh": ""
+    },
+    {
+      "id": "p009",
+      "en": "TAREK MANSOUR: One of the most defining characteristics of Lebanon is that there’s a lot of uncertainty. There was much more certainty in math than in the outside world. My obsession was to get into MIT. When I got there, the people were super smart and motivated. It was a very big widening of the aperture. A lot of people were going into finance, which is a very good application of math, so in 2016 I went to work at Goldman. That was my first time coming in touch with the idea of prediction markets. The vast majority of the demand that summer was, will Brexit happen or not? Then it was like, will Trump win the election or not? When Brexit came, it was a massive shock, it completely destabilized markets. The Trump one was even more striking. So I asked, “What if people could price these simple questions about the future?” Markets are an effective, efficient way to average out opinions about something.",
+      "zh": ""
+    },
+    {
+      "id": "p010",
+      "en": "I’m old enough to remember a time when it was a shocking revelation to compare Wall Street to a betting parlor—there was a famous BusinessWeek article in 1985 called “The Casino Society” decrying that the markets were decoupled from actual business results. Now it’s taken for granted that valuations are drastically different from profits and losses, and are more like speculations on price itself. Kalshi seems like an uncut version of that—it’s based on pure speculation. There’s no longer a concept of investing.",
+      "zh": ""
+    },
+    {
+      "id": "p011",
+      "en": "Do you think pricing Brexit and knowing whether Brexit is going to happen or not is useful?",
+      "zh": ""
+    },
+    {
+      "id": "p012",
+      "en": "Why put a price on whether Brexit happens? If it affects the stock market, why not actually invest or go short on the actual stocks?",
+      "zh": ""
+    },
+    {
+      "id": "p013",
+      "en": "I completely disagree with that premise. People that had to immigrate from Britain or into Britain because Brexit happened would have really benefited from having that forecast. Those people probably didn’t have a position in the stock market. The idea that what’s going to happen in the world only matters because of how it impacts stock prices is a bit bizarre to me.",
+      "zh": ""
+    },
+    {
+      "id": "p014",
+      "en": "But you’re the one who’s saying you get clarity through a market.",
+      "zh": ""
+    },
+    {
+      "id": "p015",
+      "en": "It’s actually the only way to get clarity. We’ve proven it. Yes, you can research a company and figure out where the stock of Apple is going to go. You can research where commodity prices are going to go, and you can research what the weather is going to be tomorrow, whether Covid is going to come back, whether a sports team is going to perform well, and so forth. All the financial markets that have ever existed have speculation. There are a subset of people that may not do as much research as others but do it because they find it interesting, or they find it fun, or they have a little bit of money on the side and want to participate.",
+      "zh": ""
+    },
+    {
+      "id": "p016",
+      "en": "But you’re extending this beyond financial results to everything, from the words Trump will utter in the State of the Union to which band will play the Las Vegas Sphere.",
+      "zh": ""
+    },
+    {
+      "id": "p017",
+      "en": "People felt critical about option markets when they first appeared, too. When CME created water futures [in 2020]—it’s a great product that helps predict water scarcity—the first headline was “Now you can bet on water.” That was the moment I realized we’re in a business where we’re always going to be criticized. Yes, you are risking money to make money on something you don’t control. That is the definition of a bet. Could you use the word bet to bet on the stock market?",
+      "zh": ""
+    },
+    {
+      "id": "p018",
+      "en": "When people came out with life insurance, the initial social response was like, “You are betting on people’s death?” Obviously we would agree that life insurance is a good thing in society. Any type of trading activity that involves speculation will have some similarity to markets.",
+      "zh": ""
+    },
+    {
+      "id": "p019",
+      "en": "But we regulate gambling bets differently. What’s the difference between speculation and gambling? You insist Kalshi is not the latter.",
+      "zh": ""
+    },
+    {
+      "id": "p020",
+      "en": "Gambling is tied to something that is artificial, artificially created for the purpose of entertainment, like rolling dice.",
+      "zh": ""
+    },
+    {
+      "id": "p021",
+      "en": "We’re not talking about speculating on dice rolls. We’re talking about speculating on who’s going to win the Super Bowl. That’s gambling.",
+      "zh": ""
+    },
+    {
+      "id": "p022",
+      "en": "Sports is an event that exists whether or not there’s going to be trading on it.",
+      "zh": ""
+    },
+    {
+      "id": "p023",
+      "en": "Whether I am using FanDuel or Kalshi I’m risking $1 to make more if Seattle wins and if they lose, I’m out a buck. I don’t see the difference.",
+      "zh": ""
+    },
+    {
+      "id": "p024",
+      "en": "There’s a fundamental difference in mechanism between those two. With gambling, the company is the house. Its revenues are equal to the customers’ losses. So the casinos historically have developed all these mechanisms to make sure that once you show up, you lose more money than you make. But in a financial market, there is no house. [Kalshi takes a fee, and the outcomes of events don’t affect its revenues.]",
+      "zh": ""
+    },
+    {
+      "id": "p025",
+      "en": "No matter what mechanism, there’s still a bet made. Maybe you are offering a better deal. As far as the customer is concerned, it’s as if your particular casino is offering better odds.",
+      "zh": ""
+    },
+    {
+      "id": "p026",
+      "en": "Better prices is a good thing for society. But there is a fundamental difference. When you go to a traditional sportsbook, the odds are stacked against you. Our customers are more sharp. They’re a bit like Moneyball. They’re more quantitative. They love doing analysis on the economy, and they like the idea that on Kalshi you have to be smarter than your neighbor—not smarter than some sort of system that’s stacked against you. People do feel that, even in the stock market, the system is rigged against them. How are you going to beat the large hedge funds today on trading stocks? And the answer is, you probably won’t. It’s impossible for an individual to do that. On Kalshi, there’s a level playing field. If you have studied a lot about things like inflation, or Covid, or culture, or Taylor Swift, or sports, you have an advantage.",
+      "zh": ""
+    },
+    {
+      "id": "p027",
+      "en": "Gamblers also think research gives them an edge, whether it’s playing the horses or studying sports statistics. Obviously if you’re betting on events, if you know more you’re more likely to win.",
+      "zh": ""
+    },
+    {
+      "id": "p028",
+      "en": "Gambling is adverse to the end consumer, whereas financial markets are more open and transparent. You can enter when you want and you can exit when you want. If you make a lot of money at traditional gambling places, you will get shut down.",
+      "zh": ""
+    },
+    {
+      "id": "p029",
+      "en": "Still, people on Kalshi are risking real money, and that can have serious financial consequences. Gambling sites have to have long disclaimers and give the phone numbers of Gamblers Anonymous and other programs. You don’t have to do that. I can’t see why not.",
+      "zh": ""
+    },
+    {
+      "id": "p030",
+      "en": "The CFTC has an extremely comprehensive customer protection regime, and it has existed for decades. You see fewer issues with those markets, even though they’re inherently riskier than what you see in sports betting. It’s easy to just criticize Kalshi because we’re growing so fast. But we started in 2018 and didn’t launch until four years later, because we wanted to get regulated up front. What were we doing in those four years? We weren’t just waiting at the beach.",
+      "zh": ""
+    },
+    {
+      "id": "p031",
+      "en": "What were you doing?",
+      "zh": ""
+    },
+    {
+      "id": "p032",
+      "en": "It’s a bit like getting regulated as a bank. There’s a whole set of things that you have to do around market integrity, customer protection, where the funds are stored, audits and reporting visibility, and transferring to the federal government. You need to show how your entire operation is structured to make sure that it’s actually safe, legitimate, and regulated.",
+      "zh": ""
+    },
+    {
+      "id": "p033",
+      "en": "It’s like you hacked the system to get regulated.",
+      "zh": ""
+    },
+    {
+      "id": "p034",
+      "en": "Hacked? That seems like we did something wrong! Are we getting punished now for going regulated?",
+      "zh": ""
+    },
+    {
+      "id": "p035",
+      "en": "I don’t use the word in a pejorative sense. I wrote a book about good hackers!",
+      "zh": ""
+    },
+    {
+      "id": "p036",
+      "en": "We, as 22-year-old cofounders, said we want to do things right. We want to bring this innovation to America. We believed in this market so much, we were willing to spend four years—or however long it was going to take—to make it happen. We wanted to make it safe and do it responsibly, because we wanted to do it for the long term. The coverage of Kalshi misses that, because all of our competitors didn’t do any of that.",
+      "zh": ""
+    },
+    {
+      "id": "p037",
+      "en": "You are talking about Polymarket, your biggest current competitor.",
+      "zh": ""
+    },
+    {
+      "id": "p038",
+      "en": "There’s a number of others. They were scaling and gaining market share, where we were principled and waiting. We could have totally followed that strategy, but we were committed to doing it right. We read the Commodities Exchange Act, which anybody could read, and clearly a five-zero of the commissioners agreed with us. Five-zero, both Republicans and Democrats. Then to the extent that they disagreed with us [on taking contracts for election results], we sued them, and won. The validation is in the fact that people trust the company.",
+      "zh": ""
+    },
+    {
+      "id": "p039",
+      "en": "Donald Trump Jr. is a paid Kalshi adviser. Why did you hire him when he’s not only an adviser to your key competitor, Polymarket, but an investor in it as well?",
+      "zh": ""
+    },
+    {
+      "id": "p040",
+      "en": "Yes, he’s an investor in Polymarket, and that’s a testament that he’s a pro-prediction-markets person. He believes in the industry, and that’s an awesome thing. He was very clear up front that he had unequivocally zero involvement in regulatory or government [actions involving Kalshi].",
+      "zh": ""
+    },
+    {
+      "id": "p041",
+      "en": "What about markets you offer where the outcome is known, but only by a few people. For instance, you could bet on who’s winning the 50th season of Survivor. That’s already in the can. Would you be able to identify if someone tells their cousin who the winner is and that person bets on Kalshi?",
+      "zh": ""
+    },
+    {
+      "id": "p042",
+      "en": "If people felt like the system was rigged, they would stop trading. Clearly they don’t feel that way, because they’re trading a lot. They think the system is safe and fair. We have the exact same rules as the stock market. We have the exact same protection, but more tailored to our markets. If you commit insider trading on Kalshi, you’re committing a federal crime.",
+      "zh": ""
+    },
+    {
+      "id": "p043",
+      "en": "The classic prediction markets, like the 1990s Iowa Electronic Markets, or a Darpa experiment in the early 2000s that hoped to anticipate terrorist acts, were really innovative. They weren’t set up as businesses but as a way to see around corners. I wonder whether scaling this up as a giant business introduces complications and potential manipulations that might have less to do with unearthing truth than making huge profits.",
+      "zh": ""
+    },
+    {
+      "id": "p044",
+      "en": "If you believe in prediction markets, you should believe they should be more mainstream and that we should get them as big as possible. Iowa and the others were incredible platforms. But now that there are businesses, people are using prediction markets orders of magnitude more than ever.",
+      "zh": ""
+    },
+    {
+      "id": "p045",
+      "en": "That’s exactly what worries some people. They’re concerned that it promotes a mindset that every event is an opportunity to make a bet. The sun goes up and it goes down. You don’t have to put money on it.",
+      "zh": ""
+    },
+    {
+      "id": "p046",
+      "en": "If people want to use Kalshi, we’re providing them a way to use it safely and responsibly. And if they don’t, then great. Who are we to decide?",
+      "zh": ""
+    },
+    {
+      "id": "p047",
+      "en": "You seem to want many more people on Kalshi, and to make it a central part of everyday life.",
+      "zh": ""
+    },
+    {
+      "id": "p048",
+      "en": "This is what we’re working very hard toward. You don’t innovate by retracting. You make progress by expanding what’s available and making it more accessible to people. We’re living in a free, open society, right? I have a hard time with this notion that we are forcing this thing onto people.",
+      "zh": ""
+    },
+    {
+      "id": "p049",
+      "en": "You do know that a lot of people think that the whole phenomenon is toxic, don’t you? You did a Reddit AMA a year ago where people almost came at you with pitchforks. One of them asked you, “What was it like meeting the devil when you sold your soul?”",
+      "zh": ""
+    },
+    {
+      "id": "p050",
+      "en": "You should always have some degree of dissent, and people should be free to have their opinions. Some of them are grounded in facts. Some of them are not, unfortunately, but you can’t do anything about that. They make it feel like I’m walking around America with candy and saying, “Hey, 45-year-old kids, come to Kalshi!” The 45-year-old people with three children and maybe divorced have made a bunch of life decisions. If they have found a home in Kalshi, that is awesome.",
+      "zh": ""
+    },
+    {
+      "id": "p051",
+      "en": "Maybe they’re free to pick up some cigarettes, too?",
+      "zh": ""
+    },
+    {
+      "id": "p052",
+      "en": "I don’t know what this has to do with cigarettes. If they want to pick up cigarettes, make sure the companies explain the risks. I don’t smoke, I don’t really drink. I trade, which is very different. I can’t trade on Kalshi unfortunately. That might be the worst thing about building a company.",
+      "zh": ""
+    },
+    {
+      "id": "p053",
+      "en": "Do you make virtual trades in your head?",
+      "zh": ""
+    },
+    {
+      "id": "p054",
+      "en": "I try not to, but I do look at the markets a lot, so I’m an active user in terms of the forecast. On Twitter and social media the reward mechanism is clickbait. But if you talk to [our heavy users], you see their mental model of the world is honestly kind of amazing. They have found an exercise that is intellectually stimulating, that gets them more calibrated and objective about their views about the world, where the conversation is more like mathematics. It makes things less subjective and more objective. It depolarizes the conversation, and it helps us get to more truth.",
+      "zh": ""
+    },
+    {
+      "id": "p055",
+      "en": "Interesting. In a society where truth is under attack, you say you’re bringing truth to the world.",
+      "zh": ""
+    },
+    {
+      "id": "p056",
+      "en": "Yes. The belief here is that markets don’t lie like people do. When people put money on the line, they stop lying. It’s amazing.",
+      "zh": ""
+    },
+    {
+      "id": "p057",
+      "en": "What Say You?Let us know what you think about this article in the comments below. Alternatively, you can submit a letter to the editor at [email protected].",
+      "zh": ""
+    }
+  ]
+}

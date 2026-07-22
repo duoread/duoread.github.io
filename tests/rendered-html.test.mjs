@@ -42,9 +42,13 @@ test("site data is generated from texts", async () => {
   const siteIndex = JSON.parse(
     await readFile(new URL("../texts/site-index.json", import.meta.url), "utf8"),
   );
-  const issue = siteIndex.issues[0];
+  const issue = siteIndex.issues.find(
+    (candidate) => candidate.publication === "economist" && candidate.issue === "2026-07-18",
+  );
+  assert.ok(issue);
   assert.equal(issue.issue, "2026-07-18");
   assert.equal(issue.article_count, 70);
+  assert.ok(siteIndex.issues.length >= 1);
   assert.ok(issue.articles.length >= 60);
   assert.ok(issue.articles[0].paragraphs.length > 5);
   assert.equal(issue.articles[0].paragraphs[0].id, "p001");

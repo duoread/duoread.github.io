@@ -1,0 +1,17 @@
+# Briefly Noted
+
+Section: The Critics
+
+Rubric: What We’re Reading
+
+“Death of the Soccer God,” “Nebraska,” “Muskism,” and “Spawning Season.”
+
+Death of the Soccer God, by Dimitry Elias Léger (MCD/FSG). This stylish historical picaresque examines Haitian identity and history by recounting the “brief, wondrous life” of a fictional athlete, Gilbert Chevalier. Born to a wealthy family in Port-au-Prince, the young Chevalier has a prodigious talent for soccer. When he’s dispatched to Columbia University for college, he rooms with Miles Davis, consorts with John Coltrane, and is recruited to play for the United States in the 1950 World Cup, in Brazil. There he meets a nine-year-old Pelé and leads the American team to a stunning upset of England. Returning to Haiti after playing professional football in Europe, Chevalier runs afoul of President François Duvalier—an incident with dangerous consequences.
+
+Nebraska, by Monica Datta (Astra). This ambitious novel springs from a moment of apparent inhuman cruelty: a mother, Anna Chatterjee, kills her disabled son, pushing his wheelchair in front of an oncoming train. The murder and its fraught causes are recounted by a Bengali analyst, who is himself interpreting them from the records of a different analyst with connections to Chatterjee’s two living children. When these two children, along with Chatterjee’s husband, attempt to pick her up at the end of her prison sentence, they find she is already gone. Datta explores the impact of enormous colonial forces on the unconscious of a single individual, her narrative shifting between time lines and continents in a performance that is both dizzying and energizing.
+
+Discover notable new fiction, nonfiction, and poetry.
+
+Muskism, by Quinn Slobodian and Ben Tarnoff (Harper). What is the philosophy that underpins Elon Musk’s varied ventures, from Tesla to SpaceX to DOGE? The answer, this slim study contends, is a creed in which “states and individuals” can achieve “sovereignty through technology.” The portrait of Musk that emerges here is that of a childish, terminally online man who desires to eliminate the messiness of contemporary life for a more rigid order. “To say that Muskism is worth taking seriously is not to say that its success is guaranteed,” Slobodian and Tarnoff write. But the “institutional breakdown” of the twenty-first century, they warn, could mean that Muskism will profoundly shape the world to come.
+
+Spawning Season, by Joseph Osmundson (Bloomsbury). Anchored by a poignant account of his efforts to become a father, this memoir, by a microbiologist, is also a wide-ranging meditation on what it means to be biologically “fit” in Western society today. Though the barriers to parenthood which Osmundson encounters don’t exist for all of us (he’s queer; he’s male; he’s not able to afford surrogacy or adoption), his emotional journey will be instantly recognizable to anyone whose dreams of having a child have been dashed or deferred. Some of that arc is grappling with various reasons not to have a child, including climate change. A secondary narrative, following salmon on their journey to reproduce in warming waters, proves surprisingly apposite, partly thanks to Osmundson’s expertise on the subject, and partly because it underscores what is uniquely human about his dilemma: that, for us, a universal instinct can also be a question.

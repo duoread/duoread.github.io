@@ -1,0 +1,27 @@
+# Lee Friedlander’s America
+
+Section: Dispatches
+
+Rubric: The photographer spent decades meandering across the country with his camera. What was he looking for?
+
+Memphis, 1991 (Lee Friedlander*)
+
+Few people have taught us to see America quite like Lee Friedlander. The 91-year-old photographer has been making pictures since the late 1940s, focusing largely on what critics and historians describe as the urban social landscape: all of these little jigsaw scenes of our built environment. He notices the everyday moments that go unseen by most, moments so inconsequential that we probably wouldn’t even bother dismissing them as mundane. Friedlander once distilled his approach into a simple ethos: “I just walk and see something interesting.”
+
+Life Still, a monograph of Friedlander’s work that Aperture published this spring, collects photos from the 1950s to the present, and it’s in Friedlander’s careful placement of pictures side by side that these puzzle pieces begin to depict a meaningful and at times delightful whole. Looking at them is like noticing that the song you’re listening to catches the beat of a passing car, or seeing two strangers walk in symmetry on opposite sides of the street. You study Friedlander’s pairs, recognizing the rhymes across time and space. The only clues that date his wanderings arrive in the shape of a mid-century refrigerator, or a certain hairstyle, or a peeling political bumper sticker.
+
+What Friedlander finds “interesting” is often ironic and devilishly funny. An archway marked ENTRANCE provides entry to no building, but rather to endless sky. You can imagine Friedlander’s glee when he happened upon a sculpture with a busted phallus standing next to a painting of the comic-strip character Wimpy chomping on a slender baguette.
+
+Kentucky, 1977 (Lee Friedlander*)
+
+Plastic trinkets and graffiti, television sets and bumper stickers, road signs and wigs—many might describe these items as disposable culture, signs of America’s crass habit of regarding anything as art. What of it? Everywhere in his work, we see reminders that this is a land of artists, even if they don’t see themselves as such. In one picture, he focuses on a figurine of a tattoo artist inking a woman’s breast; in another, a lamp fashioned from a tree sits on a book about “Tramp Art.”
+
+Read: The road dogs of the American West
+
+There aren’t many people in these pictures, but there is presence. Is anything more intimate than the divot left by the owner of a well-worn armchair? A seemingly simple picture of a shop window reminded me of that John Coltrane quote about starting in the middle of a sentence and moving both ways at once: We see what is in front of Friedlander, only the glass captures what is behind him too, and it’s as though all of history has converged in this moment. These pictures can seem like accidents until you notice the unlikely beauty everywhere: the wondrously mathematical shadow of a chain-link fence, a patch of sky mirrored in a window, a bird in the distance that appears perched on a car door. Every now and then, you glimpse Friedlander’s reflection—these are moments that feel slyly autobiographical. We see his shadow cast against a kitschy display that reads NOT ALL WHO WANDER ARE LOST. I like to imagine that he is smiling throughout, a reminder that the artist is at work. There are still more roads to walk, more things to see.
+
+Chicago, 1986 (Lee Friedlander*)
+
+*Images: Lee Friedlander: Life Still (Aperture, 2026). © 2026 Lee Friedlander. Courtesy of Lee Friedlander; Fraenkel Gallery, San Francisco; and Luhring Augustine, New York.
+
+This article was adapted from Hua Hsu’s introduction to Lee Friedlander: Life Still. It appears in the June 2026 print edition with the headline “A Land of Artists.”

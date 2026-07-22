@@ -25,6 +25,8 @@ texts/                            # 整理后的文本，入库
 npm run extract
 npm run translate
 npm run sync:economist
+npm run sync:magazines
+npm run audit:translations
 npm run validate:texts
 npm run export:pages
 npm run dev
@@ -80,19 +82,21 @@ npm run translate -- --limit 1
 
 ## 自动同步最新一期
 
-可以让远程机器每天检查源站最新一期。如果最新 issue 已经完整翻译，脚本会直接退出；如果发现新 issue，会下载 EPUB 到被忽略的 `data/raw/`，抽取到 `texts/`，用 Codex Spark 翻译，校验后导出并发布到 GitHub Pages。
+可以让远程机器每天检查源站四本杂志的最新可下载期：The Economist、The New Yorker、The Atlantic、Wired。如果最新 issue 已经完整翻译，脚本会直接跳过；如果发现新 issue，会下载 EPUB 到被忽略的 `data/raw/`，抽取到 `texts/`，用 Codex Spark 翻译，校验后导出并发布到 GitHub Pages。
 
 ```bash
-npm run sync:economist -- --publish true
+npm run sync:magazines -- --publish true
 ```
 
 cron 使用的 wrapper 是：
 
 ```bash
-scripts/run-daily-economist.sh
+scripts/run-daily-magazines.sh
 ```
 
 默认远程路径是 `/root/aicode/multi_language`，日志写入 `/root/aicode/runs/multi_language/logs/`。如果远程仓库名不是 `duoread`，用 `GIT_REMOTE` 指定。
+
+当前源站里 The Atlantic 和 Wired 的 `2026.07.02` 目录只有 README，README 里的 EPUB raw 链接返回 404；同步脚本会跳过这种不可下载 issue，选择最近一个真实可下载的 EPUB。
 
 ## 发布
 
@@ -106,4 +110,4 @@ npm run export:pages
 
 ## 当前数据
 
-当前已从 `TheEconomist.2026.07.18.epub` 抽取并翻译 70 篇文章和 867 个自然段。后续可以在 `texts/` 下增加其他来源。
+当前已从 `TheEconomist.2026.07.18.epub` 抽取并翻译 70 篇文章和 867 个自然段。The New Yorker、The Atlantic、Wired 已纳入同一目录和同步流程；未翻译完成前不会展示到网站正文里。
