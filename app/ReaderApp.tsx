@@ -1,6 +1,6 @@
 "use client";
 
-import { useRef, useState, type PointerEvent } from "react";
+import { useLayoutEffect, useRef, useState, type PointerEvent } from "react";
 
 type Paragraph = {
   id: string;
@@ -47,7 +47,9 @@ export function ReaderApp({ content }: { content: SiteContent }) {
   const [readingMode, setReadingMode] = useState<ReadingMode>("interleaved");
   const [interleavedLanguage, setInterleavedLanguage] = useState<Language>("zh");
   const [singleLanguage, setSingleLanguage] = useState<Language>("zh");
+  const paragraphsRef = useRef<HTMLDivElement | null>(null);
   const pointerStartRef = useRef<{ x: number; y: number } | null>(null);
+  const pendingScrollAnchorRef = useRef<{ index: string; top: number } | null>(null);
 
   const issue =
     content.issues.find((candidate) => issueKey(candidate) === activeIssueKey) ?? firstIssue;
@@ -76,6 +78,20 @@ export function ReaderApp({ content }: { content: SiteContent }) {
       ? "穿插语言"
       : `一种语言 · ${singleLanguage === "zh" ? "中文" : "English"}`;
 
+  useLayoutEffect(() => {
+    const anchor = pendingScrollAnchorRef.current;
+    pendingScrollAnchorRef.current = null;
+    if (!anchor) return;
+
+    const paragraph = paragraphsRef.current?.querySelector<HTMLElement>(
+      `[data-paragraph-index="${anchor.index}"]`,
+    );
+    if (!paragraph) return;
+
+    const nextTop = paragraph.getBoundingClientRect().top;
+    window.scrollBy({ top: nextTop - anchor.top, behavior: "auto" });
+  }, [activeArticle.id, interleavedLanguage, readingMode, singleLanguage]);
+
   function handleReaderPointerDown(event: PointerEvent<HTMLElement>) {
     if (event.pointerType === "mouse" && event.button !== 0) return;
     pointerStartRef.current = { x: event.clientX, y: event.clientY };
@@ -89,6 +105,15 @@ export function ReaderApp({ content }: { content: SiteContent }) {
 
     const moved = Math.hypot(event.clientX - start.x, event.clientY - start.y);
     if (moved > 8) return;
+
+    const paragraph = findParagraphElement(event.target);
+    if (paragraph) {
+      pendingScrollAnchorRef.current = {
+        index: paragraph.dataset.paragraphIndex ?? "",
+        top: paragraph.getBoundingClientRect().top,
+      };
+    }
+
     if (readingMode === "single") {
       setSingleLanguage((language) => (language === "zh" ? "en" : "zh"));
     } else {
@@ -187,6 +212,7 @@ export function ReaderApp({ content }: { content: SiteContent }) {
         </header>
 
         <div
+          ref={paragraphsRef}
           className="paragraphs paragraphs-clickable"
           onPointerDown={handleReaderPointerDown}
           onPointerUp={handleReaderPointerUp}
@@ -204,6 +230,7 @@ export function ReaderApp({ content }: { content: SiteContent }) {
             return (
               <p
                 className={showChinese ? "paragraph paragraph-zh" : "paragraph paragraph-en"}
+                data-paragraph-index={index}
                 key={paragraph.id}
                 lang={showChinese ? "zh-CN" : "en"}
               >
@@ -221,6 +248,11 @@ export function ReaderApp({ content }: { content: SiteContent }) {
 function isInteractiveTarget(target: EventTarget) {
   if (!(target instanceof Element)) return false;
   return Boolean(target.closest("button, a, input, select, textarea, label"));
+}
+
+function findParagraphElement(target: EventTarget) {
+  if (!(target instanceof Element)) return null;
+  return target.closest<HTMLElement>("[data-paragraph-index]");
 }
 
 function issueKey(issue?: Issue) {
