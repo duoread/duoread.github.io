@@ -18,7 +18,7 @@ The reader displays one language per original paragraph.
 
 - Default interleaved mode: even-indexed paragraphs show Chinese, odd-indexed paragraphs show English.
 - Single-language mode: every paragraph shows either Chinese or English.
-- In single-language mode, a tap inside the article paragraph area toggles Chinese/English. Pointer movement greater than the tap threshold is treated as scrolling/dragging and does not toggle language.
+- A tap inside the article paragraph area toggles the current language display in either mode: interleaved mode flips the starting language, and single-language mode flips the whole article between Chinese and English. Pointer movement greater than the tap threshold is treated as scrolling/dragging and does not toggle language.
 - The header button switches between `穿插语言` and `一种语言`.
 - Desktop navigation uses a scrollable article list. Mobile navigation hides the long list and uses an article selector.
 

@@ -45,6 +45,7 @@ export function ReaderApp({ content }: { content: SiteContent }) {
   const [activeIssueKey, setActiveIssueKey] = useState(issueKey(firstIssue));
   const [activeId, setActiveId] = useState("");
   const [readingMode, setReadingMode] = useState<ReadingMode>("interleaved");
+  const [interleavedLanguage, setInterleavedLanguage] = useState<Language>("zh");
   const [singleLanguage, setSingleLanguage] = useState<Language>("zh");
   const pointerStartRef = useRef<{ x: number; y: number } | null>(null);
 
@@ -83,12 +84,16 @@ export function ReaderApp({ content }: { content: SiteContent }) {
   function handleReaderPointerUp(event: PointerEvent<HTMLElement>) {
     const start = pointerStartRef.current;
     pointerStartRef.current = null;
-    if (!start || readingMode !== "single") return;
+    if (!start) return;
     if (isInteractiveTarget(event.target)) return;
 
     const moved = Math.hypot(event.clientX - start.x, event.clientY - start.y);
     if (moved > 8) return;
-    setSingleLanguage((language) => (language === "zh" ? "en" : "zh"));
+    if (readingMode === "single") {
+      setSingleLanguage((language) => (language === "zh" ? "en" : "zh"));
+    } else {
+      setInterleavedLanguage((language) => (language === "zh" ? "en" : "zh"));
+    }
   }
 
   return (
@@ -183,13 +188,17 @@ export function ReaderApp({ content }: { content: SiteContent }) {
         </header>
 
         <div
-          className={readingMode === "single" ? "paragraphs paragraphs-clickable" : "paragraphs"}
+          className="paragraphs paragraphs-clickable"
           onPointerDown={handleReaderPointerDown}
           onPointerUp={handleReaderPointerUp}
         >
           {activeArticle.paragraphs.map((paragraph, index) => {
             const showChinese =
-              readingMode === "single" ? singleLanguage === "zh" : index % 2 === 0;
+              readingMode === "single"
+                ? singleLanguage === "zh"
+                : interleavedLanguage === "zh"
+                  ? index % 2 === 0
+                  : index % 2 === 1;
             const text = showChinese
               ? paragraph.zh || "（待翻译）此段中文译文尚未生成。"
               : paragraph.en;
