@@ -10,302 +10,305 @@
   "order": 18,
   "section": "Emily Mullin",
   "title_en": "He Went to Prison for Gene-Editing Babies. Now He’s Planning to Do It Again",
-  "title_zh": "",
+  "title_zh": "他因编辑婴儿基因入狱。如今他又想再试一次",
   "rubric_en": "",
   "rubric_zh": "",
   "date": "Jan 20, 2026 6:00 AM",
   "origin_url": "",
-  "translation_status": "pending",
+  "translation_status": "translated",
   "paragraphs": [
     {
       "id": "p001",
       "en": "In 2018, a nervous-looking He Jiankui took the stage at a scientific conference in Hong Kong. A hush settled over the packed auditorium as the soft-spoken Chinese scientist adjusted his microphone and confirmed the circulating media reports: He had created the world’s first gene-edited babies.",
-      "zh": ""
+      "zh": "2018年，神情紧张的何建奎在香港的一场科学大会上走上了讲台。随着这位低调的中国科学家调整麦克风并确认了媒体上流传的报道——他已经制造了世界上第一批基因编辑婴儿——满座的礼堂顿时安静下来。"
     },
     {
       "id": "p002",
       "en": "Three little girls were born with modifications to their genomes that were intended to protect them against HIV. The changes he’d made to their DNA were permanent and heritable, meaning they could be passed down to future generations.",
-      "zh": ""
+      "zh": "三名小女孩出生时被改造了基因组，目的是让她们获得对艾滋病的抵抗力。他对她们DNA所做的改动是永久性的并且可遗传，意味着这些改变可能会传递给后代。"
     },
     {
       "id": "p003",
       "en": "A Chinese court sent him to prison for three years, and the Chinese government banned genome editing for reproductive purposes. Now He is trying to reestablish himself as a man out to change history.",
-      "zh": ""
+      "zh": "中国法院判处他有期徒刑三年，并且中国政府禁止了用于生育目的的基因编辑。如今，何建奎正在努力重塑自己，把自己定位成一个想要改写历史的人。"
     },
     {
       "id": "p004",
       "en": "Since his release in 2022, He says, he’s worked on a gene therapy for boys with Duchenne muscular dystrophy. He has yet to publish or share any results publicly, but he claims that a pharmaceutical company has taken on his Duchenne research and that funders are eager to help him continue his work. And He, who has set up an independent lab in south Beijing, recently started talking again about human embryo editing—this time to prevent Alzheimer’s. With germline editing prohibited in nearly every country including the United States, his path forward is unclear.",
-      "zh": ""
+      "zh": "自2022年出狱以来，他表示一直在研究一种用于杜氏肌营养不良症男童的基因疗法。虽然他尚未公开发表或共享任何结果，但他声称一家制药公司已接手了他的杜氏肌营养不良研究，并且有资金方积极愿意帮助他继续这项工作。如今这位在北京南部建立了独立实验室的何建奎，近期又开始谈论对人类胚胎进行编辑——这一次是为了预防阿尔茨海默病。由于几乎所有国家（包括美国）都禁止胚系编辑，他的下一步道路仍然不清晰。"
     },
     {
       "id": "p005",
       "en": "Through it all, He has documented his life on social media. He has posted about his failed romance with self-styled “biotech Barbie” Cathy Tie, a Canadian former Thiel fellow and cofounder of a human embryo editing startup. A condition of this interview was that WIRED refer to He as a “pioneer of gene editing,” but he has more colorfully referred to himself on X as “Chinese Darwin,” “Oppenheimer in China,” and “China’s Frankenstein.”",
-      "zh": ""
+      "zh": "在此期间，他一直在社交媒体上记录自己的生活。他曾发布过自己与自诩为“生物科技芭比”的前蒂尔学者、加拿大人、名为 Cathy Tie 的人类胚胎编辑初创公司联合创始人的失败恋情。此次采访的一个前提是 WIRED 应将他称为“基因编辑先驱”，但他在 X 上把自己称作“中华达尔文”“中国的奥本海默”以及“中华弗兰肯斯坦”。"
     },
     {
       "id": "p006",
       "en": "Here are 23 ways China is rewiring the future.",
-      "zh": ""
+      "zh": "以下是中国重塑未来的 23 种方式。"
     },
     {
       "id": "p007",
       "en": "He often posts photos of himself in a crisp lab coat, posing alone near scientific equipment. One glaringly empty lab shot comes with the text “I did not violate ethics, I overturned it.” More recently he dropped the austere look and posted an image of himself seated on a giant throne with prehistoric animals at his feet, a rainbow beaming down on his crown, and a double helix adorning his purple robe.",
-      "zh": ""
+      "zh": "他经常发布自己穿着干净挺括实验服、独自站在科学设备旁的照片。一次引人注目的空荡实验室合影配文道：“我没有违背伦理，我是在颠覆伦理。”最近，他又摆脱了那种端庄形象，发了一张自己坐在巨大王座上、脚边是史前动物、彩虹光束照在他王冠上的照片，身披一件紫色长袍，上面还绣着双螺旋结构。"
     },
     {
       "id": "p008",
       "en": "WIRED spoke with He about designer babies—the ones already born and the ones he hopes to eventually produce. This interview has been edited for length and clarity.",
-      "zh": ""
+      "zh": "WIRED 与 He 讨论了“设计婴儿”——那些已经出生的，以及他希望最终诞生的婴儿。此次采访经过了篇幅和清晰度的编辑。"
     },
     {
       "id": "p009",
       "en": "Emily Mullin: Back in 2018 the scientific consensus was that gene editing was not a mature technology. Do you think it’s mature now?",
-      "zh": ""
+      "zh": "埃米莉·穆林：回到2018年，科学界普遍共识是基因编辑还不是一项成熟技术。你认为现在成熟了吗？"
     },
     {
       "id": "p010",
       "en": "He Jiankui: Anyone who is the first in the world, no one can say it’s mature. The Wright brothers who made the first flight, was it mature? Of course not, but they made history.",
-      "zh": ""
+      "zh": "贾建奎：任何世界首创的人，其实都不能说技术已经成熟。像最早完成飞行的莱特兄弟，他们那时技术成熟吗？当然不成熟，但他们创造了历史。"
     },
     {
       "id": "p011",
       "en": "I’m lucky that Lulu, Nana, and the third girl were healthy; they’re normal. We have observed them for seven, eight years now. So I think it’s time to move on to hundreds of gene-edited babies. We should give a trial to maybe 300 now.",
-      "zh": ""
+      "zh": "我很幸运，露露、娜娜和第三个女孩都很健康；她们都很正常。我们已经观察她们七到八年了。所以我认为是时候转向“上百个”基因编辑婴儿了。我们现在应该先给大约300个宝宝一个试验机会。"
     },
     {
       "id": "p012",
       "en": "Do you keep in touch with the parents of the three babies?",
-      "zh": ""
+      "zh": "你还和这三个孩子的父母保持联系吗？"
     },
     {
       "id": "p013",
       "en": "Yes, we have regular contact.",
-      "zh": ""
+      "zh": "是的，我们有定期联系。"
     },
     {
       "id": "p014",
       "en": "And everything seems fine?",
-      "zh": ""
+      "zh": "而且一切都很顺利吗？"
     },
     {
       "id": "p015",
       "en": "Yeah, they go to primary school. Their family is very happy with it.",
-      "zh": ""
+      "zh": "是的，他们正在上小学，他们的家人对此非常满意。"
     },
     {
       "id": "p016",
       "en": "Have their parents told them that they were gene-edited?",
-      "zh": ""
+      "zh": "他们的父母有没有告诉他们自己是基因编辑的？"
     },
     {
       "id": "p017",
       "en": "What is your new lab focusing on?",
-      "zh": ""
+      "zh": "你们的新实验室现在专注于什么研究？"
     },
     {
       "id": "p018",
       "en": "The new lab is germline gene editing—embryo gene editing—and it is focusing on trying to prevent Alzheimer’s disease.",
-      "zh": ""
+      "zh": "新实验室专注于生殖系基因编辑——胚胎基因编辑，主要目标是尝试预防阿尔茨海默病。"
     },
     {
       "id": "p019",
       "en": "What genes are you working on?",
-      "zh": ""
+      "zh": "你们正在研究哪些基因？"
     },
     {
       "id": "p020",
       "en": "The APP-A673T mutation. This mutation was identified in the population in Iceland. People with this mutation are free of Alzheimer’s and even live longer. They’re healthy and normal. So we want to introduce the mutation to the next generation, so they will have the same mutation as Icelandic people and be free of Alzheimer’s.",
-      "zh": ""
+      "zh": "APP-A673T 突变。这个突变是在冰岛人群中被发现的。携带该突变的人没有阿尔茨海默病，甚至寿命更长。他们健康、正常。因此我们希望把这一突变引入下一代，让他们拥有与冰岛人相同的突变，从而远离阿尔茨海默病。"
     },
     {
       "id": "p021",
       "en": "Are you currently working with human embryos?",
-      "zh": ""
+      "zh": "你现在是在对人类胚胎进行研究吗？"
     },
     {
       "id": "p022",
       "en": "For now, we’re not getting into the embryo yet. We’re still on human cell line experiments.",
-      "zh": ""
+      "zh": "目前我们还没有进入胚胎阶段。我们仍在进行人体细胞系实验。"
     },
     {
       "id": "p023",
       "en": "And you’ve been doing this for the past couple of months?",
-      "zh": ""
+      "zh": "而你已经做了这项工作过去几个月了吗？"
     },
     {
       "id": "p024",
       "en": "Why are you more interested in embryo editing than in treating existing patients with gene editing?",
-      "zh": ""
+      "zh": "为什么你对胚胎编辑更感兴趣，而不是用基因编辑去治疗已经存在的患者？"
     },
     {
       "id": "p025",
       "en": "Because it is going to change the world.",
-      "zh": ""
+      "zh": "因为这会改变世界。"
     },
     {
       "id": "p026",
       "en": "Where does your funding come from?",
-      "zh": ""
+      "zh": "你的经费从哪里来？"
     },
     {
       "id": "p027",
       "en": "Donations and some people who provided early seed money. I don’t talk to investors; they come to me. Maybe every week, an investor comes to Beijing, wants to have dinner with me and also wants to invest in me, or maybe they propose some business ideas. Also from Canada, from Russia, all kinds of places.",
-      "zh": ""
+      "zh": "主要是捐赠，还有一些早期提供种子资金的人。 我不主动去找投资人；他们会来找我。也许每个星期都会有投资人来北京，想跟我共进晚餐，也想投资我，或者他们会提一些商业点子。也有来自加拿大、俄罗斯，还有各个地方的人。"
     },
     {
       "id": "p028",
       "en": "How much has your lab raised so far? Does this include any government grants?",
-      "zh": ""
+      "zh": "你的实验室到目前为止筹集了多少资金？这其中包括政府补助吗？"
     },
     {
       "id": "p029",
       "en": "50 million yuan [$7 million]. No government funding.",
-      "zh": ""
+      "zh": "5千万人民币（约700万美元）。没有政府资金。"
     },
     {
       "id": "p030",
       "en": "And you’re hoping to raise more?",
-      "zh": ""
+      "zh": "而你希望筹集更多资金？"
     },
     {
       "id": "p031",
       "en": "I need $10 million. With that money, I will finish the Alzheimer’s work—from cell lines to mice to monkeys. And even a clinical trial, a small-scale clinical trial.",
-      "zh": ""
+      "zh": "我需要一千万美元。拿到这笔钱后，我将完成阿尔茨海默病的工作——从细胞系到小鼠再到猴子。甚至还会做临床试验，一个小规模的临床试验。"
     },
     {
       "id": "p032",
       "en": "You mentioned on X that a patient had donated some money.",
-      "zh": ""
+      "zh": "你在X上提到有一位患者捐了些钱。"
     },
     {
       "id": "p033",
       "en": "Oh, yes, the patient is an entrepreneur of a big company. Also his family has this disease.",
-      "zh": ""
+      "zh": "嗯，是的，这位病人是大公司的企业家，而且他家里也有人患有这种病。"
     },
     {
       "id": "p034",
       "en": "Do you mean Alzheimer’s, or another disease?",
-      "zh": ""
+      "zh": "你是指阿尔茨海默症，还是其他病？"
     },
     {
       "id": "p035",
       "en": "I cannot disclose the disease. It is the patient’s privacy.",
-      "zh": ""
+      "zh": "我不能透露这是什么病，这是病人的隐私。"
     },
     {
       "id": "p036",
       "en": "Is it fair to say that your funders are wealthy people who want their own babies to have protective traits?",
-      "zh": ""
+      "zh": "可以说，你的资助者是那些希望自己孩子拥有抗性特征的富人吗？"
     },
     {
       "id": "p037",
       "en": "How many people are working in your lab on Alzheimer’s?",
-      "zh": ""
+      "zh": "你们实验室里有多少人从事阿尔茨海默症研究？"
     },
     {
       "id": "p038",
       "en": "It’s just me plus two, three people.",
-      "zh": ""
+      "zh": "只有我，再加上两、三个人。"
     },
     {
       "id": "p039",
       "en": "Are you allowed to carry out a clinical trial in China given your criminal history?",
-      "zh": ""
+      "zh": "考虑到你的犯罪前科，你被允许在中国开展临床试验吗？"
     },
     {
       "id": "p040",
       "en": "Germline gene editing is currently banned in China. So all I’m doing in Beijing is human cell lines, mice and monkey embryos, then I’ll stop. I wanted to start a lab in Austin, Texas, to continue the embryo editing research, but I don’t have a passport.",
-      "zh": ""
+      "zh": "目前中国禁止胚系基因编辑。因此我在北京所做的一切都只是人类细胞系、老鼠和猴胚胎方面的研究，之后我就会停止。我想在美国德克萨斯州奥斯汀建立一个实验室，继续进行胚胎编辑研究，但我没有护照。"
     },
     {
       "id": "p041",
       "en": "So my new plan is to go to Hong Kong. But for the human trial, it has to be somewhere else. South Africa made it legal last year. [Editor’s note: In August 2025, South Africa removed language from its national ethics guidelines that some had interpreted as potentially allowing heritable human genome editing.]",
-      "zh": ""
+      "zh": "所以我的新计划是去香港。不过做人体试验的话，必须在别的地方进行。南非在去年让它合法化了。【编者注：2025年8月，南非从其国家伦理指南中删除了部分措辞，先前一些人据此认为这可能允许可遗传的人类基因组编辑。】"
     },
     {
       "id": "p042",
       "en": "Do you think that South Africa would be receptive to you going there?",
-      "zh": ""
+      "zh": "你认为南非会欢迎你去那里吗？"
     },
     {
       "id": "p043",
       "en": "I already talked to people from South Africa. They showed great interest.",
-      "zh": ""
+      "zh": "我已经和一些南非人谈过了。他们表现出了极大的兴趣。"
     },
     {
       "id": "p044",
       "en": "Are you allowed to leave the country?",
-      "zh": ""
+      "zh": "你被允许离开这个国家吗？"
     },
     {
       "id": "p045",
       "en": "You have condemned research on IQ enhancements, but some people might consider editing embryos to prevent Alzheimer’s a form of enhancement. Where do you draw the line between disease prevention and enhancement?",
-      "zh": ""
+      "zh": "你曾谴责过关于提高智商的研究，但也有人会认为，为了预防阿尔茨海默病而编辑胚胎也是一种增强。你认为在疾病预防和增强之间该如何划线？"
     },
     {
       "id": "p046",
       "en": "Recently, some billionaires in Silicon Valley have been pushing forward to enhance human IQ, in particular in babies. I think that is a Nazi eugenic experiment. That should be stopped. The scientists working on this should be arrested if they want to enhance human IQ for the billionaires. With Alzheimer’s or HIV, it’s just for preventing human disease and never to enhance the IQ of a person.",
-      "zh": ""
+      "zh": "最近，硅谷一些亿万富翁在推动提高人类智商的计划，尤其是对婴儿进行这种操作。我认为这是纳粹式的优生学实验。这样的做法应该被叫停。如果这些科学家想要为亿万富翁去提高人类智商，就应该被逮捕。面对阿尔茨海默病或 HIV，这只是为了预防人类疾病，而绝不是为了提升某个人的智商。"
     },
     {
       "id": "p047",
       "en": "How many years away do you think you are from trying to create babies that have been edited for Alzheimer’s protection?",
-      "zh": ""
+      "zh": "你认为我们还要多少年，才能尝试去制造那些经过编辑、具备阿尔茨海默病防护能力的婴儿？"
     },
     {
       "id": "p048",
       "en": "I need two years to finish mice and monkeys and also some human embryo studies. And then we wait for regulatory approval in South Africa. Or if Americans are OK with it, then we go to America, or Japan.",
-      "zh": ""
+      "zh": "我需要两年时间来完成小鼠和灵长类（猴）研究，并再做一些人体胚胎研究。然后我们再等待南非的监管审批。如果美国人认可，我们就去美国，或者日本。"
     },
     {
       "id": "p049",
       "en": "There are already animals being created from highly edited embryos. Like the dire wolves that were revealed in 2025 and the pigs that are being used for human transplants. Do you think it might be possible to one day do multiple genetic edits to a human embryo?",
-      "zh": ""
+      "zh": "已有动物是由高度编辑的胚胎中培育出来的。比如2025年曝光的恐狼，以及正在用于人体移植的猪。你觉得有一天我们是否可能对人类胚胎进行多重基因编辑？"
     },
     {
       "id": "p050",
       "en": "That’s exactly what we are developing in our lab. We want to make 12 edits in one embryo and make it safe.",
-      "zh": ""
+      "zh": "这正是我们在实验室里正在推进的方向。我们希望在一个胚胎中完成12处编辑，并且保证安全。"
     },
     {
       "id": "p051",
       "en": "If we could have multiple edits that could prevent cancer, Alzheimer’s, cardiovascular disease, HIV, and others, in a panel of 10 to 20 genes, that will prevent all the major diseases that are happening today. The children born will be much healthier and maybe even live longer than us.",
-      "zh": ""
+      "zh": "如果我们能够在10到20个基因组成的组合中实现多重编辑，以预防癌症、阿尔茨海默病、心血管疾病、艾滋病等疾病，那么今天发生的许多主要疾病就都能被预防。出生的孩子将会更健康，甚至可能比我们活得更长。"
     },
     {
       "id": "p052",
       "en": "I could see this research being controversial to some people. How do you plan to avoid run-ins with Chinese authorities?",
-      "zh": ""
+      "zh": "我能想象这项研究会让一些人觉得有争议。你们打算如何避免与中国当局发生冲突？"
     },
     {
       "id": "p053",
       "en": "Just be open, transparent, do the right thing. I post my research plan on social media, so everybody knows what I am doing. My lab is also open. It’s not a secret. People come visit. Unfortunately, it’s not open for foreigners anymore due to national security reasons.",
-      "zh": ""
+      "zh": "只要公开透明，做正确的事就行。我的研究计划会发在社交媒体上，这样每个人都知道我在做什么。我的实验室也是公开的，不是秘密。人们可以来参观。不幸的是，由于国家安全原因，它不再对外国人开放。"
     },
     {
       "id": "p054",
       "en": "Have you had interactions with the Chinese government since you were in prison?",
-      "zh": ""
+      "zh": "你在入狱后是否与中国政府有过任何接触？"
     },
     {
       "id": "p055",
       "en": "I’m not going to go against the law.",
-      "zh": ""
+      "zh": "我不会违背法律。"
     },
     {
       "id": "p056",
       "en": "You gained instant fame with the birth of those babies and then spent time in prison, and now here you are continuing your work. What have you learned in this time?",
-      "zh": ""
+      "zh": "你因那些婴儿的诞生而一举成名，之后又在监狱里度过了一段时间，现在你仍在继续这项工作。这段时间你有什么收获？"
     },
     {
       "id": "p057",
       "en": "The most important thing is, make sure the patient is happy. Make sure that it improves their health or happiness. That’s the number one requirement for any medical research. You don’t worry about ethics, national geopolitics, or anything.",
-      "zh": ""
+      "zh": "最重要的是，确保患者是开心的。确保这项事能够改善他们的健康或幸福。这是任何医学研究的第一要务。你不该去担心伦理、国际地缘政治，或任何其他问题。"
     },
     {
       "id": "p058",
       "en": "What Say You?Let us know what you think about this article in the comments below. Alternatively, you can submit a letter to the editor at [email protected].",
-      "zh": ""
+      "zh": "你怎么看？欢迎在下方评论区告诉我们你对这篇文章的看法。或者，你也可以给主编写信，邮址为 [email protected]。"
     }
-  ]
+  ],
+  "translated_at": "2026-07-22T17:00:15+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
 }

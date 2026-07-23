@@ -1,0 +1,114 @@
+{
+  "id": "064-the-future-of-chipmaking-looks-more-like-manhattan-than-silicon-valley",
+  "source_href": "e610aa58-06c4-489a-ac22-24602487755e.html",
+  "publication": "economist",
+  "issue": "2026-07-11",
+  "issue_published_at": "2026-07-11",
+  "article_published_at": "July 9th 2026",
+  "published_at": "July 9th 2026",
+  "published_date_source": "article",
+  "order": 64,
+  "section": "Science & technology",
+  "title_en": "The future of chipmaking looks more like Manhattan than Silicon Valley",
+  "title_zh": "芯片制造的未来看起来更像曼哈顿，而不是硅谷",
+  "rubric_en": "Constrained by physics and politics, chipmakers are building upwards",
+  "rubric_zh": "在物理和政治的制约下，芯片厂商正朝“向上建”方向发展",
+  "date": "July 9th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "Drive around Silicon Valley and you will see surprisingly little skyline. The landscape is dotted with low-rise offices, bungalows and malls. The microchips that gave the region its name are built in much the same way. Millions of low-rise transistors—the electrical switches which instantiate a binary 1 or 0, and thus form the basis of computing—are plonked next to each other on a wafer of silicon.",
+      "zh": "在硅谷开车兜一圈，你会发现这里的天际线令人惊讶地不高。这里的景观多是低层写字楼、平房和商场。这个地区之所以得名的微芯片，也是用差不多同样的方式制造的。数以百万计的低矮晶体管——也就是实现二进制 1 或 0 的电子开关，因而构成了计算的基础——被并排放置在一片硅晶圆上。"
+    },
+    {
+      "id": "p002",
+      "en": "Over the past half-century, in pursuit of higher performance, chipmakers have learned to shrink their transistors and pack them together ever more tightly. But that trick is running out of road. To keep progress going, firms are starting, at last, to build upwards. The industry’s future will look less like Californian sprawl and more like the vertical cityscape of Manhattan.",
+      "zh": "在过去半个世纪里，为了追求更高性能，芯片制造商已经学会了不断缩小晶体管尺寸，并把它们堆得越来越紧。但这招已经接近极限。为了让进步持续下去，企业终于开始向上建造。这个行业的未来看起来会更像曼哈顿的垂直城市天际线，而不像加州那种横向蔓延。"
+    },
+    {
+      "id": "p003",
+      "en": "On June 16th, at a conference in Hawaii, Samsung Electronics, a South Korean firm, said it had managed to stack two types of transistor on top of each other, allowing it to make significant savings on space. A few days later IBM, an American firm that carries out research into advanced chipmaking, announced a vertical transistor of its own. Intel and TSMC, two other incumbent giants, are pursuing similar technology, which the industry hopes may turn up in commercial products early in the 2030s.",
+      "zh": "6月16日，韩国企业三星电子在夏威夷的一场会议上表示，它已经设法将两种类型的晶体管叠放在一起，从而显著节省了空间。几天后，致力于先进芯片制造研究的美国企业IBM宣布了其自己的垂直晶体管技术。英特尔和台积电这两家老牌巨头也在追求类似技术，行业内希望这些技术能在2030年初期就进入商业产品。"
+    },
+    {
+      "id": "p004",
+      "en": "China’s tech champions are chasing similar ideas, but for slightly different reasons. American export controls have cut them off from the manufacturing tools necessary to build the tiniest transistors, forcing them to look for alternative ways of doing things. On May 25th Huawei, the country’s leading chipmaker, announced a technology called “Logic Folding”, which aims to stack entire circuits rather than individual components. Whether to escape the constraints of physics or of American sanctions, it seems the only way to go is up.",
+      "zh": "中国的科技巨头们也在追逐类似思路，但动机略有不同。美国出口管制切断了他们获取制造最小晶体管所需制造设备的渠道，迫使他们寻找替代性的做法。5月25日，中国领先的芯片制造商华为宣布了一项名为“Logic Folding”的技术，目标是将整个电路堆叠，而不是单个元件。无论是为了摆脱物理限制，还是摆脱美国制裁的约束，似乎唯一的出路都只能是向上。"
+    },
+    {
+      "id": "p005",
+      "en": "Start with physics. Making transistors smaller helps in two ways. One is simply that cramming more of them into a given area allows for more sophisticated chips. The other is that, thanks to a quirk of the device, the smaller a transistor becomes the better it performs—at least, up to a point. Smaller transistors switch on and off more quickly and consume less power while doing so. In 1965, Gordon Moore, who later co-founded Intel, predicted that the number of transistors that could fit on a piece of silicon would double roughly every year (later revised to two). The industry organised itself around what came to be known as Moore’s law.",
+      "zh": "从物理学说起。让晶体管变得更小有两个好处。其一是，在同一块面积里塞进更多晶体管，就能制造更复杂的芯片。其二是，由于器件本身的一个特性，晶体管越小性能往往越好——至少在某个范围内如此。更小的晶体管开关速度更快，而且在运行时耗电更低。1965年，后来共同创立英特尔的戈登·摩尔预测，硅片上可容纳的晶体管数量大约每年翻一番（后来改为每两年翻一番）。半导体行业随后围绕后来被称为摩尔定律的规律组织了几十年。"
+    },
+    {
+      "id": "p006",
+      "en": "But by the mid-2000s the transistors started misbehaving. They had become so tiny that current would flow even when they were meant to be switched off, wasting power and generating unwanted heat. Redesigning them bought a bit more time. Flat transistors gave way to slightly more vertical designs called FinFETs, which helped control leakage. FinFETs were followed by gate-all-around (GAA) transistors, the current state of the art.",
+      "zh": "但到21世纪初，这些晶体管开始出现失常。它们变得如此之小，以致于即使在本应关闭的状态下也会有电流流过，导致浪费能量并产生不必要的热量。重新设计晶体管又赢得了一些时间。平面晶体管逐渐被一种更“立体”一点的结构——鳍式场效应晶体管（FinFET）取代，它有助于抑制漏电流。FinFET之后又出现了“环绕栅极”（GAA）晶体管，这是目前的最先进技术。"
+    },
+    {
+      "id": "p007",
+      "en": "The redesigns kept shrinking going, but broke its economics. For decades firms could deliver more computing power at a lower cost per transistor. No longer. Bloomberg Intelligence, a data provider, estimates that, in 2024, a billion transistors on TSMC’s N3 process, then the state of the art, cost roughly 40% more than on the previous N5 process (see chart).",
+      "zh": "持续的重设计和缩小进程让晶体管尺寸继续下降，但也打破了原有的经济规律。几十年来，企业可以以更低的每晶体管成本提供更强的计算能力。情况不再如此。数据供应商Bloomberg Intelligence估算，在2024年，台积电（TSMC）N3制程（当时的最先进工艺）上十亿个晶体管的成本，大约比前一代N5制程高40%（见图表）。"
+    },
+    {
+      "id": "p008",
+      "en": "One target for the great shift upwards is logic gates, devices built up from transistors. The simplest, an inverter or “NOT” gate, turns a 1 into a 0 or vice versa. It is made of two connected transistors placed side by side. Engineers must leave a gap to prevent the two transistors from electrically interfering with each other.",
+      "zh": "这次向上迁移的主要目标之一是逻辑门，即由多个晶体管构成的器件。最基本的逻辑门是反相器，也就是“NOT”门，它把1变成0或把0变成1。它由两个并排连接的晶体管构成。工程师必须在两颗晶体管之间留出间隙，以防它们在电气上相互干扰。"
+    },
+    {
+      "id": "p009",
+      "en": "IBM reckons that by stacking transistors instead, by using a device called a “complementary field-effect transistor” (CFET), it can cut by half the area required for logic gates, while delivering either 50% more performance or 70% better energy efficiency. A CFET stacks one GAA transistor directly on top of another, with an insulating layer ensuring the two play nicely together.",
+      "zh": "IBM认为，如果改为垂直叠放晶体管，即使用一种名为“互补栅极场效应晶体管”（CFET，complementary field-effect transistor）的器件，就可以把逻辑门所需面积减少一半，并且可同时实现50%更高性能或70%更高能效。CFET技术将一个GAA晶体管直接叠放在另一个晶体管之上，并通过一层绝缘层保证两者协同工作。"
+    },
+    {
+      "id": "p010",
+      "en": "The firm builds its CFETs using a method called sequential manufacturing. The bottom transistor is built first. Then a second silicon wafer is flipped over and bonded to the first, a process rather like putting the top slice of a sandwich onto the bottom. The upper transistor is then built on this second, transferred layer. Intel, Samsung and TSMC, by contrast, favour a “monolithic” approach for their CFETs, in which the two transistors are built above one another on the same silicon substrate.",
+      "zh": "该公司采用“顺序制造”方法来生产CFET。先制作下层晶体管，然后翻转第二块硅片并与第一块键合，这个过程很像把三明治的上片放到下片上。之后，在这第二层转移层上再制造上层晶体管。相比之下，英特尔、三星和台积电更偏好“单片式”方案，即在同一硅基底上将两个晶体管上下叠建。"
+    },
+    {
+      "id": "p011",
+      "en": "Serge Biesemans of IMEC, a semiconductor research organisation based in Belgium, says the monolithic option is a better fit for existing manufacturing methods—though it requires modifying tools so that they can handle the unusual geometry of stacked transistors. IBM’s sequential CFETs avoid the need to fiddle with tools, at the cost of extra manufacturing steps.",
+      "zh": "位于比利时的半导体研究机构IMEC的Serge Biesemans表示，单片式方案更适配现有制造工艺，但它要求改造设备，以处理叠层晶体管这种不常见的几何结构。IBM的顺序式CFET则避免了对设备进行改造，但代价是增加了额外的制造步骤。"
+    },
+    {
+      "id": "p012",
+      "en": "China’s push into the third dimension is driven by politics. Since 2019 America has barred ASML, a Dutch toolmaker, from selling its extreme-ultraviolet (EUV) lithography machines to China. This makes it very hard for Chinese firms to make chips with the tiniest possible components. So Huawei is trying a different tack.",
+      "zh": "中国向“第三维”延展的努力更多是出于政治考量。自2019年以来，美国禁止荷兰设备商ASML向中国出售其极紫外（EUV）光刻机。这使得中国企业要制造最小尺寸晶体管芯片变得非常困难。因此，华为正在尝试另一条路线。"
+    },
+    {
+      "id": "p013",
+      "en": "The firm argues that a chip’s speed depends on two things: how fast its transistors can switch on and off, and how long it takes for a signal to zip through the system. The switching speeds of modern chips are so high—billions of times each second—that designers account for the time it takes for an electrical signal, which moves at a significant fraction of the speed of light, to propagate across one.",
+      "zh": "该公司认为，一颗芯片的速度取决于两件事：晶体管开关速度有多快，以及信号在系统中传播需要多少时间。现代芯片的开关速度高得惊人——每秒可达数十亿次——因此设计者需要把电信号在系统内传播所需的时间纳入计算，而这些信号的传播速度达到光速的显著比例。"
+    },
+    {
+      "id": "p014",
+      "en": "Because sanctions have limited the first variable, Huawei is focused on the second. “Logic Folding” splits what would normally be a single chip across two bits of silicon. Those two wafers are then placed face-to-face and joined using ultra-precise bonding. Muhannad Bakir, a professor of engineering at the Georgia Institute of Technology in Atlanta, uses the analogy of two dots on a sheet of paper. Fold the paper so the dots touch and the distance between them almost disappears. Done in silico, that cuts the distances electrical signals need to travel, improving speed.",
+      "zh": "由于制裁限制了第一项指标，华为将重点放在第二项上。所谓“逻辑折叠”将原本一整块的芯片拆分到两片硅片上。随后，这两片晶圆面对面放置，并通过超精密键合连接。亚特兰大佐治亚理工学院的工程学教授穆哈纳德·巴基尔（Muhannad Bakir）用一张纸上的两个点来打比方：把纸折起来，使这两个点相互接触，它们之间的距离几乎消失。若在“硅内”完成这种折叠，就能缩短电信号需要走的距离，从而提升速度。"
+    },
+    {
+      "id": "p015",
+      "en": "Huawei reckons Logic Folding can improve energy efficiency by around 40% while also increasing performance. It claims to achieve a transistor density of roughly 238m per square millimetre—mimicking the density of TSMC’s N3 process—despite using older manufacturing tools. Such comparisons should be treated cautiously, since transistor densities are difficult to compare directly across manufacturing processes. They nonetheless illustrate the company’s ambition.",
+      "zh": "华为估计，逻辑折叠可将能效提升约40%，同时带来更高性能。它声称，即使使用较老的制造设备，也能实现约每平方毫米2380万晶体管的晶体管密度——与台积电N3制程的密度相当。由于不同制造工艺之间晶体管密度难以直接横向比较，这类对比应当谨慎对待。尽管如此，这也反映了该公司十分明确的雄心。"
+    },
+    {
+      "id": "p016",
+      "en": "Building tall solves some problems while creating others. One is heat, already one of the biggest limiting factors in chip design. Since the heat-generating volume of a 3D chip will rise more quickly than the surface area available to remove it, the problem is likely to get worse. Chip-design software was written for largely flat layouts and must be rethought. Wafer-to-wafer bonding demands extraordinary precision; defects in either layer can sharply reduce yields. Huawei does not expect large-scale production before around 2031.",
+      "zh": "“向上建”能解决一些问题，但也会带来新的问题。其中之一是热量，而热量本来就是芯片设计中最大的限制因素之一。由于三维芯片的发热体积增长速度会快于可用于散热的表面积，问题很可能会更加严重。芯片设计软件原本是为基本平面的布局编写的，必须重新思考和改造。晶圆到晶圆的键合要求极高精度；任一层中的缺陷都可能大幅降低成品率。华为预计，在2031年前不太可能进入大规模量产。"
+    },
+    {
+      "id": "p017",
+      "en": "For rivals such as TSMC the benefits of adopting Huawei’s approach are not quite worth the costs today. The company reckons it can squeeze one or two more iterations out of the old, low-rise model. Huawei has no such option. The slowing of Moore’s law has made the old ways of doing things less attractive for everyone. For Huawei, as the company itself admits, politics has meant those constraints have arrived earlier, and are more pressing. ■",
+      "zh": "对于台积电等竞争对手而言，采用华为做法的收益目前并不足以抵消其成本。公司认为自己还能从旧的低层模式中再榨出一到两个迭代。华为则没有这种选择。摩尔定律放缓使得传统做法对所有人都不再那么有吸引力。对于华为来说，正如公司自己承认的那样，政治问题意味着这些约束来得更早，也更为迫切。■"
+    },
+    {
+      "id": "p018",
+      "en": "Curious about the world? To enjoy our mind-expanding science coverage, sign up to Simply Science, our weekly subscriber-only newsletter.",
+      "zh": "想了解这个世界吗？要欣赏我们开阔思维的科学内容，请订阅 Simply Science——我们每周发布的仅限订阅者通讯。"
+    }
+  ],
+  "translated_at": "2026-07-22T23:25:51+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "021-requiem-for-a-barber",
+  "source_href": "index_split_029.html",
+  "publication": "new_yorker",
+  "issue": "2026-07-13",
+  "issue_published_at": "2026-07-13",
+  "article_published_at": "",
+  "published_at": "2026-07-13",
+  "published_date_source": "issue",
+  "order": 21,
+  "section": "Poems",
+  "title_en": "“requiem for a barber”",
+  "title_zh": "“理发师安魂曲”",
+  "rubric_en": "",
+  "rubric_zh": "",
+  "date": "2026-07-13",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "on monday all must rest, so monday it will stay:shade the mirrors, slip the edges of the shears away.",
+      "zh": "周一人人都得休息，所以周一就这样停着：给镜子打上一层阴影，把剪刀的刃缘掀开。"
+    },
+    {
+      "id": "p002",
+      "en": "who will knead his fingers now, circling, until the cloudof shampoo gathers over us; who will conduct his crowd",
+      "zh": "现在，谁还会揉着手指，绕着圈，直到洗发水般的泡沫云在我们上方聚起；谁会指挥他的那群人"
+    },
+    {
+      "id": "p003",
+      "en": "of bottles on the shelf, the oils and fragrances,with small hands? who will blast the glorious organs",
+      "zh": "架上那些瓶子，油和香精，都是用小手吗？谁会发出宏伟器官的轰鸣"
+    },
+    {
+      "id": "p004",
+      "en": "of blow dryers and let them roar, let them swell?of all the tints, take the black; darken up the colorful.",
+      "zh": "用吹风机的巨大嗓音，把它们全部放大、放声嘶鸣？把所有色调里挑出黑色；把鲜艳的颜色压暗。"
+    },
+    {
+      "id": "p005",
+      "en": "now, magnificently, slowly as a tent, there are no capesto drape across the body; now anyone who stops",
+      "zh": "现在，宏伟而缓慢地，如同一顶帐篷，身体上再没有帽子可披；现在任何停下来的人"
+    },
+    {
+      "id": "p006",
+      "en": "will not know where they’re going or what they’ll findbut that the hair keeps growing fuller, growing wild.",
+      "zh": "都不会知道自己要去哪里，也不会知道会找到什么；但头发却一直长得更浓、更狂野。"
+    },
+    {
+      "id": "p007",
+      "en": "(Translated, from the German, by David Keplinger.)",
+      "zh": "（译自德文，译者大卫·凯普林格）"
+    },
+    {
+      "id": "p008",
+      "en": "This is drawn from “Wisp.”",
+      "zh": "这是改编自《Wisp》。"
+    }
+  ],
+  "translated_at": "2026-07-22T23:51:00+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

@@ -10,307 +10,310 @@
   "order": 29,
   "section": "Steven Levy",
   "title_en": "Alex Karp Goes to War",
-  "title_zh": "",
+  "title_zh": "亚历克斯·卡普参战",
   "rubric_en": "",
   "rubric_zh": "",
   "date": "Nov 10, 2025 6:00 AM",
   "origin_url": "",
-  "translation_status": "pending",
+  "translation_status": "translated",
   "paragraphs": [
     {
       "id": "p001",
       "en": "Alex Karp and I would not seem to have much in common. I work for WIRED, which does tough reporting on Trumpworld; Karp is the CEO of Palantir, a $450 billion firm that has contracts with agencies like the CIA and ICE and worked for the Israeli military during its campaign in Gaza. I live in the East Village of New York City, and the home Karp spends the most time in is a 500-acre compound in rural New Hampshire. (Last year he was one of the highest paid executives in the United States.) I was a plain old English major, and he’s got a law degree and a PhD in philosophy, studying under the legendary Jürgen Habermas. I consider myself a progressive; Karp regards that stuff as “pagan religion.”",
-      "zh": ""
+      "zh": "我和亚历克斯·卡普（Alex Karp）看起来并不怎么像一对。我的工作是为《连线》（WIRED）做关于特朗普圈的硬核报道；卡普是Palantir的首席执行官，这家公司价值4500亿美元，与中央情报局（CIA）和移民与海关执法局（ICE）等机构签有合同，并在以色列加沙行动中为以军提供了技术支持。我住在纽约东村，而卡普花最多时间的家是位于新罕布什尔州乡村的一处500英亩庄园。去年，他是美国收入最高的高管之一。我是一个普通的英文专业学生，而他拥有法学学位和哲学博士，曾在传奇人物尤尔根·哈贝马斯门下学习。我自认是进步派；卡普则把那一类观念当作“异教宗教”。"
     },
     {
       "id": "p002",
       "en": "But we can bond over one shared status: Both of us are alumni of Central High School, a Philadelphia magnet school. (Not at the same time. I have some years on the 58-year-old executive.) Maybe it was that connection that led Karp to agree to a sit-down. The son of a Jewish pediatrician and a Black artist, Karp struggled with dyslexia, and at Central he seems to have turned a corner—even speculating now that overcoming the challenge helped position him for later success.",
-      "zh": ""
+      "zh": "但我们有一个共同点可以建立联系：我们两个人都毕业于费城的中心高中——一所文理兼收的磁石学校。（时间并不重叠。我比这位58岁的高管早了几年毕业。）也许正是这个联系让卡普同意见面。卡普是犹太儿科医生和一位黑人艺术家的儿子，他曾在读书时有阅读障碍（读写困难症）问题，在中心高中他似乎扭转了局面——他现在甚至猜想，正是战胜这个障碍让他后来更容易取得成功。"
     },
     {
       "id": "p003",
       "en": "We conducted our interview at an annual gathering of Palantir’s corporate customers. The event had the giddy vibe of a multilevel marketing summit. The customers I talked to—from giants like American Airlines to relatively modest family firms—said that Palantir’s AI-powered systems are expensive but well worth it.",
-      "zh": ""
+      "zh": "我们在Palantir企业客户的年度年会中进行了采访。那场活动有种像直销峰会那样兴奋而浮夸的氛围。我采访到的客户包括从美国航空这样的巨头，到一些规模相对较小的家族企业，都表示Palantir的人工智能驱动系统虽然昂贵，但非常值得购买。"
     },
     {
       "id": "p004",
       "en": "Not presenting at the event are the customers who provide Palantir with the majority of its business—the US government and its allies. (The company does not do business with Russia or China.) Palantir was founded to put Silicon Valley’s innovation into defense and government technology. With coauthor Nicholas Zamiska (a Palantirian), Karp laid out his philosophy earlier this year in a book called The Technological Republic, a surprisingly readable polemic that skewers Silicon Valley for insufficient patriotism. In Karp’s view, the antiestablishment tone of Apple’s Macintosh marketing was the original sin in a tech culture that celebrates indulgent individualism and neglects nationalist concerns. At the conference, Karp, dressed in a white T-shirt and jeans, began his opening remarks by saying, “We’ve been at odds with Silicon Valley on and off since our inception 20 years ago.” In 2020, Karp moved the company headquarters from Palo Alto to Denver, whereupon it became that state’s wealthiest corporation.",
-      "zh": ""
+      "zh": "没有在会上出现的是那些为Palantir贡献其主要业务量的客户——美国政府及其盟友。（该公司不与俄罗斯或中国做生意。）Palantir成立之初的目标，就是把硅谷的创新带进国防和政府科技领域。与共同作者尼古拉斯·扎米斯卡（Nicholas Zamiska，Palantir内部人士）合写的《技术共和国》一书中，卡普今年早些时候阐述了他的理念。这本书读起来出乎意料地顺畅，是一部抨击硅谷爱国意识不足的论辩性著作。在卡普看来，苹果麦金塔（Macintosh）营销中的反建制色彩，是科技文化的原罪；这种文化崇尚放纵式个人主义，却忽视了民族国家层面的关注。会议上，身穿白色T恤和牛仔裤的卡普在开场致辞时说：“我们自公司成立20年以来，时而与硅谷不和。”2020年，卡普将公司总部从帕洛阿尔托搬到丹佛，之后它便成为该州最有价值的企业。"
     },
     {
       "id": "p005",
       "en": "Some see Karp as a dystopic supervillain. He responds to those critics aggressively, bluntly, and without a shred of remorse. After years of contracts, the company has apparently proven to the government’s satisfaction that its tools can effectively leverage information on the battlefield and in intelligence operations. Palantir has a multimillion-dollar contract with ICE involving “targeting and enforcement”—essentially helping the agency to locate people for deportation. In Ukraine, Karp says with pride, the company’s products have helped deliver lethal force. Palantir has a Code of Conduct that supposedly binds the company to, among other things, “protect privacy and civil liberties,” “protect the vulnerable,” “respect human dignity,” and “preserve and promote democracy.” In an open letter last May, 13 former workers accused Palantir’s leadership of having abandoned its founding values and of being complicit in “normalizing authoritarianism under the guise of a ‘revolution’ led by oligarchs.” Karp has also revealed that other employees have left because of the company’s work with the Israel military. His retort: If you’re not generating opposition, you’re probably doing something wrong.",
-      "zh": ""
+      "zh": "有人把卡普视为反乌托邦的超级反派。对此类批评，他会用强硬、直白且毫无悔意的方式回应。经过多年签约，这家公司似乎已经向政府证明了其工具在战场和情报行动中能够有效地发挥信息效能。Palantir 与美国移民海关执法局（ICE）有一项价值数百万美元的合同，内容是“目标定位与执法”——本质上是帮助该机构定位待遣返人员。在乌克兰，卡普自豪地说，公司产品帮助实施了致命火力。Palantir 有一套《行为准则》，据称要求公司做到“保护隐私和公民自由”、“保护弱势群体”、“尊重人类尊严”，以及“维护并促进民主”。去年五月的一封公开信中，13名前员工指责 Palantir 的领导层背弃了创始价值观，并在“寡头主导的‘革命’伪装下”参与“将威权主义正常化”。卡普还透露，其他员工也离职了，因为公司与以色列军方的合作。他的反驳是：如果你没有制造反对意见，那么你大概在做错了什么。"
     },
     {
       "id": "p006",
       "en": "Beneath his fiery defense of Palantir, I sense that Karp yearns to be understood. He noted that all anyone wants to talk to him about is ICE, Israel, and Ukraine. I wanted to visit those subjects, too, and we did. But our conversation also touched on Donald Trump, democracy, and his love affair with German culture. Oh, and Central High.",
-      "zh": ""
+      "zh": "在他对 Palantir 的激烈辩护背后，我能感到卡普渴望被理解。他指出，大家都想和他谈论的只有 ICE、以色列和乌克兰。我也希望讨论这些主题，于是我们确实聊了这些。不过，我们的对话还涉及了唐纳德·特朗普、民主以及他对德国文化的迷恋。哦，还有中央高中。"
     },
     {
       "id": "p007",
       "en": "STEVEN LEVY: I understand that your experience at Central High in Philadelphia was transformational.",
-      "zh": ""
+      "zh": "STEVEN LEVY：我理解你在费城中央高中的经历是具有转折性的。"
     },
     {
       "id": "p008",
       "en": "ALEX KARP: They gave me an IQ test for the mentally gifted program. My parents had never bothered to tell me to get all A’s. But when the person in charge, Mrs. Snyder, got my IQ test she told me, “Clearly you’re dyslexic, but someone with your IQ can’t get B’s, you have to get all A’s.” That’s when I went from a strong student to an exceptional one. She kind of changed my life.",
-      "zh": ""
+      "zh": "ALEX KARP：他们给我做了智力特长项目的智商测试。我的父母从来没催我必须拿到全 A。可是当负责人斯诺德太太看到我的智商结果后，她跟我说：“很明显你有阅读障碍，但拥有你这样的智商不可能拿 B，你必须拿全 A。” 那就是我从一个好学生变成优秀学生的转折点。可以说，她改变了我的人生。"
     },
     {
       "id": "p009",
       "en": "A lot of people say that it isn’t clear exactly what Palantir does. Can you explain it in your own words?",
-      "zh": ""
+      "zh": "很多人说，帕兰提尔到底在做什么并不清楚。你能用你自己的话解释一下吗？"
     },
     {
       "id": "p010",
       "en": "If you’re an intelligence agency, you’re using us to find terrorists and organized criminals while maintaining the security and data protection of your country. Then you have the special forces. How do you know where your troops are? How do you get in and out of the battlefield as safely as possible, avoiding mines, avoiding enemies? Then there’s Palantir on the commercial side. The shorthand is if you’re doing anything that involves operational intelligence, whether it’s analytics or AI, you’re going to have to find something like our products.",
-      "zh": ""
+      "zh": "如果你是情报机构，你会用我们的技术来寻找恐怖分子和有组织犯罪分子，同时维护本国的安全与数据保护。那还有特种部队，问题是你怎么知道部队在哪里？你如何尽可能安全地进出战场，避开地雷和敌人？接着是帕兰提尔在商业领域的应用。简化一下，如果你在做任何涉及行动情报的事情，无论是分析还是人工智能，你都会需要某种像我们这样的产品。"
     },
     {
       "id": "p011",
       "en": "Basically, it’s about orchestrating information with AI, which is something lots of companies in Silicon Valley want to do. But you contend that no other tech company can do it like yours.",
-      "zh": ""
+      "zh": "从本质上说，这就是用人工智能来编排信息，这是硅谷里很多公司都想做的事情。"
     },
     {
       "id": "p012",
       "en": "What I’m really saying is we know how to do it. If you find someone else who can do it, and you don’t want to work with us, buy it from them.",
-      "zh": ""
+      "zh": "但我要说的是，我们知道如何做到这件事。如果你找到别的公司也能做到，而且你不想和我们合作，那就从他们那里购买。"
     },
     {
       "id": "p013",
       "en": "Is there anyone you consider a competitor?",
-      "zh": ""
+      "zh": "你认为谁是我们的竞争对手吗？"
     },
     {
       "id": "p014",
       "en": "Our competition is political. The woke left and the woke right wake up every day, figuring out how they can hurt Palantir. If they get into power, they’ll hurt Palantir. And by the way, it’s global. I view Democrats as my party, but if the Mamdani wing of the party takes over? If that’s my party, I’m not in it. Or the right woke wing, which is like, everything is a conspiracy, any use of technology is actually going to only be used to eviscerate and attack us? Palantir is literally the hardest software to abuse in the world, but they don’t seem to want it. If you don’t want meritocracy, you hate Palantir. That is our competition.",
-      "zh": ""
+      "zh": "我们的竞争对手是政治力量。觉醒左派和觉醒右翼每天都会想办法怎么伤害 Palantir。如果他们掌权，就会伤害 Palantir。顺便说一句，这在全球范围内都成立。我把民主党看作是我的阵营，但如果党内的马姆达尼派上台呢？如果那就是我的党，我就不再属于它。或者右翼的觉醒派，他们觉得任何事情都像阴谋，任何技术的使用最终都会只是被拿来拆解和攻击我们。Palantir 实际上是全世界最难被滥用的软件之一，但他们似乎就是不想接受。如果你不认可精英择优的价值观，你就会讨厌 Palantir。那才是我们的竞争对手。"
     },
     {
       "id": "p015",
       "en": "My head’s spinning a little. How did Mamdani get in there?",
-      "zh": ""
+      "zh": "我有点有些晕。我怎么会看到马姆达尼这种观点进来？"
     },
     {
       "id": "p016",
       "en": "If you explain to the world that labor is going to be valueless, people are going to elect the most ridiculous people ever. They’re afraid of an AI-driven, AGI environment where no one has a job. Universities and elite institutions have played a corrosive role here. People are teaching pagan religion views—a new religion with sacrifices. Who’s the sacrifice? Me, I’m the sacrifice.",
-      "zh": ""
+      "zh": "如果你告诉全世界劳动将变得毫无价值，人们就会选出史上最荒谬的领导人。他们害怕一个由 AI 驱动、通向通用人工智能时代的世界——在那个世界里人人失业。大学和精英机构在这里起了腐蚀性的作用。人们正在传播一种异教式的观念——一种带着“献祭”元素的新宗教。那谁来做祭品？是我，我就是那个牺牲品。"
     },
     {
       "id": "p017",
       "en": "You don’t seem constrained to me. You’re doing great.",
-      "zh": ""
+      "zh": "你看起来一点都没受束缚，表现得很出色。"
     },
     {
       "id": "p018",
       "en": "I’m not complaining. We’re not victims at Palantir. We’re doing very well. We might even do better.",
-      "zh": ""
+      "zh": "我并没有在抱怨。我们在 Palantir 不是受害者，我们做得很好。我们甚至可能做得更好。"
     },
     {
       "id": "p019",
       "en": "In your book you offer a harsh critique that tech companies are not sufficiently patriotic.",
-      "zh": ""
+      "zh": "在你的书里，你对科技公司不够爱国提出了严厉批评。"
     },
     {
       "id": "p020",
       "en": "In the beginning, we were at odds with Silicon Valley because we were pro-American, pro-West, and pro-making the government functional. That was very controversial in Silicon Valley because it equated to not making any money and being a loser. We won that battle. I think Silicon Valley actually has become, at least behind closed doors, patriotic. Silicon Valley has always been pro-meritocracy, and we’re very aligned with that. Where we’re currently at a misalignment-alignment apex is that we believe in using large language models in a way that creates actual empirical value, but also is very strong for workers. We walked toward the government when everyone walked away. That’s how we ended up powering Maven, the US government’s AI battlefield plan.",
-      "zh": ""
+      "zh": "起初，我们与硅谷的矛盾在于，我们支持美国、支持西方、并支持让政府运转起来。那在硅谷当时非常有争议，因为这等同于“既不赚大钱也不当赢家”。我们赢得了那场争论。我认为硅谷其实已经在内部、至少在私下里变得爱国了。硅谷一直是主张精英主义的，我们与此非常一致。我们目前达到分歧巅峰的地方，是我们相信应当以能够创造真实实证价值且对从业者有很强正向作用的方式使用大型语言模型。正是当所有人都抽身之际，我们走向了政府。也正是在那时，我们最终为美国政府的“战场人工智能计划”Maven提供了技术支撑。"
     },
     {
       "id": "p021",
       "en": "You have been part of the war in Ukraine from the start. What have you learned from that about the battlefield of the future?",
-      "zh": ""
+      "zh": "你从乌克兰战争一开始就参与其中。你从中对未来的战场学到了什么？"
     },
     {
       "id": "p022",
       "en": "I can tell you off the record.",
-      "zh": ""
+      "zh": "这些情况我可以先给你说一些不便公开的版本。"
     },
     {
       "id": "p023",
       "en": "This is a Q and A, so that wouldn’t be helpful.",
-      "zh": ""
+      "zh": "但这样在问答场景里就不合适。"
     },
     {
       "id": "p024",
       "en": "Then I’ll give you the on-the-record version, which is almost the same. Broadly speaking, at the beginning of the war it was very clear that you would need software orchestration of small objects. But then the Russians began jamming all devices. The lesson was that the only thing that basically mattered was how to get through the jam space and get your device to deliver its payload. So it’s the ability to interact with the device, plan where the device is going, and gather intel from the device. That’s very different from how war has been fought in the past.",
-      "zh": ""
+      "zh": "那我给你一个可公开发表的版本，几乎就是同样的意思。总体来说，在战争伊始，已经非常明确：你需要对小型物体进行软件编排。后来俄罗斯开始对所有设备进行干扰。由此得到的教训是，基本上最重要的其实是如何穿透干扰空间，让你的设备成功把有效载荷送达。也就是说，关键在于与设备交互、规划设备的去向，并从设备中获取情报。这与过去战争的作战方式非常不同。"
     },
     {
       "id": "p025",
       "en": "Is this a scarier form of war?",
-      "zh": ""
+      "zh": "这是不是一种更可怕的战争？"
     },
     {
       "id": "p026",
       "en": "The way I look at it is: Is America going to be scarier or are our adversaries going to be scarier? You need high-end satellites, you need to be able to coordinate with the satellites, and you need software and large language models. It’s advantageous for America because we’re very strong in those areas.",
-      "zh": ""
+      "zh": "我的理解是：是美国更可怕，还是我们的对手更可怕？你需要高端卫星，你需要能够与卫星协同运作，还需要软件和大语言模型。对美国来说这是有优势的，因为我们在这些领域非常强大。"
     },
     {
       "id": "p027",
       "en": "Palantir has a unique culture—some even call it a cult. I wonder how much you cultivate the outsider mentality. We’re both from Philadelphia; Jason Kelce after the first Super Bowl win was saying, “No one likes us. We don’t care.”",
-      "zh": ""
+      "zh": "Palantir 有一种独特的文化——有人甚至称其为“邪教式文化”。我想知道你究竟要多么有意识地培养这种局外人的心态。我们两个都来自费城；杰森·凯尔斯在赢得第一场超级碗后曾说过： “没人喜欢我们，我们根本不在乎。”"
     },
     {
       "id": "p028",
       "en": "People don’t understand that there’s a massive feature side to being an outsider. It’s not pleasant to be unpopular. I don’t like it, actually. But you get the best people in the world. If someone says something ridiculously stupid about Palantir, five people look at it and the fifth person says, hey, it can’t be as simple as that—this is a really interesting company, and they’re thinking of the 10th derivative of a problem, not the simplistic bullshit from someone online who has no idea how our products work. That’s exactly the kind of person you want inside your business, or buying your product someday, or investing in you. There’s no country in the world where our brand is as bad as in France, but we have the best French employees in the world, working at a company that’s apparently a CIA front, which is obviously complete bullshit.",
-      "zh": ""
+      "zh": "人们不懂得，身为局外人其实有一面巨大的“特征价值”。不受欢迎并不好受，我其实并不喜欢它。但这会让你遇到世界上最优秀的人。如果有人对 Palantir 说出荒谬到离谱的废话，五个人中就会有第六个人说：等一下，事情没那么简单——这是一家非常有意思的公司，他们在思考问题的第十阶导数，而不是网上某个根本不了解我们产品的人随口说出的粗浅胡言乱语。这正是你在自己公司里、未来购买你产品的人、或投资你的人身上想要遇到的人。世界上没有哪个国家像法国那样把我们的品牌看得这么糟，但我们拥有世界上最出色的法国员工，他们在一家明明是 CIA 前台企业的公司工作——这显然是十足的胡说八道。"
     },
     {
       "id": "p029",
       "en": "You may not be a CIA front, but you work for the CIA and ICE.",
-      "zh": ""
+      "zh": "你可能不是中情局的前台，但你确实为中情局和移民海关执法局（ICE）工作。"
     },
     {
       "id": "p030",
       "en": "ICE came later. Our first contracts were with US intelligence, our biggest contracts ended up being in the DOD, and then later we started working in Homeland Security under Democrats. Now it’s very controversial because it’s Trump.",
-      "zh": ""
+      "zh": "移民海关执法局（ICE）是后来的。我们的第一批合同来自美国情报部门，最大的合同最终落在国防部，后来我们又开始在民主党政府时期为国土安全部提供服务。现在之所以非常有争议，是因为是特朗普。"
     },
     {
       "id": "p031",
       "en": "It’s controversial because Trump is doing things that we haven’t seen done before, particularly with ICE. You have a corporate code that supports democracy and stands against discrimination. Do you track whether your products are being used in ways that violate that code? Is there a line beyond which you would say no to a president?",
-      "zh": ""
+      "zh": "之所以有争议，是因为特朗普正在做一些我们以前从未见过的事，尤其是在涉及ICE的时候。你们有一套支持民主并反对歧视的企业准则。你们是否会追踪自己的产品是否被用于违背这套准则的行为？是否有一条底线，你会对某位总统说不？"
     },
     {
       "id": "p032",
       "en": "I was the first CEO to say we would not build a Muslim database. [Editor’s note: Technically he was not the first, but considering Palantir’s business, the statement was consequential.] I’ve defended Israel, so I think I’m the last person in the world people would expect to say that. I can’t go into details. But I’ve pulled things from places in the United States where I thought there was something going on like that.",
-      "zh": ""
+      "zh": "我第一个公开声明说我们不会建立“穆斯林数据库”。【编辑注：严格来说他不是第一个这么说的人，但考虑到Palantir的业务背景，这句话意义重大。】我公开支持过以色列，所以我想我应该是全世界最不可能说出这句话的人了。我不能透露细节。不过，我在美国的一些地方停下过项目，因为我觉得那里可能正在发生那样的事情。"
     },
     {
       "id": "p033",
       "en": "Maybe you and I disagree about ICE because I spent most of my adult life in Europe, in Germany. I am an immigration skeptic. I personally think that citizens have to decide by their vote what immigration policy is going to be. I grew up in a progressive family, but people my age and older were massive immigration skeptics. Open borders is not a progressive policy; it never was. Look at what a version of open borders has done to Germany on any vector.",
-      "zh": ""
+      "zh": "也许你我在ICE问题上的看法不一致，因为我成年后的大部分时间都在欧洲、在德国度过。我是一个移民问题的怀疑者。我个人认为，移民政策应该由公民通过投票来决定。我是在一个进步家庭里长大的，但我这一代和更上一代人几乎都对移民持明显的怀疑态度。开放边界并不是进步政策；它从来都不是。看看所谓“开放边界”在德国各方面造成了什么后果。"
     },
     {
       "id": "p034",
       "en": "Let me ask again: Are you monitoring what’s happening with the US government and democracy in this country, and asking yourself if you need to take a closer look at how your products are being used?",
-      "zh": ""
+      "zh": "我再问一遍：你有在关注美国政府和本国民主的现状吗？并且在问自己是否需要更仔细地审视，你的产品是如何被使用的？"
     },
     {
       "id": "p035",
       "en": "Let me reframe that. Have I ever worked against our commercial interests because it violated our norms? Yes. Have I done this in government? Yes. We get no credit for this, but we almost went out of business because we were not working in Russia or China. Do I agree with your implicit assertion that what’s going on in immigration as you formulate it has never been done before? No. Do you know what happens when you’re in Japan, and you overstay your visa for one minute? You are put on a plane. [Ed. note: The Japanese government has received domestic and international criticism for its policy of indefinitely detaining thousands of immigrants.] I do think this is a very valuable line of questioning you’re asking—if our product allowed for civil rights abuses, would I intervene? Yes, though our product is the hardest in the world to violate. Do I agree with some of the assertions you just made? No. But you’re bringing up exactly the right question, and I’m telling you that I have done this, and I will continue to do it.",
-      "zh": ""
+      "zh": "我换个方式说。难道我没有因为有违我们自己的准则而反对过我们的商业利益吗？有。我在政府里做过吗？也有。我没有得到任何表彰，但我们几乎差点倒闭，因为我们没有在俄罗斯或中国开展业务。你刚刚提到的移民现象，在我看来并不是前所未有吗？我不同意。你知道吗，在日本，如果你签证逾期一分钟会怎样？你会被强行送上飞机。[编者注：日本政府因其对数千名移民实行长期无限期拘留的政策，曾受到国内外批评。] 我确实认为你这个问题问得非常好——如果我们的产品被用于侵犯公民权利，我会不会出手阻止？会，我会。尽管我们的产品是全世界最难被用来违法的产品之一。我同意你刚才提出的某些说法吗？不。但是你提到的正是最关键的问题，我想告诉你的是，我确实做过这样的事，而且我会继续这样做。"
     },
     {
       "id": "p036",
       "en": "Does your Jewish background inform the support Palantir is giving to Israel?",
-      "zh": ""
+      "zh": "你的犹太背景是否影响了Palantir对以色列的支持？"
     },
     {
       "id": "p037",
       "en": "I don’t give to Israel. I allow them to purchase our product. Look, you’re asking whether we are defined by where we sit or by our ideas? I always think it’s both. I view myself as an outsider. There’s obviously a particularistic element, no doubt, but I would like to believe that a support of Western values and their robust defense includes something that’s not just me doing a derivative of my own identity.",
-      "zh": ""
+      "zh": "我不捐钱给以色列，我只是允许他们购买我们的产品。你问我们到底是由站在哪一边来界定，还是由我们的想法来界定？我一直认为两者都有关。"
     },
     {
       "id": "p038",
       "en": "A lot of Jews, me included, feel affinity to Israel but also feel that what’s happening in Gaza is intolerable.",
-      "zh": ""
+      "zh": "很多犹太人，包括我在内，都对以色列有认同感，但也认为加沙发生的事情无法容忍。"
     },
     {
       "id": "p039",
       "en": "If you have five Jews, you have 50 opinions. The issue for Palantir is, do you support Israel? Not do you support every micro decision that Israel is making?",
-      "zh": ""
+      "zh": "如果你有五个犹太人，就有五十种观点。Palantir 面临的问题是：你支持以色列吗？并不是说你支持以色列正在做的每一个微小决定。"
     },
     {
       "id": "p040",
       "en": "We’re not talking about a little thing here.",
-      "zh": ""
+      "zh": "我们谈的不是一件小事。"
     },
     {
       "id": "p041",
       "en": "Israel is a country with a GDP smaller than Switzerland, and it’s under massive attack. Some critiques are legitimate, but others are aggressive in attacking Israel. My reaction is, well, then I’m just going to defend them. When people are fair to Israel and treat it like any other nation, which I don’t think they do, I will be much more willing to express in public the things I express in private to Israelis.",
-      "zh": ""
+      "zh": "以色列是一个经济总量小于瑞士的国家，却正承受着大规模袭击。一些批评是合理的，但也有一些是对以色列的攻击性抨击。我的反应是：那我只能为他们辩护。如果人们能公正地看待以色列，把它当作任何其他国家一样对待——而我认为他们并没有做到——那么我会更愿意公开表达我平时对以色列人只在私下说的那些看法。"
     },
     {
       "id": "p042",
       "en": "When you get a letter from 13 former employees saying that Palantir’s leadership has failed to stand up to authoritarianism, do you take that seriously?",
-      "zh": ""
+      "zh": "当你收到一封来自 13 名前员工的信，内容是称 Palantir 的领导层未能对抗威权主义，你会认真对待吗？"
     },
     {
       "id": "p043",
       "en": "You have to steelman everything that’s lobbed at you. When The New York Times says we’re eviscerating human rights, blah, blah, blah, that’s complete malarkey. Everyone knows it’s malarkey. They know it’s malarkey. I certainly steelman [the critiques from] ex-Palantirians and current ones. Anybody making decisions all day is wrong sometimes. But if you attack me irresponsibly, that will harden my view.",
-      "zh": ""
+      "zh": "你必须先把对你投来的观点都按最强的形式理解。一旦《纽约时报》说我们在肢解人权，诸如此类，那完全是胡扯，大家都知道那是胡扯，他们自己也知道是胡扯。我当然也会认真对待前 Palantir 员工和现任员工的批评。任何整天都在做决策的人都会出错。但如果你对我进行不负责任的攻击，那只会让我的立场更坚定。"
     },
     {
       "id": "p044",
       "en": "Do you have a relationship with Trump?",
-      "zh": ""
+      "zh": "你和特朗普有关系吗？"
     },
     {
       "id": "p045",
       "en": "It depends how you define “relationship.” He’s the president of the United States, and I very much respect that. I agree with him on some things, and probably on some things I don’t.",
-      "zh": ""
+      "zh": "这取决于你如何定义“关系”。他是美国总统，我非常尊重这一点。我在某些问题上同意他，但我可能也有一些不同意的地方。"
     },
     {
       "id": "p046",
       "en": "I think he’s done a much better job than you think he’s done.",
-      "zh": ""
+      "zh": "我认为他做得比你想象中的要好得多。"
     },
     {
       "id": "p047",
       "en": "In the positioning of your question, you’re not neutral. Talking to you is just like talking to my family. It’s like where me and my family disagree. And I’ll tell you where those places are. They’re on the border, they’re in Israel, and they’re in Ukraine. I get yelled at all day about those three issues.",
-      "zh": ""
+      "zh": "在你这个问题的措辞中，你并不客观。和你交谈就像和我的家人交谈。就像我和家人之间有分歧的地方。我会告诉你那些地方。它们在边境，在以色列，在乌克兰。这三件事我整天都在被责骂。"
     },
     {
       "id": "p048",
       "en": "I’d like to meet your parents!",
-      "zh": ""
+      "zh": "我很想见见你的父母！"
     },
     {
       "id": "p049",
       "en": "I think if we were family members, in private you and I would disagree, and I would be pointing out that Trump’s decisions on AI, and his decisions on the Middle East, are very different than people in the Democratic Party would have made, and very good.",
-      "zh": ""
+      "zh": "我想，如果我们是家人，在私下里你我肯定会有不同意见，我会指出，特朗普在人工智能上的决策以及他在中东问题上的决策，和民主党人会做出的选择非常不同，而且做得很好。"
     },
     {
       "id": "p050",
       "en": "Let’s go back in time a bit. You are an unusual CEO. You aren’t technical. You went to law school at Stanford and didn’t practice but went to Germany for a PhD in philosophy. What do you think Peter Thiel saw in you that led him to choose you to run his defense-related startup?",
-      "zh": ""
+      "zh": "让我们回溯一下。你是一位非同寻常的首席执行官。你并不懂技术。你在斯坦福读了法学院却没有执业，之后去了德国攻读哲学博士。你认为彼得·蒂尔在选你来经营他那家与国防相关的创业公司时，看中了你什么？"
     },
     {
       "id": "p051",
       "en": "God only knows, but I would say my best explanation is the same things that made Peter the world’s best value investor—he finds people that understand the sixth, seventh, eighth derivative of a problem in a business context. And we were friends. I do think there’s a Germanic overlap, in our aptitude for understanding the consequences of a decision very far out. There’s a lot of Germanic culture in Palantir—the whole process of going deeper and deeper and deeper into a problem, what we call the Five Whys, is very Germanic. The level of rigor to understand if something is plausibly true, or at least figure out if it’s definitively wrong, is definitely a derivative of my education. I would say our high standard of quality is somewhat derivative of authors I read and people I dealt with in Germany.",
-      "zh": ""
+      "zh": "老天知道答案是什么，但我想我最好的解释和彼得成为世界最佳价值投资者的原因一样——他会发现那些能够在商业语境下理解问题第六、第七、第八阶导数的人。我们也是朋友。我确实认为我们之间有一种日耳曼式的重叠——我们都擅长理解一个决定在很远未来会产生的后果。在Palantir，充满着许多日耳曼文化——我们把问题反复往里推得更深、更深、更深，我们称之为“五个为什么”，这一点非常日耳曼。要判断某件事是否有道理，至少要弄清它是否明确错误所需的严谨性，确实是我教育背景的延续。我想，我们对质量的高标准也多少源于我在德国读过的作家和接触过的人。"
     },
     {
       "id": "p052",
       "en": "It seems that Germany resonates with you personally.",
-      "zh": ""
+      "zh": "看来德国在你心里确实有共鸣。"
     },
     {
       "id": "p053",
       "en": "I just did very well there. In Germany, let’s just say you meet a girl—you don’t have to run around saying you love them after, like, the first date. You may go out with someone for years, and you could just be honest, like you really care about them. There’s very little white-lie-telling in Germany.",
-      "zh": ""
+      "zh": "我在那边做得非常好。比如在德国，你见了一个女孩——你不必在第一次约会后到处跑着说自己爱她。你可能会和一个人交往很多年，只要你真诚，比如你真心在乎对方。德国人几乎很少说“善意的谎言”。"
     },
     {
       "id": "p054",
       "en": "I suspect you don’t tell too many white lies in the United States.",
-      "zh": ""
+      "zh": "我怀疑你在美国也不会说太多“善意谎言”。"
     },
     {
       "id": "p055",
       "en": "There’s a higher price for not doing it. I do bring some of that Germanic culture to America, but I do think America is a superior culture.",
-      "zh": ""
+      "zh": "如果不这么做，会付出更高的代价。我确实把一些日耳曼文化带到了美国，但我确实认为美国文化更优秀。"
     },
     {
       "id": "p056",
       "en": "You seem to live your life the way you want. Not many CEOs live in some remote corner of New Hampshire like you do.",
-      "zh": ""
+      "zh": "你看起来是按自己想要的方式生活的。像你这样居住在新罕布什尔一个偏远角落的 CEO 并不多见。"
     },
     {
       "id": "p057",
       "en": "Doing what everybody else wants me to do is much harder for a dyslexic like me than a non-dyslexic, so I don’t think I’d be very good at it. Maybe I’m not everyone’s cup of tea, but I kind of like being me on most days.",
-      "zh": ""
+      "zh": "让我这样一个阅读障碍者去做别人都想让我做的事情，比做一个非阅读障碍者要困难得多，所以我想我并不擅长这样做。也许我不是每个人都喜欢的类型，但我大多数时候都挺享受做自己。"
     },
     {
       "id": "p058",
       "en": "You are a fanatical cross-country skier. What do you think about when you do that for hours at a time?",
-      "zh": ""
+      "zh": "你是一个狂热的越野滑雪爱好者。你一连做几个小时滑雪时，通常会想些什么？"
     },
     {
       "id": "p059",
       "en": "Have your sayLet us know what you think about this article in the comments below. Alternatively, you can submit a letter to the editor at [email protected].",
-      "zh": ""
+      "zh": "请发表你的看法，在下方评论区告诉我们你对这篇文章的想法。或者，你也可以向编辑部写信，地址是 [email protected]。"
     }
-  ]
+  ],
+  "translated_at": "2026-07-22T17:15:04+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
 }

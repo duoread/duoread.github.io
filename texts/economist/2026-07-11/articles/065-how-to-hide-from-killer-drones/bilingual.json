@@ -1,0 +1,64 @@
+{
+  "id": "065-how-to-hide-from-killer-drones",
+  "source_href": "eb10e579-54cf-4490-a422-05822f447afb.html",
+  "publication": "economist",
+  "issue": "2026-07-11",
+  "issue_published_at": "2026-07-11",
+  "article_published_at": "July 9th 2026",
+  "published_at": "July 9th 2026",
+  "published_date_source": "article",
+  "order": 65,
+  "section": "Science & technology",
+  "title_en": "How to hide from killer drones",
+  "title_zh": "如何躲开杀伤无人机",
+  "rubric_en": "In the Ukraine war, anti-AI tactics are producing bizarre forms of camouflage",
+  "rubric_zh": "在乌克兰战争中，反AI战术正在催生奇特的新型伪装",
+  "date": "July 9th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "IN RECENT MONTHS Russian military lorries in Ukraine have begun sporting a striking new colour scheme of vivid black-and-white stripes. As camouflage goes, it is not much use against human observers. But then, it is not intended to fool biological eyes. Its aim is to frustrate the machine-vision systems that are fitted to the Ukrainian drones that zip around battlefields looking for prey.",
+      "zh": "近几个月来，乌克兰的俄军卡车开始采用一种醒目的新配色：鲜明的黑白条纹。就传统意义上的伪装而言，这几乎对人眼没有太大作用。但它的目的并非欺骗生物视觉。它是为了让乌克兰战场上到处盘旋、寻找目标的无人机所携带的机器视觉系统“失灵”。"
+    },
+    {
+      "id": "p002",
+      "en": "The stripes are reminiscent of the “dazzle camouflage” used by the Royal Navy in the first world war. But whereas dazzle camouflage was intended to break up a ship’s silhouette, making it difficult to judge its speed and heading, the new variant aims to fool machines into thinking that a lorry is not, in fact, a lorry at all.",
+      "zh": "这些条纹让人想起第一次世界大战中皇家海军使用的“迷彩扰乱伪装（dazzle camouflage）”。但两者的目的不同：当年的“迷彩扰乱”是为了打乱舰船的轮廓，使人难以判断其速度和航向，而这种新变体则是想让机器误判，认为一辆卡车根本不是卡车。"
+    },
+    {
+      "id": "p003",
+      "en": "Machine vision is based on pattern-matching. A model is trained by exposing it to images, some of which contain lorries (or tanks, or aircraft) and some of which do not. Over zillions of exposures, the computer deduces rules that allow it to identify the things its trainers want to teach it about. Because zebra-striped trucks are unlikely to appear in the training data, says Todd Humphreys, an engineer at the University of Texas at Austin, an AI that encounters one in the real world may not realise what it is looking at.",
+      "zh": "机器视觉依赖于模式匹配。一个模型在训练时会被喂入大量图像，其中有些包含卡车（或坦克、飞机），有些则没有。经过无数次“曝光”，计算机就会归纳出规则，识别出训练者想让它识别的对象。德州农工大学（University of Texas at Austin）的工程师托德·汉弗莱斯（Todd Humphreys）指出，由于训练数据里几乎不会出现这种“斑马纹卡车”，AI在真实世界里遇到它时，可能认不清自己正在看什么。"
+    },
+    {
+      "id": "p004",
+      "en": "Computers often rely on very specific features to recognise an object. That leads to a problem known as “brittleness”, in which small variations can cause bizarre misclassifications. “Adversarial examples” designed to exploit the quirks of computer vision, have been around for years. One, developed at the Massachusetts Institute of Technology in 2017, featured a plastic turtle. Misled by the pattern on its shell, a computer confidently classified it as a rifle. In another project, researchers produced stickers which, when attached to roads, caused a Tesla’s self-driving software to steer into oncoming traffic.",
+      "zh": "计算机常常依赖非常具体的特征来识别物体，这会产生所谓“脆弱性”问题：很小的变化就可能导致荒诞的误分类。“对抗样本”这种故意利用计算机视觉弱点的做法已经存在很多年了。2017 年，在麻省理工学院（MIT）开发的一个案例中，塑料乌龟在壳体上的图案误导了计算机，后者自信地把它识别为步枪。在另一个项目里，研究人员制作了贴纸，贴在道路上后，会使特斯拉的自动驾驶软件把车子转向迎面而来的车流。"
+    },
+    {
+      "id": "p005",
+      "en": "Dr Humphreys says that efforts to counter machine vision in the Ukraine conflict work on the same principle, obscuring expected features with unexpected ones. Parked Russian aircraft have been seen with rows of old tyres on their wings to confuse image-matching software on drones. Some Russian drones also now have dazzle camouflage of their own, presumably to make it harder for Ukrainian interceptor drones to identify them.",
+      "zh": "霍姆弗里斯博士（Dr Humphreys）表示，在乌克兰冲突中，遏制机器视觉的做法遵循同样的原理，即用意料之外的特征去遮挡预期特征。停放在地面的俄制飞机被看到在机翼上铺满旧轮胎，以此干扰无人机图像匹配软件的识别。一些俄制无人机现在也开始采用“炫目”式迷彩，目的大概也是为了让乌克兰的拦截无人机更难识别它们。"
+    },
+    {
+      "id": "p006",
+      "en": "These tactics are likely to become more common. Presently most battlefield drones are still flown by a remote human operator, who is unlikely to be fooled by the markings. But as the drones proliferate—Ukraine aims to produce 10m this year—and technology improves, AI will take on more of the work.",
+      "zh": "这些策略很可能会变得更加普遍。当前，大多数战场无人机仍由远程人工操作者操控，这些操作者不太可能被这些标记所迷惑。但随着无人机数量激增——乌克兰今年计划生产 1000 万架——且技术不断进步，人工智能将承担更多识别和决策工作。"
+    },
+    {
+      "id": "p007",
+      "en": "The probable result will be an arms race pitting increasingly sophisticated machine vision systems against cleverer and cleverer methods for fooling them. The advantage from any particular camouflage pattern is likely to be temporary. After all, once zebra-striped lorries are common enough they will start to turn up in training data, and models will start to see them for what they really are. A spokesman for Brave1, an arm of the Ukranian government that aims to accelerate military technology, acknowledged that the Russians were adapting—but said Ukraine was adapting faster. ■",
+      "zh": "可预见的结果将是一场军备竞赛：日益复杂的机器视觉系统与越来越巧妙的反制伪装方法相互对抗。任何特定伪装图案带来的优势都很可能只是暂时的。毕竟，当带有斑马纹的卡车足够常见时，它们会被纳入训练数据，模型很快就会识别出它们的真实身份。乌克兰政府下属、旨在加速军事技术的 Brave1 的一位发言人承认了俄罗斯人正在适应这一变化——但他也表示乌克兰的适应速度更快。■"
+    },
+    {
+      "id": "p008",
+      "en": "Curious about the world? To enjoy our mind-expanding science coverage, sign up to Simply Science, our weekly subscriber-only newsletter.",
+      "zh": "对世界充满好奇吗？想阅读我们拓展思维的科学栏目，请订阅 Simply Science——这是我们每周仅向订阅者开放的通讯。"
+    }
+  ],
+  "translated_at": "2026-07-22T23:26:05+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

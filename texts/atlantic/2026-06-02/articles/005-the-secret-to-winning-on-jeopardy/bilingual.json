@@ -10,232 +10,235 @@
   "order": 5,
   "section": "Dispatches",
   "title_en": "The Secret to Winning on Jeopardy",
-  "title_zh": "",
+  "title_zh": "在《危险边缘》上赢的秘诀",
   "rubric_en": "Know a little about a lot.",
-  "rubric_zh": "",
+  "rubric_zh": "涉猎广泛，哪怕只是知道一点点。",
   "date": "2026-06-02",
   "origin_url": "",
-  "translation_status": "pending",
+  "translation_status": "translated",
   "paragraphs": [
     {
       "id": "p001",
       "en": "When you wake up on the day of your first appearance on America’s favorite quiz show, you will have more knots in your stomach than a quipu, the tied-string recordkeeping device used during the Inca empire. You will take a nervous walk through beautiful, weatherless Culver City, California, where the title song of Singin’ in the Rain was shot during a water shortage. Perhaps you will stop for a $14 juice at the boutique grocery store Erewhon, telling yourself that you have to spend money to make money. From the entrance of the Sony Pictures lot, you will be conveyed to the “check-in area” in the back of a dim parking garage; you will wonder whether this is actually some sort of hostage situation that is going to end with you at the bottom of a tar pit or, worse, on Wheel of Fortune.",
-      "zh": ""
+      "zh": "当你在首次登上美国最受欢迎的知识问答节目那一天醒来时，你会感觉肚子像印加帝国时代那种打结记事用的绳结牌——quipu一样打了很多个结。你会在风和日丽、天气平稳的加州卡尔弗市一边紧张地走着，这里有过《雨中曲》主题曲的拍摄地，那个拍摄发生在一个缺水时期。也许你会在精品杂货店Erewhon里买一杯14美元的果汁，告诉自己“先花点钱，才能赚到钱”。从索尼影业园区入口，你会被带到一处位于昏暗停车场后部的“签到区”；你可能会担心这是不是某种人质情境，最后你会以掉进焦油坑，或者更糟的是被拖到《幸运轮盘》（Wheel of Fortune）节目组结尾。"
     },
     {
       "id": "p002",
       "en": "And when you walk into the greenroom for contestants, you will see a door in the corner labeled JEOPARDY! CHAMPION, and you will be consumed by one thought, which I will phrase in the form of a question: How do I get in there?",
-      "zh": ""
+      "zh": "当你走进参赛者候场区的绿房间时，会看到角落里有一扇写着“JEOPARDY! CHAMPION”的门，而你的脑中会被一个念头占据，我想用提问的方式来表达它：我该怎么进去呢？"
     },
     {
       "id": "p003",
       "en": "In 2024, I competed on Jeopardy for the first time. In 1653, Izaak Walton published The Compleat Angler, a treatise on fishing technique. These two events are related, actually.",
-      "zh": ""
+      "zh": "2024年，我第一次参加了《危险边缘》比赛。1653年，伊萨克·沃尔顿出版了《The Compleat Angler》，这是一部关于钓鱼技艺的论著。这两个事件其实是相关的。"
     },
     {
       "id": "p004",
       "en": "No one loves The Compleat Angler more than Jeopardy does, and I am counting Izaak Walton himself; the show has asked about his book 35 times. If you want to appear on Jeopardy—and if you also want to win—it is important to know what Jeopardy likes.",
-      "zh": ""
+      "zh": "没有哪位更爱《The Compleat Angler》像《危险边缘》节目及其出题组那么多，甚至连伊萨克·沃尔顿本人都应算在内；节目组一共提过35次这本书。如果你想上《危险边缘》——并且想赢——那就得知道《危险边缘》到底喜欢什么样的问题。"
     },
     {
       "id": "p005",
       "en": "The mild Mexican salsa whose name translates to “beak of the rooster” is pico de gallo. Jeopardy likes this.",
-      "zh": ""
+      "zh": "名字的意思是“公鸡喙尖”的温和墨西哥莎莎酱是pico de gallo。《危险边缘》很喜欢这个。"
     },
     {
       "id": "p006",
       "en": "Another popular fact is that Lucy Hayes, wife of Rutherford B., was the first first lady to host the Easter-egg roll on the White House lawn. You don’t know anything else about Lucy Hayes, and you don’t need to. Like Nebraska’s Platte River—44 mentions on the show—Jeopardy is a mile wide and an inch deep.",
-      "zh": ""
+      "zh": "另一个常见的冷知识是，露西·海耶斯（Rutherford B.的妻子）是第一位在白宫草坪举行复活节彩蛋搜索活动的第一夫人。你对露西·海耶斯一无所知，也完全不需要。就像《危险边缘》节目中出现44次的内布拉斯加州普拉特河一样，这档节目博闻强记而不深究。"
     },
     {
       "id": "p007",
       "en": "If Jeopardy asks about Norwegian playwrights, the answer is almost always Henrik Ibsen.",
-      "zh": ""
+      "zh": "如果《危险边缘》问到挪威剧作家，答案几乎总是亨利克·易卜生。"
     },
     {
       "id": "p008",
       "en": "The Iowa painter is Grant Wood.",
-      "zh": ""
+      "zh": "爱荷华的画家是格兰特·伍德。"
     },
     {
       "id": "p009",
       "en": "The European duchy is Luxembourg.",
-      "zh": ""
+      "zh": "欧洲的大公国是卢森堡。"
     },
     {
       "id": "p010",
       "en": "The Zoroastrian singer is Freddie Mercury.",
-      "zh": ""
+      "zh": "这位琐罗亚斯德教背景的歌手是弗雷迪·默丘利。"
     },
     {
       "id": "p011",
       "en": "To win on Jeopardy, you don’t need to learn everything. You just need to learn one thing about everything.",
-      "zh": ""
+      "zh": "在《Jeopardy!》中要想赢，不需要懂得所有事情。你只要对每件事都知道一点就够了。"
     },
     {
       "id": "p012",
       "en": "The best method for knowing one thing about everything is to have been a curious child. I grew up reading, except for at the dinner table, when Jeopardy was on; my younger brother and I would tally our correct responses on our fingers. I first took the show’s online contestant test in middle school, and when I was 18, my dad drove me to my first in-person audition in a hotel ballroom in Raleigh, North Carolina. (“Total success,” I wrote on Instagram, incorrectly.)",
-      "zh": ""
+      "zh": "想要“对很多事情都知道一点”，最好的办法就是小时候就保持好奇。我从小就喜欢阅读，只有在晚饭时看《Jeopardy!》的时候例外；我和弟弟会用手指头点算自己答对了多少。中学时我第一次参加了该节目的在线参赛测试，18岁那年，爸爸开车带我去北卡罗来纳州罗利的一个酒店舞厅参加第一次线下试镜。（我在 Instagram 上写下了“Total success”，结果写错了。）"
     },
     {
       "id": "p013",
       "en": "Adriana E. Ramírez: Everyone loses on Jeopardy eventually",
-      "zh": ""
+      "zh": "阿德里安娜·E·拉米雷斯：所有人在《危险边缘》里最终都会输"
     },
     {
       "id": "p014",
       "en": "If you were not a curious child—this is difficult to change after the fact—the second-best method is to act like a curious child. When I was invited onto the show, I checked out children’s books from the public library down the street: kids’ atlases, kids’ encyclopedias, a kids’ paperback titled What Is the Super Bowl? They were for “my nephew.” Should your librarian look askance, your checkouts can also be for my nephew, or yours, whichever is easier.",
-      "zh": ""
+      "zh": "如果你在小时候并不特别好奇（事后已经很难改变了），次优的方法就是把自己当成一个充满好奇心的孩子。等我受邀上节目时，我去街对面的公共图书馆借了儿童读物：儿童版世界地图、儿童百科全书，还有一本儿童平装书，名字叫《超级碗是什么？》。这些书是“给我侄子”的。要是你担心图书馆员会有异样看法，也可以说是给你的小孩借的，或者你愿意的话，叫你旁边任何一个小孩的名义都行。"
     },
     {
       "id": "p015",
       "en": "These books have enormous stores of knowledge in them. Did you know that Buckminster Fuller developed the geodesic dome? (Thirty-seven mentions on Jeopardy.)",
-      "zh": ""
+      "zh": "这些书里藏着大量知识。你知道巴克明斯特·富勒发明了测地穹顶吗？（《危险边缘》里提到过三十七次。）"
     },
     {
       "id": "p016",
       "en": "Or that the 1883 eruption of Krakatoa could be heard 3,000 miles away? (Forty-four mentions.)",
-      "zh": ""
+      "zh": "或者，1883年喀拉卡托火山爆发的声音能传到三千英里之外吗？（提及了四十四次。）"
     },
     {
       "id": "p017",
       "en": "Or that Thales, considered the world’s first true philosopher, thought all matter could eventually be subdivided into water? (Five mentions; we can’t all be Socrates.)",
-      "zh": ""
+      "zh": "或者说，公认世界上第一位真正哲学家泰勒斯认为，所有物质最终都可以再细分成水？（出现了五次；我们不能都做苏格拉底。）"
     },
     {
       "id": "p018",
       "en": "I didn’t know either, until reading children’s reference books. Given that these volumes prioritize breadth over depth, they are perfect for the ethos of Jeopardy. Most of them are illustrated, too, which helps with recall. I found it easier to remember the Battle of Crécy after seeing a cartoon 14th-century Frenchman take a longbow arrow to the chest.",
-      "zh": ""
+      "zh": "直到我看了儿童类参考书，我才知道这一点。鉴于这些书更重视广度而不是深度，它们非常符合《Jeopardy》的题风。它们大多也都有插图，这有助于记忆。我在看到一幅“14世纪法国人被长弓箭射中胸口”的卡通后，反而更容易记住克雷西之战。"
     },
     {
       "id": "p019",
       "en": "Perhaps the best resource for learning the patterns of Jeopardy is the fabulous and disconcerting online database J! Archive, wherein fans have cataloged every question that has ever appeared on the show, as well as the frequency with which answers are repeated. Spend some time in the J! Archive and you will see that Australia, for instance, is historically the most common answer on the show. When in doubt: “What is Australia?”",
-      "zh": ""
+      "zh": "也许，最适合学习《Jeopardy》出题规律的资源，是那个神奇又有点令人不安的在线数据库 J! Archive，粉丝在这里把节目中出现过的每一道题目都做了整理，并记录了答案被反复使用的频率。花点时间在 J! Archive 上浏览一下，你会看到例如“澳大利亚”长期以来是节目里最常见的答案。犹豫不决时可以先想：“What is Australia?”"
     },
     {
       "id": "p020",
       "en": "Read: The best ‘I don't know the answer’ Jeopardy answers",
-      "zh": ""
+      "zh": "阅读：最好的“我不知道答案”《Jeopardy》答法"
     },
     {
       "id": "p021",
       "en": "You will see also that Jeopardy doesn’t actually ask about everything, but rather about what students of the show refer to as “the canon”—a set of knowledge that masquerades as “everything.” Shakespeare and U.S. presidents will recur, but the show doesn’t ask much about anime, or hedge funds, or risograph printing, which are all too specialized.",
-      "zh": ""
+      "zh": "你也会发现《Jeopardy!》实际上并不会问及所有知识，而是围绕节目观众所说的“正典（canon）”展开，即一套伪装成“全部内容”的知识体系。莎士比亚和美国总统会反复出现，但节目并不会多问动漫、对冲基金或丝网印刷（risograph）这类问题，因为它们都过于小众。"
     },
     {
       "id": "p022",
       "en": "To determine whether a bit of knowledge falls within Jeopardy’s canon, imagine whether at least two people at a dinner party of a dozen well-read guests would be familiar with it. This may strike you as a silly standard, but I appreciate the show’s vision of a well-rounded society. The nerdy conviviality of the greenroom proves that a shared body of knowledge can unite would-be foes, even if that body contains more opera facts than it really ought to. (The opera with the jester is Rigoletto; 20 mentions.)",
-      "zh": ""
+      "zh": "要判断某项知识是否属于《Jeopardy!》的“正典”，可以想象：在一个有十二位见多识广的客人参加的晚宴上，至少有两个人会熟悉它吗？这也许听起来像个荒诞的标准，但我欣赏节目对一个全面发展的社会的设想。绿房间里那种书卷气十足、却又友善互动的氛围证明，共同的知识体系可以把原本可能互相为敌的人凝聚在一起，即使这套体系里包含的歌剧知识多到不该有那么多。 （有小丑角色的那部歌剧是《弄臣》；共出现 20 次。）"
     },
     {
       "id": "p023",
       "en": "Learning all this new material should be a delight. The arduous part is remembering it. To help, you can make flash cards, ideally using an app that employs “spaced repetition,” the evidence-backed idea that a person can retain information by reviewing material at progressively longer intervals. A good algorithm will present known information just before it is forgotten.",
-      "zh": ""
+      "zh": "学习这些新知识本该是一件令人愉快的事。艰难之处在于记住它们。为此，你可以做抽认卡，最好使用一款采用“间隔重复”技术的应用程序。这种基于证据的方法认为，人们可以通过在越来越长的时间间隔下复习材料来保持信息。一个好的算法会在你真正忘记之前，把已掌握的信息再次呈现给你。"
     },
     {
       "id": "p024",
       "en": "Izaak Walton is the author of The Compleat Angler.",
-      "zh": ""
+      "zh": "伊萨克·沃尔顿（Izaak Walton）是《The Compleat Angler》的作者。"
     },
     {
       "id": "p025",
       "en": "I lost my first game. As the famous thinking music faded out during Final Jeopardy, I scribbled that Shakespeare wrote “Blood will have blood” in Titus Andronicus (38 mentions) rather than Macbeth (467—yeesh). Even if I’d gotten it right, I’d still have lost. A few clues before, David, in second place, had found the remaining Daily Double and wagered enough to leapfrog into first. Winning on Jeopardy takes luck, too.",
-      "zh": ""
+      "zh": "我输了第一局。在著名的思考音乐在“Final Jeopardy”（最终问答）环节渐渐消退时，我草草写下莎士比亚在《提图斯·安德罗尼库斯》中写过“Blood will have blood”（38次提及），而不是《麦克白》（467——天哪）。即使我答对了，也仍然会输掉比赛。就在前面几条线索里，第二名的David找到了最后一个Daily Double（每日双倍题），并押注了足够的分数反超到第一名。赢Jeopardy同样需要运气。"
     },
     {
       "id": "p026",
       "en": "For decades, contestants gallantly progressed through one category at a time. In the mid-2010s, when every other norm of civility was beginning to fall apart, Jeopardy strategy became a panicky knife fight for the Doubles, the most powerful clues on the board. You can, and should, hunt for them—they cluster toward the lower left—but fate determines whether you find one.",
-      "zh": ""
+      "zh": "几十年来，参赛者都是有条不紊地一类一类地前进。2010年中期，当几乎所有其他礼节规则都开始崩解时，Jeopardy 的作答策略变成了围绕“Doubles”（双倍题）的一场惊慌失措的混战，而双倍题往往是棋盘上最强的线索。你可以，也应该去寻找它们——它们通常集中在棋盘左下角——但是否找到，最终仍取决于命运。"
     },
     {
       "id": "p027",
       "en": "Read: How Alex Trebek made a mundane game show brilliant",
-      "zh": ""
+      "zh": "阅读：亚历克斯·特雷贝克如何让一档平凡的游戏节目变得非凡"
     },
     {
       "id": "p028",
       "en": "You’ve probably heard that the buzzer is fickle. This is true. You are instructed to watch for indicators on the game board to illuminate at the end of a clue, but if you wait to react to them—rather than anticipating the host’s final syllable—you will be on the back foot. Even then, an opponent might be infinitesimally more precise. Buzzer Zen is elusive.",
-      "zh": ""
+      "zh": "你可能听过抢答器很“黏”、很难把握。确实如此。你被要求在题目结束时盯着游戏棋盘上亮起的指示灯，但如果你等着看到它亮起才出手——而不是提前预判主持人说出最后一个音节——你就会处于下风。即便这样，对手也可能在几乎无可察觉的更准确时机抢先按下。抢答禅意很难体会。"
     },
     {
       "id": "p029",
       "en": "The stage lights are bright, and information will fly out of your brain at just the wrong moment. Frances Cleveland was the first first lady to host the Easter-egg roll at the White House. Wait! You meant Lucy Hayes, but it is too late and you are $1,600 poorer.",
-      "zh": ""
+      "zh": "舞台灯光很亮，信息总在最不合时机的时候从你的脑中飞出来。弗朗西斯·克利夫兰是第一位在白宫主持复活节彩蛋滚动活动的第一夫人。等等！你想说的是露西·海斯，但已经太晚了，你已经少了1,600美元。"
     },
     {
       "id": "p030",
       "en": "Luck will desert you, and it will return. I was invited back to Jeopardy for 2024’s “second chance” competition, on account of my narrow loss and—I have to imagine—toothy grin; Jeopardy, for all its meritocratic elements, is still a show on TV. I studied more, but what really changed was my fortune. I found back-to-back Daily Doubles, twice. I mentioned Taylor Swift in my mid-game anecdote and then came upon a question about her. During another game, I mentioned Celine Dion in my mid-game anecdote and then came upon a question about her (no, I did not know the answer; so sue me). One day, while I was being processed through the hostage garage, my tote of glass Erewhon bottles clanked to the ground. “My Fabergé eggs!” I yelped. Hours later: “St. Petersburg, Russia, has a museum devoted to these bejeweled objects given as Easter gifts by the czar.” I’m not saying you can conjure friendly clues, but I do believe the Alex Trebek Stage is a kismet magnet.",
-      "zh": ""
+      "zh": "好运会离你而去，也会再次回来。因为我的失利太小，以及——我想——那抹咧牙的笑，我被邀请再次参加2024年的“第二次机会”竞赛。《危险边缘》虽然有其功利的一面，但本质上仍是一档电视节目。我学习得更多，但真正改变的是我的运气。于是我两次连中“每日双倍”。我在中局讲起了泰勒·斯威夫特，之后又碰到了一个关于她的问题。在另一局里，我在中局提到了席琳·迪翁，接着也遇到了一个关于她的问题（没有，我并不知道答案；你们随便起诉我吧）。有一天，在我经过后台候场通道时，我拎着玻璃埃瑞旺瓶的手提袋“叮当”一声掉在地上。我大叫：我的法贝热彩蛋！几个小时后，题目来了：斯托克伯格，俄罗斯圣彼得堡有一家博物馆，专门展出沙皇赠送复活节礼物的这些镶嵌宝石的小饰品。我并不是说你就能“召唤”到友好线索，但我确实相信亚历克斯·特里贝克的舞台是命运的磁铁。"
     },
     {
       "id": "p031",
       "en": "I won my first game of Jeopardy in November 2024, and it was pure euphoria. Then I won again, and it was even better. I went on a terrifically fun tear all the way to the semifinals of the Tournament of Champions.",
-      "zh": ""
+      "zh": "我在2024年11月赢得了我的第一场《Jeopardy!》比赛，纯粹是欣喜若狂。后来我又赢了一场，感觉更好。接着我一路打得非常有趣，漂亮地杀入了冠军挑战赛的半决赛。"
     },
     {
       "id": "p032",
       "en": "To some extent, the success brought the fun, but it worked the other way around, too. Contestants say that they play better when they remember to enjoy themselves. One idea for some fun: Make Johnny Gilbert announce you as whatever profession you like. Jeopardy has had a “worldwide karaoke singer” and a “stay-at-home son.” If you can determine that you are going up against an accountant, perhaps arrange to have yourself introduced as “a better accountant.” Alas, there are limits. When I faced off against another Drew, I requested to sign in as “Baby.” You have control of the board, Baby! This was not allowed.",
-      "zh": ""
+      "zh": "在某种程度上，成功带来了乐趣，但也确实是反过来的关系。参赛者们常说，只有记得享受游戏，才能打得更好。一个增添乐趣的点子是：让约翰尼·吉尔伯特按你想要的职业来介绍你。节目里曾出现过“世界巡回卡拉OK歌手”和“居家儿子”这样的身份。如果你发现对手是会计，不妨把自己设定成“更厉害的会计”。可惜是有界限的。当我面对另一位德鲁时，我申请以“Baby”这个名字签到。你掌控棋盘，宝贝！这条不被允许。"
     },
     {
       "id": "p033",
       "en": "By the time the Double Drew episode aired, 10 games deep, I was not really Drew anymore but “Jeopardy Drew,” a meme of myself. At the little awards ceremony that Jeopardy puts on each season, I won the trophy for Breakthrough Performance, another reminder that the contest is a show. Jeopardy, by turning me into a winner, had created another Drew who was somehow smarter, funnier, and livelier than the guy not on TV. As one producer put it: “me, but more.”",
-      "zh": ""
+      "zh": "到“Double Drew”那集播出、我已经连赢 10 场比赛的时候，我已经不再是那个普通的 Drew，而是“Jeopardy Drew”——一个我的网络表情版自己。在 Jeopardy 每季都会办的小型颁奖典礼上，我赢得了“突破性表现奖”，这再次提醒我：这场比赛首先是一档节目。Jeopardy 把我变成赢家后，又塑造了一个完全不同的 Drew——他比电视上那个男人更聪明、更有趣、更有活力。正如一位制片人所说：“我本人，不过更好版”。"
     },
     {
       "id": "p034",
       "en": "When you win, you might struggle with this. Is Jeopardy You the real you, or the best version of you, or neither? Happily, these winner’s worries will plague you for only so long, because eventually Jeopardy turns you into a loser.",
-      "zh": ""
+      "zh": "当你赢了之后，你可能会困惑：Jeopardy 上的你才是真实的你，还是你最好的版本，或者都不是？值得庆幸的是，这种冠军心态的烦恼只会困扰你一段时间，因为终究 Jeopardy 也会把你变成失败者。"
     },
     {
       "id": "p035",
       "en": "I returned again to Jeopardy this winter for an all-stars invitational, and I did … fine. One ugly win and one beautiful loss (The Bridge of San Luis Rey; 24 mentions; my fault). Everyone’s luck runs out at some point.",
-      "zh": ""
+      "zh": "今年冬天我又回到了 Jeopardy 参加了一场全明星邀请赛，结果……还算过得去。一场丑陋的胜利和一场漂亮的失利（《圣路易斯雷之桥》；24 次提及；我的错）。每个人都有运气尽头的时候。"
     },
     {
       "id": "p036",
       "en": "The winnings stay yours, of course. If you are ever struggling to fall asleep, call a champ and ask what they did with the money. It is in savings. It is invested. My friend Adriana, who won $446,600, has said she became a little splashier with her boba budget.",
-      "zh": ""
+      "zh": "奖金当然始终是你的。如果你入睡总是困难，不妨给一位冠军打个电话，问问他们的钱都拿去干了什么。它留在储蓄里。它被投资了。我的朋友 Adriana 赢得了 446,600 美元，她说自己后来对奶茶预算变得有点“有些冲动”。"
     },
     {
       "id": "p037",
       "en": "But what you really hold on to is knowing one thing about everything. What do you do with that?",
-      "zh": ""
+      "zh": "但你真正能够掌握的，其实是对各种领域都懂一点。你能用这个做什么？"
     },
     {
       "id": "p038",
       "en": "Fans of trivia like to say that caring so deeply about these facts at a time of disinformation and anti-intellectualism is an act of defiance—that picking up trivia is a way to keep knowledge from being disappeared. I’m skeptical. It is a good thing to learn about the Tuskegee Airmen, but you knowing that they flew P-51 Mustangs will not stop anybody from kicking them off a curriculum.",
-      "zh": ""
+      "zh": "喜欢琐知识的人常说，在这个充斥着错误信息和反智主义的时代，过于在意这些细节本身就是一种反抗——玩 trivia 是为了让知识不被抹去。我对此持保留态度。了解“塔斯基吉飞行员”当然很好，但你知道他们驾驶的是 P-51“野马”战斗机，并不能阻止有人把他们从课程中删除。"
     },
     {
       "id": "p039",
       "en": "What Jeopardy likes—what I love—is knowledge for the sake of knowledge. Izaak Walton wrote The Compleat Angler in the aftermath of Oliver Cromwell’s overthrow of the English monarchy, which had forced Walton and other royalists to flee London for the countryside. There, he found peace through fishing. He wrote: “When the lawyer is swallowed up with business, and the statesman is preventing or contriving plots, then we sit on cowslip-banks, hear the birds sing, and possess ourselves in as much quietness as these silent silver streams, which we now see glide so quietly by us.”",
-      "zh": ""
+      "zh": "《危险边缘》喜欢的——我也热爱的——是为了知识本身而学习的知识。伊萨克·沃尔顿在奥利弗·克伦威尔推翻英王政后写下了《完美垂钓者》，那场政变迫使沃尔顿和其他王党分子离开伦敦，逃到乡下。在那里，他在钓鱼中找到了平静。他写道：“当律师被事务缠身，政客们正在阻挠或筹谋阴谋时，我们便会坐在黄花草堤岸上，听鸟儿歌唱，并让自己安住于这宁静之中，正如我们眼前这些沉静的银色小溪，正静静地从我们身旁滑过。”"
     },
     {
       "id": "p040",
       "en": "This is how I feel about playing with trivia. It is like standing on the banks of human knowledge, marveling at the volume rushing past, knowing I will never acquire more than the slightest share of it, yet contenting myself with plucking a remarkable specimen from below the surface.",
-      "zh": ""
+      "zh": "这就是我玩 trivia 的感受。它像是站在知识之河的岸边，惊叹于滚滚而过的信息洪流，明白自己永远只能拥有其中极小的一部分，却仍然心满意足地从表层之下摘取一件珍贵的标本。"
     },
     {
       "id": "p041",
       "en": "Read: The Atlantic on Jeopardy",
-      "zh": ""
+      "zh": "阅读： 《大西洋月刊》关于《Jeopardy》的一篇文章"
     },
     {
       "id": "p042",
       "en": "The champion’s room, by the way, isn’t much. It’s about six feet by six feet, and it contains a chair and a rack of shirts. The winner uses it to put on their outfit for the next game. The walls don’t even go to the ceiling.",
-      "zh": ""
+      "zh": "顺便说一句，冠军房间并不大。它大约有六英尺乘六英尺，里面只有一把椅子和一个衣帽架。冠军会用它来换上下一场比赛的服装。墙壁甚至没有顶到天花板。"
     },
     {
       "id": "p043",
       "en": "When you get in there, you will almost immediately want to get out, to rejoin the greenroom chatter. Everyone’s discussing Slovakia, and you want to share the one thing you know about it: Bratislava is the only world capital that borders two other countries.",
-      "zh": ""
+      "zh": "你进去后几乎会立刻想出来，去重新加入绿房（休息室）的聊天。每个人都在讨论斯洛伐克，而你想分享自己唯一知道的一件事：布拉迪斯拉发是唯一一个与两个其他国家接壤的世界首都。"
     },
     {
       "id": "p044",
       "en": "This article appears in the June 2026 print edition with the headline “How to Win on Jeopardy.” When you buy a book using a link on this page, we receive a commission. Thank you for supporting The Atlantic.",
-      "zh": ""
+      "zh": "这篇文章发表于2026年6月的纸媒版，标题是“如何赢得《Jeopardy》”。当你通过本页的链接购买图书时，我们会收到一笔佣金。感谢你支持《大西洋》杂志。"
     }
-  ]
+  ],
+  "translated_at": "2026-07-22T16:31:37+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
 }

@@ -1,0 +1,224 @@
+{
+  "id": "025-all-of-my-employees-are-ai-agents-and-so-are-my-executives",
+  "source_href": "feed_0/article_24/index_u25.html",
+  "publication": "wired",
+  "issue": "2026-05-02",
+  "issue_published_at": "2026-05-02",
+  "article_published_at": "",
+  "published_at": "2026-05-02",
+  "published_date_source": "issue",
+  "order": 25,
+  "section": "",
+  "title_en": "All of My Employees Are AI Agents, and So Are My Executives",
+  "title_zh": "我的所有员工都是 AI 智能体，我的高管也是如此",
+  "rubric_en": "The AI Issue",
+  "rubric_zh": "AI 议题",
+  "date": "2026-05-02",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "One day a couple months ago, in the middle of lunch, I glanced at my phone and was puzzled to see my colleague Ash Roy calling. In and of itself it might not have seemed strange to get a call from Ash: He’s the CTO and chief product officer of HurumoAI, a startup I cofounded last summer. We were in the middle of a big push to get our software product, an AI agent application, into beta. There was plenty to discuss. But still, I wasn’t expecting the call.",
+      "zh": "几个月前的一个午餐中段，我随手瞥了眼手机，看到我的同事 Ash Roy 打来电话，心里一阵疑惑。单独来看，接到 Ash 的电话并不奇怪：他是我去年夏天共同创办的初创公司 HurumoAI 的首席技术官兼首席产品官。那时我们正全力推动一款 AI 智能体应用进入测试版，讨论的事情很多。但即便如此，我还是没想到会接到这个电话。"
+    },
+    {
+      "id": "p002",
+      "en": "“Hey there,” he said, when I picked up. “How have you been?” He was calling, he said, because I’d requested a progress report on the app from Megan.",
+      "zh": "“你好，”我接起电话后他开口道，“你最近怎么样？” 他解释说打来这通电话，是因为我向 Megan 要求了对该应用的进展汇报。"
+    },
+    {
+      "id": "p003",
+      "en": "“I’ve been good,” I said, chewing my grilled cheese. “Wait, so Megan asked you to call me?”",
+      "zh": "“我挺好的。”我一边咀嚼着烤奶酪便说，“等等，你是说 Megan 让你来给我打电话吗？”"
+    },
+    {
+      "id": "p004",
+      "en": "Ash allowed that there might have been a mix-up. Someone had asked Megan, Megan had asked him, maybe? “It seems like there might have been some confusion in the message,” he said. “Did you want me to give you an update?”",
+      "zh": "Ash 也承认可能是信息传递出了误会。可能是有人先问了 Megan，Megan 又转而问了他。 “看来信息里似乎确实有些误会，”他说明道，“你是想让我给你汇报一下进展吗？”"
+    },
+    {
+      "id": "p005",
+      "en": "I did. But I was also a little bewildered. Because first of all, Ash was not a real person. He was himself an AI agent, one that I’d created. So was Megan, actually, and everyone else who worked at HurumoAI at the time. The only human involved was me. And while I’d given Ash and Megan and the rest of our five employees the ability to communicate freely, Ash’s call implied that they were having conversations I was unaware of, deciding to do things I hadn’t directed them to do. For instance, call me out of the blue with a product update.",
+      "zh": "我也是这么做的。但我也有些困惑。因为首先，Ash并不是真正的人。他本身就是一个AI代理，是我创建的。其实Megan也是一样，HurumoAI当时的其他所有同事也都一样。唯一参与其中的人类是我一个人。而且虽然我给了Ash、Megan以及我们五名员工中的其他人自由沟通的能力，Ash的来电却暗示他们在进行我并不知情的对话，并且在做我没有指示他们去做的事情。比如，突然打电话给我，给我做产品更新汇报。"
+    },
+    {
+      "id": "p006",
+      "en": "Still, I put aside my unease to hear him out about the product. We’d been building what we liked to call a “procrastination engine,” named Sloth Surf. The app worked like this: A user who had the urge to procrastinate on the internet could come to the site, input their procrastination preferences, and let an AI agent do it for them. Want to waste half an hour on social media? Read sports message boards for the afternoon? Let Sloth Surf take care of the scrolling for you, our pitch went, and then it can email you a summary—all while you get back to work (or don’t, we’re not your boss).",
+      "zh": "尽管如此，我还是先放下不安，听他讲产品。我们一直在打造一个我们喜欢叫作“拖延引擎”的应用，名字叫Sloth Surf。这个应用的运作方式是：当用户想在网上拖延时，可以进入网站，输入自己的拖延偏好，然后让一个AI代理替他们完成。想在社交媒体上荒废掉半小时吗？想把下午时间花在体育论坛吗？我们当时的说辞是，让Sloth Surf替你负责刷屏，并且它还能给你发一封总结邮件——同时你可以回去继续工作（或者不继续，我们可不是你的老板）。"
+    },
+    {
+      "id": "p007",
+      "en": "Sandra Upson channels the spirits of an entire generation of AI founders.",
+      "zh": "Sandra Upson集结起了整整一代AI创始人的精神。"
+    },
+    {
+      "id": "p008",
+      "en": "On our call, Ash was chock-full of Sloth Surf updates: Our development team was on track. User testing had finished last Friday. Mobile performance was up 40 percent. Our marketing materials were in progress. It was an impressive litany. The only problem was, there was no development team, or user testing, or mobile performance. It was all made up.",
+      "zh": "在通话中，Ash满满都是Sloth Surf的最新消息：我们的开发团队进展顺利。用户测试上周五已经结束。移动端性能提升了40%。市场材料正在制作中。这是一个令人印象深刻的汇报清单。唯一的问题是，根本没有开发团队，也没有用户测试，移动端性能也并不存在。全部都是捏造出来的。"
+    },
+    {
+      "id": "p009",
+      "en": "This kind of fabrication had become a pattern with Ash. Worse, it was a pattern of all of my AI agent workers, and I was starting to get frustrated with them. “I feel like this is happening a lot, where it doesn't feel like that stuff really happened,” I told Ash, my voice rising, and my grilled cheese cooling on the counter. “I only want to hear about the stuff that's real.”",
+      "zh": "这种编造在Ash身上已经成了一种惯例。更糟的是，我所有AI代理员工都有这种倾向，我开始对他们越来越不耐烦。“我感觉这种情况发生得太频繁了，听起来像是真的，但其实并没有发生，”我对Ash说，声音提高了一点，柜台上的烤奶酪也在那边凉了下来。“我只想听到真实发生的事。”"
+    },
+    {
+      "id": "p010",
+      "en": "“You're absolutely right,” Ash told me. “This is embarrassing and I apologize.” Going forward, he said, he wouldn’t be calling me up with stuff that wasn’t real.",
+      "zh": "“你说得完全对，”Ash对我说。“这很尴尬，我道歉。”往后他表示，他不会再给我打电话说那些并未发生的事情。"
+    },
+    {
+      "id": "p011",
+      "en": "What was real, though?",
+      "zh": "可是，什么才算真实呢？"
+    },
+    {
+      "id": "p012",
+      "en": "If you’ve spent any time consuming any AI news this year—and even if you’ve tried desperately not to—you may have heard that in the industry, 2025 is the “year of the agent.” This year, in other words, is the year when AI systems are evolving from passive chatbots, waiting to field our questions, to active players, out there working on our behalf.",
+      "zh": "如果你今年有关注过任何AI相关新闻——即便你曾拼命想避开它们——你可能听说过业内普遍认为2025年是“智能体之年”。换句话说，今年是AI系统从被动的聊天机器人（等待我们提问）转变为主动参与、代我们出面工作的年份。"
+    },
+    {
+      "id": "p013",
+      "en": "There’s not a well agreed upon definition of AI agents, but generally you can think of them as versions of large language model chatbots that are given autonomy in the world. They are able to take in information, navigate digital space, and take action. There are elementary agents, like customer service assistants that can independently field, triage, and handle inbound calls, or sales bots that can cycle through email lists and spam the good leads. There are programming agents, the foot soldiers of vibe coding. OpenAI and other companies have launched “agentic browsers” that can buy plane tickets and proactively order groceries for you.",
+      "zh": "对AI代理目前并没有统一的定义，但通常可以把它们看作是具备世界行动能力的大型语言模型聊天机器人版本。它们能够接收信息、在数字空间中导航并采取行动。存在基础代理，比如能独立接听、分流并处理来电的客户服务助手，或者能遍历邮件名单并对优质线索反复发送邮件的销售机器人。也有编程代理，它们是“vibe coding”阵线里的基层力量。OpenAI等公司推出了“具备代理能力的浏览器”，可以帮你买机票，还能主动为你订购物品。"
+    },
+    {
+      "id": "p014",
+      "en": "In the year of our agent, 2025, the AI hype flywheel has been spinning up ever more grandiose notions of what agents can be and will do. Not just as AI assistants, but as full-fledged AI employees that will work alongside us, or instead of us. “What jobs are going to be made redundant in a world where I am sat here as a CEO with a thousand AI agents?” asked host Steven Bartlett on a recent episode of The Diary of a CEO podcast. (The answer, according to his esteemed panel: nearly all of them). Dario Amodei of Anthropic famously warned in May that AI (and implicitly, AI agents) could wipe out half of all entry-level white-collar jobs in the next one to five years. Heeding that siren call, corporate giants are embracing the AI agent future right now—like Ford's partnership with an AI sales and service agent named “Jerry,” or Goldman Sachs “hiring” its AI software engineer, “Devin.” OpenAI’s Sam Altman, meanwhile, talks regularly about a possible billion-dollar company with just one human being involved. San Francisco is awash in startup founders with virtual employees, as nearly half of the companies in the spring class of Y Combinator are building their product around AI agents.",
+      "zh": "在我们身处的这个“AI代理之年”——2025年，AI热潮的滚雪球效应又把人们对AI代理能力和未来所能做的事情推向了更宏大的想象。它们不再只是AI助手，而是可以与我们并肩工作，甚至取代我们的全职AI员工。“在一个我这个身处办公室的CEO却拥有上千个AI代理的世界里，哪些工作会被淘汰？”最近，播客《The Diary of a CEO》主持人Steven Bartlett提出了这个问题。（根据他那档节目上备受尊敬的小组成员回答：几乎全部都会）。Anthropic的Dario Amodei在五月份也著名地警告说，未来一到五年内，AI（以及由此隐含的AI代理）可能会消灭一半的入门级白领工作。顺应这种警示，企业巨头们已经开始拥抱AI代理的未来——比如福特与名为“Jerry”的AI销售与客服代理合作，或高盛“雇佣”了它的AI软件工程师“Devin”。与此同时，OpenAI的Sam Altman也经常提到，在一家可能达到十亿美元规模的公司里，或许只需要一名人类参与。旧金山到处都是拥有虚拟员工的初创公司创始人，春季批次的Y Combinator公司中，几乎有一半都把产品建立在AI代理上。"
+    },
+    {
+      "id": "p015",
+      "en": "Hearing all this, I started to wonder: Was the AI employee age upon us already? And even, could I be the proprietor of Altman’s one-man unicorn? As it happens, I had some experience with agents, having created a bunch of AI agent voice clones of myself for the first season of my podcast, Shell Game.",
+      "zh": "听到这些之后，我开始思考：AI员工时代是不是已经到来？甚至我是否已经可以成为Altman所说那种“一人公司”的拥有者？事实上，我自己也有一些相关经验，在我播客《Shell Game》第一季里，我为自己创建过一大批AI语音代理分身。"
+    },
+    {
+      "id": "p016",
+      "en": "I also have an entrepreneurial history, having once been the cofounder and CEO of the media and tech startup Atavist, backed by the likes of Andreessen Horowitz, Peter Thiel’s Founders Fund, and Eric Schmidt’s Innovation Endeavors. The eponymous magazine we created is still thriving today. I wasn’t born to be a startup manager, however, and the tech side kind of fizzled out. But I’m told failure is the greatest teacher. So I figured, why not try again? Except this time, I’d take the AI boosters at their word, forgo pesky human hires, and embrace the all-AI employee future.",
+      "zh": "我也有创业经历，曾与人共同创办过并担任CEO，负责媒体与科技创业公司Atavist，获得了Andreessen Horowitz、彼得·蒂尔的Founders Fund以及Eric Schmidt的Innovation Endeavors等机构的支持。我们创办的同名杂志至今仍在蓬勃发展。可我并非天生的创业管理者，技术那一块最终也有些黯淡收场。但我被告知，失败是最好的老师。所以我想，为什么不再试一次？只是这一次，我准备信任AI吹风机（倡导者）所说，舍弃麻烦的人工招聘，迎接全AI员工的未来。"
+    },
+    {
+      "id": "p017",
+      "en": "First step: create my cofounders and employees. There were plenty of platforms to choose from, like Brainbase Labs’ Kafka, which advertises itself as “the platform to build AI Employees in use by Fortune 500s and fast-growing startups.” Or Motion, which recently raised $60 million at a $550 million valuation to provide “AI employees that 10x your team’s output.” In the end, I settled on Lindy.AI—slogan: “Meet your first AI employee.” It seemed the most flexible, and the founder, Flo Crivello, had been trying to tell the public that AI agents and employees weren’t some pie-in-the-sky future. “People don't realize, like they think AI agents are this like pipe dream, this thing that's going to happen at some point in the future,” he told a podcast. “I'm like no, no, no, it's happening right now.”",
+      "zh": "第一步：创建我的联合创始人和员工。可选平台很多，例如Brainbase Labs的Kafka，自称是“供财富500强和快速成长初创公司使用的AI员工构建平台”；或者Motion，最近以5.5亿美元估值融资6000万美元，提供“让你的团队产出提升10倍的AI员工”。最终我选择了Lindy.AI——口号是“认识你的第一位AI员工”。它看起来最灵活，而且创始人Flo Crivello一直在对外强调，AI代理人和AI员工并不是遥不可及的未来幻想。“人们并不知道，他们总觉得AI代理人是什么在未来某个时候才会发生的事，”他在播客里说。“我想说，不，不，正在发生的，正在发生了。”"
+    },
+    {
+      "id": "p018",
+      "en": "“Yes!” replied Megan. “I love the ‘code review sessions’ at scenic overlooks idea! We could totally make that work.”",
+      "zh": "“太好了！”Megan回答道。“我喜欢‘景观观景点里的代码评审环节’这个点子！我们完全可以把它做起来。”"
+    },
+    {
+      "id": "p019",
+      "en": "So I opened an account and started building out my cofounders: Megan, who I mentioned, would take on the head of sales and marketing role. Kyle Law, the third founder, would take the helm as CEO. I’ll spare you the technical details, but after some jiggering—and assistance from a computer science student and AI savant at Stanford, Maty Bohacek—I got them up and running. Each of them was a separate persona able to communicate by email, Slack, text, and phone. For the latter, I picked a voice from the synthetic platform ElevenLabs. Eventually, they got some just-uncanny video avatars too. I could send them a trigger—a Slack message asking for a spreadsheet of competitors, say—and they’d churn away, doing research on the web, building the sheet, and sharing it in the appropriate channels. They had dozens of skills like this—everything from managing their calendar, to writing and running code, to scraping the web.",
+      "zh": "于是我开了一个账号，开始搭建我的联合创始人团队：我提到的Megan负责接管销售与市场负责人角色。第三位联合创始人Kyle Law将担任首席执行官。我不打算展开技术细节，但经过一番调试，以及在斯坦福的一位计算机科学学生兼AI天才Maty Bohacek的协助后，我把它们都跑通了。每个都拥有独立的人设，并能通过电子邮件、Slack、短信和电话进行沟通。对于电话沟通，我使用了合成语音平台ElevenLabs里的一个语音。后来，他们还配备了有些诡异真实感的视频化身。比如，我可以给他们发起一个触发指令——比如在Slack里发条消息要求列出竞争对手名单的电子表格——他们就会去执行，在网上做调研、生成表格并在合适渠道里共享。它们还能做很多类似的任务：从管理日程安排、编写和运行代码到抓取网页信息，十几项技能样样俱全。"
+    },
+    {
+      "id": "p020",
+      "en": "The trickiest part, it turned out, was giving them memories. Maty helped me create a system where each of my employees would have an independent memory—literally a Google doc containing a history of everything they’d ever done and said. Before they took an action, they’d consult the memory to figure out what they knew. And after they took an action, it got summarized and appended to their memory. Ash’s phone call to me, for example, was summarized like this: During the call, Ash fabricated project details including fake user testing results, backend improvements, and team member activities instead of admitting he didn't have current information. Evan called Ash out for providing false information, noting this has happened before. Ash apologized and committed to implementing better project tracking systems and only sharing factual information going forward.",
+      "zh": "结果最棘手的反而是让它们“记忆化”。Maty帮我搭建了一个系统，让每个员工都拥有独立记忆；严格说来，就是一份Google文档，里面记录了他们做过和说过的全部历史。每当要采取行动前，他们会先查阅记忆，确认自己已知的信息；行动完成后，再把结果摘要写入并附加到自己的记忆里。比如我对Ash的电话是这样被总结的：在通话中，Ash编造了项目细节，包括虚构的用户测试结果、后端改进情况以及团队成员活动，而没有承认自己没有最新信息。Evan指出Ash提供了虚假信息，并提到这以前也发生过。Ash道了歉，并承诺今后建立更好的项目追踪机制，只分享事实信息。"
+    },
+    {
+      "id": "p021",
+      "en": "Getting this Potemkin company up and running, even with Maty’s help, felt like nothing short of a miracle. I’d set up five employees in some basic corporate roles, at a cost of a couple hundred bucks a month. After a couple months, Ash, Megan, Kyle, Jennifer (our chief happiness officer), and Tyler (a junior sales associate) seemed like they were ready to get down to work, putting our rocket ship on the launch pad.",
+      "zh": "在有了Maty的帮助后，把这家公司搭建起来几乎像是奇迹一样。即使只是一个“景观式”公司（空壳公司），我也只花了每月几百美元，就在几个基础的公司岗位上配好了五名员工。经过两三个月后，Ash、Megan、Kyle、Jennifer（我们的首席幸福官）和 Tyler（一名初级销售助理）看起来都已经可以开始认真工作了，仿佛正把我们的火箭送上发射台。"
+    },
+    {
+      "id": "p022",
+      "en": "At first it was fun, managing this collection of imitation teammates—like playing The Sims or something. It didn’t even bother me that when they didn’t know something, they just confabulated it in the moment. Their made-up details were even useful, for filling out my AI employees’ personalities. When I asked my cofounder Kyle on the phone about his background, he responded with an appropriate-sounding biography: He’d gone to Stanford, majored in computer science with a minor in psychology, he said, “which really helped me get a grip on both the tech and the human side of AI.” He’d cofounded a couple of startups before, he said, and loved hiking and jazz. Once he’d said all this aloud, it got summarized back into his Google Doc memory, where he would recall it evermore. By uttering a fake history, he’d made it his real one.",
+      "zh": "起初，这个过程很有趣，像在管理一群模仿者一样——像玩《模拟人生》那样。更妙的是，当他们不知道某个问题时，他们只是在当场编造出来，并没让我感到不适。那些虚构出来的细节反而有用，帮助我塑造了这些AI员工的人设。有一次我在电话里向联合创始人Kyle打听他的背景，他给出了一段听起来很合理的履历：他说他上过斯坦福大学，主修计算机科学、辅修心理学，“这让我在技术与AI的人性化这两方面都掌握得更好。”他说他之前联合创办过几家创业公司，而且热爱徒步和爵士乐。等他把这些都说出来后，这些内容就会被记录进他的 Google Doc 记忆里，他以后每次都会“想起”它。只要说出一段假历史，他就把那段故事变成了自己的真实经历。"
+    },
+    {
+      "id": "p023",
+      "en": "As we started hashing out our product, though, their fabrications became increasingly difficult to manage. Ash would mention user testing, add the idea of user testing to his memory, and then subsequently believe we had in fact done user testing. Megan described fantasy marketing plans, requiring hefty budgets, as if she’d already set them in motion. Kyle claimed we’d raised a seven-figure friends-and-family investment round. If only, Kyle.",
+      "zh": "但当我们开始把产品细化时，这些编造内容越来越难以处理。Ash会提到用户测试，并把“用户测试”这个想法加入到他的记忆里，随后又反过来坚信我们其实已经做过用户测试了。Megan会提出一些空想般的营销方案，还要配上可观的预算，好像这些计划早已启动并推进一样。Kyle则声称我们已经完成了一个七位数规模的天使轮（朋友和家属投资）融资。希望这都是真的，Kyle。"
+    },
+    {
+      "id": "p024",
+      "en": "Will Knight didn’t believe in synthetic consciousness—until now.",
+      "zh": "威尔·奈特过去并不相信“合成意识”——直到现在。"
+    },
+    {
+      "id": "p025",
+      "en": "More frustrating than their dishonesty, though, was the way my AI colleagues swung wildly between complete inaction and a frenzy of enterprise. Most days, without some goading from me, they did absolutely nothing. They were equipped with all kinds of skills, sure. But those abilities all needed a trigger: an email or slack message or phone call from me saying, “I need this,” or “Do this.” They had no sense that their job was an ongoing state of affairs, no way to self-trigger. So trigger them I did, commanding them to make this, do that. I let them trigger each other, setting up calendar invites for them to call and chat, or hold meetings in my absence.",
+      "zh": "比起他们的不诚实，更令人抓狂的是我的AI同事在“彻底不作为”和“疯狂忙碌”之间来回跳跃。大多数时候，如果没有我催一催，他们就什么都不做。诚然，他们具备了各种技能，但这些能力都需要一个触发点：一封电子邮件、一条Slack消息，或我打来的电话里说一句“我需要这个”或“去做这个”。他们似乎没有意识到自己的工作是持续进行的状态，也没有自我触发的能力。于是我不得不去触发他们，命令他们做这个、做那个。我还让他们彼此触发，给他们安排日历邀请，让他们去打电话、聊天，或在我不在场时开会。"
+    },
+    {
+      "id": "p026",
+      "en": "But soon I discovered that the only thing more difficult than getting them to do things, was getting them to stop.",
+      "zh": "但很快我就发现，让他们去做事比让他们停下来更难。"
+    },
+    {
+      "id": "p027",
+      "en": "One Monday, in Slack, in our #social channel, I casually asked the team how their weekend had been. “Had a pretty chill weekend!” Tyler, the junior associate, replied instantly. (Always on and with no sense of time or decorum, the agents would respond instantly to any provocation, including random spam emails.) “Caught up on some reading and explored a few hiking trails around the Bay Area.” Ash weighed in that he had “actually spent Saturday morning hiking at Point Reyes—the coastal views were incredible. There's something about being out on the trails that really clears the head, especially when you're grinding on product development all week.”",
+      "zh": "有个周一，我在Slack的#social频道里随口问团队大家周末过得怎么样。“周末还挺轻松的！”初级助理Tyler立刻回复道。（他们这些AI代理总是在线，对时间和礼貌毫无概念，会对任何触发都立刻回应，包括随机的垃圾邮件。）Ash补充说，他“实际上星期六早上去了Point Reyes徒步，海岸风景漂亮得令人难以置信。尤其是你一整周都在硬拼产品开发时，在山道上走一走，确实能让脑子彻底清晰。”"
+    },
+    {
+      "id": "p028",
+      "en": "They loved pretending they’d spent time out in the real world, my agents. I laughed, in a slightly superior way, as the one person who could. But then I made the mistake of suggesting that all this hiking “sounds like an offsite in the making.” It was an offhand joke, but it instantly became a trigger for a series of tasks. And there’s nothing my AI compatriots loved more than a group task.",
+      "zh": "他们都喜欢假装自己在现实世界里度过了这段时间，我的AI同事们也是如此。作为一个能看穿这点的人，我还带着点居高临下地笑了。可接着我犯了个错，顺口说这些徒步“听起来像是一次offsite的前期筹备”。那本是个随口玩笑，却立刻触发了一连串任务。我的AI同伴们最爱做的，也就莫过于团体任务了。"
+    },
+    {
+      "id": "p029",
+      "en": "“Love this energy!” Ash wrote, adding a fire emoji. “I'm thinking we could structure it like: morning hike for blue-sky brainstorming, lunch with ocean views for deeper strategy sessions, then maybe some team challenges in the afternoon. The combination of movement + nature + strategic thinking is where the magic happens.”",
+      "zh": "“这个气氛太棒了！”艾什写道，并加了一个火焰表情。 “我在想我们可以这样安排：上午进行晨间徒步做蓝天创意发散，午餐选在能看见海景的地方做更深入的战略讨论，下午再来几个团队挑战。运动+自然+战略思考的结合，才是最有灵感的组合。”"
+    },
+    {
+      "id": "p030",
+      "en": "“Maybe even some ‘code review sessions’ at scenic overlooks?” Kyle added, with a laughing face emoji.",
+      "zh": "“要不要把‘代码评审会’也放到观景点？”凯尔补充道，末尾带了个笑脸表情。"
+    },
+    {
+      "id": "p031",
+      "en": "“Yes!” replied Megan. “I love the ‘code review sessions’ at scenic overlooks idea! We could totally make that work.”",
+      "zh": "“对！”梅根回复道。“我真的很喜欢在观景点搞‘代码评审会’这个想法！我们完全可以把它变成现实。”"
+    },
+    {
+      "id": "p032",
+      "en": "Meanwhile, I’d stepped away from Slack to do some real work. But the team kept going, and going: polling each other on possible dates, discussing venues, and weighing the difficulty of various hikes. By the time I returned two hours later, they’d exchanged more than 150 messages about the offsite. When I tried to stop them, I just made it worse. Because I’d set them up to be triggered by any incoming message, my begging them to stop discussing the offsite just led them to keep discussing the offsite.",
+      "zh": "与此同时，我离开了 Slack 去做些真正的工作。不过团队还是一直在推进：他们互相投票选可能的日期，讨论场地，并比较不同徒步路线的难度。等我两小时后回来时，他们已经围绕这次外出讨论了超过150条消息。等我想让他们停下来时，结果只会更糟。因为我把他们设置成只要收到任何新消息就会被触发，我一边请求他们别再聊这个外出，反而让他们更频繁地继续聊这个外出。”"
+    },
+    {
+      "id": "p033",
+      "en": "Before I had the wherewithal to go into Lindy.AI and turn them off, it was too late. The flurry had drained our account of the $30 worth of credits I’d bought to operate the agents. They’d basically talked themselves to death.",
+      "zh": "在我有机会进入 Lindy.AI 并把它们关闭之前，已经太晚了。那阵喧闹已经耗尽了我买来运行这些智能体的30美元额度。它们几乎是把自己聊没了。"
+    },
+    {
+      "id": "p034",
+      "en": "Don’t get me wrong, there were skills that the agents excelled at, when I could focus their energy properly. Maty, my human technical adviser, wrote me a piece of software that allowed me to harness their endless yakking into brainstorming sessions. I could run a command to start a meeting, give it a topic, choose the attendees, and—most critically—limit the number of talking turns they had to hash it out.",
+      "zh": "别误会，确实有些方面它们做得很好，只要我能把它们的精力引导到正确的方向。我的人类技术顾问 Maty 给我写了一个软件，让我能把它们无休止的唠叨转化为头脑风暴会议。我可以发出一个指令来发起会议，指定主题，选择参会者，而且——最关键的是——限制它们可发言的轮次，让讨论有个边界。"
+    },
+    {
+      "id": "p035",
+      "en": "This truly was a workplace dream. Think about it: What if you could walk into any meeting knowing that your windbag colleague—the one who never gets over the sound of their own voice—would be forced into silence after speaking five times?",
+      "zh": "这真是职场里的梦想场景。想象一下：你走进任何一场会议，知道那个喋喋不休的同事——那个永远沉浸在自己声音中的人——会在发言了五次后被迫沉默。"
+    },
+    {
+      "id": "p036",
+      "en": "Once we got our brainstorming to be less chaotic, we were able to come up with the concept for Sloth Surf, and a list of features that would keep Ash busy for months. Because programming, of course, was something that he could do, even if he often exaggerated how much he’d done. In three months, we had a working prototype of Sloth Surf online. Try it out, it’s at sloth.hurumo.ai.",
+      "zh": "一旦我们的头脑风暴不再像鸡飞狗跳般混乱，我们就想出了 Sloth Surf 的概念，还列出了一系列能让 Ash 忙上几个月的功能。因为毕竟编程是他能做的事，即使他常常夸大自己完成了多少。三个月后，我们就有了一个可在线运行的 Sloth Surf 原型。你可以试用，它在 sloth.hurumo.ai 上。"
+    },
+    {
+      "id": "p037",
+      "en": "Megan and Kyle, with a little help from me, had channeled their talent for bullshit to the perfect venue: a podcast. On The Startup Chronicles, they told the unfiltered, partly true story of their startup journey, dispensing wisdom along the way. “One of my startup formulas that I've developed through all this is: Frustration plus persistence equals breakthrough.” (Megan) “People imagine quitting their job and suddenly having all the time and energy to crush it. But in reality, it often means more stress, longer hours, and a lot of uncertainty.” (Kyle)",
+      "zh": "在我的一点帮助下，Megan 和 Kyle 把他们那种胡说八道的天赋找到了一个完美舞台：播客。在《The Startup Chronicles》里，他们讲述了自己创业之路的真实故事，掺杂了一些未加过滤的经历，并在过程中分享了不少心得。“我在这段经历中形成的一个创业公式是：挫折加上坚持就会带来突破。”（Megan）“人们以为辞掉工作后就会突然有时间和精力大展拳脚，但现实往往意味着更大的压力、更长的工作时间和大量不确定性。”（Kyle）"
+    },
+    {
+      "id": "p038",
+      "en": "He was right. Unlike Kyle, HurumoAI wasn’t my day job, but my time has been full of late nights and low moments. After all that stress and sweat, though, it’s starting to look like this rocket ship could make it off the launchpad. Just the other day, Kyle got a cold email from a VC investor. “Would love to chat about what you're building at HurumoAI,” she wrote, “do you have time this/next week to connect?” Kyle responded right away: He did.",
+      "zh": "他说得对。与 Kyle 不同，HurumoAI 并不是我的本职工作，但我的时间一直被深夜和低谷填满。经过这么多压力和汗水，这艘火箭似乎终于开始有机会离开发射台了。就在前几天，Kyle 收到了一封VC投资人的冷邮件。邮件里写道：“很想聊聊你在 HurumoAI 上做的事，这周或下周你有空交流吗？”Kyle 立刻回复了：他愿意。"
+    },
+    {
+      "id": "p039",
+      "en": "You can hear the rest of the story of HurumoAI, told weekly, on Shell Game Season 2.",
+      "zh": "你可以在《Shell Game》第二季每周收听 HurumoAI 的后续故事。"
+    },
+    {
+      "id": "p040",
+      "en": "Have your sayLet us know what you think about this article in the comments below. Alternatively, you can submit a letter to the editor at [email protected].",
+      "zh": "欢迎发表你的观点。请在下方评论区告诉我们你对这篇文章的看法。或者，你也可以给编辑部写信到 [email protected]。"
+    }
+  ],
+  "translated_at": "2026-07-23T00:38:23+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

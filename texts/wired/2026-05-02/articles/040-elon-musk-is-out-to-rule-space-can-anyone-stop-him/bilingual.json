@@ -1,0 +1,299 @@
+{
+  "id": "040-elon-musk-is-out-to-rule-space-can-anyone-stop-him",
+  "source_href": "feed_0/article_39/index_u38.html",
+  "publication": "wired",
+  "issue": "2026-05-02",
+  "issue_published_at": "2026-05-02",
+  "article_published_at": "2025-09-22T06:00:00-04:00",
+  "published_at": "2025-09-22T06:00:00-04:00",
+  "published_date_source": "article",
+  "order": 40,
+  "section": "Noah Shachtman",
+  "title_en": "Elon Musk Is Out to Rule Space. Can Anyone Stop Him?",
+  "title_zh": "埃隆·马斯克想要统治太空。有人能阻止他吗？",
+  "rubric_en": "With SpaceX and Starlink, Elon Musk controls more than half the world’s rocket launches and thousands of internet satellites. That amounts to immense geopolitical power.",
+  "rubric_zh": "凭借 SpaceX 和 Starlink，埃隆·马斯克掌控了全球一半以上的火箭发射，以及数千颗互联网卫星。这意味着他拥有巨大的地缘政治影响力。",
+  "date": "2025-09-22T06:00:00-04:00",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "Just off the Jimmy Buffett Memorial Highway, the hotel’s rooftop bar is open late. The bartender passes out shots and turns Ozzy up. It’s 11:37 pm on a hot July night in Cape Canaveral, Florida, when our heads all swivel in the same direction. A SpaceX Falcon 9 rocket takes off, its orange plume glowing bright, about 12 miles due north up the Banana River. The “Iron Man” riff starts to blast.",
+      "zh": "就在吉米·巴菲特纪念公路旁，酒店顶层酒吧还亮着灯开着门。调酒师一杯杯倒出烈酒，音响里放起了奥兹先生（Ozzy）的歌。那是佛罗里达州卡纳维拉尔角一个炎热七月夜晚的晚上11点37分，所有人的目光都朝同一方向转过去。一枚SpaceX猎鹰9号火箭点火升空，橘色火焰尾迹在约12英里以北的香蕉河上空一闪一闪。那段“钢铁侠”式的吉他riff开始轰鸣。"
+    },
+    {
+      "id": "p002",
+      "en": "It’s fun for the couple dozen of us there. When we hear the thud of the sonic boom, most everyone lets out some kind of hoot. But for Elon Musk, it’s just another Tuesday. This is SpaceX’s 95th launch of the year, one nearly every other day. That’s more liftoffs than the rest of the world gets into space, combined.",
+      "zh": "对我们那里二十来个人来说，这一刻很有趣。当我们听见音爆的闷响，几乎每个人都会发出一声欢呼。但对埃隆·马斯克来说，这只是又一个周二。当天这是SpaceX今年的第95次发射，几乎每隔一天就有一次。这意味着它单独完成的升空次数超过了全世界其他国家和机构加起来的总和。"
+    },
+    {
+      "id": "p003",
+      "en": "For our politics issue, WIRED examines the state of tech’s influence on governmental power—and the people who will change everything in the future.",
+      "zh": "在本期政治专题中，《WIRED》正在审视科技对政府权力的影响现状，以及那些将改变未来的人。"
+    },
+    {
+      "id": "p004",
+      "en": "On this particular night, this Falcon 9 took 28 Starlink internet satellites to orbit. Starlink, of course, is another Musk space venture that dominates its competitors. His constellation has more than 8,000 satellites; its closest competitor, Eutelsat’s OneWeb, has about 630 satellites, each supplying less than 1/10th the bandwidth of a Starlink. Amazon is going all in on its own service, called Project Kuiper and led by SpaceX’s former satellite chief. The terms of Kuiper’s license from the feds require it to get 1,600 satellites into orbit by the middle of next year. So far, the Amazon constellation has 102.",
+      "zh": "就在这个夜晚，这枚猎鹰9号把28颗星链互联网卫星送入轨道。当然，星链也是马斯克的另一项太空事业，远远领先于竞争对手。他的卫星群已有超过8,000颗；其最接近的竞争者尤泰卫星通信公司的OneWeb大约有630颗卫星，每颗提供的带宽不到星链的十分之一。亚马逊则在押注自己的项目——“Kuiper”，由SpaceX前卫星主管主导。美国政府给予Kuiper许可的条款要求其在明年年中前，将1,600颗卫星送入轨道。目前，亚马逊的星座卫星只有102颗。"
+    },
+    {
+      "id": "p005",
+      "en": "It’s hard to quantify, even with those numbers, the geopolitical power that Musk now commands by way of his two space businesses. When Starlink went down for a couple of hours in late July, troops on both sides of the Russia-Ukraine conflict had trouble connecting with their drones—and one another. “Everyone thought it was purely on the front lines, until reports started coming in that he had fallen all over the world,” one officer stationed near the city of Kupiansk, along the Oskil River in eastern Ukraine, texts me. That’s how central Musk is to modern warfare. Two days after the launch I watched from the hotel roof, another Falcon 9 took off from Cape Canaveral, this one carrying four astronauts aboard a Dragon capsule to the International Space Station. SpaceX’s Dragon is currently America’s only way to get humans into space, as Musk reminded his onetime ally Donald Trump when the president threatened Musk’s government contracts.",
+      "zh": "即使有这些数字，也很难准确衡量马斯克如今凭借两家航天企业所掌握的地缘政治力量。当七月下旬 Starlink 断网了几个小时，俄罗斯和乌克兰冲突双方的部队都很难用无人机相互之间以及与外界保持联系。一名驻扎在乌克兰东部奥斯基尔河畔库皮扬斯克附近的军官在发给我的短信里写道：“大家起初都认为这纯粹是前线问题，直到报告陆续传来，才知道是他在全世界各地都出现故障。”这显示出马斯克在现代战争中的核心地位。就在我从酒店屋顶目睹那次发射后的两天后，另一枚“猎鹰9号”从卡纳维拉尔角升空，载着四名宇航员在“龙”号飞船中前往国际空间站。SpaceX 的“龙”号目前是美国向太空送人类的唯一途径，马斯克在唐纳德·特朗普总统当时威胁要取消其政府合同之时，也正是以此提醒过这位前盟友。"
+    },
+    {
+      "id": "p006",
+      "en": "Now, Musk has a chance to leverage his two dominant positions into a third. For the first time in decades, America is openly working on the weaponization of space, in response to what the Pentagon claims are threats from Russia and China. The Pentagon is investing in spacecraft that can fly up to other countries’ satellites and attack. Separately, the president has pledged $175 billion for a program that could eventually entail hundreds and hundreds of orbiting interceptors and even more communications satellites to allow them to work together.",
+      "zh": "如今，马斯克有机会将他在这两个核心领域的主导地位转化为第三个优势。几十年来首次，美国公开开始推进太空武器化，以应对五角大楼宣称来自俄罗斯和中国的威胁。五角大楼正在投资研发可飞向他国卫星并实施攻击的航天器。另外，总统还承诺投入一千七百五十亿美元，用于一项最终可能包括数百架甚至更多在轨拦截器，以及更多通信卫星的项目，以便它们之间协同运作。"
+    },
+    {
+      "id": "p007",
+      "en": "It’s hard to quantify, even with those numbers, the geopolitical power that Musk now commands by way of his two space businesses.",
+      "zh": "即使有这些数字，也很难准确衡量马斯克如今凭借两家航天企业所掌握的地缘政治力量。"
+    },
+    {
+      "id": "p008",
+      "en": "Musk’s companies are unlikely to build the weapons themselves. But getting them into space, and getting them to talk to one another, that is most certainly in their wheelhouse. So while Musk may not have open access to the Oval Office like he used to, there’s no conceivable way such a buildup won’t benefit SpaceX. The open question is, by how much? When the orbiting rifles are handed out, how many gun lockers will Elon have the keys to?",
+      "zh": "马斯克的公司不太可能自己制造这些武器。但把武器送入太空、并让它们彼此通信，这无疑正是他们的拿手领域。因此，虽然马斯克可能不像过去那样能直接进入椭圆形办公室，但可以说，没有任何可预见的方式会使这场军备扩张不能让 SpaceX 受益。问题是受益程度到底有多大？当轨道武器被逐步配备时，埃隆会握有多少“枪柜”的钥匙？"
+    },
+    {
+      "id": "p009",
+      "en": "You might be a little numb at this point to the degree of control that billionaires have over our lives. But you’ve watched Elon Musk stomp and smash and rage his way through politics and policy, even as his companies continue to pull off engineering feats that were once the stuff of sci-fi. So you get what’s at stake if he’s given an outsize role in the weaponization of space. (SpaceX did not respond to requests for comment.)",
+      "zh": "你可能已经对亿万富翁对我们生活施加的这种控制程度有些麻木了。但你也亲眼看见了马斯克如何踩着、砸着、怒气冲冲地闯入政治和政策领域，即使他的公司仍在持续完成那些过去只存在于科幻作品中的工程壮举。既然如此，你就能理解如果他在太空武器化中被赋予过度扩张的角色将会涉及什么。SpaceX没有回应置评请求。"
+    },
+    {
+      "id": "p010",
+      "en": "“The US government depends upon him very heavily,” Victoria Samson, the chief of space security at the Secure World Foundation, tells me. “So even before the election, I had been asking US space officials: ‘You have yoked yourself to a very mercurial personality. Doesn’t that concern you?’”",
+      "zh": "“美国政府在很大程度上依赖于他，”在“安全世界基金会”担任太空安全负责人、维多利亚·萨蒙森对我说：“所以在选举之前，我就已经在问美国航天官员：‘你们把自己系到一个非常善变的人身上。你们不担心吗？’”"
+    },
+    {
+      "id": "p011",
+      "en": "As recently as the early 2010s, getting to space was expensive and slow. The United States attempted fewer than 20 launches per year. Rockets can cost $10,000 per kilogram or more. Musk and now-legendary rocket engineer Tom Mueller broke through, in part, by being scrappy: They’d swap NASA’s $1,500 latches for ones made for bathroom stalls that cost just $30, and they’d use commercial air conditioners for the Falcon 9’s payload bay rather than buy a cooling system for an estimated $3 million.",
+      "zh": "直到2010年代初期，进入太空仍然既昂贵又缓慢。美国每年尝试的发射次数不足20次。火箭每公斤成本可能高达10,000美元或更多。马斯克和如今已成为传奇的火箭工程师汤姆·穆勒在某种程度上正是靠“精打细算”突围：他们会把NASA的1,500美元航空扣件换成只要30美元、原本用于公共厕所隔间的部件，还会为猎鹰9号货舱改用商用空调，而不是花约300万美元购买专用散热系统。"
+    },
+    {
+      "id": "p012",
+      "en": "While Musk likes to keep up an antiestablishment image, he very much played the Washington game. He drew on his alliances with like-minded people in the government, such as then NASA administrator Michael Griffin, who advocated for cheaper, easier access to space—especially to low Earth orbit, which starts around 100 miles up. When Musk felt others didn’t share that vision, he sued, like the time he alleged that the Air Force had acted illegally when it gave the era’s space monopolist, a joint venture between Boeing and Lockheed Martin called United Launch Alliance, an $11 billion contract for 36 rocket cores.",
+      "zh": "尽管马斯克喜欢维持一种反建制的形象，但他其实非常懂得在华盛顿这盘棋里下法。他依靠与政府中志趣相近人物的联盟推进了自己的路线，例如当时的NASA局长迈克尔·格里芬——后者主张让进入太空更便宜、更容易，尤其是到达以约100英里的高度起算的低地球轨道时。当马斯克觉得别人没有共享这一愿景时，他就会诉诸诉讼，比如那次他指控空军在将当时空间领域垄断者、由波音与洛克希德·马丁合资的联合发射联盟（United Launch Alliance）授予360亿美元、用于36枚火箭核心的合同一事上违法。"
+    },
+    {
+      "id": "p013",
+      "en": "When the suit didn’t produce instant results, Musk went jingoistic. A few months earlier, in February 2014, Russia had invaded Ukraine, illegally annexing the Crimean Peninsula and triggering a global wave of condemnation against Moscow. Musk rode that wave in his successful push to get Congress and the Obama administration to wind down use of the United Launch Alliance’s signature rocket, the Atlas V, because it relied on Russian RD-180 engines. (The suit was eventually settled out of court.) The combination helped break ULA’s grip on government space launches.",
+      "zh": "当诉讼没有立刻带来效果时，马斯克便转向了煽动式的民族主义姿态。几个月前的2014年2月，俄罗斯入侵乌克兰，并非法并吞克里米亚，引发了全球对莫斯科的谴责浪潮。马斯克乘势而上，在他推动国会和奥巴马政府削减对联合发射联盟（ULA）旗舰火箭 Atlas V 使用的支持力度中发挥了关键作用，因为 Atlas V 使用了俄罗斯制造的RD-180发动机。（该诉讼最终在法庭外和解。）这一系列举措帮助打破了ULA在政府太空发射领域的垄断地位。"
+    },
+    {
+      "id": "p014",
+      "en": "Another big leap came in 2017. SpaceX started reusing its rocket cores, which dramatically brought down the price of getting to orbit. (Eight years later, its Falcon 9 and Falcon Heavy are still the only rockets in their weight classes with reusable cores.) But nothing was more important than Mueller’s continued development of SpaceX’s Merlin engine. It became one of the most durable in aerospace history, even though, as a former employee told me, “performance-wise, it’s terrible.” Its power and efficiency are nothing special. “We didn’t have the resources to do a lot of design and analysis,” he adds. “And so we just tested the ever-loving shit out of the engine. We hot-fired it thousands of times. Now they have an engine that’s super robust.”",
+      "zh": "2017年又出现了另一大飞跃。SpaceX 开始回收并重复使用其火箭一级，这一举措大幅降低了进入轨道的成本。八年后，它的猎鹰9号和重型猎鹰仍是其各自级别中唯一拥有可重复使用核心级的火箭。但更重要的仍是默勒（Mueller）对 SpaceX 的猛禽引擎（Merlin）持续研发。它后来成为航空航天史上最耐用的发动机之一，尽管正如一名前员工对我说的，“从性能上看，它很差。”它的推力和效率都算不上特别出色。那位员工补充道：“我们当时没有足够的资源去做大量设计和分析工作。于是我们只是反复、极端地测试了这台发动机。我们把它热启动了成千上万次。现在他们有了一台非常结实耐用的发动机。”"
+    },
+    {
+      "id": "p015",
+      "en": "Today, thanks in part to its nine reusable Merlin engines, a Falcon 9 can take a kilogram to low Earth orbit for one-third the previous cost; the Falcon Heavy, which uses 27 Merlins, drops the cost nearly in half again. Some 85 percent of Falcon 9 missions go to space with previously used first stages. In 2022, SpaceX jumped from doing around 30 launches per year to more than 60, and last year it hit 138. NASA’s space launch and human exploration efforts are now almost entirely controlled by Musk. A whole new space economy has grown up around him, one that relies on his cheap space access to get networks of small spacecraft into low Earth orbit. Take Planet Labs, the satellite imaging company. Hundreds of its spacecraft were carried by Falcon 9.",
+      "zh": "如今，得益于其九台可重复使用的猛禽发动机，猎鹰9号将一公斤物资送入近地轨道的成本仅为过去的三分之一；重型猎鹰使用27台猛禽发动机，成本又几乎再降低了一半。大约85%的猎鹰9号任务都使用过往再飞行过的一级。2022年，SpaceX 从每年约30次发射跃升到60多次，而去年更是达到138次。美国宇航局的太空发射和载人探索任务几乎完全落入马斯克掌控。围绕他还形成了一套全新的太空经济体系，依赖他的低成本太空通道将大量小型航天器送入低地球轨道。以卫星成像公司 Planet Labs 为例，其数百颗航天器都由猎鹰9号搭载发射。"
+    },
+    {
+      "id": "p016",
+      "en": "Really, no one is even trying to catch up; they’re just trying to find niches in a Musk-dominated ecosystem. ULA is building rockets optimized to reach geostationary orbits, which are farther out, even as many of its customers follow Musk’s lead and keep their satellite constellations closer to Earth. Upstarts like Rocket Lab and Firefly are admired for their ingenuity. But their current operational rockets are tiny by comparison—capable of carrying, at most, a couple thousand pounds, versus 140,000 for the Falcon Heavy.",
+      "zh": "实际上，几乎没有人是在认真追赶；大家只是试图在一个以马斯克主导的生态系统中找准细分市场。ULA 正在打造优化于到达地球同步轨道的火箭，那里的轨道更远；与此同时，许多客户却跟随马斯克的路线，把自己的卫星星座布置得更靠近地球。像 Rocket Lab 和 Firefly 这类新兴公司因其创新精神而受到称赞，但它们当前的可运行火箭相比之下都很小，最多只能运载几千磅，而猎鹰重型的运力则是 140,000 磅。"
+    },
+    {
+      "id": "p017",
+      "en": "“SpaceX is a cornerstone in the space industry. And then there’s other cornerstones, like Firefly. We’re very complementary to SpaceX,” says Jason Kim, the CEO of Firefly Aerospace. “It’s kind of like air, land, and sea. There’s no one-size-fits-all kind of transportation method.” (Kim’s not alone in this thinking; Firefly just went public at a valuation of $8.5 billion; Rocket Lab’s market cap is about $21 billion.)",
+      "zh": "“SpaceX 是航天行业的基石之一。还有其他基石企业，比如 Firefly。我们与 SpaceX 是非常互补的，” Firefly Aerospace 首席执行官 Jason Kim 说。“这有点像空中、陆地和海上运输。没有一种交通方式适合所有场景。”（Kim 并不是唯一持有这种观点的人；Firefly 刚完成上市，估值为 85 亿美元；而 Rocket Lab 的市值约为 210 亿美元。）"
+    },
+    {
+      "id": "p018",
+      "en": "Jeff Bezos has the cash to compete with SpaceX. And he’s certainly been at it long enough—his rocket company, Blue Origin, started a quarter-century ago. But it has had, shall we say, competing priorities. It’s been hard at work on engines; its BE-4 engine is actually powering the first stage of ULA’s new rocket, confusingly enough. You may have seen that Blue Origin has a rocket for near-space tourism, the one that recently carried Bezos’ wife, Lauren Sánchez, and Katy Perry aloft. But the company’s big rocket, the one that’s supposed to compete with SpaceX, has flown exactly once. And when I ask Blue Origin’s rep what makes their rockets any better—or, at least, any different—from Musk’s, he tells me: “I don’t have a solid answer for you on that one.”",
+      "zh": "杰夫·贝佐斯有足够的资金与 SpaceX 竞争，而且他确实坚持了足够长的时间——他的火箭公司 Blue Origin 在上世纪九十年代初就成立了。但它确实有个可以说是“目标竞争优先级不一致”的问题。该公司一直在努力研发发动机；它的 BE-4 发动机实际上正在为 ULA 的新型火箭一号级提供动力，更令人困惑的是，这一安排听起来有点“奇怪”。你可能听说过 Blue Origin 有一枚用于近地太空旅游的火箭，最近就是它把贝佐斯的妻子劳伦·桑切斯和凯蒂·佩里送上了高空。然而，该公司的大火箭——那枚本应与 SpaceX 正面竞争的火箭——目前只飞行过一次。当我问 Blue Origin 的发言人，它们的火箭比马斯克的火箭好在哪里，或者至少哪里不同，他告诉我：“这一点我没有一个明确的答案。”"
+    },
+    {
+      "id": "p019",
+      "en": "China, which once seemed poised to dominate global launch, has had trouble keeping up with Musk’s rising totals, successfully launching between 64 and 68 rockets annually over the past three years. SpaceX is not only launching twice as often, it’s carrying more than 10 times the reported mass to orbit. Stoke Space, founded by Blue Origin engineers, has aerospace geeks in a frenzy, but it has yet to put a rocket on the pad. United Launch Alliance, SpaceX’s OG competitor, has a powerful new rocket—more on that in a bit—but once again, Musk is ahead. He’s working on a truly massive launcher, arguably the biggest ever constructed. Both stages are supposed to be fully reusable (which means, of course, immense cost savings), while neither stage of ULA’s Vulcan will be fully reusable. And that, according to a new report from SpaceNews Intelligence, could relegate the one-time monopolist “to niche roles in government or regional and backup contracts, assuming they survive at all.”",
+      "zh": "曾几乎注定将主导全球发射市场的中国，如今却难以跟上马斯克不断上升的总量，这三年来年发射次数仅保持在 64 到 68 次。SpaceX 不仅发射次数几乎翻了一番，而且向轨道运载的总质量是其报告值的十倍以上。由前 Blue Origin 工程师创立的 Stoke Space 在航空航天圈引起了热议，但它仍未把火箭送上发射台。联合发射联盟（ULA）——SpaceX 的“老对手”——拥有一枚强大的新火箭（后文会详细提到）——但马斯克依然领先。他正在开发一型真正的超大型运载火箭，可说是有史以来建造最大的火箭之一。该火箭两级都计划实现全复用（当然，这意味着巨额成本节约），而 ULA 的 Vulcan 其两级都不会实现全复用。根据 SpaceNews Intelligence 的一份新报告，这可能会使 ULA 这个“一度的独霸者”退居“政府或区域性、后备合同中的小众角色”，前提是它们能够生存下来。"
+    },
+    {
+      "id": "p020",
+      "en": "At the end of May, at his factory in Starbase, Texas, Musk was in full Mars evangelist mode. “This is where we’re going to develop the technology necessary to take humanity,” he told his employees, “to another planet for the first time in the four-and-a-half-billion-year history of Earth.”",
+      "zh": "在 5 月底，马斯克在德克萨斯州 Starbase 的工厂里，显得完全进入了火星布道模式。“我们将要在这里研发实现这一目标所需的技术，”他对员工说，“将人类在地球四十五亿四千万年历史中，第一次送往另一颗行星。”"
+    },
+    {
+      "id": "p021",
+      "en": "But as he sketched out his soaring vision of this place cranking out 1,000 enormous Starships per year, Musk repeated a more mundane truth. No, not the part about the Starship’s uneven test record. The one about funding. “Starlink internet is what’s being used to pay for humanity getting to Mars.”",
+      "zh": "但在他勾画出这个地方每年生产1000艘巨型“星舰”的宏伟愿景时，马斯克反而重申了一个更世俗的事实。不是那部分关于“星舰”并不稳定测试记录的说法，而是关于资金的问题。“星链网络就是用来支付人类前往火星的经费的。”"
+    },
+    {
+      "id": "p022",
+      "en": "The space launch business is a brutal one, and a space launch business with its eye on Mars is even more impractical. Rockets blow up. Customers are constantly late in their satellite deliveries. But supplying internet service? That’s a way more reliable source of cash. So in 2015, Musk started recruiting engineers to build an internet in orbit.",
+      "zh": "太空发射行业本身就是残酷的，如果把目标放在火星上，则更显得不切实际。火箭会爆炸，客户也经常拖延交付卫星。但提供互联网服务却是更稳定可靠的现金来源。所以在2015年，马斯克开始招募工程师，着手在轨道上建设一个互联网网络。"
+    },
+    {
+      "id": "p023",
+      "en": "Big, geostationary spacecraft have been providing internet service from 22,000 miles up since the mid-1990s. The idea of replacing them with a constellation of small, low-flying, low-latency satellites has been around for almost as long. But it wasn’t until Musk brought down the cost of getting to orbit that those plans became not only feasible but massively profitable. Last year, the company earned an estimated $13 billion in revenue, and Starlink accounted for something like 8 of those billions, according to Payload Research. About 70 percent of the company’s launches so far in 2025 have carried Starlink satellites into orbit. Starlink, which started launching in 2019, now claims to have more than 6 million customers, up nearly 50 percent in 12 months. This is why private shares of SpaceX have become highly sought-after investments. (Well, that and the fact that the company seems to pay little or no tax on all that revenue.) As of July, the company was valued at $400 billion, with IPO rumors swirling. SpaceX’s dominance now depends on Starlink.",
+      "zh": "自20世纪90年代中期以来，体积庞大的地球静止轨道卫星就一直在距离地表22,000英里处提供网络服务。用一串低轨道、低延迟的小卫星取代它们的构想，几乎同样存在了这么久。但直到马斯克把进入轨道的成本大幅降下来，这一计划才变得不仅可行，而且极具利润。去年，该公司据估计实现营收约130亿美元，其中Starlink占了约80亿美元（约8十亿）。到2025年为止，约70%的公司发射任务都把Starlink卫星送入轨道。Starlink自2019年起开始发射，目前称已拥有超过600万名客户，12个月内增长近50%。这也是为什么SpaceX的股份会成为抢手投资标的的原因之一。（当然，另一原因是该公司似乎几乎不对这笔收入缴税。）截至7月，公司市值已达4000亿美元，关于首次公开募股的传闻也在发酵。现在，SpaceX的主导地位已建立在Starlink之上。"
+    },
+    {
+      "id": "p024",
+      "en": "You could argue Starlink is also supplying an equally outsize share of Musk’s global influence. The deployment of Starlink in 2022 to Ukraine after Russia’s full-scale invasion is by now well known, as are Musk’s decisions to reportedly cut off Starlink over the Kherson region during a crucial Ukrainian counterattack and deny coverage near Russian ships docked in Crimea later that year. Reports of Iranian dissidents getting their hands on Starlink receivers date back to the same period.",
+      "zh": "你也可以说，Starlink同样正在为马斯克的全球影响力贡献着同样巨大的份额。2022年俄罗斯全面入侵后，Starlink在乌克兰的部署如今已为人所知；同时，马斯克据称在乌克兰发动关键反攻时，曾切断克里米亚方向的Kherson地区覆盖，并在当年晚些时候拒绝在克里米亚附近停靠的俄罗斯舰船周边提供覆盖，这些决定也已广为流传。伊朗异议人士在同一时期拿到Starlink接收设备的报道也由此而来。"
+    },
+    {
+      "id": "p025",
+      "en": "On June 13 of this year, Iran’s rulers shut down local internet access after Israel began “Operation Rising Lion,” its air-strike campaign designed to decapitate and destabilize the Tehran government. That same day, right-wing American pundit Mark Levin posted on X that “Elon Musk can put the final nail in the coffin of the Iranian regime by providing Starlink internet to the Iranian people!” To which Musk, a longtime ally of Israeli prime minister Benjamin Netanyahu, responded: “The beams are on.” Iran’s parliament quickly passed a measure imposing prison sentences of up to two years for those caught using Starlink. The number of Starlink users nevertheless spiked to more than 100,000, according to one local report. Musk often lets Starlinks run under the table, sometimes as a way of pressuring governments to license the service legitimately. “But in Iran, they’re just straight-up flouting the rules,” says one knowledgeable observer, “trying to overthrow the government by giving power, giving internet access” to Tehran’s opponents.",
+      "zh": "今年6月13日，伊朗当局在以色列发起“升腾之狮行动”后关闭了本地互联网接入，这一空袭行动旨在斩断伊朗政府核心并使其动荡不安。当天，美国右翼评论员马克·莱文在X上发帖称“埃隆·马斯克可以通过向伊朗民众提供Starlink网络，一脚踢下伊朗政权这口棺材最后一颗钉子！”对此，马斯克——这位长期以来支持以色列总理内塔尼亚胡的人士——回应道：“卫星信号已经开通。”伊朗议会迅速通过一项法案，对被发现使用Starlink的人判处最高两年监禁。尽管如此，根据一份当地报道，Starlink用户数量仍飙升到超过10万。马斯克常常默许Starlink在地下运行，有时也是为了向政府施压，迫使其合法发牌。“但在伊朗，他们是在公然无视规则，”一位熟悉内情的观察人士说，“他们试图通过给予力量、给予互联网接入，来推翻德黑兰的政敌。”"
+    },
+    {
+      "id": "p026",
+      "en": "It wasn’t the first—or last—time Musk used Starlink in ways that seemed to support the Israeli government’s objectives. As WIRED previously reported, venture capitalists helped the Israel Defense Forces receive Starlink access after the October 7 attacks in 2023. Civilian access in Gaza has reportedly been severely constrained since, with a single hospital being the rare exception. Meanwhile, scam compounds in Myanmar, jihadist networks in the Sahel, and Sudanese rebels have all reportedly had more or less unfettered access to Musk’s satellite network.",
+      "zh": "这并非马斯克第一次、也不会是最后一次将Starlink用于看似支持以色列政府目标的方式。正如WIRED先前报道的那样，2023年10·7事件后，风险投资者帮助以色列国防军获得了Starlink接入。加沙地带的平民接入据称此后一直受到严厉限制，只有一家医院是少见的例外。与此同时，缅甸的诈骗窝点、萨赫勒地区的圣战网络，以及苏丹叛军据称都已经或多或少获得了马斯克卫星网络的“近乎无限制”使用权。"
+    },
+    {
+      "id": "p027",
+      "en": "Musk isn’t afraid to use his technologies to advance his politics. We’ve seen how his tweaks to X have made it more Nazi-friendly, and how his chatbot will start talking about “white genocide.” We’ve seen Musk enable a war effort, and we’ve seen him deny that aid when it suited him to do so. This has all happened while Starlink is in its relative infancy, before its constellation is complete, before its coverage of the continents is total. The dangers of relying on Starlink have not been lost on geopolitical players: There may be 50,000 Starlink terminals in Ukraine today, but some of the more tech-savvy Ukrainian military units have already weaned themselves off of Musk’s service. “Starlink is not our primary, and sometimes not even the alternative, but rather the contingency,” one officer in the Kharkiv region tells me.",
+      "zh": "马斯克不怕动用自己的技术去服务自己的政治立场。我们已经看到他对X的改动如何让平台更“亲纳粹”，也看到他的聊天机器人会开始谈论所谓“白色种族灭绝”。我们看到他如何推动一场战争努力，也看到他在需要时如何拒绝援助。所有这些都发生在Starlink尚处于相对起步阶段的时候：它的卫星星座尚未建成，洲际覆盖也尚未完全到位。地缘政治参与者并没有忽视依赖Starlink的风险：今天乌克兰或许有5万台Starlink终端，但一些技术更娴熟的乌军部队已经提前摆脱了对马斯克服务的依赖。“Starlink不是我们的主要通信手段，甚至有时连备选方案都不算，而是应急方案，”我在哈尔科夫地区听到一位军官这样说。"
+    },
+    {
+      "id": "p028",
+      "en": "There’s talk in Europe of trying to expand a Starlink competitor. And the Chinese government is working on a pair of low-Earth-orbit constellations—a commercial one for the international market and a government one for the military and intelligence agencies. The plan is to launch 28,000 communication satellites between the two by the 2030s. So far, they’ve launched somewhere around 170, and an alarming number of those have failed in space.",
+      "zh": "欧洲有声音在讨论扩大Starlink的竞争者。而中国政府正在推进两组低地球轨道星座：一组面向国际市场的商业卫星网，另一组为军事和情报机构服务的政府星座。计划是在2030年代前在两组系统中共发射28,000颗通信卫星。到目前为止，他们大约已经发射了170颗，但其中相当多颗在轨道上失败，令人警惕。"
+    },
+    {
+      "id": "p029",
+      "en": "That could leave Amazon as Musk’s most potent rival. The company certainly has the resources. Amazon recently completed a $140 million, 100,000-square-foot facility at the Kennedy Space Center, near Cape Canaveral, to get the satellites ready for launch. It has signed contracts for up to 83 launches from three different rocket companies—several billion dollars’ worth of launch services—to get the Kuiper internet constellation into orbit. Almost half of those launches are with ULA, SpaceX’s original competitor, which is building a new “integration facility” down the road to prep those rockets for Amazon.",
+      "zh": "这可能会让亚马逊成为马斯克最有力的对手。这家公司当然拥有足够的资源。亚马逊最近在肯尼迪航天中心（位于卡纳维拉尔角附近）建成了一座价值1.4亿美元、面积10万平方英尺的设施，用于把卫星准备好发射。它已与三家不同的火箭公司签署了多达83次发射合同，涉及数十亿美元的发射服务费，用于将 Kuiper 互联网星座送入轨道。其中约一半的发射都由ULA承接——那是 SpaceX 的最早竞争对手；该公司正与亚马逊在附近建设一座新的“整合设施”，以为这些火箭做发射前准备。"
+    },
+    {
+      "id": "p030",
+      "en": "Obviously, Amazon has more and better access to consumers than almost any other company on the planet. Kuiper is part of the same Amazon unit that makes Ring cameras and Kindles, and its terminals are designed to be smaller and cheaper than Starlink’s. But its biggest advantage might be Amazon Web Services’ vast network of data centers. For businesses and security-minded government organizations, “AWS means we can basically give these folks private networking capabilities,” a company spokesperson says, meaning they can move their data in secret, “without ever touching the public internet.”",
+      "zh": "显然，亚马逊几乎拥有全球任何其他公司都难以比拟的消费者触达能力。Kuiper 与同属一个亚马逊部门、生产 Ring 摄像头和 Kindle 的部门是同一条线，而且其终端设计上比 Starlink 更小、更便宜。但其最大优势可能是亚马逊网络服务（AWS）广阔的数据中心网络。对企业和重视安全的政府机构来说，一位公司发言人说，AWS 意味着“我们基本上可以为这些用户提供专用网络能力”，也就是说他们可以秘密传输数据，“而且完全不必接触公共互联网”。"
+    },
+    {
+      "id": "p031",
+      "en": "But time isn’t on Kuiper’s side. A public beta test, originally scheduled for early 2024, has slipped to late this year or early next. The original terms of Kuiper’s license with the Federal Communications Commission require the company to launch 1,600 sats by the middle of next year. (Maybe Bezos’ newfound coziness with Team Trump will give Kuiper room to renegotiate.) Either way, Kuiper can’t count on an in-house partnership with a rocket builder like Starlink can. Only about one in eight of the launches by the Bezos-founded ecommerce company are contracted to fly on Bezos’ rockets. But the Blue Origin rocket in question has flown exactly once. SpaceX is apparently so unconcerned by the competition that it just carried Kuiper satellites on a mid-August Falcon 9 mission, and it has plans to do so again on two more.",
+      "zh": "但 Kuiper 的时间并不站在它一边。原定于2024年初进行的公开测试版试点已被推迟到今年年底或明年初。Kuiper 与美国联邦通信委员会的许可原始条款要求公司在明年年中前发射1600颗卫星。（也许贝索斯最近与特朗普团队重新建立默契关系，会给 Kuiper 留出重新谈判的空间。）无论如何，Kuiper 不能像 Starlink 那样依赖与火箭制造商的内部合作伙伴关系。贝索斯创建的这家电子商务公司中，只有大约八分之一的发射是签约使用贝索斯自家的火箭。并且相关的 Blue Origin 火箭目前只飞行过一次。SpaceX 看起来对这场竞争毫不担忧，竟在8月中旬的任务中搭载了 Kuiper 卫星，并计划再搭载两次。"
+    },
+    {
+      "id": "p032",
+      "en": "Today, Starlink’s 8,000-plus satellites have a total bandwidth of 450 terabits per second. That’s comparable to about a third of the bandwidth used across the globe each year, as measured by the consultancy TeleGeography. The next iteration of Starlink satellites, so big they’re only capable of being hauled to space in a Starship, could each add vastly more bandwidth. Musk will have the satellite internet business in an absolute hammerlock. And as if that grip wasn’t tight enough, Musk is now looking for approval from multiple governments to add as many as 30,000 additional sats to his network.",
+      "zh": "如今，Starlink 的卫星规模已超过8000颗，总带宽达到每秒450太比特（Tbps）。以咨询机构 TeleGeography 的口径衡量，这大约相当于全球每年总带宽使用量的三分之一。下一代 Starlink 卫星——体积如此之大，只能由 Starship 运往太空——每颗都可能再贡献远高得多的带宽。马斯克将牢牢握住卫星互联网这张牌。更何况，他现在正在寻求多个政府批准，计划再为其网络新增多达3万颗卫星。"
+    },
+    {
+      "id": "p033",
+      "en": "Musk keeps talking about how his megarocket, Starship, is going to take humanity to Mars. But that’s not what the world’s first fully reusable multistage rocket is designed to do. Like all SpaceX rockets, it’s optimized to go to low Earth orbit—its relatively underpowered engines burn through nearly all of their fuel in just a few minutes. (That’s part of why the rockets are reusable. They don’t have too far to fall back to Earth.) On its own, Starship is designed to launch a whole bunch of next-gen Starlinks very quickly and very cheaply. Getting any further out means sending up more Starships—yes, plural—to refuel the first one with liquid methane, in what amounts to “an incredible conveyor belt,” as one aerospace industry executive put it.",
+      "zh": "马斯克一直在谈论他的超重型火箭“星舰”将如何把人类送往火星。但这并不是世界上第一款完全可重复使用的多级火箭所设计的用途。和所有 SpaceX 火箭一样，它被优化用于进入近地轨道——其相对来说动力偏弱的发动机在短短几分钟内就会消耗掉几乎全部燃料。（这也是这些火箭可以重复使用的原因之一：它们不需要从太高的高度掉落再返回地面。）单独看，星舰被设计成能以非常快、非常低的成本发射大量新一代 Starlink 卫星。要去更远的地方，就必须发射更多的星舰（是的，是复数个），用液态甲烷给第一枚加油，这就像一位航空航天业内高管所说的，“一条难以置信的补给输送带”。"
+    },
+    {
+      "id": "p034",
+      "en": "The plan is ornate and over-the-top, different in so many ways from the scrappy old SpaceX days. The Starship relies on 39 Raptor engines, which are on their third major design in nine years. And the rocket is such a clunky way of getting to the moon or Mars that analysts like Lucas Pleney—a Musk admirer at Novaspace, a consultancy based outside of Paris—wonder whether Musk’s Red Planet dream has actually been back-burnered or could even be something of a distraction at this point. Starlink is the preeminent player in what appears to be the global communications infrastructure of the near future. If things continue in this direction, Musk won’t just have say-so over who gets connected and how much they’ll pay. He might even be able to access their data, too.",
+      "zh": "这套计划宏大且夸张，与 SpaceX 早期那种“草根式”的做法在很多方面都不同。星舰依赖 39 台 Raptor 发动机，这些发动机在九年内已进行了三次主要设计迭代。并且，这种飞往月球或火星的方式笨重到令人发指，以至于像卢卡斯·普莱尼这样支持马斯克的分析师——他在一家位于巴黎郊区的咨询公司 Novaspace 工作——都在怀疑，马斯克关于红色星球的梦想是不是被暂时搁置了，或者此刻甚至已经成了一个分散注意力的“幌子”。Starlink 则是在近未来通信基础设施中占据主导地位的核心力量。如果发展方向继续这样下去，马斯克不仅能决定谁能接入网络、要付多少钱；他甚至可能能够接触到这些数据。"
+    },
+    {
+      "id": "p035",
+      "en": "“This is really the elephant in the room. And Musk just points at Mars like, ‘This is my objective. Don’t look at Starlink,’” Pleney tells me. “This is why I’m thinking: Is he really pointing the finger toward Mars and believing in it? Or is he just trying to divert us from the big thing, which is Starlink and how much it will take over?”",
+      "zh": "普莱尼告诉我：“这才是‘房间里的大象’。马斯克只是指着火星说：‘这是我的目标。不要看 Starlink。’这就是为什么我会这样想：他真的是在指向火星并相信那件事吗？还是他只是在试图把我们的注意力从更大的问题上移开，而那就是 Starlink，以及它将占据多少市场？”"
+    },
+    {
+      "id": "p036",
+      "en": "Maybe you’re ok with the idea of Musk controlling the internet above the sky or deciding what can or cannot get off the planet. The Pentagon is under a different set of orders. “It is the policy of the United States,” reads Section 2273 of Title 10 of the US Code, to maintain “at least two space launch vehicles” that can take “national security payloads into space whenever such payloads are needed.”",
+      "zh": "也许你能接受马斯克在天空上空控制互联网，或决定什么可以离开地球、什么不能离开的想法。五角大楼则遵循另一套原则。美国法典第 10 编第 2273 条写明，“维护至少两种能够在需要时将国家安全有效载荷送入太空的太空运载器”，这是“美国的政策”。"
+    },
+    {
+      "id": "p037",
+      "en": "In other words, it’s against the spirit of US law and policy for anyone to have a monopoly on military spaceflights. And so the Pentagon has purposely split up its gigantic “national security space launch” program. Blue Origin was awarded over $2 billion in these contracts, even though its big rocket has flown only that single test flight. Rocket Lab says it gets at least half of its revenue from defense and security agencies.",
+      "zh": "换句话说，美国的法律和政策精神是反对任何人对军事太空发射形成垄断。因此，美国五角大楼有意拆分了其庞大的“国家安全太空发射”计划。尽管蓝色起源的那款大火箭只完成过一次试飞，它却仍获得了超过20亿美元的相关合同。火箭实验室表示，至少一半收入来自国防和安全部门。"
+    },
+    {
+      "id": "p038",
+      "en": "For now, Musk’s biggest competitor for military and intelligence missions is his next-door neighbor at Cape Canaveral. Just a mile from SpaceX’s launchpad is a 50,000-square-foot warehouse holding 21-story rockets, broken into their component stages. These rockets are rather different from Musk’s. The first stage is optimized to go about 100 miles up, two times higher than the Falcon 9’s core. The second stage is specifically designed to take a satellite another 20,000 miles. That’s the domain of the military’s most sensitive communications and spy satellites. It’s where the United Launch Alliance, the old monopolist, hopes to rule again. ULA’s idea is not just to give the government those God’s-eye views but also to help the Pentagon wage war in space.",
+      "zh": "目前，马斯克在军事与情报任务上的最大竞争对手，是他在卡纳维拉尔角的隔壁邻居。距 SpaceX 发射台仅一英里处，有一座 50,000 平方英尺的仓库，里面存放着分解成多个推进阶段的 21 层高火箭。这些火箭与马斯克的火箭截然不同。它的第一阶级被优化为上升到大约100英里高度，是猎鹰 9 号核心高度的两倍。第二阶级则专门用于将卫星再推送20,000英里。那里是军方最敏感通信卫星和侦察卫星的活动领域。正是在这一领域，旧的垄断者——联合发射联盟（ULA）希望再次掌权。ULA 的构想不仅是向政府提供所谓“上帝视角”的观测，也包括帮助五角大楼在太空中进行作战。"
+    },
+    {
+      "id": "p039",
+      "en": "“Defense of satellites in orbit, that was off the table through all of the Biden administration. You could not have what we call counterforce. You weren’t allowed to put a weapon in space, even to defend your satellite yourself,” Tory Bruno, ULA’s chief executive officer, tells me. “Under this administration,” he adds, “we are now allowed.”",
+      "zh": "“在拜登政府时期，卫星在轨防御这个议题是被排除在外的。你根本无法拥有我们所说的‘反制能力’。你不被允许把武器放到太空，即便是为了自己卫星的防御。”ULA 首席执行官托里·布鲁诺对我说。“而在现任政府下，”他补充道，“我们现在可以这样做了。”"
+    },
+    {
+      "id": "p040",
+      "en": "The Pentagon is candid in its ambitions to try to destroy and disable Chinese and Russian spacecraft—and protect American ones from what they say are similar attacks. In March, the US military released a report titled “Space Warfighting.” It includes high-level plans for “orbital strike,” or “actions taken to destroy, disrupt, or degrade adversary space platforms.”",
+      "zh": "五角大楼在其愿景上坦诚表明，旨在摧毁并瘫痪中国和俄罗斯太空器材，同时保护美国卫星免受其所谓类似攻击。3月，美国军方发布了题为“太空作战”的报告。报告列出了“轨道打击”的总体计划，或者说“对敌方太空平台实施毁伤、干扰或削弱的行动”。"
+    },
+    {
+      "id": "p041",
+      "en": "While the world’s militaries are increasingly eyeing low Earth orbit, ULA is openly pitching its high-flying second stage as a space warfare platform—hiding satellites in orbits where the Chinese can’t find them, maybe using the second stage itself to attack enemy spacecraft.",
+      "zh": "当世界各国军队越来越把目光投向低地球轨道时，ULA正在公开推介其高空第二级作为太空作战平台——把卫星藏在中国找不到的轨道上，甚至可能用第二级本身去攻击敌方航天器。"
+    },
+    {
+      "id": "p042",
+      "en": "I spoke with several aerospace and defense industry insiders who tell me this might be feasible—but first, ULA has to start getting its rockets up consistently. That hasn’t been easy. Depending on whom you ask, the first operational launch of ULA’s new Vulcan rocket in mid-August was somewhere between two and five years behind schedule.",
+      "zh": "我与多位航空航天和国防行业内部人士交谈过，他们告诉我这在理论上是可行的，但前提是ULA必须先让自己的火箭持续稳定地发射起来。要做到这一点并不容易。依据不同消息来源，ULA新一代Vulcan火箭在8月中旬的首次正式发射，比计划时间晚了两到五年。"
+    },
+    {
+      "id": "p043",
+      "en": "So while the military theoretically wants and needs ULA, Blue Origin, and these other SpaceX challengers to succeed, the reality looks quite different. Musk’s competitors say he has been receiving defense contracts that should’ve been theirs. SpaceX got seven of the nine national security space launches awarded in April, for example, totaling $846 million. Additional national security contracts that were supposed to be earmarked for emerging players wound up being sent SpaceX’s way instead.",
+      "zh": "所以，尽管军方理论上既想要也需要ULA、蓝色起源以及其他与SpaceX竞争的公司取得成功，但现实看起来大不相同。马斯克的竞争对手说，他们本应拿到的国防合同都流向了马斯克。举例来说，SpaceX获得了4月授予的九项国家安全太空发射任务中的七项，总额8.46亿美元。那些原本应该留给新兴企业的其他国家安全合同，也最终转给了SpaceX。"
+    },
+    {
+      "id": "p044",
+      "en": "Musk was poised to have even more on top of that, after spending immense capital to elect the president and then join his government.",
+      "zh": "马斯克在此基础上更是势在必得，因为他投入了巨额资金帮助特朗普当选总统，并随后加入其政府。"
+    },
+    {
+      "id": "p045",
+      "en": "In the first weeks and months of 2025, his friends at the Trump State Department tried to strong-arm nations like Gambia into buying Starlink. The Trump White House hit tiny Lesotho with crushing 50 percent tariffs; the country then quickly licensed Starlink as a way of demonstrating “goodwill and intent to welcome US businesses,” according to a State Department memo obtained by The Washington Post. Vietnam, Bangladesh, and India all quickly made similar deals after stalled negotiations. American diplomats promote American businesses all the time, but this was something different. “If this was done by another country, we absolutely would call this corruption,” Kristofer Harrison, a former State and Defense Department official in the George W. Bush administration, told ProPublica. “Because it is corruption.”",
+      "zh": "在2025年前几周和几个月里，特朗普政府国务院的朋友们试图对冈比亚等国家“施压”，迫使其购买 Starlink。特朗普白宫对微小的莱索托实施了沉重的50%关税；该国随后又很快批准了 Starlink，用以展示“善意以及欢迎美国企业的决心”，这一点是国务院一份备忘录中披露的，据《华盛顿邮报》获得。越南、孟加拉国和印度在谈判受阻后也很快签下了类似协议。美国外交官一直都在推动美国企业，但这次不同。前乔治·W·布什政府国务院和国防部官员克里斯托弗·哈里森告诉《ProPublica》：“如果这事是由其他国家做的，我们绝对会称其为腐败。因为这就是腐败。”"
+    },
+    {
+      "id": "p046",
+      "en": "Jared Isaacman—who reportedly paid SpaceX $200 million for a private space trip—was initially lined up to run NASA. The president, in his inaugural address, seemed to send a love note to Musk by promising to “pursue our manifest destiny into the stars, launching American astronauts to plant the Stars and Stripes on the planet Mars.” In March, the Trump Commerce Department rewrote the rules for a $42 billion broadband program that make it harder for wired networks to get grants—and easier for satellite providers like Starlink to do so. (Musk is already pushing the states of Louisiana and Virginia to give him more money.) The Trump Pentagon, already tilting in Musk’s direction, leaned even heavier that way. It reportedly floated the idea of yanking funding for one of its more sensitive satellite communications networks and handing billions of dollars to a Musk-built constellation instead. That’s on top of the billions the Defense Department has committed to “Star-shield,” its private, military-grade version of Starlink.",
+      "zh": "贾里德·艾萨克曼——据报道他为一次私人太空之旅向 SpaceX 支付了2亿美元——一度被列入担任NASA负责人的人选。特朗普在就职演说中似乎是在给马斯克送一封“爱情书”，承诺“把美国的命定之路追逐到星辰，送美国宇航员在火星种下星条旗”。3月，特朗普商务部修改了一项440亿美元宽带计划的规则，使有线网络更难获得拨款，而卫星运营商（如Starlink）更容易获得资金支持。（马斯克已经在推动路易斯安那州和弗吉尼亚州给他更多资金。）已经偏向马斯克的特朗普五角大楼更是加重了这种倾向。据传曾提出要取消其一项更敏感的卫星通信网络经费，并将数十亿美元改拨给马斯克打造的星座网络。这还加上了国防部已承诺用于“Star-shield”——其私有化、军规级 Starlink 版——的数十亿美元。"
+    },
+    {
+      "id": "p047",
+      "en": "But all of that is peanuts, potentially, compared to Trump’s pursuit of a “Golden Dome” over America, which would allegedly protect it from ballistic, hypersonic, and cruise missiles all at once. Trump picked the top general from the Space Force to lead it and promised that such a defense would include “space-based sensors and interceptors.” That would make it a reboot of the Reagan-era “Star Wars” missile defense boondoggle—but with better tech to detect targets, and AI to coordinate the interceptors. Some experts think that gives it a better chance of working this time around—as long as the US deploys thousands of weapons in space.",
+      "zh": "但与特朗普追求在美国上空构建“黄金穹顶”相比，以上这些都可能只是小事。该构想据称能同时保护美国免受弹道导弹、高超音速导弹和巡航导弹的威胁。特朗普任命了太空军最高将领来主导该计划，并承诺这种防御将包括“基于太空的传感器和拦截器”。这将是里根时代“星球大战”导弹防御骗局的重启——但这一次有更先进的目标侦测技术，以及用AI来协同拦截器。一些专家认为，这让它这次更有可能成功——前提是美国在太空中部署数以千计的武器。"
+    },
+    {
+      "id": "p048",
+      "en": "Here’s why: If an orbiting interceptor is going to shoot down a missile as it’s taking off, the interceptor needs to be relatively close to the ground. But that means any particular interceptor is only over a particular target for a few minutes. According to analysts like Todd Harrison of the American Enterprise Institute, “it takes about 950 interceptors spread out in orbit around the Earth to ensure that at least one is always in range to intercept a missile during its boost phase.” Every additional missile you want to stop means another 950 interceptors. China and Russia both have somewhere between 300 and 500 land-based ballistic missiles in their arsenals.",
+      "zh": "原因在于：如果一个在轨拦截器要在导弹起飞时将其击落，它必须离地面比较近。但这意味着任何一枚拦截器只能在某个特定目标上空停留几分钟。根据美国企业研究所（AEI）分析师托德·哈里森等人的说法，“在地球轨道上需要约950枚拦截器分布开来，才能确保至少有一枚始终处于范围内，在导弹助推阶段将其拦截。”每多一枚要拦截的导弹，就需要再增加950枚拦截器。中国和俄罗斯各自的陆基弹道导弹库存都有大约300到500枚。"
+    },
+    {
+      "id": "p049",
+      "en": "Even if Harrison’s off by a factor of 10, it would still be a monumentally expensive proposition, with a whole other fleet of satellites to coordinate the thing. Trump’s allies rammed $25 billion into this year’s budget as a down payment, even though there’s no formal concept for how such a thing might work. Trump says he’s willing to spend $175 billion in three years to get it done. Other defense leaders think the real cost could top half a trillion. And for a minute, it looked like Musk had much of it locked up. “I think that much of the commercial space industry and much of the defense space industry is worried that this could be an inside deal,” one executive at a top military contractor told me in May. “He’s got unlimited, deep pockets. He’s already proven he can put 7,000 satellites up. I think the administration thinks he’s the smartest man in the world. Our only hope is that the Department of Defense stands by their principles of fair and open competition.”",
+      "zh": "即使哈里森的估算偏差了十倍，这仍将是一项开销惊人的提案，还需要协调一支全新的卫星舰队。特朗普的盟友将 250 亿美元塞进了今年预算作为定金，尽管目前并没有这种做法的正式运作框架。特朗普表示他愿意在三年内投入 1750 亿美元来完成这一计划。其他国防高层认为实际成本可能会超过五千亿美元。而且一度看来，马斯克几乎就把这笔钱都锁定了。“我认为商业航天业和国防航天业的许多人担心，这可能是个内幕交易，”我在 5 月份听一位顶级军工承包商高管这样对我说。“他有取之不尽、用之不竭的钱袋。他已经证明自己能把 7,000 颗卫星送上天。我认为政府认为他是世上最聪明的人。我们唯一的希望，是国防部能够坚持公平公开竞争的原则。”"
+    },
+    {
+      "id": "p050",
+      "en": "Musk denied he was interested in Golden Dome, posting on X that he’d rather focus on the Mars mission. But Reuters reported that Musk was not only part of a front-running team to build the anti-missile system but that “in an unusual twist, SpaceX has proposed setting up its role in Golden Dome as a ‘subscription service’ in which the government would pay for access to the technology rather than own the system outright.”",
+      "zh": "马斯克否认自己对“金色穹顶”项目有兴趣，在 X 上表示他更想把精力放在火星任务上。但路透社报道称，马斯克不仅参与了开发该反导系统的领先团队，而且“一个反常的转折是，SpaceX 提议将其在金色穹顶中的角色设定为一种‘订阅服务’，即政府向其支付使用技术的费用，而不是直接拥有该系统。”"
+    },
+    {
+      "id": "p051",
+      "en": "Of course, a subscription is something that can be turned off. Musk would have the kill switch to America’s orbiting weapons system. The man behind “MechaHilter.” The guy who gave the thumbs up to using his satellites as part of a campaign to overthrow a government and appeared to do very little as hundreds of thousands starved. That dude, with an outsize role in the making and maintaining of an arsenal in space—one in which the guns are pointed down at Earth.",
+      "zh": "当然，订阅服务是可以随时关闭的。马斯克将拥有美国轨道武器系统的“终止开关”。就是那个“MechaHilter”的始作俑者。这个人曾对利用他的卫星参与颠覆一国政府的政治行动点头同意，却在数十万人挨饿时似乎几乎袖手旁观。这个人，在组建并维持太空军火库方面，居于夸张而关键的位置——而这库里的武器指向的是地球。"
+    },
+    {
+      "id": "p052",
+      "en": "The Trump-Musk alliance, of course, has since blown up, and along with it some of the most grandiose dreams and Bond-villain fears of Musk’s concentration of power in space. In early June, Musk briefly threatened to abandon the American astronauts aboard the ISS—SpaceX’s Dragon capsule was the US’s only way to bring them home—before thinking better of it. The president, for his part, threatened to pull Musk’s government contracts, posting that “the easiest way to save money in our Budget, Billions and Billions of Dollars, is to terminate Elon’s Governmental Subsidies and Contracts. I was always surprised that Biden didn’t do it!”",
+      "zh": "特朗普与马斯克的联盟当然已经决裂，与其一起土崩瓦解的，还有围绕马斯克在太空权力高度集中所引发的一些最宏大梦想以及“007 反派”式恐惧。6 月初，马斯克曾一度威胁要放弃美国在 ISS 上的宇航员——美国唯一能把他们安全带回来的就是 SpaceX 的 Dragon 舱——后来他又改变了主意。总统这边也威胁要撤销马斯克的政府合同，发文称：“在预算上最省钱、最省的办法，数十亿乃至数百亿美元，就是终止埃隆的政府补贴和合同。拜登当初不这么做让我一直很意外！”"
+    },
+    {
+      "id": "p053",
+      "en": "The Trump administration, according to The Wall Street Journal, did conduct a review of NASA and Department of Defense deals. But finding ways to remove Musk was functionally impossible. “Everybody in DOD was like, ‘No, no, no, no, no, no, let’s not do that.’ Because they’re so dependent on SpaceX now, and frankly, becoming increasingly dependent on Starlink,” one deeply connected industry observer says. In the end, Musk didn’t lose a dime in his existing federal contracts. SpaceX and Starlink were found to be too vital to US interests, too entrenched in our infrastructure even to appease Donald Trump.",
+      "zh": "据《华尔街日报》报道，特朗普政府确实对NASA与国防部的交易进行了审查。但现实是，想把马斯克赶走在操作上几乎不可能。“五角大楼里每个人都在说：‘不，不，不，不，不，不，我们不要这么做。’因为他们现在对SpaceX越来越依赖，坦白说，越来越依赖Starlink。”一位与业内联系密切的人士如此表示。最终，马斯克在既有联邦合同中并未损失一分钱。调查得出的结论是，SpaceX和Starlink对美国利益来说过于关键，甚至嵌入到我们的基础设施之中，强到连唐纳德·特朗普都无法取悦地将其剥离。"
+    },
+    {
+      "id": "p054",
+      "en": "Which returns us to the status quo. The space industry—domestic and international, commercial and military—has been thoroughly remade in Musk’s image. The US government and the Musk empire can no longer live without one another. They’re symbiotic. And the only one who can threaten that is Musk himself. “He’s a dickhead,” this source adds, “but his tech works, like, way better than anybody else’s.”",
+      "zh": "这让我们回到了现状。太空产业——无论是国内还是国际、商业还是军事——都已被彻底改造为马斯克的样子。美国政府与马斯克帝国彼此都已离不开了。两者是共生关系。唯一能威胁这种关系的人，还是马斯克本人。“他是个混蛋，”这位消息源补充道，“但他的技术确实，比任何人都好得多。”"
+    },
+    {
+      "id": "p055",
+      "en": "Let us know what you think about this article. Submit a letter to the editor at [email protected].",
+      "zh": "欢迎告诉我们你对这篇文章的看法。请将致编辑信寄到 [email protected]。"
+    }
+  ],
+  "translated_at": "2026-07-23T01:05:55+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

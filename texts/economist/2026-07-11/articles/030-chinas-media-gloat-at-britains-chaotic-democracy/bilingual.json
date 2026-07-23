@@ -1,0 +1,54 @@
+{
+  "id": "030-chinas-media-gloat-at-britains-chaotic-democracy",
+  "source_href": "bf58c481-e79d-4006-9120-e7a5832d29ff.html",
+  "publication": "economist",
+  "issue": "2026-07-11",
+  "issue_published_at": "2026-07-11",
+  "article_published_at": "July 9th 2026",
+  "published_at": "July 9th 2026",
+  "published_date_source": "article",
+  "order": 30,
+  "section": "China",
+  "title_en": "China’s media gloat at Britain’s chaotic democracy",
+  "title_zh": "中国官方媒体对英国混乱民主制度幸灾乐祸",
+  "rubric_en": "But Chinese viewers also love British comedy that laughs at politics",
+  "rubric_zh": "但中国观众也喜欢讽刺政治的英式喜剧",
+  "date": "July 9th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "It was not hard to guess how China’s state-run media would react to the resignation of Sir Keir Starmer last month and the ongoing process of replacing him. The fall of the sixth British prime minister in a decade is yet more evidence, they suggested, that liberal democracies are unstable. “Could there be a problem with this type of government?” coyly asked the People’s Daily in an interview with Cui Hongjian, a Chinese diplomat-turned-professor.",
+      "zh": "中国官媒对基尔·斯塔默爵士上月辞职及随后的换帅进程会作何反应并不难预测。英国10年内第六位首相下台，这进一步证明了他们所说的“自由民主”制度不稳定。人民 日报在中国外交官出身、后转任教授的崔鸿健（Cui Hongjian）的一次采访中，含蓄地问道：“这种制度会不会有先天问题呢？”"
+    },
+    {
+      "id": "p002",
+      "en": "The chaotic turn in British politics since Brexit has been a gift to critics of Western democracies. It makes China’s system look more stable. “Foreigners doing politics are like children playing with mud,” said a commenter on a video of one ugly House of Commons debate circulating on social media. The problem is that British parties only care about winning elections, rather than improving things, said Mr Cui. So they “quickly swap through prime ministers to win back votes rather than address deep-seated problems”. The Communist Party, of course, does not have to worry about winning elections.",
+      "zh": "自“脱欧”以来，英国政治的混乱走向成了西方民主制度批评者的“礼物”，让中国的制度看起来更稳固。在社交媒体上流传的一段极其难看的下议院辩论视频中，一位评论者说：“外国人在搞政治就像孩子在玩泥巴。”库先生指出，问题在于英国政党只关心赢得选举，而不是真正治理国家，所以他们“为了赢回选票，会很快更换首相，而不是解决深层问题”。而中国共产党当然不必担心赢不赢得选举。"
+    },
+    {
+      "id": "p003",
+      "en": "Interest in Britain’s politics extends to satire. “Yes Minister”, a bbc sitcom from the 1980s, has an unlikely but devoted online following, in part thanks to its cynical view of politics. Cheng Hong, wife of the late Li Keqiang, a former prime minister, translated a bbc book on the series into Chinese. One video analysing “Yes Minister” on Bilibili, a video platform, has 9m views.",
+      "zh": "中国观众对英国政治的兴趣也延伸到了讽刺戏剧。1980年代BBC喜剧《是也政客》（Yes Minister）在网上竟拥有一批忠实粉丝，部分原因就是它对政治的犬儒化讽刺。已故总理李克强的妻子程红曾将该剧同系列的BBC书籍译成中文。在视频网站Bilibili上，有一段解读《Yes Minister》的视频已有900万次播放。"
+    },
+    {
+      "id": "p004",
+      "en": "Quotes are shared online. In one popular clip, Bernard, a naive civil servant, pushes for more transparency. “Surely the citizens of a democracy have a right to know!” he exclaims. “No,” responds Sir Humphrey, his boss. “They have a right to be ignorant.”",
+      "zh": "名句常在网上被不断转发。在一段热门片段中，新手公务员伯纳德主张要提高透明度，喊道：“难道民主社会的公民没有知情权吗？” 他的上司汉弗莱爵士回应道：“他们拥有‘被蒙在鼓里’的权利。”"
+    },
+    {
+      "id": "p005",
+      "en": "“Yes Minister” is also loved because some Chinese viewers recognise their own elitist, unaccountable bureaucracy. And the turnover of British leaders contrasts with the unending rule of Xi Jinping. In power since 2012, he removed presidential term limits in 2018. Commenting on Sir Keir’s resignation, one social-media user wrote, “I envy this kind of replacement.” “Wow,” replied another. “You dared to say it.” ■",
+      "zh": "《Yes Minister》也受欢迎，因为一些中国观众认出了他们自己的精英化且不受问责的官僚体制。再加上英国领导层的更替，与习近平自2012年上台后一直执政形成鲜明对比。2018年，他取消了国家主席任期限制。有人在社交媒体上评论凯尔爵士（Sir Keir）的辞职写道：“我羡慕这种接替方式。”另一个人接着说：“哇，你敢这么说。”■"
+    },
+    {
+      "id": "p006",
+      "en": "Subscribers can sign up to Drum Tower, our new weekly newsletter, to understand what the world makes of China—and what China makes of the world.",
+      "zh": "订阅者可以注册 Drum Tower，我们每周发布的新通讯，以了解世界如何看待中国，以及中国如何看待世界。"
+    }
+  ],
+  "translated_at": "2026-07-22T23:09:38+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

@@ -1,0 +1,314 @@
+{
+  "id": "045-why-did-a-dollar10-billion-startup-let-me-vibe-code-for-themand-why-did-",
+  "source_href": "feed_0/article_44/index_u51.html",
+  "publication": "wired",
+  "issue": "2026-05-02",
+  "issue_published_at": "2026-05-02",
+  "article_published_at": "2025-08-21T06:00:00-04:00",
+  "published_at": "2025-08-21T06:00:00-04:00",
+  "published_date_source": "article",
+  "order": 45,
+  "section": "Lauren Goode",
+  "title_en": "Why Did a $10 Billion Startup Let Me Vibe-Code for Them—and Why Did I Love It?",
+  "title_zh": "为什么我会被一家公司（估值100亿美元）请去帮它做“vibe-code”，而我又为什么爱上了这段经历？",
+  "rubric_en": "I spent two days at Notion and saw an industry in upheaval. I also shipped some actual code.",
+  "rubric_zh": "我在 Notion 待了两天，目睹了整个行业的剧烈变革；我也真的交付了实打实的代码。",
+  "date": "2025-08-21T06:00:00-04:00",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "I asked my editors if I could go work at a tech startup. It was an unusual request. But I wanted to learn to vibe-code. My need to know felt urgent. I wanted to survive the future.",
+      "zh": "我向编辑提议，能否去一家科技创业公司实习。这是个不寻常的请求，但我想学习 vibe-code。我的求知欲很迫切，因为我希望自己能够适应未来。"
+    },
+    {
+      "id": "p002",
+      "en": "The pitch process was surprisingly easy: First my editors said yes, and then the tech startup I lobbed my wild idea to, Notion, agreed to let me embed with them. Why? It’s hard to say. Possibly because Notion’s own workforce has fully embraced vibe coding—“vibe” here being a euphemism for “AI-assisted.” Some tech companies have estimated that around 30 to 40 percent of their code is now written by AI.",
+      "zh": "整个提案过程出乎意料地顺利：先是编辑同意了，然后我抛出这个大胆想法的那家科技公司 Notion 也同意让我加入并嵌入到他们的团队里。为什么会这样？很难说。或许是因为 Notion 自己的员工已经全面拥抱了 vibe coding——这里的“vibe”是“AI 辅助”的委婉说法。一些科技公司估计，目前他们现有代码中已有大约 30% 到 40% 是由 AI 编写的。"
+    },
+    {
+      "id": "p003",
+      "en": "Notion is a 1,000-person, venture-backed San Francisco startup with a $10 billion valuation. It makes the ultimate to-do and note-taking app, consisting of so many templates and tables and ways to format tasks that figuring out how to use Notion is a task in itself. On YouTube, productivity gurus attempt to make sense of Notion using the well-worn vernacular of personal optimization. One such video is titled “How to Get Started in Notion Without Losing Your Mind.” It has 3.4 million views.",
+      "zh": "Notion 是一家位于旧金山、拥有一千名员工、风险投资支持、估值 100 亿美元的创业公司。它制作的是一款“终极”待办与记事应用，拥有大量模板、表格和任务格式化方式，以致于学会如何使用 Notion 本身就像一项任务。YouTube 上，很多效率大师会用一套“个人效率优化”的老套路来解读 Notion。比如有一支视频，标题叫做“怎样在不把自己逼疯的情况下开始使用 Notion”。这支视频有 340 万次观看。"
+    },
+    {
+      "id": "p004",
+      "en": "I was scheduled to start at Notion as a vibe-coding engineer on a Thursday in mid-July. The night before, I found myself panic-watching these YouTube videos. Surely I would need to be a power user of the app if Notion was allowing me—an English major!—to fiddle with its code base. In an earlier onboarding call, a new coworker had encouraged me to download the AI coding platform Cursor and play around with it. I did. No real code emerged from this homework.",
+      "zh": "我计划在 7 月中旬的一个星期四，作为 vibe-coding 工程师开始在 Notion 上班。前一晚，我发现自己陷入了恐慌般地反复观看这些 YouTube 视频。如果 Notion 真的允许我——一个英语专业的我——去动它的代码库，那我肯定得成为该应用的重度用户。此前一次入职说明会上，一位新同事鼓励我下载 AI 编码平台 Cursor，并尝试着玩一玩。我照做了。但这次“作业”并没有产出真正的代码。"
+    },
+    {
+      "id": "p005",
+      "en": "My desk on my first day at Notion.",
+      "zh": "我在 Notion 的第一天坐的位置。"
+    },
+    {
+      "id": "p006",
+      "en": "Fortunately, I would be pair-programming at Notion, which meant that I’d be working alongside experienced (human) coders. Upon my arrival, Sarah Sachs, an AI engineering lead at Notion, set me up at a desk. A company tote bag and notebook awaited me. Sachs informed me that the following day, I would be presenting my work to the staff at a weekly demo meeting. Was I good with that? I said yes. We were all committed to the bit.",
+      "zh": "幸运的是，我在 Notion 会与人共同编程，这意味着我会和有经验的（人类）程序员一起工作。抵达后，Notion 的 AI 工程负责人 Sarah Sachs 给我安排了一个办公位，还给我准备了公司毛巾包和笔记本。Sachs 告诉我，第二天我会在每周演示会上向全体员工展示我的工作。你觉得没问题吗？我说可以。我们都对这个想法充满了“赌约”般的期待。"
+    },
+    {
+      "id": "p007",
+      "en": "Sitting a few feet away was Simon Last, one of Notion’s three cofounders. He is gangly and shy, an engineer who has relinquished management responsibilities to focus on being a “super IC”—an individual contributor. He stood to shake my hand, and I awkwardly thanked him for letting me vibe-code. Simon returned to his laptop, where he was monitoring an AI as it coded for him. Later, he would tell me that using AI coding apps was like managing a bunch of interns.",
+      "zh": "离我几步远的地方坐着的是 Simon Last，Notion 的三位联合创始人之一。他个子高瘦、性格内向，是一名工程师，已经把管理职责都交出来，专注于成为一名“超级 IC”，即 individual contributor（个人贡献者）。他站起来和我握手，我有些尴尬地感谢他让我来做 vibe-code。Simon 回到自己的笔记本电脑前，继续监控一个由他使用的 AI 编写代码。之后他告诉我，使用 AI 编码应用就像是在管理员工，管理一群实习生一样。"
+    },
+    {
+      "id": "p008",
+      "en": "Since 2022, the Notion app has had an AI assistant to help users draft their notes. Now the company is refashioning this as an “agent,” a type of AI that will work autonomously in the background on your behalf while you tackle other tasks. To pull this off, human engineers need to write lots of code.",
+      "zh": "自 2022 年起，Notion 应用就有一个 AI 助手，帮助用户起草笔记。现在公司正在把它改造成一个“代理（agent）”——一种会在你处理其他任务的同时，在后台自主为你工作的 AI。为了实现这一点，工程师们需要编写大量代码。"
+    },
+    {
+      "id": "p009",
+      "en": "They open up Cursor and select which of several AI models they’d like to tap into. Most engineers I chatted with during my visit preferred Claude, or they used the Claude Code app directly. After choosing their fighter, the engineers ask their AI to draft code to build a new thing or fix a feature. The human programmer then debugs and tests the output as needed—though the AIs help with this too—before moving the code to production.",
+      "zh": "他们会打开 Cursor，并选择想要调用的多个 AI 模型中的哪一个。大多数我在访问时聊到的工程师更喜欢 Claude，或者直接使用 Claude Code 应用。选定“对战模型”后，工程师会让 AI 起草代码，用于开发新功能或修复现有功能。然后，由人工程序员对输出进行调试和测试（尽管 AI 也会参与这一步），再将代码推进到生产环境。"
+    },
+    {
+      "id": "p010",
+      "en": "At its foundational core, generative AI is enormously expensive. The theoretical savings come in the currency of time, which is to say, if AI helped Notion’s cofounder and CEO Ivan Zhao finish his tasks earlier than expected, he could mosey down to the jazz club on the ground floor of his Market Street office building and bliss out for a while. Ivan likes jazz music. In reality, he fills the time by working more. The fantasy of the four-day workweek will remain just that.",
+      "zh": "从根本上说，生成式 AI 的代价是极高的。理论上的节省体现为时间，也就是说，如果 AI 帮助 Notion 联合创始人兼首席执行官 Ivan Zhao 比预期更早完成任务，他就可以下楼去他位于 Market 街办公楼一楼的爵士俱乐部，随便放松一阵子。Ivan 喜欢爵士乐。现实中，他会把省下来的时间拿去多干点活。四天工作制的幻想仍旧只是幻想。"
+    },
+    {
+      "id": "p011",
+      "en": "My workweek at Notion was just two days, the ultimate code sprint. (In exchange for full access to their lair, I agreed to identify rank-and-file engineers by first name only.) My first assignment was to fix the way a chart called a mermaid diagram appears in the Notion app. Two engineers, Quinn and Modi, told me that these diagrams exist as SVG files in Notion and, despite being called scalable vector graphics, can’t be scaled up or zoomed into like a JPEG file. As a result, the text within mermaid diagrams on Notion is often unreadable.",
+      "zh": "我在 Notion 的工作周只有两天，属于典型的代码冲刺周。（作为获得其工作区全部访问权限的交换，我同意只按名字称呼普通工程师。）我的第一个任务是修复 Notion 应用中 Mermaid 图表的显示方式。两位工程师，Quinn 和 Modi，告诉我，Notion 里这些图表是以 SVG 文件存在的。尽管它叫做可缩放矢量图形（SVG），但却无法像 JPEG 那样放大缩放，因此 Notion 上的 mermaid 图里的文字常常无法辨认。"
+    },
+    {
+      "id": "p012",
+      "en": "Quinn slid his laptop toward me. He had the Cursor app open and at the ready, running Claude. For funsies, he scrolled through part of Notion’s code base. “So, the Notion code base? Has a lot of files. You probably, even as an engineer, wouldn’t even know where to go,” he said, politely referring to me as an engineer. “But we’re going to ignore all that. We’re just going to ask the AI on the sidebar to do that.”",
+      "zh": "Quinn 把他的笔记本电脑推过来给我。他打开了 Cursor，并启动了 Claude。为了好玩，他滚动浏览了 Notion 的一部分代码库：“所以，Notion 的代码库？文件特别多。就连工程师都可能不知道该去哪里。”他说着很礼貌地称我为“工程师”。“但我们先不管这些。我们就让侧边栏里的 AI 来做这件事。”"
+    },
+    {
+      "id": "p013",
+      "en": "His vibe-coding strategy, Quinn explained, was often to ask the AI: Hey, why is this thing the way it is? The question forces the AI to do a bit of its own research first, and the answer helps inform the prompt that we, the human engineers, would write. After “thinking,” Cursor informed us, via streaming lines of text, that Notion’s mermaid diagrams are static images that, among other things, lack click handlers and aren’t integrated with a full-screen infrastructure. Sure.",
+      "zh": "奎因解释说，他的“随心写代码”策略常常是先问 AI：‘嘿，为什么这个东西会变成这个样子？’这个问题会迫使 AI 先做一些自己的调查研究，得到的答案再帮助我们这些人类工程师写出更准确的提示词。经过“思考”后，Cursor 通过持续输出文字告诉我们：Notion 里的 mermaid 图其实是静态图片，它们除了有各种限制，还没有点击处理程序，而且也没有接入完整的全屏基础设施。没错。"
+    },
+    {
+      "id": "p014",
+      "en": "Using Claude’s notes, I wrote up the request and pasted some notes from the engineering team into Cursor, like this:",
+      "zh": "我用 Claude 的笔记写下了请求，并把一些工程团队的备注贴进 Cursor，像这样："
+    },
+    {
+      "id": "p015",
+      "en": "Ticket: Add Full Screen / Zoom to mermaid diagrams. Clicking on the diagram should zoom it in full screen.",
+      "zh": "工单：为 mermaid 图添加全屏/缩放功能。点击图表时应将其放大为全屏。"
+    },
+    {
+      "id": "p016",
+      "en": "Notes from slack: \"mermaid diagrams should be zoom / fullscreenable like uploaded images. they're just svgs right, so we can probably svg -> dataurl -> image component if we want to zoom\"",
+      "zh": "Slack 里的备注：“mermaid 图应该像上传的图片一样支持缩放/全屏。它们本质上就是 SVG，对吧？所以如果要实现缩放，我们大概可以用 SVG 转 Data URL 再交给图片组件。”"
+    },
+    {
+      "id": "p017",
+      "en": "We waited. Time is inverted in the land of vibes. Projects that used to take your whole career are now done in days, while commands you expect to see executed in seconds take endless minutes. One hundred lines of AI-generated code later, mermaid diagrams were expandable.",
+      "zh": "我们在等。时间在“vibes”的世界里是颠倒的。那些以前可能耗尽你一生经历的项目，如今几天就能完成；而你本以为只需几秒就会执行的命令，却会拖上没完没了的分钟。经过一百行 AI 生成代码之后，mermaid 图表变得可以展开了。"
+    },
+    {
+      "id": "p018",
+      "en": "Except, not really. They were still too small, some parts were transparent, and the margins around them needed padding; also, would this work in the app in both light mode and dark mode? I spent the next half hour iterating on these changes, with Quinn and Modi talking me through it. Thirty minutes later, we had an expandable, readable mermaid diagram.",
+      "zh": "不过，也不完全是这样。它们仍然太小了，有些部分是透明的，周围的边距也需要加大内边距；而且，这在 App 的浅色模式和深色模式下都能正常工作吗？在这个过程中，我在接下来的半小时里反复调整，Quinn 和 Modi 一直在指导我。三十分钟后，我们得到了一个可展开、可阅读的 mermaid 图表。"
+    },
+    {
+      "id": "p019",
+      "en": "Next I worked alongside an engineer named Lucy, who told me that instead of typing prompts into Cursor we would be using an agent from Codegen, another AI engineering tool. The assignment was simple. We would create a new skill in Notion called Alphabetize, so that when someone uses Notion AI to draft a list or table of popular dog breeds, the user can alphabetize the content with one click.",
+      "zh": "接着我与一位叫 Lucy 的工程师并肩工作，她告诉我我们不会像在 Cursor 里那样输入提示词，而是会使用 Codegen 的一个 Agent，这是另一款 AI 工程工具。任务很简单。我们要在 Notion 里创建一个名为 Alphabetize 的新技能，这样当某人用 Notion AI 起草一份热门犬种清单或表格时，用户只需点一下就能按字母顺序排序。"
+    },
+    {
+      "id": "p020",
+      "en": "Clockwise: I'm learning the ropes with Lucy, Andy, and Brooks.",
+      "zh": "顺时针方向：我正在和 Lucy、Andy 以及 Brooks 一起学习。"
+    },
+    {
+      "id": "p021",
+      "en": "Just then, Anthropic’s Claude—which was powering Codegen—suffered an outage. Sarah Sachs, who was in the room with us, received a page on her phone, like an ER doctor. She hurried out of the room. Vibe coding and alphabetizing were temporarily put on pause. Bulldogs would come before beagles until Claude was back online.",
+      "zh": "就在这时，驱动 Codegen 的 Anthropic 的 Claude 发生了故障。和我们在场的一位成员 Sarah Sachs 一样，我看到她手机上的警报响起，像值班医生接到急诊电话一样。她匆忙离开了房间。Vibe coding 和字母序整理暂时被暂停了。直到 Claude 恢复上线，先按“斗牛犬”再按“比格犬”——先把这条规则先记下。"
+    },
+    {
+      "id": "p022",
+      "en": "The next assignment was as open-ended as Lucy’s was specific: to build whatever I wanted. The freedom was unnerving, a Rorschach test for vibe coders. What did I see when I looked at the blinking cursor? I decided that there should be a way for Notion users to draft an “intelligent” to-do list in one step. They would be able to flick open the app and type “to do reorder pet food” and Notion AI would know what they meant. I also wanted this feature to avoid duplicate items from other recent to-do lists.",
+      "zh": "下一个任务和之前 Lucy 那个任务一样“开放”，但一样不具体：让我做任何我想做的东西。这种自由让我有些不安，像一场给 vibe coder 的罗夏墨迹测试。我看着闪烁的光标时想到了什么？我决定应该给 Notion 用户提供一种一键起草“智能”待办清单的方式。用户可以一开应用就输入“to do reorder pet food”（重排宠物粮）之类的内容，Notion AI 就能理解他们的意思。我也想让这个功能避免重复添加最近清单里已经存在的条目。"
+    },
+    {
+      "id": "p023",
+      "en": "I was crushing it. I was a responsible babysitter for code, watching it cascade in front of my eyes and then toddle its way into the world. Except, my logic was wrong. My to-do list hack was somehow allowing for endless duplicates instead of avoiding them. Who was to blame: me or the AI?",
+      "zh": "我做得很顺利。过去这会儿，我像一名负责的“看护者”一样照看代码，看着它在我眼前一层层生成，再慢慢走进真实世界。可问题是，我的逻辑有误。我写的待办清单小技巧却在不知不觉中允许了无休止的重复项，而不是把它们过滤掉。到底是谁的锅：我，还是 AI？"
+    },
+    {
+      "id": "p024",
+      "en": "A product designer named Brian talked me through it. “Pretend you’re talking to a smart intern,” he said. Again with the interns.",
+      "zh": "一位名叫 Brian 的产品设计师给我讲了一遍思路。他说：“想象你在和一个聪明的实习生说话。” 他又一次提到了实习生。"
+    },
+    {
+      "id": "p025",
+      "en": "I reversed my logic and tried again, typing in more detail around how I envisioned the widget working. “That’s a great idea,” Claude responded, ever the sycophant, and then got to work. Forty minutes later, the three of us had prototyped a version of my dinky little—no, I mean killer—feature. We had spent $7 to build it, according to the token counter in Claude Code. I was told other engineering projects cost much more than that, especially if coders let the AI run for hours. It was still light out when I wrapped up the first day.",
+      "zh": "我反过来思考并再次尝试，这次把我脑中设想的部件运行方式描述得更详细一些。Claude 回应道：“这是个很棒的想法。”它一贯很会拍马屁，随后就开始动手了。40 分钟后，我们三个人就做出了我那个小到可笑——不对，是非常强大的——功能原型。根据 Claude Code 的 token 计数器显示，这个原型花费了 7 美元。有人告诉我，其他工程项目通常要贵得多，尤其是当程序员让 AI 连续运行好几个小时时，费用会更高。第一天收工时，天色依然还是亮着的。"
+    },
+    {
+      "id": "p026",
+      "en": "On Friday morning, I showed up for the demo session. Cheese platters, in honor of a Swiss employee’s birthday, awaited us in the conference room. Coders grabbed their coffees, their Celsius cans, their cups of flavored water dispensed by a Bevi machine in the kitchen.",
+      "zh": "周五早上，我去参加演示环节。会议室里已经摆好了奶酪拼盘，以纪念一位瑞士同事的生日。工程师们端着咖啡、Celsius 咖啡罐、以及厨房里 Bevi 机里出出的各类调味水杯子进场。"
+    },
+    {
+      "id": "p027",
+      "en": "One of the first demos was of a Notion AI agent that had been given a memory, so it could adopt a learned writing style. For kicks, another engineer had coded an app that kept track of the flavored syrups in the staff’s beloved Bevi. At the end of each presentation, I was told, someone usually takes a small mallet to a xylophone. They made me the keeper of the xylophone that day. The mood was light.",
+      "zh": "第一批演示之一是一个 Notion AI 代理，它被赋予了记忆功能，因此可以采用并延续一种学习到的写作风格。为了好玩，另一位工程师还写了一个应用，用来追踪员工们最爱的 Bevi 中不同口味糖浆的库存。每次汇报结束时，通常都会有人拿着小木槌敲一敲木琴。那天他们让我负责那把木琴。气氛很轻松。"
+    },
+    {
+      "id": "p028",
+      "en": "When it was my turn to present, I tried to succinctly describe the few features I had vibe-coded (with credit doled out to my pair programmers). One of the managers asked a follow-up question: How long had it taken to code the changes to the mermaid diagrams, end to end?",
+      "zh": "轮到我展示时，我试着简明扼要地说明自己“随心编程”完成的几项功能（并说明了我的搭档程序员们的贡献）。其中一位经理追问道：从头到尾改动 Mermaid 图花了多久？"
+    },
+    {
+      "id": "p029",
+      "en": "I looked at Quinn and Modi. We tallied that our working session had been about 30 minutes, plus some 15 minutes of preliminary work Quinn had done.",
+      "zh": "我看着 Quinn 和 Modi。我们核算后发现，双方这次协作会话大约持续了30分钟，再加上 Quinn 前期做的约15分钟准备工作。"
+    },
+    {
+      "id": "p030",
+      "en": "“Wow,” someone in the room said.",
+      "zh": "“哇，”房间里有人说。"
+    },
+    {
+      "id": "p031",
+      "en": "“I dare to imagine the general public learning how to write code,” the programmer and author Ellen Ullman wrote in a 2016 essay titled “Programming for the Millions.”",
+      "zh": "程序员兼作家 Ellen Ullman 在2016年的一篇题为《Programming for the Millions》的文章中写道：“我敢想象普通大众也能学会写代码。”"
+    },
+    {
+      "id": "p032",
+      "en": "The prevailing sentiment of the 2010s, of course, was that everyone could stand to learn a little code. We should throw open the doors and invade the closed society where code gets written, Ullman wrote. This was our best hope for loosening the strangle of the code that surrounds us as a society. As part of her reporting process, Ullman enrolled in three massive open online courses, or MOOCs, that promised to teach normies how to program. (I dare to imagine her eyebrow arched as she enrolled.)",
+      "zh": "毫无疑问，2010年代的主流观点是每个人都该学习一点代码。Ullman 说，我们应该敞开大门，闯入那片代码被编写的封闭世界。这是我们最有可能松开社会围绕我们、几乎勒紧喉咙的代码枷锁的方式。作为她的采访与调研过程的一部分，Ullman 参加了三门大型在线开放课程（MOOCs），这些课程自称可以教“普通人”编程。（我敢想象她报名时一定挑了挑眉。）"
+    },
+    {
+      "id": "p033",
+      "en": "“Stick a needle into the shiny bubble of the technical world’s received wisdom,” Ullman urged would-be coders. “Burst it.”",
+      "zh": "乌尔曼（Ullman）劝诫那些想成为程序员的人说：“在技术界根深蒂固的‘公认智慧’这个闪亮泡泡里戳一针，把它扎破。”"
+    },
+    {
+      "id": "p034",
+      "en": "Expanding a mermaid diagram or alphabetizing a list of dog breeds hardly seemed like sticking it to the coding man. But during my time at Notion I did feel as though a trapdoor in my brain had opened. I had gotten a shimmery glimpse of what it’s like to be an anonymous logical god, pulling levers. I also felt capable of learning something new—and had the freedom to be bad at something new—in a semi-private space.",
+      "zh": "把一个 Mermaid 图展开，或者把一串狗的品种按字母排序，乍一看似乎根本不像是在和“编码权威”作对。但在 Notion 的这段时间里，我确实觉得大脑里有个暗门被打开了。我隐约看见了什么叫“无名的逻辑神灵”在拉动操纵杆的感觉。我还体验到自己能够学会一项新东西，并且在一个半私密的空间里，有自由可以在新领域里先做不好。"
+    },
+    {
+      "id": "p035",
+      "en": "Both vibe coding and journalism are an exercise in prodding, and in procurement: Can you say more about this? Can you elaborate on that? Can you show me the documents? With our fellow humans, we can tolerate a bit of imprecision in our conversations. If my stint as a vibe coder underscored anything, it’s that the AIs coding for us demand that we articulate exactly what we want.",
+      "zh": "“Vibe coding”和新闻写作一样，本质上都是一种“反复追问、持续推进”的过程，也带有一定的“索取”意味：你能再说详细一点吗？你能把这点展开吗？你能把文件给我看吗？和人类沟通时，我们往往能容忍一些不精确；而我作为 vibe coder 的经历最能说明的一点是，AI 替我们写代码时，迫使我们把需求表达得非常清楚。"
+    },
+    {
+      "id": "p036",
+      "en": "During lunch on one of my days at Notion, an engineer asked me if I ever use ChatGPT to write my articles for me. It’s a question I’ve heard more than once this summer. “Never,” I told her, and her eyes widened. I tried to explain why—that it’s a matter of principle and not a statement on whether an AI can cobble together passable writing. I decided not to get into how changes to search engines, and those little AI summaries dotting the information landscape, have tanked the web traffic going to news sites. Almost everyone I know is worried about their jobs.",
+      "zh": "在 Notion 的某个午餐时间，一位工程师问我是否会用 ChatGPT 来代写我的文章。这个问题我今年夏天已经听过不只一次了。我告诉她“从来没有”，她瞪大了眼睛。我试着解释原因——这更像是原则问题，而不是在否定 AI 是否有能力拼凑出合格文章。后来我没继续展开那些关于搜索引擎变化、以及信息世界里那些零散的 AI 摘要如何重创新闻网站流量的问题。现实是，我认识的人几乎都在为自己的工作岗位担忧。"
+    },
+    {
+      "id": "p037",
+      "en": "One engineer at Notion compared the economic panic of this AI era to when the compiler was first introduced. The idea that one person will suddenly do the work of 100 programmers should be inverted, he said; instead, every programmer will be 100 times as productive. His manager agreed: “Yeah, as a manager I would say, like—everybody’s just doing more,” she said. Another engineer told me that solving huge problems still demands collaboration, interrogation, and planning. Vibe coding, he asserted, mostly comes in handy when people are rapidly prototyping new features.",
+      "zh": "Notion 的一位工程师把当下这波 AI 时代的经济恐慌，比作编译器刚出现的那一刻。他说，一个人突然能完成 100 个程序员的工作这种想法应该被反过来理解；他认为，实际上每个程序员的生产力都会提高 100 倍。他的经理也同意这一点：“对，我在管理层面上看到的正是这样，大家都在做更多的事情。”另一位工程师告诉我，解决重大问题仍然需要协作、反复追问和周密规划。他断言，所谓“氛围式编码”主要在于快速原型阶段最有用，尤其是当团队在快速尝试新功能时。"
+    },
+    {
+      "id": "p038",
+      "en": "These engineers seemed reasonably assured that humans will remain in the loop, even as they drew caricatures of the future coder (“100 times as productive”). I tend to believe this, too, and that people with incredibly specialized skills or subject-matter expertise will still be in demand in a lot of workplaces. I want it to be true, anyway.",
+      "zh": "这些工程师似乎相当确信：即使他们开玩笑地画出了未来程序员“生产力提高 100 倍”的夸张图景，人仍会继续留在流程之中。我也倾向于这么认为，而且我认为在许多工作场景里，那些技能极其专业、掌握特定领域知识的人仍然会被需要。我至少希望这是真的。"
+    },
+    {
+      "id": "p039",
+      "en": "Ullman’s 2016 essay concludes with some disillusionment. She rightly determined the MOOCs she observed to be a mixed bag, rife with boyish men and unsupportive professors. A class on algorithm design was autograded by primitive tools, which meant students were “trying to learn algorithms graded by faulty algorithms.” The “learn to code” movement now seems quaint. Few people could have known that in just under a decade, computers would be writing the code for them.",
+      "zh": "乌尔曼在2016年的一篇短文末尾带着些失望收束。她准确地指出，自己观察到的慕课既有可取之处，也有很多问题：大量的是“男孩子气”的学员和缺乏支持的教授。一个算法设计课程是用非常原始的工具自动评分的，这导致学生是在“用有缺陷的算法去学算法”。如今，“学编程”这股潮流听起来就显得有些过时了。几乎没人能预见不到十年之内，计算机会替人类直接写代码。"
+    },
+    {
+      "id": "p040",
+      "en": "Ullman still found beauty in writing code, though. That’s the thing. That’s the thing with making anything. If you persevere, if you slog through the trough of disillusionment, “a certain fascination gets through,” she wrote. “It can be like those times you hear someone playing the piano beautifully or a sax wailing through jazz improvisations, and the sound ignites a longing in you, a desire to take up the difficulties and learn how to play that music.”",
+      "zh": "但乌尔曼依旧在编写代码中看见了美。就是这样。就是造物总会有的那种美。只要你坚持下去，如果你愿意穿过那段幻灭期，“某种着迷会穿透出来”，她写道。“这可能像有一天你听到有人弹钢琴弹得异常优美，或听见一把萨克斯在即兴爵士里大段哭喊，声音会点燃你内心的一种渴望，让你想去跨过困难，去学习如何演奏那样的音乐。”"
+    },
+    {
+      "id": "p041",
+      "en": "Vibe coding didn’t ignite this longing in me. Instead, I saw more clearly that we’re entering a dizzying age of duality in AI. Is AI going to kill our jobs or create more jobs? Yes. Did I technically build a feature in an app that has since been pushed to a hundred million users, or did I cheat my way through an assignment by leaning heavily on AI and other humans? Yes. Do I need deep foundational knowledge of software programming to be a successful coder, or can I skate by without even knowing the name of the programming language I’m using? Also yes.",
+      "zh": "Vibe coding 没有点燃我这种情绪，反而让我更清楚地看到我们正走入一个令人目眩的人工智能双重时代。AI 会不会取代我们的工作，还是会创造更多工作？是的。是我确实在一个后来推送给一亿用户的应用里技术性地实现了一个功能，还是我通过大量依赖 AI 和其他人来“抄近路”完成作业？也算是。要想成为一名成功的程序员，是不是一定需要深厚的软件编程基础知识，还是我甚至可以在连自己正在用哪门编程语言的名字都不知道的情况下也照样干得不错？这个答案也是肯定的。"
+    },
+    {
+      "id": "p042",
+      "en": "In my final hours at Notion, I admitted this to Ivan Zhao, Notion’s CEO. “I’m realizing that, this whole time, I didn’t even ask what language we’re coding in,” I said.",
+      "zh": "在我最后在 Notion 的几小时里，我对 Notion 的 CEO Ivan Zhao 坦白了这一点：“我这段时间才意识到，我根本没有问过我们到底在用什么语言编程。”"
+    },
+    {
+      "id": "p043",
+      "en": "Ivan looked amused. “It’s TypeScript. It’s like a fancier version of JavaScript.” He paused. “But what language you’re using doesn’t matter. You express your intent on the human-language, English level, and now the machines can translate it. That’s what language models are fundamentally doing.”",
+      "zh": "Ivan 看起来觉得很好玩。“是 TypeScript。它是更高级版本的 JavaScript。”他停顿了一下。“但你用的是什么语言并不重要。你先在人的语言、也就是英语层面表达你的意图，现在机器就能把它翻译出来。这就是语言模型从根本上在做的事。”"
+    },
+    {
+      "id": "p044",
+      "en": "For Ivan, this vibe-coding moment is especially exciting. When he and Simon Last first teamed up in the early 2010s (a third cofounder, Akshay Kothari, joined later), they envisioned their product as a “no code/low code” app, to help people build things with minimal software development. They would take no code/low code mainstream.",
+      "zh": "对 Ivan 来说，这个 vibe-coding 时刻尤其令人兴奋。2010 年代初期，他和 Simon Last 初次合作时（后来第三位联合创始人 Akshay Kothari 加入），他们把产品设想为“无代码/低代码”应用，想帮助人们用尽可能少的软件开发去搭建东西。他们把无代码/低代码推向了主流。"
+    },
+    {
+      "id": "p045",
+      "en": "There was just one problem: “Nobody cared,” Ivan said. “Nobody was waking up and saying, ‘I want to think about building software now.’ Most people cared about ‘I just need to finish this spreadsheet for my boss.’” A few years later, they pivoted to what became Notion.",
+      "zh": "当时只有一个问题：\"没人关心，\" Ivan 说。\"没人早上起来会说：‘我现在想去思考如何开发软件。’大多数人只在乎‘我只需要把这份给老板的表格做完。’\"几年后，他们转向了后来成为 Notion 的方向。"
+    },
+    {
+      "id": "p046",
+      "en": "In October 2022, the founders took the entire company—then less than a few hundred employees—to an off-site in Mexico. Ivan recalled bookending the retreat with little speeches: opening remarks, then a few words at dinner on the last night. Otherwise, he and Simon were locked away in their hotel rooms, sucking down bottled water and building prototypes with this new thing they had early access to, ChatGPT. They saw what it could generate. They understood it was about to change things. On some level, they knew that their original idea for Notion had come full circle, all thanks to generative AI.",
+      "zh": "2022 年 10 月，创始人们把全公司——当时还不到几百人——带到墨西哥参加一次离线活动。Ivan 回忆说，他用简短讲话把这次闭门会“钉”了起来：开场致辞，然后是在最后一晚晚餐上的几句话。除此之外，他和 Simon 基本都把自己锁在酒店房间里，喝着瓶装水，用他们早早拿到的 ChatGPT 做原型。后来他们看到它能生成什么内容，意识到这个工具即将改变一切。在某种程度上，他们明白 Notion 最初的想法已经因为生成式 AI 闭环了。"
+    },
+    {
+      "id": "p047",
+      "en": "I'm pair programming with Brian, a Notion product designer who regularly vibe-codes.",
+      "zh": "我正在和 Brian——一位经常进行 vibe-code 的 Notion 产品设计师——进行结对编程。"
+    },
+    {
+      "id": "p048",
+      "en": "Ivan, who was born in China and studied cognitive science and art during college in Canada, has an affinity for quality products. He wears a luxury watch (a gift from his wife), is obsessed with well-made furniture, and more than once remarked to me that people who excel at their jobs often have good taste. His love of good design extends to tools that help us communicate; Douglas Engelbart, the inventor of the mouse, is a hero of his.",
+      "zh": "Ivan 出生于中国，在加拿大学习时主修认知科学和艺术，他对高质量产品有着天然偏好。他戴着一块奢侈品牌手表（这是妻子送给他的礼物），对做工精良的家具很着迷，而且不止一次向我提到：那些在工作中表现出色的人，往往都有很好的审美品味。他对优质设计的热爱也延伸到了帮助我们沟通的工具；鼠标发明者道格拉斯·恩格巴特就是他的英雄。"
+    },
+    {
+      "id": "p049",
+      "en": "So I had to ask: How does he feel about the quality of all this AI-generated code? Does vibe coding put more bad software into the world?",
+      "zh": "所以我就想问：他觉得这些 AI 生成代码的质量如何？vibe coding 会不会往世界里塞进更多劣质软件？"
+    },
+    {
+      "id": "p050",
+      "en": "Ivan replied that code is either correct or incorrect; there’s no subjective determination of whether it’s high or low. The way he sees it, if I write sentences poorly then I might be considered a bad writer, but if a coder writes code poorly, the program simply won’t run. AI-generated code sometimes goes off the rails, I said, pushing back. When someone’s futzing around, building a website, it’s low stakes; if they’re vibe-coding software for actual trains, then the consequences of errors are greater.",
+      "zh": "Ivan 回答说，代码么是正确的，要么是错误的；不存在主观上的“写得好”或“写得差”。在他看来，如果我写句子拙劣，我可能会被认为是个糟糕的作家；但如果一名程序员写了糟糕的代码，程序就干脆跑不起来。AI 生成的代码有时会偏离轨道，我反驳道。人们在胡闹着做一个网站时，风险很低；但如果他们在为真实的火车系统做 vibe coding，错误的后果就更严重。"
+    },
+    {
+      "id": "p051",
+      "en": "Ivan conceded that some coders, especially younger coders, might gain a false sense of competency from vibe coding. That’s where pair programming comes in, he said. Matching up less-seasoned coders with ones who learned to code before AI. “Senior-level folks—they have taste, right?” he said.",
+      "zh": "Ivan 也承认，一些程序员——尤其是更年轻的程序员——可能会从 vibe coding 中获得一种错误的胜任感。那时，结对编程就派上用场了，他说。把年轻程序员与在 AI 时代之前就学会写代码的人配对起来。“高级工程师——他们有自己的审美判断，对吧？”他这么说。"
+    },
+    {
+      "id": "p052",
+      "en": "For his part, Simon says he’s actually holding AI coding apps to higher standards than he does human engineers. It’s why he dislikes the phrase “vibe coding.” To him, the term diminishes what these coding agents, and the humans using them, are now able to do. Simon is one of the most prolific vibe coders at Notion. He believes this is the future. At one point he was using three different AI coding tools simultaneously. He found it stressful; it was like being a manager all over again. Now he usually leans on one tool at a time.",
+      "zh": "至于 Simon，他说他对 AI 编码应用的要求反而比对人类工程师还高。这也是他不喜欢“vibe coding”这个说法的原因。在他看来，这个词忽略了这些编码代理以及使用它们的人如今已经能够做到的事情。Simon 是 Notion 里最勤奋的 vibe coder 之一。他相信这是未来。有一段时间他同时在用三种不同的 AI 编码工具，觉得压力很大；这感觉像是又回到做项目经理的状态。现在他通常只会同时依赖一个工具。"
+    },
+    {
+      "id": "p053",
+      "en": "How is he thinking about engineering jobs, then? He sighed. “I mean, at least right now, we’re still super actively hiring engineers. But we do want to hire engineers that are really bullish on coding tools.” The “right now” was doing a lot of work.",
+      "zh": "那他是如何看待工程岗位的呢？他叹了口气：“我的意思是，至少现在，我们仍然在非常积极地招聘工程师。不过，我们确实想招一些真正看好编程工具的工程师。”这个“现在”这个说法起了很大作用。"
+    },
+    {
+      "id": "p054",
+      "en": "These changes—this invasion of AI code—has all happened within the past four to six months. Notion even has an AI engineer assigned to its enterprise sales team now, teaching software salespeople how to use AI in their own work. And it’s not just at Notion. It’s everywhere. My vibe-coding experiment, while solipsistically insightful, was already behind the curve.",
+      "zh": "这些变化——这股 AI 代码浪潮——都发生在过去四到六个月里。Notion 现在甚至给企业级销售团队配备了一名 AI 工程师，教软件销售人员如何在自己的工作中使用 AI。而且这不只是 Notion 的现象，处处都在发生。我的 vibe-code 实验虽然在以自我为中心的反思上颇有启发，但其实已经落后于时代了。"
+    },
+    {
+      "id": "p055",
+      "en": "“The world is heating up in many ways, and the sense I have is not ‘I freed up more time’ but that there’s more urgency than ever to use these tools,” Simon said.",
+      "zh": "“世界在很多方面都在升温，我的感觉也不是‘我多出了一些时间’，而是我们更急切地需要使用这些工具了，”Simon 说。"
+    },
+    {
+      "id": "p056",
+      "en": "The shift both exhilarates him and makes him anxious. He told me he looks back fondly on the not-too-distant past when he was simply coding and building stuff, “when there wasn’t, like, a crazy societal tidal wave happening. I think it would be crazy not to be a bit scared.”",
+      "zh": "这种变化既让他振奋，又让他焦虑。他告诉我，他怀念不太久以前的那段时间，那时他只是写代码、做产品，“当时并没有一股疯狂的社会巨浪正在发生。我觉得，如果不感到有点害怕，那才是真的疯狂。”"
+    },
+    {
+      "id": "p057",
+      "en": "Only after I’d left the Notion office on Friday evening did my journalistic instincts return. I had forgotten to ask: Scared of what?",
+      "zh": "直到周五傍晚我离开 Notion 办公室后，我的记者直觉才重新出现。我竟然忘了问：到底怕的是什么？"
+    },
+    {
+      "id": "p058",
+      "en": "Let us know what you think about this article. Submit a letter to the editor at [email protected].",
+      "zh": "欢迎告诉我们您对这篇文章的看法。请将读者来信发送至 [email protected]。"
+    }
+  ],
+  "translated_at": "2026-07-23T01:14:44+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

@@ -1,0 +1,51 @@
+# Gear for Good: 20 Eco-Friendly Items That Score a Win for the Planet—and for You
+
+Section: Chris Haslam
+Date: Oct 1, 2025 6:30 AM
+Rubric: Coat Check
+
+When you buy something new—a new piece of apparel, some home decor, a set of speakers for your desk—you're making several decisions at once about what your needs are and how the purchase is going to meet them.
+
+One thing that you're hopefully thinking about more these days is what your purchase is doing to meet the needs of the environment—or more accurately, how it's already affecting it. Every consumer good has already amassed a carbon footprint just by being available to buy, racking up ecological debt as the raw materials are harvested, the item is manufactured, and the finished product is shipped.
+
+The items showcased here have been designed to reduce that impact as much as possible as they make their way to the store. Through the use of recycled materials, environmentally mindful manufacturing, waste-reducing designs, and enhanced durability, these covetable objects already tread more lightly than most.
+
+Waterproofing down typically involves treating it with nasty chemicals. ExpeDRY infuses the feathers with gold particles to create an electrostatic shield that keeps water droplets from being absorbed by the fibers. This recycled nylon zip-up is stuffed with the quick-drying fluffy stuff, giving you an eco-friendlier alternative for water-repellent warmth.
+
+Established in 2015 by Keisuke Ota and Yang Chao, Flower Mountain sneakers incorporate traditional Japanese craftsmanship—such as intricate decorative details—with a stylish and practical outdoor aesthetic. The Kaiso collection (“seaweed” in Japanese) features a midsole made from blending seaweed with recycled and bio-based materials. The sneakers also incorporate elements derived from corn, synthetic suede, and recycled PET bottles.
+
+Shopping ethically almost always comes at a premium. Organic cotton and fair trade practices inevitably push up pricing, but by batch-buying pieces and selling direct to consumers, Yes Friends is bucking this trend. Its range of denim, which is colored with nontoxic dyes, is just as ethical as the competition at only half the price. Set an alert, however, as batches sell out fast.
+
+This soft and cozy sweater is 75 percent wool and 25 percent Brewed Protein, a synthetic material made by microbes. A sugar fermentation process causes the microbes to produce polymers, and those protein strands are spun into fibers to create a biodegradable alternative to cashmere with a much gentler eco footprint. Wear it proudly.
+
+Topo’s durable carry-all is a commuter’s dream, with a padded sleeve for a 14-inch laptop, 14 liters of lugging capacity, robust YKK zippers, a removable shoulder strap, and two elastic bottle sleeves. The bag’s fully recycled materials show off Topo Designs’ signature bold and colorful aesthetic. Also, the company promises to fix any defective bits through its lifetime repair program.
+
+This special-edition bomber is made in Treviso, Italy, entirely from surplus recycled materials. Not only is it reversible (with pockets cleverly fitted on both sides), it’s also water-repellent and impressively modular. Attach a hood for the winter, add in layers and liners for additional warmth or a change of silhouette, and swap the hood for a collar to give it a more formal finish.
+
+Piles of breathable insulation make this blanket indispensable for snuggling under the stars, but the versatile design means it can also transform into a poncho, a pillow, or a sleeping bag (or a huge double if you buy two). It’s made from recycled polyester and comes in 23 distinctive, outdoor hipster-adjacent designs. The plant-based finish is both water- and stain-resistant.
+
+This super-cool wind-up flashlight kit includes 10 separate parts, and kids 8 and up can follow 16 simple steps to assemble it. No batteries are required—one minute of winding earns you 10 minutes of light—and the kit is designed to be easy to disassemble, offering all ages the chance to learn about electronics and kinetic energy. Ambessa, which translates as “lion”—and also “well done!”—in Ethiopian and Eritrean, launched in 2023 after a successful Kickstarter. For every flashlight sold, the company donates one to a displaced refugee child through partnerships with several grassroots organizations.
+
+Only 12 percent of small electronics are properly recycled globally; the rest get trashed. In an effort to shrink its carbon footprint, Skullcandy crafted its EcoBuds using less plastic and fewer heavy metals. The buds still feature Bluetooth, touch controls, and fast charging (10 minutes for two hours), but the case has no lid and no battery. Plug in the attached USB-C cable to juice up.
+
+Made from recycled plastic and held together with screws instead of glue, these reference-quality wireless speakers can be repaired, upgraded, and kept alive indefinitely. The 20-hour batteries, 4-inch woofers, 1-inch tweeters, and wireless electronics can all be easily swapped out if and when the original parts crap out. Run one speaker for mono sound, or pair two together for stereo.
+
+While the brand’s name might not get past your phone’s profanity filter, CLF is a queer-, trans-, and disabled-owned company on a mission to make more inclusive sex toys. Its range of bright and playful toys include those that are particularly easy to hold if you have grip issues. Starsi, for example, is a palm-fitting, five-speed vibrating design, which reflects that not everyone gets their kicks in the same way.
+
+Named after the first and only marine nature park in Sweden, the Koster is Triwa’s first Traveler timepiece. Just like the rest of the brand’s sustainable watches, it’s as stylish and practical as it is eco-friendly. Based around the Ronda 515 24H movement, the semi-brushed 39-mm case and sapphire glass offer 20 ATM water resistance, while the dial is made of plastic rescued from the ocean.
+
+With almost every component replaceable, Framework’s PCs are among the most ethical computers around. The new laptop adds a shock-absorbing chassis, a 12-inch touchscreen, and i3 and i5 boards. Spare parts are available in spades. The DIY Desktop is equally modular. Nearly every part is swappable, ensuring it evolves instead of being junked at the next upgrade.
+
+With the growth of ebike and scooter battery tech, it’s about time the mobility market got in on the fun. The Robooter E60 Pro-A is a folding, all-terrain wheelchair designed to enable its user to get around without being limited to asphalt. It has a maximum load capacity of 331 pounds, tops out at 6.2 miles per hour, and goes up to 19 miles per charge.
+
+The bicycle is an inherently “good” product, but the German polymer component manufacturer Igus has gone further, building a bike almost entirely from recycled plastics. This commuter may be large (68.5 inches long, 44 inches high, and 23.5 inches wide) and heavy (37.5 pounds), but it’s impervious to corrosion and requires little maintenance. At the end of its useful life, Igus will take it back and recycle it again.
+
+The MushLume lighting collection is grown, rather than manufactured, using a mixture of mycelium and super-sustainable hemp. Over a few days, the mycelium’s network of thread-like hyphae binds with the hemp in the lampshade mold. Once dried, it becomes stable, inert, and 100 percent biodegradable. The imperfect texture and natural off-white finish also looks great in all sorts of interiors.
+
+Despite only debuting in 2001, the plastic Catifa 53 chair has already attained “classic” status. This new version ups the eco-ante; it’s made with PaperShell, a clever new material that turns cellulose fibers into a strong, lightweight structure that stays rigid and durable. There are multiple options, including armrests, and metal bases with feet, sleds, or wheels.
+
+Champagne’s secondary fermentation gives it bubbles but requires a heavier bottle capable of withstanding crazy amounts of pressure. A new design by the French producer Telmont weighs 1.76 pounds (800 grams), shaving 1.23 ounces off the standard-weight bottle. This may not sound like much, but it will reduce carbon emissions by 4 percent per bottle.
+
+More evidence of the potential for mushrooms beyond the kitchen, these elegant acoustic panels are grown using a mixture of mycelium and textile waste like cotton and hemp fibers. Devoid of synthetic materials, each panel is 100 percent biodegradable. Once the mycelium has worked its magic it creates a foamlike composite material that provides excellent levels of sound absorption, helping to calm loud spaces filled with hard surfaces.
+
+Colorado camping connoisseurs Big Agnes have created HyperBead, a water-resistance technology that’s built into its nylon ripstop fabric’s structure. The design not only removes spray-on hydrophobic chemicals from the supply chain, it means there’s no layer to degrade as with most treated ultralight fabrics. Enjoy the benefits with a friend in this roomy two-person domicile.

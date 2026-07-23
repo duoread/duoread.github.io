@@ -10,87 +10,90 @@
   "order": 20,
   "section": "Zeyi Yang",
   "title_en": "Chinese EV Batteries Are Eating the World",
-  "title_zh": "",
+  "title_zh": "中国的电动汽车电池正在“吃掉”世界",
   "rubric_en": "",
   "rubric_zh": "",
   "date": "Jan 20, 2026 6:00 AM",
   "origin_url": "",
-  "translation_status": "pending",
+  "translation_status": "translated",
   "paragraphs": [
     {
       "id": "p001",
       "en": "Here are 23 ways China is rewiring the future.",
-      "zh": ""
+      "zh": "以下是中国正在重塑未来的23种方式。"
     },
     {
       "id": "p002",
       "en": "THE symbolism was clear last June when Emmanuel Macron, surrounded by factory workers, held up a sleek lithium battery in his right hand and a mining lamp in his left. He was in Douai, a northern French city with a coal mining history dating back to the 1700s. The city is now also the site of a battery factory, which would allow France to produce all parts of electric vehicles domestically. This factory, Macron declared, represented an “economic and ecological revolution.”",
-      "zh": ""
+      "zh": "去年的6月，马克龙被称作象征意义十分明显：他站在工人之间，右手举着一只流线型锂电池，左手拿着一盏矿灯。他当时身处法国北部的杜埃市，这座城市有着可追溯到18世纪的煤矿历史。如今，这里也是一座电池工厂的所在地，这座工厂将使法国有能力在国内生产电动汽车的全部零部件。马克龙称，这座工厂代表了一场“经济革命和生态革命”。"
     },
     {
       "id": "p003",
       "en": "Macron immediately acknowledged that France didn’t pull this off alone: “We brought in investors from the other side of the world. They transferred their technologies. They helped train people,” Macron said, gesturing at a man beside him.",
-      "zh": ""
+      "zh": "马克龙立即承认，法国并非凭一己之力完成这一切：“我们从世界另一端吸引了投资者。是他们带来了技术。是他们帮助培训了人员。”马克龙说着，指向他身边的一位男子。"
     },
     {
       "id": "p004",
       "en": "The man was Zhang Lei, the founder of Envision, a prominent Chinese company that makes wind turbines and lithium batteries. Its battery arm is investing up to €2 billion in this Douai factory and, more importantly, contributed the expertise for efficient mass production. He and Macron grabbed markers and signed their names on the first battery produced in Douai. “Thank you, Chairman, because you trusted us and because you did exactly what you said you would do,” Macron said, looking straight into Zhang’s eyes.",
-      "zh": ""
+      "zh": "那位男子是张磊，远景能源的创始人。这家公司是著名的中国企业，生产风电机组并制造锂电池。其电池业务正在向这家杜埃工厂投资高达20亿欧元，更重要的是，它提供了高效大规模生产的技术经验。他和马克龙拿起记号笔，在杜埃生产出的第一块电池上签下了名字。“谢谢您，董事长，因为您信任我们，也因为您做到了自己说过的事。”马克龙直视着张磊的眼睛说道。"
     },
     {
       "id": "p005",
       "en": "In 2026, it’s OK to nerd out at parties about batteries. Lithium batteries are turning solar and wind into 24/7 stable energy sources. Battery-powered cars are shaking up the multitrillion-dollar automotive industry and made Elon Musk the richest man on Earth. Lithium batteries even won a Nobel Prize, and the US government now categorizes lithium as a “critical mineral.”",
-      "zh": ""
+      "zh": "到了2026年，在聚会上聊电池再也不算怪了。锂电池正在把太阳能和风能变成全天候稳定的能源。电池驱动的汽车正在重塑万亿级汽车产业，并让埃隆·马斯克成为了地球上最富有的人。锂电池甚至获得了诺贝尔奖，而美国政府也已将锂列为“关键矿产”。"
     },
     {
       "id": "p006",
       "en": "Lithium’s rising tides lifted one set of boats more than others—China’s battalion of battery companies. After decades of quiet growth, firms such as CATL, BYD, Gotion High-Tech, and Envision are now primary suppliers for the world’s EVs and energy grids. In 2024, more than 80 percent of the world’s battery cells were produced in China, according to the International Energy Agency. Now those companies are expanding beyond China’s borders. In the past decade they’ve built or announced at least 68 factories outside China, according to data collected by WIRED and the Rhodium Group, a New York–based think tank.",
-      "zh": ""
+      "zh": "锂价的上扬拉起了一些船只，尤其是中国的电池企业大军。经过数十年的默默增长，像宁德时代、比亚迪、国轩高科和远景能源这样的公司，如今已成为全球电动汽车和电网的主要供应商。根据国际能源署的数据，2024年全球超过80%的电池芯片（电芯）是中国制造的。如今，这些公司正走出中国国界。根据WIRED和位于纽约的智库Rhodium Group收集的数据，在过去十年里，他们在海外至少建成或宣布了68座工厂。"
     },
     {
       "id": "p007",
       "en": "Collectively, per the Rhodium Group, the factories represent an investment of more than $45 billion in the rest of the world. They also reflect a big shift in what manufacturing dominance looks like. “Made in China” used to be—and still often is—a label for cheap labor, knockoffs, and $5 gadgets. Now it also means state-of-the-art technology assembled anywhere in the world.",
-      "zh": ""
+      "zh": "据Rhodium Group统计，这些工厂合计代表着全球其他地区超过450亿美元的投资。它们也反映出制造业主导地位定义上的一次巨大转变。“中国制造”过去——如今仍常常——是低成本劳动力、山寨货和五美元小玩意儿的标签。现在，它同样意味着在世界各地都能组装前沿技术。"
     },
     {
       "id": "p008",
       "en": "“We believe it’s a new phase. We have never really seen that in Chinese overseas investments,” says Armand Meyer, a senior research analyst at Rhodium Group. According to his calculations, 2024 was the first year Chinese EV and battery companies spent more money building factories outside of China than within. “They are ready to leave the domestic market, and they are as competitive as traditional Western players, or even more competitive,” Meyer continues. “We think it’s just the beginning.”",
-      "zh": ""
+      "zh": "“我们认为这是一个新阶段。我们以前在中国企业的海外投资里，几乎没见过这样的情况，”Rhodium Group的高级研究分析师Armand Meyer说。按他的计算，2024年是中国电动汽车和电池企业在海外建厂支出超过境内建厂支出的第一年。“他们已经准备好走出国内市场，而且竞争力与传统西方巨头不相上下，甚至更强。”Meyer接着说，“我们认为这只是开始。”"
     },
     {
       "id": "p009",
       "en": "Today, some of the world’s best battery research comes from Chinese universities and companies, says Brian Engle, chairman of NAATBatt International, a US trade association for the battery industry. And that’s because China bet on it early.",
-      "zh": ""
+      "zh": "美国电池行业贸易协会NAATBatt国际（NAATBatt International）主席布莱恩·恩格尔说，如今世界上最好的电池研究之一来自中国的高校和企业。这是因为中国很早就押注了这一领域。"
     },
     {
       "id": "p010",
       "en": "When Engle toured a lab at China’s top engineering school in 2019, he saw more than 60 graduate students building and testing battery cells. Surprised, he turned to an American academic on the tour and asked her how many American universities they’d have to lump together to find as many battery-focused postgrads. “And she said we couldn’t,” he recalled. “We simply couldn’t.”",
-      "zh": ""
+      "zh": "2019年，恩格尔参观中国顶尖工科大学的一所实验室时，看到有60多名研究生在搭建和测试电池电芯。令他惊讶的是，他转身问随行的一位美国学者：要找到同样多的电池方向研究生，美国要把多少所大学凑在一起？她回答说，“做不到”，他说：“我们实在做不到。”"
     },
     {
       "id": "p011",
       "en": "So it’s perhaps no surprise that Chinese battery companies are dominant—and that the competition between them is fierce. Nowadays, local incentives and lower shipping costs make it such that opening a factory overseas can be more profitable than staying home. CATL, the world’s largest lithium battery maker, reported in a recent financial filing that its profit margin is 29 percent overseas versus nearly 23 percent in China. Other Chinese companies, including Gotion and EVE Energy, also have reported higher profit margins overseas.",
-      "zh": ""
+      "zh": "因此，中国电池企业占据主导地位并彼此竞争激烈也就不足为奇。如今，地方激励和较低的运输成本，使得在海外开工厂往往比留在国内更有利可图。世界最大的锂电池制造商宁德时代（CATL）在一份最新财报中披露，其海外利润率为29%，而在中国约为23%。其他中国公司，包括国轩高科（Gotion）和亿纬锂能（EVE Energy）也都报告了更高的海外利润率。"
     },
     {
       "id": "p012",
       "en": "Macron isn’t the only politician to herald a Chinese battery plant’s arrival. The lovefest is virtually global: Brazil’s Luiz Inácio Lula da Silva rode in a BYD vehicle with the company’s founder. Spain’s prime minister held hands with CATL’s CEO. The governor of Illinois, JB Pritzker, shared a stage with Gotion’s chairman to announce a factory in Manteno, Illinois.",
-      "zh": ""
+      "zh": "马克龙并不是唯一欢迎中国电池工厂落地的政治人物。对这股热潮来说，世界范围几乎是“共振”：巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦（Luiz Inácio Lula da Silva）与比亚迪创始人同乘比亚迪车辆。西班牙总理与宁德时代CEO“牵手”亮相。伊利诺伊州州长杰布·普里茨克（JB Pritzker）与国轩高科董事长同台，宣布在伊利诺伊州曼特诺建厂。"
     },
     {
       "id": "p013",
       "en": "But problems emerge as blueprints turn into massive plants. Factory projects often include promises to hire locally, but sometimes companies bring in migrant labor. In Hungary, local media reported in July that CATL laid off more than 100 employees at a factory, most of them Hungarians, prompting the municipality to launch an investigation and raid the plant. CATL is also facing protests and a lawsuit in Hungary for its water use and environmental footprint—issues commonly faced by battery factories worldwide.",
-      "zh": ""
+      "zh": "但问题在于蓝图一旦变成大规模工厂，就开始暴露出来。工厂项目常常承诺优先雇佣本地员工，但有时公司会请来外地务工人员。在匈牙利，地方媒体今年7月报道称，宁德时代在一家工厂裁员100多人，其中大多数是匈牙利人，这促使地方政府启动调查并突击检查了该厂。宁德时代在匈牙利还面临因用水和环境足迹问题而引发的抗议和诉讼——这些问题也是全球电池工厂普遍面临的。"
     },
     {
       "id": "p014",
       "en": "The situation might sound oddly familiar. When Apple built its technology empire on the backs of Chinese factories, the country had to reckon with whether it was benefiting from Apple’s victories or being exploited. As China’s battery technology takes over the world, Chinese companies are the ones now raising these questions—of who ultimately benefits and who is exploiting whom.",
-      "zh": ""
+      "zh": "这种处境听起来似乎有些熟悉。当苹果凭借中国工厂建立其科技帝国时，中国曾经不得不面对这样一个问题：国家究竟是在分享苹果成功的收益，还是在被剥削。如今，随着中国的电池技术席卷世界，提出这些问题的人再度是中国企业——问题仍旧是最终谁得益、谁在被剥削。"
     },
     {
       "id": "p015",
       "en": "What Say You?Let us know what you think about this article in the comments below. Alternatively, you can submit a letter to the editor at [email protected].",
-      "zh": ""
+      "zh": "你有什么看法？欢迎在下方评论区告诉我们对这篇文章的意见。或者，你也可以向编辑部发邮件：[email protected]。"
     }
-  ]
+  ],
+  "translated_at": "2026-07-22T17:01:40+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
 }

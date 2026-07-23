@@ -1,0 +1,23 @@
+# A no-brainer for protecting your brain
+
+Section: Leaders
+Date: July 9th 2026
+Rubric: One simple vaccination may dramatically reduce the risk of dementia
+
+FEW CONDITIONS are as feared as dementia, of which Alzheimer’s is the most common cause. This is mostly because of its insidious nature, since it strips people of their sense of self and leaves those who love them caring for a stranger. “Alzheimer’s is me unwinding, losing trust in myself, a butt of my own jokes and, on bad days, capable of playing hunt the slipper by myself, and losing,” wrote the late Sir Terry Pratchett, a novelist who had a rare form of it. “I felt totally alone, with the world receding from me in every direction.”
+
+It is also dreaded because many believe it is becoming far more common and so will inevitably strike them or those closest to them. Some epidemiologists in the field seem only to fan those fears. Models predict that the number of people suffering from dementia may triple to 153m by 2050 as societies age. In truth, the outlook is cheerier than that, especially in rich countries where, if adjusted for age, the risk of getting dementia has dropped sharply in recent decades. Most models assume these declines will not continue, or will even reverse. A mountain of new evidence shows that need not be.
+
+Recent studies point out the numerous ways in which people are already reducing their risk of dementia. Many are lifestyle changes that you already know you should be making, such as eating healthily, exercising more and keeping your brain active. Others are medical interventions, such as treating hearing loss, depression, high blood pressure and high cholesterol. But getting people to adopt, and then stick to, healthy habits is hard. It does not help that, ideally, you should be working out more and boozing less for many years before your brain will thank you.
+
+Yet there is one direct way to improve your chances of staying mentally sharp, and it involves almost no toil, tears or sweat. One of the most exciting scientific findings in recent years is that a course of the shingles vaccine may reduce the risk of dementia by about 20%. For a simple intervention, that is a huge benefit. Exactly why this happens is still being debated. One theory is that the varicella-zoster virus, which causes both shingles and chickenpox, contributes to dementia by causing damage or inflammation to the nervous system even while it is supposedly dormant. Another is that the vaccination gives the immune system a firm kick up its B-cells, activating it against other bugs that might contribute to dementia.
+
+Too many public-health systems fail to offer the vaccine to more than just a small share of those who would benefit. Several studies have shown that, taking into account only the shingles cases prevented, it would be cost-effective to vaccinate almost everyone from about the age of 55. Yet many countries have rationed the vaccine to keep down the upfront costs. Britain, for instance, lowered the eligibility age from 70 to 65 in 2023, but has since been too slow to vaccinate those who were already in their late 60s. Among the 27 members of the European Union, just 17 recommend the vaccine at all, and several reserve it for the over-65s.
+
+That makes little sense when considering only its efficacy against shingles, which afflicts 20-30% of unvaccinated people. It makes even less sense given its potential as a weapon in the fight against dementia.
+
+Most of the evidence of its anti-dementia effect relates to an earlier version of the vaccine, which used a weakened form of the live virus. It has since been largely replaced by a new one, Shingrix, which contains just a sprinkling of proteins from the virus and is seen as safer because it cannot cause an infection. Some studies suggest the new jab may be at least as powerful against dementia as the old one. Even so, it would make sense to run randomised trials to learn which is better, the optimal age for getting it and whether boosters are needed.
+
+In the meantime, health authorities should not wait. A full two-dose course of Shingrix costs Britain’s health service £320 ($430) and federal immunisation programmes in America around $270: a bargain, given the potential savings in long-term care costs. As for individuals, even the retail cost (around £460 in Britain) is a small price to reduce by one-fifth the chances of having the world recede in every direction. ■
+
+Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.

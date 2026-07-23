@@ -10,327 +10,330 @@
   "order": 42,
   "section": "Steven Levy",
   "title_en": "I Thought I Knew Silicon Valley. I Was Wrong",
-  "title_zh": "",
+  "title_zh": "我以为自己懂硅谷，但我错了",
   "rubric_en": "Tech got what it wanted by electing Trump. A year later, it looks more like a suicide pact.",
-  "rubric_zh": "",
+  "rubric_zh": "科技界通过选举特朗普赢得了自己想要的一切。一年后，它看起来更像是一场自杀式交易。",
   "date": "2025-09-22T06:00:00-04:00",
   "origin_url": "",
-  "translation_status": "pending",
+  "translation_status": "translated",
   "paragraphs": [
     {
       "id": "p001",
       "en": "For decades, Mark Lemley’s life as an intellectual property lawyer was orderly enough. He’s a professor at Stanford University and has consulted for Amazon, Google, and Meta. “I always enjoyed that the area I practice in has largely been apolitical,” Lemley tells me. What’s more, his democratic values neatly aligned with those of the companies that hired him.",
-      "zh": ""
+      "zh": "几十年来，马克·莱姆利（Mark Lemley）作为知识产权律师的生活一直算是井井有条。他是斯坦福大学的一名教授，也为亚马逊、谷歌和 Meta 提供过咨询。“我一直很享受自己所从事的领域在很大程度上是非政治化的，”莱姆利告诉我。“更重要的是，他的民主党价值观与雇佣他的那些公司非常契合。”"
     },
     {
       "id": "p002",
       "en": "But in January, Lemley made a radical move. “I have struggled with how to respond to Mark Zuckerberg and Facebook’s descent into toxic masculinity and Neo-Nazi madness,” he posted on LinkedIn. “I have fired Meta as a client.”",
-      "zh": ""
+      "zh": "但在一月，莱姆利做了一个激进的决定。“我一直在困扰：该如何回应马克·扎克伯格和 Facebook（现为 Meta）走向有毒的男性主义和新纳粹式疯狂，”他在领英上写道。“我已经不再把 Meta 作为客户。”"
     },
     {
       "id": "p003",
       "en": "This is the Silicon Valley of 2025. Zuckerberg, now 41, had turned into a MAGA-friendly mixed martial arts fan who didn’t worry so much about hate speech on his platforms and complained that corporate America wasn’t masculine enough. He stopped fact-checking and started hanging out at Mar-a-Lago. And it wasn’t only Zuckerberg. A whole cohort of billionaires seemed to place their companies’ fortunes over the well-being of society.",
-      "zh": ""
+      "zh": "这就是 2025 年的硅谷。41 岁的扎克伯格已经变成一个对 MAGA 倾向友好、热衷综合格斗的粉丝，不再太在乎平台上的仇恨言论，还抱怨“美国企业界”不够男性化。他停止了事实核查，并开始在马-拉-拉戈（Mar-a-Lago）出没。而且不只是扎克伯格。一大批亿万富翁似乎把自己公司的财富放在了社会福祉之上。"
     },
     {
       "id": "p004",
       "en": "When I meet Lemley at his office at Stanford this July, he is looking vacation-ready in a Hawaiian shirt. In the half year since he fired Meta, very few powerful people have followed his lead. Privately, they tell him, you go! Publicly, they’re gone. Lemley has even considered how he might be gone if things get bad for anti-Trumpers. “Everybody I’ve talked to has a potential exit strategy,” he says. “Could I get citizenship here or there?”",
-      "zh": ""
+      "zh": "今年七月我在斯坦福见到莱姆利时，他穿着夏威夷衬衫，看起来像是已经准备好去度假。自从他解约 Meta 以来的这半年里，几乎没有多少有权势的人跟着他的做法。私下里，他们会对他说：你去吧！公开场合则不见踪影。莱姆利甚至想过，如果反特朗普者的局面变得更糟，他自己会怎样。“我和我谈过的每个人都有一套可能的退出方案，”他说。“我能不能去某个地方拿到公民身份？”"
     },
     {
       "id": "p005",
       "en": "For our politics issue, WIRED examines the state of tech’s influence on governmental power—and the people who will change everything in the future.",
-      "zh": ""
+      "zh": "在本期政治专题中，《WIRED》审视了科技对政府权力的影响现状，以及未来将改变一切的人们。"
     },
     {
       "id": "p006",
       "en": "It should be the best of times for the tech world, supercharged by a boom in artificial intelligence. But a shadow has fallen over Silicon Valley. The community still overwhelmingly leans left. But with few exceptions, its leaders are responding to Donald Trump by either keeping quiet or actively courting the government. One indelible image of this capture is from Trump’s second inauguration, where a decisive quorum of tech’s elite, after dutifully kicking in million-dollar checks, occupied front-row seats.",
-      "zh": ""
+      "zh": "对于科技界而言，这本应是最好的时代，人工智能繁荣让一切都被加速。然而，一道阴影已经笼罩硅谷。该群体整体仍然明显偏向左翼，但除少数例外，其领导者对唐纳德·特朗普的回应，大多是沉默或主动迎合政府。特朗普第二次就职典礼上留下了一个令人难忘的画面：科技精英中占有决定性人数的成员，在交出了价值百万美元的“会费”后，坐上了前排座位。"
     },
     {
       "id": "p007",
       "en": "“Everyone in the business world fears repercussions, because this administration is vindictive,” says venture capitalist David Hornik, one of the few outspoken voices of resistance. So Silicon Valley’s elite are engaged in a dangerous dance with a capricious administration—or as Michael Moritz, one of the Valley’s iconic VCs, put it to me, “They’re doing their best to avoid being held up in a protection racket.”",
-      "zh": ""
+      "zh": "“商界的人几乎都在担心后果，因为这个政府很爱报复，”风险投资家大卫·霍尼克说，他是少数公开发声反对的人之一。“所以硅谷的精英正在与一个反复无常的政府跳一支危险的舞——”正如硅谷标志性投资家迈克尔·莫里茨对我说的那样，“‘他们正在尽力避免被卷入一场敲诈式的勒索’。”"
     },
     {
       "id": "p008",
       "en": "Just ask Tim Cook. In May, Apple’s CEO took a pass on an 8,000-mile journey to join a presidential entourage in the Middle East. Trump noticed. In Qatar, the president said he had “a little problem” with Cook and the following day threatened a 25 percent tariff on iPhones.",
-      "zh": ""
+      "zh": "只要看看蒂姆·库克就明白了。5月，苹果首席执行官放弃了横跨8,000英里的行程，未加入总统在中东的访问团。特朗普注意到了。特朗普在卡塔尔说他与库克“有点问题”，次日便威胁对iPhone征收25%的关税。"
     },
     {
       "id": "p009",
       "en": "Not surprisingly, when I offered some of the Valley’s top executives the opportunity to vent this summer, few took the bait. Vacations seemed unusually long. Calendars were so packed that not a single slot was available for the next three weeks, four weeks, six weeks … when did you say your deadline was? One CEO notorious for logorrheic gabbing to reporters told me he was trying to “decompress” on politics. “But any time you want to talk AI or AI agents, please let me know!” he said.",
-      "zh": ""
+      "zh": "并不奇怪，我在这个夏天给硅谷一些顶级高管开了个“倾诉”机会，结果很少有人搭理我。假期似乎异常漫长。日程排得满到下三周、四周、六周都没有一个空档——你刚说你要的截止日期是哪天？有一位以对记者滔滔不绝地絮叨而出名的 CEO 告诉我，他正想在政治问题上“放松一下”。“但如果你想谈 AI 或 AI 代理，随时告诉我！”他说。"
     },
     {
       "id": "p010",
       "en": "It used to be that when tech’s leaders fell short of their lofty values, employees kept them honest. Google workers famously pressured their executives to fight for diversity and avoid military contracts. Implicit was the threat that the activists could easily find jobs elsewhere.",
-      "zh": ""
+      "zh": "过去，当科技界的领导者偏离了那些崇高的价值观时，员工会督促他们保持诚实。谷歌员工曾经著名地向高管施压，要求他们为多样性而奋斗并避免签订军事合同。其背后隐含的威胁是，这些积极分子很容易在其他公司找到工作。"
     },
     {
       "id": "p011",
       "en": "Then Elon Musk came along and fired 80 percent of X’s employees, and the app didn’t collapse. Across the industry, diversity efforts are down and military contracts are up. In an April 2024 note to Google employees, CEO Sundar Pichai told employees not to “use the company as a personal platform, or to fight over disruptive issues or debate politics.” Free expression is also out of favor inside Meta, where an employee says the environment feels like the ’90s: “When you went to work, you didn’t bring your politics to the office, and you may not like the boss—but you do the job so you get paid,” they tell me. “Good luck finding a company that isn’t like that now.”",
-      "zh": ""
+      "zh": "后来，埃隆·马斯克出现了，并解雇了 X 的 80% 员工，但这款应用没有崩溃。整个行业里，关于多样性的努力在下降，而军事合同却在上升。2024 年 4 月，谷歌 CEO 萨达尔·皮查伊在给员工的备忘录中告诫员工不要把公司当作“个人平台”去“在颠覆性议题上互相攻击”或“争辩政治问题”。在 Meta，言论自由也不再受欢迎。一位员工告诉我，现在的氛围像上世纪九十年代：“你去上班时，不会把政治带进办公室；你可能不喜欢老板，但你照样做活儿拿工资。”他补充道：“现在你可很难找到一家不是这样氛围的公司。”"
     },
     {
       "id": "p012",
       "en": "What’s happened to Silicon Valley? Why did the Ayn Rand–loving heroes of tech become Donald Trump’s bootlickers? How did one of the supposedly smartest VCs wind up posting a manifesto that declared war on “trust and safety,” “tech ethics,” and “social responsibility”? What was the point of Jeff Bezos buying The Washington Post for civic benefit, as he claimed, and then right before the 2024 election, killing its Kamala Harris endorsement and changing its opinion section to editorials on “personal liberties and free markets”? And speaking of Cook, how is it that the most effective political tactic for the head of a $3.4 trillion company is to march into the Oval Office and solemnly present to Trump a glass-and-gold tchotchke?",
-      "zh": ""
+      "zh": "发生了什么？硅谷变成了什么样？为什么那些自诩亚伦·兰德信徒的科技英雄，变成了唐纳德·特朗普的马屁精？那位号称最聪明的风险投资家之一，怎么会最后发出一份宣言，并向“信任与安全”“技术伦理”和“社会责任”宣战？杰夫·贝索斯自称出于公民责任购买《华盛顿邮报》，但在 2024 年大选前夕却取消了对卡玛拉·哈里斯的背书，并把意见版块改成“个人自由与自由市场”社论，难道这有什么意义？说到库克，最不值钱的事迹之一，是这位 3.4 万亿美元公司掌门人的最有效政治策略竟然是走进椭圆形办公室，郑重其事地向特朗普递上一件镀金玻璃摆件？"
     },
     {
       "id": "p013",
       "en": "This is Apple! Who knows what Cook—a man who has more in common with Martians than MAGA—was thinking as he stood before Trump and unboxed the most dubious, most obsequious product in the company’s near-half-century. Would Steve Jobs have done that? My guess: He’d have told his team to send over a gold-plated iPod. Collect on Delivery.",
-      "zh": ""
+      "zh": "这就是苹果！站在特朗普面前，库克——这个与“MAGA”更有共通点的人相比起更像火星人——当时到底在想什么？他在公司近半个世纪以来最可疑、最恭顺的产品发布会上这么站在那里？乔布斯会这么做吗？我猜：他会让团队去拿一台镀金版的 iPod 来，货到付款。"
     },
     {
       "id": "p014",
       "en": "Ever since Jobs began selling the first sleek Apple II’s, digital technology has been touted as America’s pride and future. In its own geeky way, tech spoke truth to power. But now, says Stanford professor of social ethics of science and technology Rob Reich, “an extraordinarily tiny number of billionaires who control the information ecosystem have made allyship with the most consequential and fearsome political power in the world. There’s never been a time in history when those things have been combined.”",
-      "zh": ""
+      "zh": "自从乔布斯推出第一批光滑的苹果 II 以来，数字技术就被吹捧为美国的骄傲与未来。用科技人自己的方式说，它曾对权力说真话。但如今，正如斯坦福大学科技社会伦理教授罗布·赖希所言，“一小撮异常少数、掌握信息生态系统的亿万富翁，与世界上最具影响力、最令人畏惧的政治权力结成了盟友。历史上从未有过这两者同时合流的时刻。”"
     },
     {
       "id": "p015",
       "en": "In a perverse sense this is good news for me—I cover that ecosystem and its oligarchs, so how great is it to be reporting on history? But in every other sense it’s wildly disturbing. Obviously, my stories evolved with the industry. But here’s something that took me by surprise: how quickly and decisively the visionaries I chronicled aligned themselves with Trump, a man whose values violently clashed with the egalitarian impulses of the digital revolution. How did I miss that? I revisited my familiar turf—which in this era seems suddenly unfamiliar—to find out.",
-      "zh": ""
+      "zh": "从反讽上说，这对我来说倒是个好消息——我正是报道那套生态系统及其寡头，这样我还能把自己称作在书写历史的人，多好啊？但在其他方面，这实在令人不安。显然，我的报道也随着产业变化而演化。但有一件事让我很吃惊：我记录下的那些“先知式人物”，竟然如此之快、如此果断地与特朗普站在一起，而这位男人的价值观与数字革命的平等主义冲动是激烈对立的。我是如何错过这一点的？我回到了自己熟悉却在这个时代忽然变得陌生的领域，去弄清这背后的原因。"
     },
     {
       "id": "p016",
       "en": "For the first 30 years of my life, I did not touch a computer. I viewed those machines—for much of that time, mainframes clacking in rooms I never saw—as a dehumanizing force. I associated them with the war machine in Vietnam and the monotony of corporate life. That all changed in the early 1980s when I took an assignment to write about hackers for Rolling Stone.",
-      "zh": ""
+      "zh": "人生的最初 30 年里，我没碰过电脑。那段时间里，我看见那些机器——多半是我从未见过的、在房间里咔哒作响的主机——是一种去人性化的力量。我把它们和越战的战争机器、以及公司生活里的机械重复联系在一起。直到 20 世纪 80 年代初，我接下一个为《滚石》杂志写黑客报道的任务，一切才发生了改变。"
     },
     {
       "id": "p017",
       "en": "To my shock and delight, I learned that the burgeoning PC industry was a nerdy successor to the political and cultural activism of the late 1960s. Some of the first computer startups sprang from the Homebrew Computer Club, organized by an antiwar activist. The club’s moderator had led the technology wing of the Berkeley Free Speech Movement. Even Bill Gates started out as a dope-toking rebel of sorts; his partner Paul Allen was a music freak who loved Jimi Hendrix. Apple cofounders Steve Jobs and Steve Wozniak had barely grown out of their shaggy-haired days selling the “blue boxes” that allowed people to make illegal calls. Screw the Phone Company!",
-      "zh": ""
+      "zh": "令我震惊又欣喜的是，我发现，蓬勃发展的个人电脑行业，其实是20世纪60年代后期政治和文化激进主义的“书呆子式”继承者。最早的一些计算机创业公司起源于“家庭酿造计算机俱乐部（Homebrew Computer Club）”，该俱乐部由一位反战活动人士组织。这个俱乐部的主持人曾领导伯克利“言论自由运动”的技术分支。甚至比尔·盖茨最初也算是一种“吸毒叛逆者”；他的合伙人保罗·艾伦是个音乐狂热者，狂爱吉米·亨德里克斯。苹果的联合创始人史蒂夫·乔布斯和史蒂夫·沃兹尼亚克几乎还没摆脱那种蓬乱的“长发青年”时期，就已经在出售“蓝盒子”——它让人们能够拨打非法电话。电话公司见鬼去吧！"
     },
     {
       "id": "p018",
       "en": "I began a love affair with Silicon Valley. The wizards I met were changing the world with tools designed to uplift us—to give the common person the power of an expert. The electronic spreadsheet was sold as a business tool, but it was ultimately an antiestablishment weapon, because anyone with a low-cost PC could challenge the calculations of the executive suite. When Mitch Kapor, a former teacher of transcendental meditation, founded Lotus Development Corporation, which popularized the spreadsheet in the 1980s, he told his money guy that he valued people more than profits, and wanted to invest in his employees. “I was prepared for him to say no,” says Kapor. Fortunately for Kapor, the guy said yes.",
-      "zh": ""
+      "zh": "我与硅谷开始了一段恋爱般的关系。我遇到的这些“巫师”正在用一系列工具改变世界，这些工具旨在让所有人受益，让普通人也能拥有专家般的能力。电子表格最初被当作商业工具推销，但最终却成了一种反建制的武器，因为任何拥有一台低价PC的人，都能质疑高层管理者的财务计算。1980年代普及电子表格的Lotus公司创始人Mitch Kapor（米奇·卡珀）曾告诉自己的财务负责人，他重视的是员工而不是利润，并希望把钱投资在员工身上。卡珀说：“我已经准备好听他拒绝。”幸运的是，那个人说‘可以’。"
     },
     {
       "id": "p019",
       "en": "In the famous “1984” Apple commercial for the Macintosh, an athlete flings a hammer at a Big Brother figure—she was out to pulverize authority. The headline of my Rolling Stone story about the Mac said it all: “The Whiz Kids Meet Darth Vader.” (Meaning IBM. Haha.) This was a righteous battle!",
-      "zh": ""
+      "zh": "在著名的苹果“1984”Macintosh电视广告中，一名运动员向“老大哥”形象掷出铁锤——她要去粉碎权威。我的《滚石》杂志Mac专题故事标题就已经点明了一切：“电脑怪才VS达斯·维德。”（这里的“达斯·维德”指IBM。）这场是场名副其实的正义之战。"
     },
     {
       "id": "p020",
       "en": "Of course, Silicon Valley was never all flowers and psychedelics. “For all that it might flatter itself with counterculture roots, making money and accumulating power has always been in the mainstream,” says Kapor. And of course, the Valley’s politics always accommodated a strong libertarian strain.",
-      "zh": ""
+      "zh": "当然，硅谷从来不只是鲜花与迷幻文化。卡珀说：“尽管它总爱拿反主流文化的根源来美化自己，但追逐金钱和积累权力始终属于主流。” 而且硅谷的政治生态，当然也一直容纳着浓厚的自由意志主义倾向。"
     },
     {
       "id": "p021",
       "en": "But even venture capitalists seemed to vibe with the feeling of revolution—as if the Weathermen switched from making bombs to doing IPO road shows. When the internet arrived like a thunderclap, the ideological soundtrack became ear-splitting. In his celebrated 1996 “Declaration of the Independence of Cyberspace,” my friend John Perry Barlow argued that the internet transcended earthbound laws and borders. “Your legal concepts of property, expression, identity, movement, and context do not apply to us,” he wrote.",
-      "zh": ""
+      "zh": "甚至风险投资家似乎也与革命的感觉同频——仿佛“天气兵团”把制造炸弹的行当转成了IPO路演。互联网像雷鸣般降临，意识形态的背景音一下子变得震耳欲聋。1996年他那篇著名的《网络独立宣言》中，我的朋友约翰·佩里·巴洛（John Perry Barlow）就曾主张，互联网超越了地面法则和国界。“你们关于财产、表达、身份、流动和语境的法律概念都不适用于我们，”他写道。"
     },
     {
       "id": "p022",
       "en": "Oh my God, did we post our hopes on the internet. When I first met them, Larry Page and Sergey Brin were wide-eyed idealists. Jeff Bezos came on like a buddy, eager to point out that Amazon employees, himself included, set up their computers on repurposed wooden doors instead of pricey desks. After my first conversation with Zuckerberg, he went home to a tiny apartment with no furniture.",
-      "zh": ""
+      "zh": "天哪，我们把所有希望都寄托在了互联网。第一次见面时，拉里·佩奇和谢尔盖·布林仍是双眼发亮的理想主义者。杰夫·贝索斯则像个老朋友一样走进来，热衷于提醒大家：亚马逊的员工（包括他自己）最初用的是改造过的木门当办公桌，而不是贵价桌子。和扎克伯格第一次交谈后，他回到的是一间空荡荡的小公寓，没有任何家具。"
     },
     {
       "id": "p023",
       "en": "And then the giants of the internet scaled up their companies to impose their own concepts of expression, identity, and context. Those once humble leaders reaped unimaginable rewards. Now they can’t flaunt their riches enough—multiple homes, yachts, planes.",
-      "zh": ""
+      "zh": "随后，互联网巨头们把企业做大，进而强加了自己的“表达、身份和语境”标准。那些曾经谦逊的领袖收获了难以想象的回报。如今，他们再怎么炫耀也不够——多处住宅、游艇、飞机。"
     },
     {
       "id": "p024",
       "en": "On a typically pleasant July day, I met up with Russell Hancock, who runs a think tank called Joint Venture Silicon Valley, in the living room of his Palo Alto home. He nabbed it during the 2000 tech crash; now you can’t buy a shack in Paly without near-generational wealth. Page and Zuckerberg, unsatisfied with a single homestead, have scooped up nearby properties, transforming once idyllic streets into supervillain compounds.",
-      "zh": ""
+      "zh": "在一个通常都很宜人的七月日子里，我在帕洛阿尔托（Palo Alto）他家客厅里见了联合创投硅谷（Joint Venture Silicon Valley）负责人拉塞尔·汉考克（Russell Hancock）。他是在2000年科技泡沫破裂时捡漏买下那里的房子的；如今你再也买不起在Paly买一间小屋，除非几乎有代际般的巨额财富。佩奇和扎克伯格在只买一处宅邸上也难以满足，已经把周边物业一并收购，把昔日如画的街区改造成超级富豪般的“恶棍庄园”。"
     },
     {
       "id": "p025",
       "en": "“The people that are doing fabulously well, they’re really having a terrific time,” Hancock says. For everyone else in Silicon Valley, the wealth gap is getting more punishing, more absurd. When Apple had its IPO in 1980, Steve Jobs’ net worth topped an almost-unheard-of $100 million. Now Zuckerberg is reportedly offering AI researchers that much moolah for a single year’s labor. Hancock brings up the Gini coefficient, a measure of inequality that’s popular among the World Bank crowd. Since the ’90s, “we went from 30 on the Gini to 83,” he says. “Those are the conditions for the French Revolution.”",
-      "zh": ""
+      "zh": "“那些赚得非常多的人，他们真的生活得很精彩，”汉考克说。对硅谷其他人来说，财富差距正在变得更加严峻、更加荒谬。1980 年苹果公司首次公开募股时，史蒂夫·乔布斯的净资产曾一度超过当时几乎闻所未闻的 1 亿美元。如今，扎克伯格 reportedly reportedly offering AI 研究者一年劳动报酬高达同样的金额。汉考克提到了基尼系数——这是世界银行常用的一个不平等程度指标。“自 90 年代以来，”他说，“我们从 30 直接上升到 83。那就是法国大革命发生的条件。”"
     },
     {
       "id": "p026",
       "en": "Another big change was unfolding. For the longest time, notes Chris Lehane, a former Bill Clinton staffer who has worked for companies like Airbnb and OpenAI, software “was almost like a fourth dimension.” Tech leaders could afford to stay out west and avoid politics. But then software products started to break down entire sectors of business. “These products were physically manifesting themselves in taxis, short-term rentals, and food delivery,” Lehane says, “bumping up against existing political systems, beliefs, laws.” Sometimes people died from that incursion. Old, beloved businesses closed. Local politicians got mad. To game the system, Silicon Valley jumped to the swamp. As one technologist in the current administration tells me, “The Valley now realizes it can’t ignore politics, because politics won’t ignore you.”",
-      "zh": ""
+      "zh": "另一场巨变也正在发生。克里斯·莱恩（一位前克林顿幕僚，曾在 Airbnb 和 OpenAI 等公司任职）指出，很长时间以来，软件“几乎像第四维空间”。科技领袖因此可以留在西部，避开政治。但后来软件产品开始瓦解整个产业部门。莱恩说：“这些产品以有形的方式进入了出租车、短租和外卖领域，冲击着既有的政治体制、观念和法律。”有时这场入侵也会夺走人的生命。老牌、受人喜爱的企业被迫关门。地方政治人物也被激怒。为了在规则中博弈，硅谷踏入了政治这片沼泽。正如我在现任政府里一位技术专家告诉我的，“硅谷现在意识到，它不能再无视政治了，因为政治也不会再忽视你。”"
     },
     {
       "id": "p027",
       "en": "No wonder the public took a jaundiced view of the apps they couldn’t stop using. By the mid-2010s, people were attacking the big buses that transported tech workers to and from San Francisco, Mountain View, and Menlo Park, where employees pulled lattes in micro-kitchens, enjoyed midday massages, and discussed provocative left-wing politics.",
-      "zh": ""
+      "zh": "公众对他们停不下来却又停不住的应用开始持怀疑态度也就不足为奇了。到 2010 年代中期，人们已经在攻击往返旧金山、山景城和门洛帕克的大巴，那些巴士载着科技公司员工上下班，而员工会在微型厨房里拿拿铁、享受午间按摩、谈论颇具挑衅性的左翼政治。"
     },
     {
       "id": "p028",
       "en": "Perhaps the wizards of the PC and internet age were too successful. “We overdid it,” says Andy Hertzfeld, a programming legend who helped build the original Macintosh. “We were so idealistic in thinking everyone should use a computer and that we should make them lovable and fun.” The result, he laments, is a dystopia of phone-addicted teens and even the death of the homework essay.",
-      "zh": ""
+      "zh": "也许，PC 和互联网时代的那些“魔法师”太成功了。安迪·赫茨菲尔德——这位帮助开发最初麦金塔电脑的编程传奇——说：“我们做过头了。我们太理想化了，认为每个人都应该用电脑，而且我们应该把电脑做得可爱、有趣。” 他感叹道，结果是一个手机成瘾青少年的反乌托邦世界，甚至连作业论文都“死”在这个过程中。"
     },
     {
       "id": "p029",
       "en": "Essentially, the big tech companies became The Phone Company—pernicious behemoths who enshittify their products to extract more profits. You can’t even get a human customer-service person on the phone. In a 2024 survey of Silicon Valley residents, three-quarters of respondents felt tech companies have too much power; nearly as many believe they have lost their moral compass.",
-      "zh": ""
+      "zh": "本质上，大型科技公司已经变成了“电话公司”——那种靠故意把自家产品做得越来越差来榨取更多利润的有害巨兽。你甚至找不到一个真人客服接听电话。在一项 2024 年的硅谷居民调查中，四分之三的受访者认为科技公司权力过大；几乎同样多的人认为它们已经失去了道德准则。"
     },
     {
       "id": "p030",
       "en": "That’s why, even before Citizen Trump entered the White House in 2017, I found that the narrative in my stories had changed. I used to draw on the tale of David versus Goliath. Now I was writing the Icarus legend. I kept seeing that figure’s hubris in the tech elite. And it led them to Donald Trump.",
-      "zh": ""
+      "zh": "正因为如此，即使在“公民特朗普”2017 年入主白宫之前，我就发现自己报道中的叙事已经改变。我过去总是借用“大卫大战歌利亚”的故事来写作。如今我改写成了伊卡洛斯神话。我不断看到这位人物式样的傲慢在科技精英身上重演，而这最终把他们引向了唐纳德·特朗普。"
     },
     {
       "id": "p031",
       "en": "History might remember Joseph R. Biden as the doddering figure in his last presidential debate. But a shockingly wide range of people in Silicon Valley view him as a progress-hating despot. I was taken aback at the fervor of their antipathy toward Uncle Joe.",
-      "zh": ""
+      "zh": "后人或许会把约瑟夫·R·拜登记住为他最后一次总统辩论中那位动作迟缓的形象。但在硅谷，令人震惊的是，相当广泛的人群把他视为一个厌恶进步的专制者。我被他们对乔·拜登那种近乎狂热的反感震惊到了。"
     },
     {
       "id": "p032",
       "en": "Lehane, the former Clinton spokesperson, says that the administration and its agencies neither understood tech nor took much interest in it, “other than potentially trying to stop the technology from being developed.” Chief villains of the Biden era included Federal Trade Commission chair Lina Khan and Department of Justice antitrust head Jonathan Kanter. They methodically filed suits against Google, Amazon, Apple, and Meta. Khan blocked even modest mergers, threatening the entire ecosystem of smaller startups that now found it harder to negotiate profitable exits.",
-      "zh": ""
+      "zh": "前克林顿发言人莱汉说，拜登政府及其机构既不理解科技，也并未对其表现出太大兴趣，“除了一心想阻止技术的发展之外别无他意”。拜登时代的头号反派包括联邦贸易委员会主席莉娜·可恩和司法部反垄断负责人乔纳森·坎特。他们有条不紊地对谷歌、亚马逊、苹果和 Meta 提起诉讼。可恩甚至阻断了规模并不大的并购交易，进而威胁到整个更小型初创企业生态系统，而这些企业如今已越来越难以谈成有利可图的退出方案。"
     },
     {
       "id": "p033",
       "en": "Biden’s people make reasonable defenses—those companies do seem to have monopolies, after all. And look what happened to the design company Figma after Khan’s FTC scrutinized its potential merger with Adobe. Two years later it had a spectacular IPO.",
-      "zh": ""
+      "zh": "拜登阵营提出了相当有道理的辩解——这些公司确实像是垄断者。看看设计公司 Figma，在卡恩推动下，联邦贸易委员会审查其与 Adobe 的潜在并购后发生了什么：两年后，它完成了一场引人注目的首次公开募股。"
     },
     {
       "id": "p034",
       "en": "But one of Biden’s biggest, most avoidable errors may have been his failure to invite Elon Musk to a 2021 event for electric vehicle manufacturers. The apparent reason was to keep the United Auto Workers happy, though the White House later claimed it was a fight over electric vehicle provisions that cost him his seat at the table. Even Reid Hoffman, one of the few tech billionaires who’s speaking out against Trump, thinks that was crazy. “You should invite the electric vehicle leader to the electric vehicle summit!” he says. “That was part of the radicalization of Elon.”",
-      "zh": ""
+      "zh": "但拜登犯下的一个最大且最可避免的错误，或许是他未邀请埃隆·马斯克参加2021年的电动汽车制造商大会。表面上的原因是为了让美国汽车工人联合会满意，尽管白宫后来称这场风波因电动车相关条款之争导致他失去了“入场席位”。甚至连雷德·霍夫曼——这位少数公开反对特朗普的科技亿万富翁之一——也认为那是疯了。“你应该邀请电动车领域的领军人物参加电动车峰会！”他表示。“这正是马斯克激进化的一部分。”"
     },
     {
       "id": "p035",
       "en": "Or, at least, part of the public narrative about why Musk, who had previously donated to Democratic candidates, went full MAGA. Other theories include radicalization during Covid, after the government stopped work at his California plant; radicalization by way of Twitter and too many sycophantic posts; or just that he was nuts. In any event, he got busy boosting right-wing content on X (especially his own posts), loudly supporting Trump, and of course donating almost $300 million to the Trump campaign. It used to be that “if you were Republican, or you said you were anti-tax, you had to go into hiding,” says Ryan Petersen, CEO of the logistics company Flexport. “Elon made it safe for everyone.”",
-      "zh": ""
+      "zh": "或者说，至少是关于马斯克如何从过去曾向民主党候选人捐款，转而走向“全面MAGA”这一公共叙事中的一部分。其他理论包括：在新冠期间被激进化，尤其是在加州工厂停工后；被推特和过多的阿谀帖进一步推着走向极端；或者干脆就是他疯了。无论如何，他都忙着在 X（尤其是自己发布的内容）上大量推送右翼信息，大声支持特朗普，当然也捐款近3亿美元给特朗普竞选团队。弗莱克斯波特物流公司首席执行官瑞安·彼得森说：“过去，如果你是共和党人，或者说你反对减税，你就得躲着走。” 他补充道：“埃隆让每个人都觉得可以公开这么做了。”"
     },
     {
       "id": "p036",
       "en": "Another Biden blunder, in the eyes of the tech elite, was his administration’s hostility to crypto. According to one top crypto executive I spoke with, the trouble started when one of the Dems’ biggest funders, crypto billionaire Samuel Bankman-Fried, was exposed as a massive fraudster. “It was an enormous embarrassment for the Democrats,” the executive told me. “So what do you do when you’re humiliated? You overreact.”",
-      "zh": ""
+      "zh": "在科技精英看来，拜登政府对加密货币的敌视态度也是另一个重大失误。据我采访的一位顶级加密货币高管说，麻烦始于民主党最重要的金主之一、加密货币亿万富翁山姆·班克曼-弗里德（Samuel Bankman-Fried）被揭露为巨额欺诈者。一位高管告诉我：“这对民主党来说是个巨大的尴尬。”随后他问道：“当你被羞辱时，你会怎么做？通常的反应就是过度反击。”"
     },
     {
       "id": "p037",
       "en": "Before the scandal, companies had engaged in a constructive debate over regulation. But the SBF affair fortified the hard line that the head of the SEC, Gary Gensler, decided to take. (Gensler declined to be interviewed, though he did urge me to “keep up the good work at WIRED!”) Crypto people also blame Senator Elizabeth Warren, who many saw as Gensler’s supporter.",
-      "zh": ""
+      "zh": "在丑闻爆发前，企业一直在围绕监管展开建设性讨论。但“山寨交易所事件”（SBF 事件）巩固了美国证监会（SEC）主席加里·詹斯勒（Gary Gensler）决定采取的强硬立场。（詹斯勒拒绝接受采访，但他确实让我继续“在《连线》做得很好”）加密行业人士也把责任归咎于参议员伊丽莎白·沃伦，许多人都认为她是詹斯勒的支持者。"
     },
     {
       "id": "p038",
       "en": "The crypto industry funneled hundreds of millions of dollars to Trump’s campaign. “We were always focused exclusively on what is good for crypto,” says Coinbase’s general counsel and former federal judge Paul Grewal. By midsummer 2024, Trump, who had earlier called cryptocurrencies a fraud, was appearing at a Bitcoin conference, promising to fire Gensler and make the US “the crypto capital of the planet.”",
-      "zh": ""
+      "zh": "加密货币行业向特朗普竞选注入了数亿美元资金。Coinbase 首席法务官、前联邦法官保罗·格雷瓦尔（Paul Grewal）说：“我们一向只专注于对加密货币有利的事情。”到2024年年中时，特朗普——这位曾经称加密货币是“欺诈”的人——已经开始出现在比特币会议上，承诺将解雇詹斯勒，并让美国成为“地球上的加密之都”。"
     },
     {
       "id": "p039",
       "en": "Even Biden’s AI policy turned out to be radicalizing. The field’s key figures had seemed happy enough as they too debated regulation. But then AI went red-hot, and those companies needed massive investments in infrastructure—and a less restrictive set of rules. Guess who was ready to deliver. “In terms of him as a human being or a visionary, nobody’s a big Trump fan,” says Peter Leyden, an author (and former WIRED editor) writing a book on “the Great Progression” of technology. “But then AI hits—it’s game time. So they decided, ‘Fuck it, we’re gonna hook our tree to this crazy-ass Trump.’”",
-      "zh": ""
+      "zh": "甚至拜登的人工智能政策也变得过于激进。该领域的关键人物们似乎也很乐意参与监管讨论。但后来 AI 热潮升级，这些公司需要在基础设施上进行巨额投入——同时也需要更少限制的规则。是谁最快“准备就绪”并开始兑现承诺？彼得·莱登（Peter Leyden）——一位正在撰写技术“伟大进程”专著的作者兼前《连线》编辑——说：“就他个人来说，或者说以一个先知的身份来讲，没有人是特朗普的忠实粉丝。”“但当 AI 爆发时，就是决战时刻。于是他们决定：‘算了，咱们就把希望搭到这个疯疯癫癫的特朗普身上。’”"
     },
     {
       "id": "p040",
       "en": "In his podcasts, the venture capitalist Marc Andreessen complained bitterly about Biden’s policies on antitrust, AI, and diversity, and he expressed outrage that Biden would not meet with him personally. In his view, Biden—and indeed the general public—had not kept its part in what Andreessen called The Deal.",
-      "zh": ""
+      "zh": "在他的播客里，风险投资家马克·安德里森（Marc Andreessen）愤怒地抱怨了拜登在反垄断、人工智能和多样性问题上的政策，并公开表示愤懑，因为拜登不愿与他见面。在他看来，拜登——乃至广大公众——都没有履行安德里森所称的“协议”（The Deal）中约定的那一部分。"
     },
     {
       "id": "p041",
       "en": "Here’s how he described it to New York Times columnist Ross Douthat: An entrepreneur starts a company, makes a lot of money, and the world benefits from the new technology. “Then in your obituary, it talks about what an incredible person you were, both in your business career and in your philanthropic career. And by the way, you’re a Democrat, you’re pro–gay rights, you’re pro-abortion, you’re pro all the fashionable and appropriate social causes of the time … This is the Deal.”",
-      "zh": ""
+      "zh": "他是这样跟《纽约时报》专栏作家罗斯·道萨特（Ross Douthat）形容的：一个企业家创办公司，赚了很多钱，世界又从这项新技术中受益。“然后在你的讣告里，会写你在商业生涯和慈善事业里都是了不起的人。顺便一提，你是民主党人、支持同性恋权益、支持堕胎、支持当时那些时髦而合乎潮流的社会议题……这就叫‘The Deal’。”"
     },
     {
       "id": "p042",
       "en": "By daring to challenge the tech industry, Biden threatened the moguls’ business plans. Even worse, he hurt their feelings. “It’s impossible to exaggerate how offended they were,” says Nick Clegg, who was Meta’s president of global affairs until early this year. In July 2024, Andreessen and his partner Ben Horowitz announced that they would be donating their dollars to Trump.",
-      "zh": ""
+      "zh": "拜登凭借挑战科技行业而逼得这些资本巨头的商业计划受挫，甚至更糟，伤了他们的面子。“他们有多受冒犯几乎没法夸张，”Meta前全球事务总裁尼克·克莱格（Nick Clegg）说。直到今年年初，他都担任这一职位。2024年7月，阿内森（Marc Andreessen）和他的合作伙伴本·霍洛维茨（Ben Horowitz）宣布他们将把钱捐给特朗普。"
     },
     {
       "id": "p043",
       "en": "Some of Andreessen’s gripes were over the top—no Marc, not all young employees lean Marxist—but he wasn’t the only one raging over diversity programs and political correctness. Across the Valley, it seemed, the Deal was off. “There’s a general sense in tech, even in the center left, that identity politics have gone too far,” says Leyden. Trae Stephens, the Founders Fund VC and Anduril cofounder, has seen it too. “My friends who are Democrats are not switching parties,” he tells me. “They’re just really tired of the Democrats.” Sam Altman, the CEO of OpenAI, had been happily affiliated with the left. Earlier this year, he said on social media that politically he’s “homeless.” Though he seems to spend a lot of time with Trump.",
-      "zh": ""
+      "zh": "阿内森的一些埋怨确实有些过激——他不是说所有年轻员工都“马克思主义化”——但他并不是唯一一个对多样性项目和政治正确性猛烈反对的人。整个硅谷似乎都弥漫着一种情绪：哪怕在中左翼阵营中，“身份政治”也已经走得太远了，”莱登（Leyden）说。创始人基金的风险投资人、也就是 Anduril 的联合创始人特雷·斯蒂芬斯（Trae Stephens）也有同样感受。“我的民主党朋友们并没有改党。”他告诉我。“他们只是对民主党实在是很疲惫。”OpenAI 首席执行官萨姆·奥特曼（Sam Altman）此前一直公开站在左翼立场。今年早些时候，他在社交媒体上说自己在政治上“是个流浪者”。尽管他似乎后来与特朗普花了很多时间来往。”"
     },
     {
       "id": "p044",
       "en": "And then there’s Zuckerberg. I interviewed him frequently during Trump’s first term and was convinced he had genuine compassion for immigrants. I can’t recall him saying a nice thing about Trump. Sometime in the past year or so, positive words began spilling out. When Trump literally dodged a bullet on the campaign trail last summer and pumped his fist in the air, Zuckerberg called him a “badass.” Then came visits to the Joe Rogan podcast, where he griped that corporations were insufficiently manly, and Mar-a-Lago, where he reportedly blamed his former COO Sheryl Sandberg—the company’s champion of diversity—for all that unnecessary policing of toxic content and misinformation (a criticism he later denied). Now, Zuckerberg is not so much about immigrants. He and his wife, Priscilla, had funded a school in East Palo Alto, a low-income enclave. They are shutting it down.",
-      "zh": ""
+      "zh": "还有扎克伯格（Mark Zuckerberg）。我在特朗普第一任期内多次采访他，我当时确信他对移民真有同理心。我想不起来他对特朗普说过一句好话。大约在过去一年中，肯定有些积极的言论开始从他口中溢出。当特朗普去年夏天在竞选途中险些中枪并在空中握拳呐喊时，扎克伯格称他是“badass”。之后又有他去乔·罗根（Joe Rogan）播客节目，抱怨公司“太不够男人味”；再有去马拉格洛（Mar-a-Lago）时，据说他把对有毒内容和错误信息的过度监管都怪在了前首席运营官谢丽尔·桑德伯格（Sheryl Sandberg）身上——后者也是公司积极推动多元化的主心骨——尽管他后来否认了这一说法。现在，扎克伯格对移民的关注不再那么明显。去年和妻子普莉西拉（Priscilla）一起，他曾资助了一所以低收入社区为主的东帕洛阿尔托（East Palo Alto）的一所学校，而现在他们准备关闭那所学校。"
     },
     {
       "id": "p045",
       "en": "“I see Mark as a political shape-shifter whose number one goal is the survival and thriving of the company,” a Meta executive tells me. “Trump is so transactional that you can fight him and get fucked, or you can try to work with him and get a percentage of what you want.”",
-      "zh": ""
+      "zh": "“我把马克看作一个政治变色龙，他的首要目标是让公司生存下去并且兴旺，”一位Meta高管对我说。“特朗普非常善于交易：你可以与他作对，结果会被他狠狠地得罪；也可以尝试与他合作，从中拿到你想要的部分。”"
     },
     {
       "id": "p046",
       "en": "To tech’s power elite, Trump’s tit-for-tat nature is not a bug but a feature. “A lot of these guys find Trump very familiar,” says Clegg. “You go down to Mar-a-Lago, and he goes, ‘Let’s do a deal.’ That charm of Trump is incredibly intoxicating to Silicon Valley tech bros.”",
-      "zh": ""
+      "zh": "对科技界的权势精英来说，特朗普的来去有回（tit-for-tat）特质不是缺陷，而是优势。“这些人里有不少对特朗普非常熟悉，”克莱格说。“你下到马阿拉哥，他就会说：‘来谈个交易吧。’ 这种特朗普的魅力对硅谷的科技男孩来说极具诱惑。”"
     },
     {
       "id": "p047",
       "en": "Was Biden really so bad for tech? Democrats I spoke to who were in the White House or in Congress in those years say they were simply holding an overreaching industry to account—for its own good. “I don’t think we screwed up on policy,” says Tim Wu, who was Biden’s special assistant for tech and competition. “Our goal was to keep the tech industry healthy by forcing it to continue to innovate.”",
-      "zh": ""
+      "zh": "拜登真的对科技如此不利吗？我采访过的民主党人中，那些当年在白宫或国会任职的人说，他们只是在对这个权势过大的行业进行问责——这是为了它本身好。“我不认为我们在政策上搞砸了，”拜登担任科技与竞争事务特别助理的蒂姆·吴说。“我们的目标是通过迫使行业持续创新，来保持科技产业健康。”"
     },
     {
       "id": "p048",
       "en": "The strategy doesn’t seem to have worked. In the first months of 2025, the Trump administration lifted regulations that irritated the tech industry. “America’s AI Action Plan” focuses on establishing US dominance. So long, regulation! The crypto bros saw not only the departure of the hated SEC chair Gensler but the passage of a bill that legitimized their industry. And Trump appointees recently overruled the Justice Department’s antitrust division to allow a major tech merger to go through.",
-      "zh": ""
+      "zh": "这套策略似乎没有奏效。在2025年的头几个月，特朗普政府取消了许多让科技行业不舒服的监管。“美国人工智能行动计划》将重点放在建立美国主导地位上。再见了，监管！加密货币圈不仅看到了备受厌恶的美国证券交易委员会主席詹斯勒的离任，还看到了赋予其行业合法地位的法案通过。最近，特朗普的官员推翻了司法部反垄断部门的意见，批准了一宗重大科技并购。"
     },
     {
       "id": "p049",
       "en": "Trump’s tariffs, of course, present big problems for business. But it turns out that you can run pretty well on a bended knee. Take Jensen Huang, who heads Nvidia. The administration was expected to take a hard line on selling chips to China. Huang unleashed a full-throttled lobbying effort that took him from Mar-a-Lago to Saudi Arabia. He pledged $500 billion in US investments. He bad-mouthed Biden to a congressional committee. By the time Huang was done, Trump was calling him a friend and easing export controls on his chips. When Trump spoke at an AI Summit in July, Huang was there to celebrate—and wisely not taking credit. When it was Huang’s turn on stage, he got straight to the point. “America’s unique advantage that no other country could possibly have,” he said, “is President Trump.”",
-      "zh": ""
+      "zh": "特朗普的关税当然给企业带来了大麻烦，但结果证明，企业还是能在“跪着”把事情办好。以英伟达（Nvidia）掌门黄仁勋为例。美国政府本来预计会在对华芯片出口上采取强硬立场。黄仁勋发起了一场全力游说活动，把行程从马拉瓜（Mar-a-Lago）一路延伸到沙特阿拉伯。他承诺在美国投资 5000 亿美元，并在国会委员会上公开抨击拜登。等黄仁勋把这一切都做完后，特朗普把他称作朋友，并放宽了对其芯片的出口管制。当特朗普7月在一次人工智能峰会上发表讲话时，黄仁勋出席了现场，庆祝这场局面，但他谨慎地没有抢功。当轮到黄仁勋上台发言时，他直截了当地说： “美国的独特优势，是任何其他国家都不可能拥有的，‘美国的独特优势’就是特朗普。”"
     },
     {
       "id": "p050",
       "en": "Later, Huang learned that the administration would help itself to a 15 percent cut of gross sales to China. Not long afterward, Trump grabbed 10 percent of Intel. It seems that America’s “unique advantage” is relentless in grabbing power for himself, even from those who debase themselves before him. In the long run, these deluded CEOs may realize this isn’t realpolitik. It’s a suicide pact.",
-      "zh": ""
+      "zh": "后来黄仁勋得知，行政部门会拿走美国向中国销售的总额15%的税。没过多久，特朗普又“抓走”了英特尔（Intel）10%的股份。看起来，美国所谓的“独特优势”，就是一种不遗余力地把权力攫取到自己手中的执念，甚至包括对那些在他面前阿谀奉承的人。在长期看来，这些自欺欺人的首席执行官可能会意识到，这并不是真正的现实政治，而是一场自杀式协议。"
     },
     {
       "id": "p051",
       "en": "Bradley Tusk is a political consultant for tech companies. Uber and FanDuel have enjoyed his services as they rewrote the rules of their industries, and he’s used to political rough and tumble. As he sees it, Trump’s tactics are the government moving fast and breaking things.",
-      "zh": ""
+      "zh": "布拉德利·塔斯克（Bradley Tusk）是科技公司的政治顾问。优步（Uber）和 FanDuel 在重写各自行行业务规则时都请过他帮忙，他也习惯了政治上的泥潭与角力。依他看法，特朗普的策略就像是“政府在高速前进并打破规则”。"
     },
     {
       "id": "p052",
       "en": "When we talk, Tusk rattles off what he views as the components of US tech exceptionalism—independent markets and institutions, freedom of speech, intellectual property protections, strong educational institutions, decent immigration policy. Then his voice gets hard. “Trump is doing the opposite of every single one of those things,” he says. “There is definitely potential that he will destroy everything that makes the US economy unique and successful.”",
-      "zh": ""
+      "zh": "我们交谈时，塔斯克列举出他认为构成美国科技例外论的要素：独立的市场和机构、言论自由、知识产权保护、强大的教育体系、以及体面的移民政策。接着他的语气就变得严肃了：“特朗普正好与这每一项都背道而驰，”他这样说。“完全有可能，他会摧毁一切造就美国经济独特性和成功的东西。”"
     },
     {
       "id": "p053",
       "en": "Start with immigration. Perhaps no group of techies has ridden Trump’s coattails more than the four chatty investor-bros who host the All In podcast. Three of the “besties,” as they call themselves, were born overseas. During the election season, two besties, venture capitalists Chamath Palihapitiya and David Sacks, threw a fundraiser at Sacks’ house with tickets as high as $300,000. Soon after, Trump rewarded them by going on their podcast. (Sacks is now Trump’s AI and crypto czar.) Some of the questions were big fat softballs like, “I never understood why the [border] wall was controversial.” But even they couldn’t get behind his immigration policy. Didn’t Trump recognize that the tech world thrives on foreign-born wizards?",
-      "zh": ""
+      "zh": "先说移民问题。可能没有哪个科技圈群体比在播客《All In》上的那四位健谈投资“兄弟”与特朗普走得更近。这三位自称“besties”的人里有三位出生在海外。选举季期间，两位“好基友”——风险投资家 Chamath Palihapitiya 和 David Sacks——在 Sacks 的家里举办了募款活动，门票最高达 30 万美元。随后不久，特朗普回访他们并在他们的播客上露面，以示回报。（Sacks 现已成为特朗普的 AI 与加密货币“大法官”。）当时他们提出的很多问题都很简单，比如“我一直不明白为什么[边境]墙会有争议。”但即便如此，他们仍然没能真正站在他的移民政策一边。特朗普难道没意识到，科技世界靠的是来自海外的“天才”吗？"
     },
     {
       "id": "p054",
       "en": "To their astonishment, he not only agreed but promised that in his administration, any foreign student who completes a degree would get a green card. The besties were giddy.",
-      "zh": ""
+      "zh": "令人震惊的是，他不仅认可，还承诺说在他的政府里，任何完成学位的外国学生都会拿到绿卡。这些“besties”欣喜若狂。"
     },
     {
       "id": "p055",
       "en": "It was too good to be true. Hours later, the MAGA base aflame, the Trump campaign issued a statement negating what he’d said. Now that he’s back in the White House, he and his vice president have remained two-faced—assuring tech audiences that they want the best foreign students while making it harder for companies to hire and retain that talent. At one point Trump moved to block any foreigner from enrolling in America’s oldest university. That hasn’t happened yet, but this summer the Department of Homeland Security proposed a new regulation that limits foreign student visas to four years—not enough to get a PhD or, for many, even an undergraduate degree. The number of students coming from overseas has tanked.",
-      "zh": ""
+      "zh": "这听起来太离谱，简直不敢信是真实的。几个小时后，MAGA 基础选民已近乎沸腾，特朗普竞选团队发布声明，反驳了他当时的说法。如今他重返白宫后，他和副总统在对科技圈和普通公众之间呈现出两副面孔——一边向科技听众保证他们需要最优秀的外国学生，另一方面却让企业更难雇佣和留住这类人才。曾经有一段时间，特朗普试图禁止任何外国人入读美国最古老的大学。该举动还未真正发生，但今年夏天，国土安全部提议了一项新规：把外国学生签证限制为四年——这还不足以读完博士学位，甚至对许多人来说连本科都来不及完成。来自海外的学生数量已经暴跌。"
     },
     {
       "id": "p056",
       "en": "“We’re definitely seeing the chilling effect,” says Harj Taggar, a managing partner at Y Combinator. While YC’s international founders have so far managed to enter the country, applicants with student visas are more reluctant to leave school to join the program. He’s seeing foreign students consider going to London to work or start companies. “They feel it’s maybe not as safe to be here,” he says. “That makes me really sad.”",
-      "zh": ""
+      "zh": "“我们确实看到了明显的‘寒蝉效应’，”Y Combinator 的执行合伙人 Harj Taggar 说。YC 的国际创始人迄今仍设法进入美国，但持学生签证的申请者更不愿离校加入该项目。他观察到，越来越多外国学生在考虑去伦敦工作或创业。“他们觉得在这里可能不安全，”他说，“这让我很难过。”"
     },
     {
       "id": "p057",
       "en": "I’ve got a few more reasons for Taggar to feel really sad: the mass cancellation of science and research funding, for one. Goodbye, next generation of engineers and computer scientists. “In the name of punishing woke-ism, we’re going to absolutely hobble the innovation engine that has created the economic gains of the last 50 years,” says Hornik, the venture capitalist.",
-      "zh": ""
+      "zh": "我又有更多让Taggar感到真正难过的理由了：首先是对科学和科研经费的大规模取消。再见了，下一代工程师和计算机科学家。风险投资家霍尼克说：“以惩罚‘woke主义’为名，我们将完全削弱这台在过去50年里创造经济增长的创新引擎。”"
     },
     {
       "id": "p058",
       "en": "Then there’s the mounting effect of Trump’s favor-collecting and favoritism—buying that chunk of Intel, claiming that slice of Nvidia’s sales. In corruption-riddled countries, winners aren’t chosen by merit but by apparatchiks and strongmen. Those nations are doomed to second- or third-tier status. In his preelection appearance on the Joe Rogan podcast, Zuckerberg said as much himself. “At least the US has the rule of law,” he remarked. “If other governments decide that they’re going to go after you, you don’t always get a clear shake at defending yourself on the rules.” Guess what—now we’re like those other governments! Zuckerberg, no dummy, has probably figured this out, but now he’s locked into Trumpland, outplayed in a real-life game of Risk.",
-      "zh": ""
+      "zh": "然后还有特朗普的拉票式偏袒和裙带关系——买下那块英特尔、吞掉英伟达那一部分销售。 在腐败横行的国家里，赢家不是按能力决定，而是由小官僚和强人拍板。这些国家注定只能沦为二流或三流国家。扎克伯格在乔·罗根播客上的一次竞选前亮相里，自己也直言不讳：“至少美国有法治。”他补充说：“如果别的政府决定要追着你来，你未必能在规则允许的范围内获得一次清晰的自我辩护机会。”猜猜看——现在我们和那些国家没区别了！扎克伯格不是傻子，他大概已经算明白了，但他现在已经被锁进“特朗普国度”，在现实版《风险》游戏里被对手玩得团团转。"
     },
     {
       "id": "p059",
       "en": "Many of the people I spoke with for this story are centrist liberals. They are a disheartened bunch, and talking to them was hazardous to my own heart. In interview after interview, I asked them what, if anything, might force the industry to confront its dim longer-term prospects. Their answers were vague. The midterm election? An economic collapse? One Silicon Valley figure suggested, “It could be as simple as 10 Republican senators discovering they actually have backbones.”",
-      "zh": ""
+      "zh": "我为这篇文章采访的许多人是温和自由派。他们心灰意冷，和他们聊天对我的心脏也不太友好。一次又一次采访中，我问他们，有什么东西能迫使这个行业正视其黯淡的长期前景。他们的答案都很模糊。是中期选举吗？还是一场经济崩溃？有位硅谷人士说：“也许只要有10名共和党参议员发现自己其实有脊梁就行。”"
     },
     {
       "id": "p060",
       "en": "Or 10 big-time CEOs, I might add. They can unbend their knees and perhaps revive some of the Valley’s soul. Or at least stop ripping it apart. And while they’re at it, stop making it so easy for the government to usher in an AI-powered surveillance state.",
-      "zh": ""
+      "zh": "或者，我可以再补一句，也许是10位大公司CEO。只要他们挺直脊背，也许就能让硅谷的灵魂复苏。至少别再把它撕得更碎了。顺便，也别再把政府轻松推入一个由AI驱动的监控国家变成现实。"
     },
     {
       "id": "p061",
       "en": "Maybe that’s the thing I got most wrong about Silicon Valley. Those Davids I wrote about seemed fearless and full of verve as they challenged what was possible and rode the power of the chip and the net. I mistook this for character. They may believe, as Moritz told me, that submitting to Trump’s protection racket protects their shareholders. But tech giants are certainly capable of standing up for the long-term viability of their industry. And for democracy. So far they are doing the opposite. “I think they have made a bad deal,” says Tim Wu. “Everyone who thought they could work some deal with Trump ends up getting burned, if not imprisoned.”",
-      "zh": ""
+      "zh": "也许这是我对硅谷判断最错误的一点。那些我写到的“戴维斯”看起来无所畏惧、充满活力，在挑战“能做到什么”并驾驭芯片与网络的力量时风头无两。我把这种样子误认为是性格的坚定。正如莫里茨跟我说的，他们可能真的相信，向特朗普的保护伞屈从可以维护股东利益。但科技巨头当然有能力为自身行业的长期生存站出来，也有能力为民主挺身而出；而到目前为止，他们却在反其道而行。蒂姆·吴说：“我认为他们这笔交易是做错了。所有那些以为能和特朗普讨个好去向的人，最后要么被‘吃得很惨’，要么甚至入狱。”"
     },
     {
       "id": "p062",
       "en": "There will probably be no reckoning. Tech leaders, like all rich people, always have alternatives to life in a declining country. Reid Hoffman has his, as he put it, “contingency plans.” Another source for this story let drop that he’s getting Portuguese citizenship. Lovely country. But it’s hard to imagine myself as a young reporter, roaming the streets of Lisbon and finding the excitement and promise I discovered in California. It’s even harder to imagine a young reporter finding that spirit in the industry as it stands today. The way I now feel in Silicon Valley is how Sam Altman described himself politically: homeless.",
-      "zh": ""
+      "zh": "或许根本不会有清算。科技领袖向来如此，和所有富人一样，他们总有在一个衰败国家之外继续生活的替代路径。利德·霍夫曼就有他所谓的“应急方案”。另一个消息源透露，他正在申请葡萄牙国籍。这个国家很美好。但我很难想象自己作为一个年轻记者，在里斯本的街头能像在加州那样找到我曾在硅谷感受到的激情和希望。更难想象的是，如今的行业里，一名年轻记者还能找到那样的精神。如今我在硅谷的感觉，正如山姆·奥特曼当年对自己政治立场的描述：无家可归。"
     },
     {
       "id": "p063",
       "en": "Let us know what you think about this article. Submit a letter to the editor at [email protected].",
-      "zh": ""
+      "zh": "欢迎告诉我们你对这篇文章的看法。请向《社论》栏目编辑投寄来信，邮箱是 [email protected]。"
     }
-  ]
+  ],
+  "translated_at": "2026-07-22T17:42:29+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
 }

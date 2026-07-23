@@ -1,0 +1,284 @@
+{
+  "id": "031-the-future-of-ai-isnt-just-slop",
+  "source_href": "feed_0/article_30/index_u24.html",
+  "publication": "wired",
+  "issue": "2026-05-02",
+  "issue_published_at": "2026-05-02",
+  "article_published_at": "2025-10-27T06:00:00-04:00",
+  "published_at": "2025-10-27T06:00:00-04:00",
+  "published_date_source": "article",
+  "order": 31,
+  "section": "Christopher Beam",
+  "title_en": "The Future of AI Isn’t Just Slop",
+  "title_zh": "AI 的未来绝不是“烂尾货”",
+  "rubric_en": "Behold Neural Viz, the first great cinematic universe of the AI era. It’s from a guy named Josh.",
+  "rubric_zh": "瞧见了 Neural Viz——AI 时代的第一部宏大电影宇宙。它来自一个叫 Josh 的人。",
+  "date": "2025-10-27T06:00:00-04:00",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "The filmmaker could not get Tiggy the alien to cooperate. He just needed the glistening brown creature to turn its head. But Tiggy, who was sitting in the passenger’s seat of a cop car, kept disobeying. At first Tiggy rotated his gaze only slightly. Then he looked to the wrong side of the camera. Then his skin turned splotchy, like an overripe fruit.",
+      "zh": "这位电影制作人让外星人蒂吉配合不上。这个长着油亮褐色皮肤的生物只需要把头转过来就行。可坐在警车副驾驶座上的蒂吉却一直不听指挥。起初，他的视线只微微偏了一点；接着又把头扭向了镜头的反方向；然后他的皮肤变得一块块斑驳，就像过熟的水果。"
+    },
+    {
+      "id": "p002",
+      "en": "The filmmaker was not on a movie set, or Mars. He was sitting at his home computer in Los Angeles using a piece of AI software called FLUX Kontext to generate and regenerate images of the alien, waiting for a workable one to appear. He’d used a different AI tool, Midjourney, to generate the very first image of Tiggy (prompt: “fat blob alien with a tiny mouth and tiny lips”); one called ElevenLabs to create the timbre of Tiggy’s voice (the filmmaker’s voice overlaid with a synthetic one, then pitch-shifted way up); and yet another called Runway to describe the precise shot he wanted in this scene (“close up on the little alien as they ride in the passenger seat, shallow depth of field”).",
+      "zh": "这名电影制作人并不在片场，也不在火星。他在洛杉矶坐在家里的电脑前，使用一款名为 FLUX Kontext 的 AI 软件反复生成并重建这只外星人的画面，等待出现一张可用的版本。他先是用另一款 AI 工具 Midjourney 生成了蒂吉的第一张图（提示词是：“fat blob alien with a tiny mouth and tiny lips”）；又用名为 ElevenLabs 的工具合成蒂吉的声音（用的是他自己的嗓音并叠加合成音，再把音高大幅抬高）；又用了另一个叫 Runway 的工具来生成他想要的这场景具体镜头（“close up on the little alien as they ride in the passenger seat, shallow depth of field”）。"
+    },
+    {
+      "id": "p003",
+      "en": "The creator of Neural Viz edits a clip featuring Tiggy.",
+      "zh": "Neural Viz 的创作者正在剪辑一段包含蒂吉的片段。"
+    },
+    {
+      "id": "p004",
+      "en": "The AI kept getting things wrong. In one shot, Tiggy looked inexplicably jacked. In another, his back was too dry. When the filmmaker told one piece of software to give the back of Tiggy’s head “frog-like skin,” it superimposed an entire frog’s face. The AI seemed to resist depicting Tiggy naked, but Tiggy does not wear clothes. When the director asked for a “short shirtless alien,” he got an error message, presumably because of the tool’s safeguards. “Because I said the word shirtless,” he guessed.",
+      "zh": "AI 一直在“误判”。在某一镜头里，蒂吉莫名其妙地看起来很“壮硕”；在另一镜头里，他的后背太干。电影制作人曾让某个软件给蒂吉的后脑勺加上“像青蛙皮肤”质感，却被叠加上了一整张青蛙的脸。AI 似乎拒绝把蒂吉裸体化，但蒂吉其实是不会穿衣服的。当导演要求“short shirtless alien”（“短身无上衣的外星人”）时，系统返回了错误提示，制作人猜测这大概是出于该工具的安全保护机制，“因为我用了 shirtless 这个词”。"
+    },
+    {
+      "id": "p005",
+      "en": "Whatever you do, don’t ask Katie Drummond if AI can report the news.",
+      "zh": "无论你做什么，都别去问凯蒂·德拉蒙德（Katie Drummond）AI 能不能报道新闻。"
+    },
+    {
+      "id": "p006",
+      "en": "Narratives around AI tend to be all-or-nothing: Either we’re cooked or it’s all hype. Watching the filmmaker work with AI software—morning iced coffee in hand, brown hair and beard lightly unkempt—is quirkier and less dramatic than all that. It’s like dropping in on puppy school. The tools keep ignoring instructions, making odd choices, or veering entirely off-course. But with care and patience, he reins them in, eventually coaxing out eight minutes of densely scripted original TV.",
+      "zh": "关于 AI 的说法往往是非黑即白：要么我们完蛋了，要么全是噱头。这个电影创作者边喝着早晨的冰拿铁边使用 AI 软件——褐色头发和胡须略显蓬乱——的样子，比这些说法都更古怪也更不戏剧化。它看起来更像是走进了“幼犬训练学校”。工具会一次次无视指令、做出奇怪选择，或者完全偏离方向。不过在细心和耐心的处理下，他把它们慢慢“拎回”正轨，最终做出了八分钟剧情密度很高的原创电视剧。"
+    },
+    {
+      "id": "p007",
+      "en": "In this case, those eight minutes constituted the latest episode in the sci-fi cinematic universe that the filmmaker has created under the name Neural Viz. The project started in 2024 with a mockumentary web series called Unanswered Oddities, a talking-head TV show from a future where the Earth is inhabited by creatures called glurons, who engage in Ancient Aliens–style speculation about their human predecessors. Each episode explores a different (and badly mispronounced) aspect of \"hooman\" civilization, like America, exercise, or the NFL. At first it seemed like a funny, self-contained bit.",
+      "zh": "在这个案例中，这八分钟正是该创作者以 Neural Viz 名义打造的科幻电影宇宙里，最新的一集。这个项目始于 2024 年，最初是一部模拟纪录片网剧《Unanswered Oddities》。这是一个“talking-head”访谈式节目，背景设定在未来地球，被一种叫 gluron 的生物居住，并以《古代外星人》式的方式猜测其人类前辈。每一集都讨论“hooman”文明的不同（而且发音故意不准）方面，比如美国、锻炼，或者 NFL。起初，它看起来只是一个有趣但自洽的小片段。"
+    },
+    {
+      "id": "p008",
+      "en": "But then the universe, known as the Monoverse, started to expand. Neural Viz churned out episodes of different series from the same gluron TV network, Monovision: a documentary cop show, a UFC-style show about fighting bugs. Then came podcasts, street interviews. Subplots and arcs started to emerge between videos, with romances forming, religious cults lurking in the background, and grainy archival footage surfacing about the true circumstances that wiped out humanity. Before long, the filmmaker had built an entire world with its own language, characters, and lore, all of it made with AI.",
+      "zh": "但随后这个宇宙，也就是 Monoverse，开始扩张。Neural Viz 从同一套 gluron 电视网 Monovision 制作了不同系列的节目：一部纪实警匪剧、一档 UFC 风格的“斗虫”节目。接着又有播客、街头采访。随着剧情推进，视频之间开始出现副线和大事件线：角色们建立了关系，宗教邪教在背景中若隐若现，关于真正导致人类灭绝的历史真相的粗糙档案画面也陆续浮出水面。在不久之后，这位创作者就用 AI 搭建起了一个完整世界观，拥有自己的语言、角色和传说。"
+    },
+    {
+      "id": "p009",
+      "en": "Neural Viz became a cult hit—a favorite of Redditors and AI nerds on Twitter—then a hit-hit, with individual videos racking up hundreds of thousands of views on YouTube and millions on TikTok and Instagram.",
+      "zh": "Neural Viz 成为了现象级作品，在 Reddit 和 Twitter 上的 AI 发烧友中广受追捧，后来又进一步爆火：单个视频在 YouTube 上就有数十万次观看，在 TikTok 和 Instagram 上更是高达数百万次。"
+    },
+    {
+      "id": "p010",
+      "en": "But beyond any measures of popularity, Neural Viz counts as a historic accomplishment: It is among the first pieces of AI filmmaking that truly does not suck. The words “AI video” tend to conjure the worst possible associations: hippos on diving boards, babies flying airplanes, Will Smith eating spaghetti, Trump and Barack Obama kissing. In other words, slop. The medium’s reputation is understandably negative, for reasons both aesthetic and political. The bots will ruin Hollywood and destroy jobs, the argument goes, and drive audiences even deeper into their algorithm-induced stupor.",
+      "zh": "但无论从哪种受欢迎程度来衡量，Neural Viz 都是一项里程碑式的成就：它是首批真正不“烂尾”的 AI 电影作品之一。人们一提“AI 视频”，往往立刻想到最糟糕的画面：河马站上跳水板、婴儿驾驶飞机、威尔·史密斯吃意大利面、特朗普和巴拉克·奥巴马接吻。换句话说，就是“垃圾内容”。这种媒介的名声自然偏负面，原因既有审美层面也有政治层面。有人认为，这些机器人会毁掉好莱坞、夺走工作岗位，并把观众进一步推向由算法制造的麻木状态。"
+    },
+    {
+      "id": "p011",
+      "en": "Neural Viz shows a different path forward. In a world of bottom-of-the-barrel, lowest-possible-effort AI dreck, the channel’s author is creating original work, executing a vision as specific and lovingly imagined as any series out there. A couple of important details: Even as he’s writing prompts to help fulfill nearly every other role on a set, the creator of Neural Viz is writing scripts the old-fashioned way. He’s also playing all the characters himself, wearing AI as a mask. Once he has all his shots set up, the filmmaker uses Runway’s facial motion-capture tool to bring Tiggy to life by performing the alien’s lines for him—like Andy Serkis playing Gollum without leaving his swivel chair.",
+      "zh": "Neural Viz 展示了一条不同的出路。在一个充斥着最低标准、最省力生产的 AI 垃圾内容的世界里，这个频道的作者正在创作原创作品，用一种和任何优秀剧集一样具体、细腻的想象去实现自己的创作愿景。几个关键点：尽管他写提示词来完成拍摄现场几乎所有其他角色的工作，但 Neural Viz 的创作者仍然坚持用传统方式写剧本。与此同时，他还亲自饰演所有角色，用 AI 作为“面具”来呈现。等他把所有镜头都搭建好后，这位影视创作者会用 Runway 的面部动作捕捉工具，让 Tiggy“活”起来——他为这个外星角色亲自说出台词并表演，像安迪·瑟里斯那样在转椅上就能演绎怪物一样。"
+    },
+    {
+      "id": "p012",
+      "en": "A clip from Unanswered Oddities featuring the character Bobo Fuggsnucc.",
+      "zh": "出自《Unanswered Oddities》的一段片段，其中出现了角色 Bobo Fuggsnucc。"
+    },
+    {
+      "id": "p013",
+      "en": "The same performance by Neural Viz's creator—before being run through AI facial motion-capture software.",
+      "zh": "这是 Neural Viz 创作者的同一段表演——在经过 AI 面部动作捕捉软件处理之前。"
+    },
+    {
+      "id": "p014",
+      "en": "Just as Trey Parker and Matt Stone reinvented cartoons by reaching for the cheapest tools available, the man behind Neural Viz is taking a technology many people consider beneath them and using it to push the medium in a new direction. He just might be the first AI auteur.",
+      "zh": "正如 Trey Parker 和 Matt Stone 通过使用最便宜的工具重塑了动画一样，Neural Viz 的幕后人物也正在把许多人认为不配使用的技术拿来推动这一媒介走向新的方向。他很可能就是首位“AI 艺术家”。"
+    },
+    {
+      "id": "p015",
+      "en": "He has also maintained near-total anonymity in this role—until now.",
+      "zh": "在此之前，他几乎一直保持着近乎完全匿名的创作身份。"
+    },
+    {
+      "id": "p016",
+      "en": "The youngest of three brothers, Josh Wallace Kerrigan grew up in a small town outside Wichita Falls, Texas, watching movies like Tremors and Jurassic Park. When he was 9 or 10, he and a friend used the video camera on top of his desktop computer to make a short film about a baseball player serial killer. (Tagline: “Three strikes, you’re out.”) He studied film at Minnesota State University Moorhead, and after graduating in 2012, Kerrigan moved to Los Angeles.",
+      "zh": "Josh Wallace Kerrigan 是三兄弟中的老幺，成长于德克萨斯州威奇托瀑布市郊外的一个小镇，看过《异形大战》以及《侏罗纪公园》等电影。9 岁或 10 岁时，他和一个朋友用他台式电脑顶部的摄像头拍摄了一部关于职业杀手棒球手的短片。（宣传语是：“Three strikes, you’re out.”）他在明尼苏达州立大学摩尔黑德分校学习电影，2012 年毕业后，Kerrigan 搬到了洛杉矶。"
+    },
+    {
+      "id": "p017",
+      "en": "For the next decade, he followed the 2010s aspiring-comedy-writer-in-LA handbook. He took a series of day jobs, working as a barista at “a Starbucks inside a Target,” as an assistant to the director who cowrote the frat comedy Neighbors, and as a producer of behind-the-scenes and promotional videos for movies like Mufasa: The Lion King and the John Cena–Akwafina comedy Jackpot! He formed a sketch group called Hush Money and made a video every week for a year, which appeared on Funny or Die’s YouTube channel. (The group specialized in genre satires, including a Saw parody that got props from director James Wan.) In 2021, he directed a low-budget horror feature and sold a TV pilot to Disney.",
+      "zh": "在接下来的十年里，他按照 2010 年代洛杉矶励志编剧手册的路径前进，接了各种日常工作：在“Target 店里的星巴克”做咖啡师，给合写喜剧片《宿醉兄弟团》（Neighbors）的导演当助理，以及为《狮子王：木法沙》（Mufasa: The Lion King）和约翰·塞纳（John Cena）与阿夸菲娜（Akwafina）主演的喜剧《Jackpot!》等电影拍摄幕后与宣传视频，担任制片。他成立了一个名为 Hush Money 的短剧团体，并连续一年每周都拍一段视频，作品登上了 Funny or Die 的 YouTube 频道。（这个团体以类型剧讽刺为专长，包括拍过一部《电锯惊魂》（Saw） parody，并从导演詹姆斯·温（James Wan）那里拿到了道具。）2021 年，他执导了一部低成本恐怖片长片，并向迪士尼售出了一部电视剧试播集。"
+    },
+    {
+      "id": "p018",
+      "en": "Two WIRED editors peer into their crystal ball—and glimpse humanity’s post-phone, post-screen salvation.",
+      "zh": "两位《连线》（WIRED）编辑把目光投向了水晶球——从中窥见了一个后手机、后屏幕时代的人类救世景象。"
+    },
+    {
+      "id": "p019",
+      "en": "Kerrigan accumulated gobs of experience—he got to the point where he could play every role on a set, from cinematographer to gaffer to sound guy—but struggled to gain lasting traction. The pandemic and its aftermath wrecked the traditional Hollywood writer path. The streaming bubble burst, and writers’ rooms shrank. Strikes by the writers’ and actors’ unions froze work for months, and the contracts they eventually signed reflected an ever-shrinking pie, as well as a fear of AI’s encroachment.",
+      "zh": "科里根（Kerrigan）累积了大量经验，甚至做到可以在片场扮演所有角色，从摄影师到场务（gaffer）、再到录音师都能独立上手，但始终难以获得持续的突破。疫情及其后遗症重创了好莱坞传统的编剧发展道路。流媒体泡沫破裂，剧组编剧室大幅缩小。编剧工会和演员工会的罢工让工作停滞了数月，而他们最终签下的合同既反映了行业“蛋糕”越来越小，也显露出对人工智能侵蚀的担忧。"
+    },
+    {
+      "id": "p020",
+      "en": "In 2023, Kerrigan started playing around with 3D modeling software like Blender and Unreal Engine. He was interested in animation—he liked the idea of building characters and sets he could return to at any time—and wanted to see what he could make on his own. He soon learned about a handful of new generative AI apps like Midjourney and Hedra and found that they automated and sped up the most difficult parts of 3D modeling.",
+      "zh": "2023 年，科里根开始尝试使用 Blender、虚幻引擎（Unreal Engine）等 3D 建模软件。他对动画很感兴趣——喜欢能够随时回到自己创建的角色和场景中——并想看看自己一个人能做出什么来。不久后他了解了一些新兴的生成式 AI 应用，比如 Midjourney 和 Hedra，并发现这些工具把 3D 建模中最难的环节自动化和加速了。"
+    },
+    {
+      "id": "p021",
+      "en": "When most people first encounter generative AI tools, they tend to start with the zaniest thing they can imagine. These “crazy” ideas are often surprisingly generic: dragons in space, kittens crying, robot uprisings. Kerrigan took the opposite approach: He paid close attention to AI’s limitations and worked around them. He noticed that the tools were bad at action sequences but good at talking heads, so he decided to make something in a documentary style. He wanted to avoid the uncanny-valley effect of simulated humans, so he opted for bulbous alien creatures. And to mask the imperfections of the renderings, he gravitated to the old-school grainy look of ’80s and ’90s TV. Hence Unanswered Oddities, whose deadpan homage to NBC’s Unsolved Mysteries is unmistakable.",
+      "zh": "当大多数人第一次接触生成式 AI 工具时，往往会从自己能想到的最离奇的点子入手。这些“疯癫”想法通常非常通用：太空中的龙、猫咪在哭、机器人起义。Kerrigan 走的是另一条路：他仔细观察了 AI 的局限并绕开它们。他发现这些工具不擅长动作场景，却擅长拍“会说话的头部”，所以他决定做一档纪录片风格的内容。他想避免模拟人类出现的“恐怖谷”效应，于是选用了圆滚滚的外星生物。为了掩盖渲染的瑕疵，他又回归到 80 和 90 年代电视节目那种老派颗粒质感。因此诞生了《Unanswered Oddities》，它对 NBC《Unsolved Mysteries》那种冷峻致敬一眼就能认出来。"
+    },
+    {
+      "id": "p022",
+      "en": "Kerrigan’s early episodes look a bit rough, but they quickly establish the show’s off-kilter comedic voice and ambitious vision. They also set up some of the Monoverse’s core elements and conflicts: the autocratic godlike Monolith that rules the planet, the “Resistance” trying to overthrow it, and the fast-talking conspiracy theorist Tiggy Skibbles, who thinks “hoomans” aren’t real—and who then mysteriously disappears.",
+      "zh": "Kerrigan 的早期剧集看起来有些粗糙，但它们很快确立了节目偏离常规的喜剧基调和宏大的创作愿景。它们也搭建起了“Monoverse”中的核心元素与冲突：统治行星的专制神祇般的“Monolith”、试图推翻它的“Resistance”，以及快嘴阴谋论者 Tiggy Skibbles——他认为“hoomans”并不存在，随后便神秘失踪。"
+    },
+    {
+      "id": "p023",
+      "en": "For Kerrigan, discovering generative AI apps felt like unlocking new powers. “The first time you start to see those weird creatures talking and whatnot, it is pretty mind-blowing,” he says. He felt like the meme of the guy standing in the corner at the party watching everyone dance and thinking to himself, They don’t know.",
+      "zh": "对 Kerrigan 来说，发现生成式 AI 应用就像解锁了新能力。“当你第一次看到那些怪异生物在讲话等等时，确实让人难以置信，”他说。他感觉自己像那个站在派对角落里的家伙，盯着大家跳舞，心里想：他们根本不知道。"
+    },
+    {
+      "id": "p024",
+      "en": "On Reddit, users were impressed by Neural Viz’s decision to lean into the idiosyncrasies, and even the flaws, of AI. Kerrigan got kudos from other creators too, who speculated about the identity of the artist behind the channel. “I thought he was Mike Judge hiding under a pseudonym,” says Zack London, who creates AI videos under the moniker Gossip Goblin and has over a million followers on Instagram.",
+      "zh": "在 Reddit 上，用户对 Neural Viz 选择顺应 AI 的怪异性，甚至包括缺陷这一点感到惊艳。其他创作者也称赞了他，一些人还猜测这个频道背后的艺术家是谁。“我还以为他是以化名藏着的 Mike Judge 呢，”Gossip Goblin 这一创作名下做 AI 视频、Instagram 粉丝超过一百万的 Zack London 说。"
+    },
+    {
+      "id": "p025",
+      "en": "Encouraged by the initial response, Kerrigan decided to make more episodes, but he had no idea where it was going. “There was no plan,” he says, so he decided to keep his identity secret. Kerrigan experimented with new formats, driven by his knack for genre satire and a desire to keep himself interested. He created The Cop Files, an X-Files meets Cops spinoff series, in which a detective investigates Tiggy’s disappearance; later came Human Hunters, a parody of Ghost Hunters.",
+      "zh": "受到最初反响的鼓舞，Kerrigan 决定继续拍更多集，但他根本不知道故事会走向哪里。“我没有计划，”他说，因此他选择把身份保密。Kerrigan 在尝试新形式时，会凭借自己擅长的类型讽刺天赋和保持创作兴趣的动力不断实验。他创作了《The Cop Files》，这是一个《X-Files》加《Cops》的衍生系列，讲述一名侦探追查 Tiggy 失踪的经过；后来又做了《Human Hunters》，这是对《Ghost Hunters》的恶搞。"
+    },
+    {
+      "id": "p026",
+      "en": "The series also evolved with technology. With new generative AI apps dropping frequently, Kerrigan was intent on trying as many as possible. (Using a new piece of software early can help attract tech-curious viewers.) When he first started, he would record snippets of dialog—that is, recite lines into his microphone—and the AI would roughly match the mouth flaps of the characters to the spoken words as best it could, adding some basic facial movements. This gave Kerrigan some command over performances, but not a lot. Then, in October 2024, Runway released its motion capture tool, Act-One. Now he could act out lines in front of his computer’s camera and the software would map his delivery—both voice and facial movements—onto the model of the character. This gave him much more control over the characters’ look and behavior. It also made the content more him than ever. (On the other hand, the characters started to seem more uniformly him, at least to my eye. Kerrigan says he’d like to hire other actors to diversify the performances, but for now it’s easier to play every part himself.)",
+      "zh": "这个系列也随着技术而演变。新一代生成式 AI 应用频繁发布，Kerrigan 想尽可能多地尝试它们（尽早使用新软件有助于吸引对技术感兴趣的观众）。他最初开始时，会先录下几段对话——也就是把台词对着麦克风念出来——让 AI 尽可能把角色的张口动作和说出的词匹配起来，并加上一些基本面部动作。这让 Kerrigan 对表演有了一定控制，但并不算太多。然后在 2024 年 10 月，Runway 发布了动作捕捉工具 Act-One。现在他可以在电脑摄像头前表演台词，软件会把他的表演——包括语音和面部动作——映射到角色模型上。这让他对角色的外观和行为有了更多掌控，也让内容更像“他自己”了。（另一方面，在我看来，角色开始更统一地带上了他的气质。Kerrigan 说他希望以后请其他演员来增加表演的多样性，但眼下自己一个人来演所有角色更轻松。）"
+    },
+    {
+      "id": "p027",
+      "en": "Sometimes a new tool would open up storytelling possibilities. When Google’s Veo 2 video generator became available, Kerrigan made a video showing a “flashback” to the moment when the Monolith wiped out humanity—the series’ first narrative sequence. The Cop Files became more narrative too; instead of talking directly to the camera, characters were now moving around, interacting with each other, and setting off on quests.",
+      "zh": "有时，一种新工具会打开叙事的可能性。当谷歌的 Veo 2 视频生成器发布后，Kerrigan 制作了一个展示“闪回”的视频：讲到单体碑（Monolith）清除人类的那一刻——这是该系列第一段叙事片段。《The Cop Files》也更偏向叙事；角色不再直接对着镜头说话，而是开始在画面里移动、彼此互动，并踏上任务。"
+    },
+    {
+      "id": "p028",
+      "en": "The technological changes even influenced the show’s lore. In one episode released in April, Tiggy’s skin is noticeably smoother than usual, because the video generation tool Kerrigan was using at that point, called Sora, struggled with character consistency. To cover for this flaw, Kerrigan had Tiggy explain that he is “metamorphosizing” because he can no longer afford his “morph inhibitors.” This fit nicely with the theory—advanced by some characters in the show—that glurons are mutating versions of humans. Since that episode, “morph inhibitors” have become a recurring bit.",
+      "zh": "技术变化甚至影响了剧情设定。在四月发布的一集里，Tiggy 的皮肤明显比平常更光滑，因为当时 Kerrigan 用的视频生成工具 Sora 难以稳定保持角色一致性。为了弥补这个瑕疵，Kerrigan 让 Tiggy 解释说他正在“变形”——因为他再也负担不起“变形抑制剂”了。这个说法很巧妙地契合了剧中几个角色提出的理论，即 glurons 是人类的变异版本。自那一集之后，“变形抑制剂”就成了一个反复出现的梗。"
+    },
+    {
+      "id": "p029",
+      "en": "Will Knight didn’t believe in synthetic consciousness—until now.",
+      "zh": "Will Knight 之前从未相信过合成意识——直到现在才改变了。"
+    },
+    {
+      "id": "p030",
+      "en": "The machines’ mistakes would often provide creative fodder like this. A knife-obsessed gluron rancher named Reester Pruckett—many Neural Viz characters are alien versions of the American southerners around whom Kerrigan grew up—has the strange tic of starting sentences with an extremely long vowel, e.g. “Iiiiiiiiiiiiiiiiiiiiiii came out here to practice my switchblade.” This started as a glitch in the software, but it was so delightful that Kerrigan decided to keep it as Pruckett’s signature.",
+      "zh": "机器人的错误往往会带来这种创作灵感。一个迷恋刀具的怪异家畜饲养员雷斯特·普鲁克特（Reester Pruckett）——许多 Neural Viz 的角色其实是科里甘在美国南方成长环境里的异化版人物——有一个怪癖，会用异常拉长的元音开口，比如说：“Iiiiiiiiiiiiiiiiiiiiiii came out here to practice my switchblade。”这最初只是软件的一处故障，但它太有趣了，于是科里甘决定保留下来，作为普鲁克特的招牌口头禅。"
+    },
+    {
+      "id": "p031",
+      "en": "In late 2024, Hollywood executives started DM-ing Kerrigan on social media. He spoke with “almost all of the major studios,” he told me, as well as producers and creators who wanted to talk about collaborating. Many commenters on YouTube told Kerrigan that his videos should be on Adult Swim. But when he met with producers affiliated with Adult Swim, he said, one of them suggested that he might not need them; that the power had shifted to creators. “That sentiment has come up multiple times in meetings with other various studios,” Kerrigan said.",
+      "zh": "2024 年底，好莱坞高层开始在社交媒体上给科里甘发私信。他告诉我，他已经与“几乎所有主要电影公司”都会面谈过，还接洽了不少想要讨论合作的制片人和创作者。许多 YouTube 的评论者告诉科里甘，他的视频应该放到 Adult Swim 上。但当他见到了与 Adult Swim 有关的制片人时，对方却说，也许他根本不需要他们；权力已经转向了创作者本人。科里甘说：“这种观点在我和其他一些电影公司开会时，也反复被提到过。”"
+    },
+    {
+      "id": "p032",
+      "en": "The meetings resulted in two job offers. One was to work in-house at a studio, focusing on AI projects. Kerrigan turned it down in favor of making his own TV pilot (unrelated to the Monoverse) with an independent producer. He was also planning to debut a non-AI film short, which he’d codirected, at SXSW in the spring of 2025. Between his new contract for the TV pilot and the revenue Neural Viz was generating on YouTube and TikTok, Kerrigan now had enough money to live on. So in January, for the first time since moving to LA, he quit his day job.",
+      "zh": "这些会面最终带来了两份工作邀约。其一是在一家工作室内任职，专门负责 AI 项目。科里甘拒绝了这份邀请，转而与一位独立制片人合作制作自己的电视剧试播集（与 Monoverse 无关）。他还计划在 2025 年春季于 SXSW 首映一部他联导的非 AI 短片。在这份电视剧试播集新合同和 Neural Viz 在 YouTube 与 TikTok 上带来的收入之间，科里甘已经有足够的钱可以维持生活。因此在一月里，搬到洛杉矶以来，他首次辞去了日常工作。"
+    },
+    {
+      "id": "p033",
+      "en": "In June, I attended the AI Film Festival in New York City, an event organized by the AI software company Runway. Hundreds of attendees packed Lincoln Center’s Alice Tully Hall to watch what were billed as the 10 best AI film shorts of 2025, selected from 6,000 submissions.",
+      "zh": "6 月，我参加了在纽约市举办的 AI Film Festival（AI 电影节），这是由 AI 软件公司 Runway 组织的一场活动。上百名观众挤满了林肯中心的 Alice Tully Hall，观看被评选为 2025 年“十部最佳 AI 短片”的作品，这些作品从 6,000 份投稿中挑出。"
+    },
+    {
+      "id": "p034",
+      "en": "I found the whole thing depressing. The films were visually stunning but conceptually and narratively weak. The event, which featured a bromide-heavy Q&A with the musical artist Flying Lotus and a partially AI-generated music video for a song by J Balvin, seemed laboratory-made to bolster the case of skeptics who say AI art is all surface with no heart. (The one exception—a clever, disquieting film essay called “Total Pixel Space”—won the top prize.)",
+      "zh": "我觉得整场活动有些压抑。影片在视觉上很惊艳，但在概念和叙事上都很薄弱。活动中还安排了与音乐人 Flying Lotus 的问答环节，充满了陈词滥调；并放映了 J Balvin 一首歌的部分 AI 生成音乐视频，这种安排似乎更像是“实验室式”制作，反而给那些怀疑者提供了证据，似乎印证了 AI 艺术只有表面、没有内涵的观点。（唯一的例外是那部机智又令人不安的影评短片《Total Pixel Space》，它赢得了最高奖。）"
+    },
+    {
+      "id": "p035",
+      "en": "It’s a paradox of the AI film scene that, despite the speed and sophistication of these tools, the number of creators producing memorable work is small. I already mentioned Zack London, aka Gossip Goblin, who creates ominous, impressionistic videos about a future overtaken by computers. The musician Aze Alter makes eerie horror-adjacent shorts. A comedy writing duo who release videos under the name TalkBoys Studio (and who are friends with Kerrigan) make animated shorts featuring talking animals and dinosaurs.",
+      "zh": "AI 电影圈里存在一个悖论：尽管这些工具越来越快、越来越成熟，真正能创作出令人难忘作品的人却很少。我之前已经提到过 Zack London，也就是 Gossip Goblin，他会创作一种关于电脑接管未来的、阴郁而印象派风格的视频。音乐人 Aze Alter 也会拍一些令人毛骨悚然、接近恐怖风格的短片。一对喜剧编剧组合以 TalkBoys Studio 的名义发布动画短片，与 Kerrigan 是朋友关系，他们用会说话的动物和恐龙来讲故事。"
+    },
+    {
+      "id": "p036",
+      "en": "Much more common are prompt-and-play AI videos designed to go viral. When Google’s Veo 3 debuted in May, making multimodal video generation as easy as typing a prompt into a box, social media feeds overflowed with—for reasons only the algorithm knows—vlogs of Bigfoot talking into a front-facing camera. One influencer even bragged about setting up an automated LLM-to-video pipeline that generated a Bigfoot clip every hour and pushed it to TikTok. OpenAI’s late-September release of Sora 2, which allows users to scan their own faces and insert themselves into videos, has only hastened the slopocalypse.",
+      "zh": "更常见的是那种“提示词驱动式”短视频，目的就在于蹭热度、冲热搜。5 月，Google 推出 Veo 3 后，多模态视频生成变得和在输入框里打一段提示词一样容易，社交媒体瞬间被各种内容刷屏——很难说是何种算法逻辑在推波助澜——包括正对前置摄像头大口输出“独白”的大脚怪 vlog。甚至有位网红还自豪地炫耀自己搭建了一套自动化的 LLM 到视频流程，每小时生成一段大脚怪小视频并上传到 TikTok。OpenAI 在 9 月底发布的 Sora 2 进一步加速了这种“低质泛滥”：它允许用户扫描自己的面孔并把自己嵌入到视频中。"
+    },
+    {
+      "id": "p037",
+      "en": "Part of the reason Neural Viz has broken through the noise is that Kerrigan takes such a traditional approach to so many parts of the craft. He always starts by writing—slug lines, action lines, dialog, camera movements. Then he storyboards each shot of the episode; for each panel, he creates a still using an image generator like Flux or Runway or sometimes ChatGPT. He makes sure lighting is consistent. During dialog scenes, he maintains sight lines. He takes care to make backgrounds legible—AI tools tend to blur objects—and set the mood of the scene. To get a handheld camera effect, he’ll film his monitor with his iPhone and then map that natural motion onto the AI footage: a hack that bridges real and virtual cinematography. “Everything I do within these tools is a skill set that’s been built up over a decade plus,” he says. “I do not believe there’s a lot of people that could do this specific thing.”",
+      "zh": "Neural Viz之所以能在喧嚣中脱颖而出，部分原因在于Kerrigan在许多创作环节上采取了非常传统的做法。他总是从文字开始——场景标题、动作描写、对话、镜头运动。接着他会分镜绘制每个镜头；对每个分镜，他用像Flux、Runway，或有时是ChatGPT这样的图像生成器先生成一张静帧。他确保光线前后一致。对话场景里，他会保持视线的连贯性。他特别注意让背景可辨识——AI工具往往会把物体弄得模糊——并营造场景氛围。为了得到手持镜头效果，他会用iPhone拍摄自己的显示器，再把那种自然抖动映射到AI画面上：这是一种连接现实与虚拟摄影的“黑客式”技巧。“我在这些工具里的每一步操作，都是十多年里慢慢积累的技能。”他说。“我不认为有很多人能把这件事做得这么具体、这么到位。”"
+    },
+    {
+      "id": "p038",
+      "en": "Kerrigan still uses many tried-and-true human filmmaking processes in his work.",
+      "zh": "Kerrigan在创作中仍然使用许多经过长期检验的人工电影制作流程。"
+    },
+    {
+      "id": "p039",
+      "en": "One day over Zoom, I watched as Kerrigan worked on one of his most challenging scenes yet: After being taken hostage and then rescued, Tiggy meets up with a leader of the Resistance, and things don’t go as planned. The scene called for subtle physical movement, precise timing, suspense, and a major plot twist that would need to land just right. Each element presented a unique challenge. Kerrigan kept adjusting the proportions of one character’s head. When the character pointed a gun, he tried to line up its aim properly. He thought about how to get the Resistance leader to remove his hood in a way that would look natural.",
+      "zh": "有一天在Zoom上，我看到Kerrigan在处理他最具挑战性的场景之一。场景里，Tiggy在被劫持又获救后，与一位反抗军领袖会面，但事情并未按计划发展。这个场景需要细腻的身体动作、精准的节奏、悬念，以及一个必须拿捏到位的关键剧情反转。每个要素都带来了独特难题。Kerrigan反复调整一位角色头部的比例。当角色举枪时，他努力把枪口的指向校准到位。他还在思考如何让反抗军领袖自然地脱下斗篷。"
+    },
+    {
+      "id": "p040",
+      "en": "At one point, while Kerrigan was getting ready to perform as Tiggy, I received an email from a Runway spokesperson. He told me that their new motion capture software, Act-Two, would be coming out later that week. I relayed this information to Kerrigan, who decided to stop working on the episode right then. Better to wait and see what the new tool could do.",
+      "zh": "有一次，在Kerrigan准备扮演Tiggy时，我收到了Runway发言人的一封邮件。他告诉我，他们的新运动捕捉软件Act-Two将在本周稍后发布。我把这个消息转告了Kerrigan，他当场决定暂停这一集的制作。更明智的做法是等一等，看看这款新工具到底能做到什么。"
+    },
+    {
+      "id": "p041",
+      "en": "Toward the end of our day together in Los Angeles, Kerrigan and I visited the Academy Museum of Motion Pictures, a 10-minute drive from where he lives. We walked through the exhibits dedicated to film technologies past: the zoetrope, the Cinerama camera, animatronic monsters. After spending the day looking at AI-generated glurons, I thought that even some of the more recent technology featured in the exhibitions—Bong Joon Ho’s storyboards and monster models, VFX for The Avengers—looked obsolete.",
+      "zh": "在洛杉矶的一天快要结束时，凯里根和我参观了美国电影艺术与科学学院电影博物馆（Academy Museum of Motion Pictures），那里离他住处开车约十分钟。我们走过了展出电影技术历史的展厅：从转盘式玩具（zoetrope）到 Cinerama 摄影机，再到机械怪兽。经历了一整天观看 AI 生成的 glurons 后，我觉得即使是展览里展示的一些更近期技术——比如奉俊昊的分镜和怪物模型、以及《复仇者联盟》的视觉特效——也显得过时了。"
+    },
+    {
+      "id": "p042",
+      "en": "We stopped to take in an early hand-tinted color film that shows a dancer waving her flowing psychedelic robes for the camera. Kerrigan pointed out that the impulse to paint celluloid was probably more about experimentation than making history or some profound artistic statement. “They're not thinking, like, This is gonna be in a museum one day,” he said.",
+      "zh": "我们停下来观看了一部早期手工上色的彩色电影，片中有一位舞者面对镜头摆动着飘动的迷幻长袍。凯里根指出，对胶片上色的冲动可能更多出于实验，而不是为了留在历史里，或者在做某种深沉的艺术宣言。“他们并不是想过，‘有一天这会进到博物馆里’。”他这样说。"
+    },
+    {
+      "id": "p043",
+      "en": "Sandra Upson channels the spirits of an entire generation of AI founders.",
+      "zh": "桑德拉·厄普森（Sandra Upson）汇聚了整整一代人工智能创业者的灵感与精神。"
+    },
+    {
+      "id": "p044",
+      "en": "Kerrigan resists grand pronouncements about the future of filmmaking. (Indeed, he resisted going to the museum altogether.) He doesn’t see himself as part of a movement and argues that AI is a tool like any other. In addition to his AI projects, he’s working on a traditional horror feature based on the short he codirected, which ended up winning an audience prize at SXSW. “I’m here to tell stories, and these tools are a part of the workflow,” he says. “They’re not the end-all-be-all, nor do I think they will be anytime soon.”",
+      "zh": "凯里根不喜欢对电影未来做宏大宣言。（事实上，他几乎一开始就抗拒去博物馆。）他不把自己看作某场运动的一部分，并认为 AI 只是和其他工具一样的工具。除了他的 AI 项目，他还在拍一部传统恐怖长片，改编自他联合执导的一部短片，这部短片最终在 SXSW 获得了观众奖。“我在这里是为了讲故事，而这些工具只是工作流的一部分。”他表示。“它们既不是万能答案，我也不认为近期就会成为如此地位。”"
+    },
+    {
+      "id": "p045",
+      "en": "Yet Hollywood is preparing for an earthquake. Studios are integrating AI into their workflows. James Cameron has joined the board of an AI company, while Darren Aronofsky recently founded an AI-focused studio that is partnering with Google’s DeepMind. During the latest contract negotiations, the writers’ and actors’ unions fought for AI-related job protections.",
+      "zh": "但好莱坞正迎来一场地震。制片厂正在将人工智能纳入其工作流程。詹姆斯·卡梅隆已经加入了一家 AI 公司的董事会，而达伦·阿伦诺夫斯基最近成立了一家以 AI 为核心的制片厂，并与谷歌的 DeepMind 建立了合作关系。在最近的合约谈判中，编剧和演员工会都为 AI 相关的就业保障进行了斗争。"
+    },
+    {
+      "id": "p046",
+      "en": "Kerrigan says he has received some criticism online for using AI, and he acknowledges that the technology could disrupt Hollywood’s labor models. But the bigger, preexisting problem, he says, is that studios control narrative content. Whereas Disney bought and now owns the pilot he made in 2021, AI enables him to create and own work himself. “There is a version of these tools that allows people to become more independent of the system, and I think that’s probably a good thing,” he said. One downside: He worries about burnout. For all the benefits of being able to produce a studio-caliber video every couple of weeks, he now feels pressure to produce a studio-caliber video every couple of weeks.",
+      "zh": "Kerrigan 表示他在网上因使用 AI 受到一些批评，并且他也承认这项技术可能会冲击好莱坞的用工模式。但他认为更大的既有问题是制片厂掌控叙事内容。虽然迪士尼买下并现在拥有了他在 2021 年制作的试播集，但 AI 让他能够自己创作并拥有自己的作品。“有一种方式可以让这些工具让人们更独立于体系，我想这大概是一件好事，”他说。一个负面影响是他担心会过劳。尽管现在可以每隔几周做出一部接近工作室标准的视频，但他却感到自己现在承受着每隔几周就得再做一部同等标准视频的压力。"
+    },
+    {
+      "id": "p047",
+      "en": "The TalkBoys Studio writers, Ian McLees and Dan Bonventre, say the initial response to their AI work was mixed. “Our friends who are sitcom writers, feature writers, were like, ‘This isn’t worth your time, this is gonna kill jobs,’” says McLees. “We’re like, the jobs are already gone, the studios killed it.” He likened the shift to previous disruptions in the film industry, including the transition from hand-drawn to 3D animation. “We wanted to be at the table and not on the menu,” he says.",
+      "zh": "TalkBoys Studio 的编剧 Ian McLees 和 Dan Bonventre 表示，他们最初对自己 AI 作品的反响是两极化的。“我们有些朋友是情景喜剧作家、剧情片编剧，他们说，‘这不值得你们花时间，这会毁掉工作岗位。’”McLees 说。“我们回答说，工作早就没了，是制片厂把它毁掉了。”他把这种转变比作影视行业以往的几次重构，包括从手绘过渡到 3D 动画。“我们想坐在桌子前谈判，而不是坐在菜单上。”他解释道。"
+    },
+    {
+      "id": "p048",
+      "en": "Zack London/Gossip Goblin says he gets blowback from fellow illustrators who are “very, very, very dogmatically opposed and fucking hate it.” He says he has little patience for the knee-jerk detractors. “Bro, you draw, like, furry fan art,” he says. “You don't have to freak out at the first new thing that challenges whatever you thought was creative.”",
+      "zh": "插画师 Zack London 也就是 Gossip Goblin 说，他遭到一些同行插画师的反击，他们“非常、非常、非常教条地反对，并且非常厌恶它”。他说他对那种条件反射式的抨击几乎没有耐心。“兄弟，你也是在画毛茸茸的同人图，”他说。“你没必要一遇到挑战你旧有创作观念的新东西就恐慌。”"
+    },
+    {
+      "id": "p049",
+      "en": "So far, it seems the losers in the visual AI war will be the craftspeople—those extremely good at doing one technical task. The winners will be the idea people: writers, directors, storytellers. Idea people who can also wield the tools? They'll be gods.",
+      "zh": "到目前为止，在这场视觉 AI 之战中，似乎会被淘汰的是那些手艺人——那些在单一技术任务上极其擅长的人。真正的赢家将是“主意派”——编剧、导演、讲故事的人。那些既有想法又能熟练使用工具的人？他们将会成为“神”。"
+    },
+    {
+      "id": "p050",
+      "en": "While some new AI tools are facilitating the prompt-and-play approach, others are providing more levers for human fine-tuning. When Kerrigan resumed making his Cop Files episode using Runway’s new software, Act-Two, it managed to capture the nuances of his performances even better than Act-One had. In one shot, as Tiggy delivers an emotional line, his lip trembles.",
+      "zh": "一些新的 AI 工具正在推动“提示词 + 直接生成”的工作方式，而另一些则给人类提供了更多可调节的细节控制。Kerrigan 在用 Runway 的新软件 Act-Two 继续拍摄他的《Cop Files》这集时，节目对他演技细节的捕捉比 Act-One 更到位。在一个镜头里，Tiggy 说出一段情绪化台词时，他的嘴唇会轻微颤抖。"
+    },
+    {
+      "id": "p051",
+      "en": "An ongoing mystery within the lore of the Monoverse is how humanity died off. One character says it’s widely believed they were killed by escalators, sucked into the moving cracks one by one, “taken out by their own dumb invention.” This feels like a reference to AI. In one episode, a news reporter discusses the escalator threat while standing in front of one in a mall. As he was designing the shot, Kerrigan could have left the space around the escalator blank. Instead, he inserted a flight of stairs, and a figure nonchalantly walking up them.",
+      "zh": "在 Monoverse 的世界观中，一直存在一个未解之谜：人类到底是如何灭亡的。一位角色说，人们普遍认为他们是被自动扶梯杀死的——被吸进那些不断运动的裂缝，一个一个地“被自己的笨蛋发明玩弄于鼓掌之间”。这听起来像是在影射人工智能。在一集中，一名新闻记者在商场里一台自动扶梯前讨论“自动扶梯威胁”时，Kerrigan 在设计镜头时本可以把扶梯周围的区域留空。可他却放进了一段楼梯，并让一个人物悠然其乐地走上楼梯。"
+    },
+    {
+      "id": "p052",
+      "en": "Let us know what you think about this article. Submit a letter to the editor at [email protected].",
+      "zh": "告诉我们你对这篇文章的看法。请向编辑写信，邮件地址是 [email protected]。"
+    }
+  ],
+  "translated_at": "2026-07-23T00:52:03+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

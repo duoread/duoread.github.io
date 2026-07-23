@@ -1,0 +1,424 @@
+{
+  "id": "011-the-tick-that-hunts-down-its-hostsincluding-us",
+  "source_href": "index_split_014.html",
+  "publication": "new_yorker",
+  "issue": "2026-07-13",
+  "issue_published_at": "2026-07-13",
+  "article_published_at": "",
+  "published_at": "2026-07-13",
+  "published_date_source": "issue",
+  "order": 11,
+  "section": "Reporting & Essays",
+  "title_en": "The Tick That Hunts Down Its Hosts—Including Us",
+  "title_zh": "追捕宿主的蜱虫——包括我们",
+  "rubric_en": "",
+  "rubric_zh": "",
+  "date": "2026-07-13",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "The Tick That Hunts Down Its Hosts—Including Us",
+      "zh": "追捕宿主的蜱虫——包括我们"
+    },
+    {
+      "id": "p002",
+      "en": "Lone-star ticks don’t just pursue and bite people. The affliction they’re spreading, an allergy to red meat known as alpha-gal syndrome, attacks a way of life.",
+      "zh": "孤星蜱不仅会追着人来叮咬。它们正在传播的一种疾病——对红肉过敏的“α-半乳糖胺综合征”——正在侵蚀一种生活方式。"
+    },
+    {
+      "id": "p003",
+      "en": "Patrick Roden-Reynolds, a public-health biologist on Martha’s Vineyard, collecting ticks. Lone stars are relentless, he said.Photographs by Brian Chorski for The New Yorker",
+      "zh": "马萨诸塞州马萨诸塞岛（Martha’s Vineyard）的一名公共卫生生物学家 Patrick Roden-Reynolds 正在采集蜱虫。孤星蜱坚韧不拔，这也是他的说法。摄影：Brian Chorski，刊于《纽约客》。"
+    },
+    {
+      "id": "p004",
+      "en": "It was a perfect day for a blood meal. A salt breeze blew over the western shore of Martha’s Vineyard, riffling the meadow grass under a pale-blue sky. They’d been waiting by the footpath all afternoon, crouched in the shade of a windswept cedar. They didn’t do well in the sun. They’d spent the winter half asleep, in the moist, rotting leaves under a huckleberry bush, well away from other creatures. But they were hungry now, as they always were in the spring. They’d scuttled out into the open air that morning and were sitting side by side on a blade of switchgrass, their tiny teardrop bodies barely bending it down. Their back legs gripped its serrated edge while their front legs reached toward the path, waiting for a warm body to lumber by. They looked like children at a Macy’s Parade, leaning out to touch the Snoopy balloon.",
+      "zh": "这是一个吸血的完美日子。咸咸的海风吹过马莎诸塞岛西岸，在淡蓝色天空下拂动着草地上的草叶。他们一整下午都蹲在小径边的风吹松树阴影里。阳光里不太适应，蜱虫都不太能待。冬天时，它们半休眠地躲在蓝莓丛下潮湿腐烂的树叶里，远离其他生物。但现在它们饿了，像每年春天一样。那天早晨，它们爬出湿荫，到了空旷地带，如今正并排坐在一根黑麦草茎上，它们细小的泪滴状身体几乎没把草叶压下去。后脚抓住了其锯齿形的边缘，前脚则伸向小径，等待一具温暖的身体经过。它们看起来像是梅西百货游行上的孩子，探身去碰索尼小狗那样的气球。"
+    },
+    {
+      "id": "p005",
+      "en": "“Look at them sitting there,” a voice said. The ground shook beneath them and a giant face suddenly loomed above, its bulbous eyes inches from their bodies. They could smell the carbon dioxide in the air. “Just a little hot breath and they stick out their legs to latch on,” Patrick Roden-Reynolds said. He blew on the ticks again, and watched their front limbs spread wide, trembling in the current. Then he reached down with a pair of tweezers and plucked them off the grass. He stuck them on a lint roller and pressed them deep into the spongy plastic, next to the others he’d collected that afternoon. They were arranged in neat rows by sex and species—dog tick, deer tick, lone-star tick—eighty-one in all. “Everyone comes here and is afraid of Jaws,” he said. “That is not what you should be scared about. It’s the little things.”",
+      "zh": "“看看它们就在那里坐着。”有人说。地面在他们脚下轻轻颤动，一张巨大的脸忽然从上方罩下，硕大的眼睛离他们身体只有几英寸。他们闻到了空气里的二氧化碳。“只要微微一口热气，它们就会把腿伸出来去挂上去。”帕特里克·罗登-赖诺兹斯说。那天他又对蜱虫吹了一口气，看着它们的前肢在气流中张开发抖。然后他拿起镊子，把它们从草里挑下来。接着他把它们放在一块粘毛滚筒上，按进海绵状的塑料里，和当天下午采集到的其他蜱虫并排摆放。它们按性别和种类被整理成整齐的行列——犬蜱、鹿蜱、独星蜱——总共八十一只。“每个人来这里都害怕《大白鲨》。”他笑着说，“这才不应该让你害怕。真正可怕的是这些小东西。”"
+    },
+    {
+      "id": "p006",
+      "en": "Roden-Reynolds is thirty-three and has been the island’s public-health biologist for four years. To a hungry tick, he must have been an appetizing sight: tall, stout, and soft-featured, with pale red hair and eyebrows. His cheeks and hands were flushed pink with blood beneath the skin. But he knew better than to expose his other body parts. He was covered from neck to boots in fabrics soaked with permethrin—a pesticide modelled on the toxic pyrethrin found in chrysanthemum flowers. Had one of these ticks crawled up the cuff of his pants, it would have been dead before it reached his belt.",
+      "zh": "罗登-赖诺兹斯33岁，已在该岛担任公共卫生生物学家四年了。对于一只饥饿的蜱虫来说，他一定是个很有吸引力的目标：身形高大、体格结实、五官柔和，头发和眉毛是淡红色的。他的脸颊和手上满是血色，好像透出粉红。然而他明白不能暴露身体其他部位。他从颈部到靴子全身都穿着浸透赛洛菌胺的防护织物——这是一种仿照菊花中有毒拟除虫菊素成分而研发的杀虫剂。如果有一只蜱虫爬到他裤脚，等它到达腰带前它早就死了。"
+    },
+    {
+      "id": "p007",
+      "en": "When he first came to Martha’s Vineyard, in 2022, Roden-Reynolds kept hearing that the ticks were worse than ever. But people had been saying that for years. The island had gone from farm and pasture in the nineteenth century to nature preserves and residential property in the twentieth, its silvery shingled homes encircled by forests and deer. The more bucolic it became, the more parasites it bred. “Every one of those deer could carry five hundred to a thousand ticks in a season,” Roden-Reynolds said. His predecessor, Dick Johnson, reckons that he got Lyme disease four or five times between 1990 and 2001. “It was no big deal,” Johnson told me. “Usually, they didn’t even give you a blood test.” The disease, caused by bacteria in deer ticks, can produce everything from flu-like symptoms to chronic fatigue and arthritis, if left untreated. But a dose of doxycycline or amoxicillin can generally cure it. In the early two-thousands, another tick-borne illness, babesiosis, began to make the rounds. Unlike Lyme disease, it didn’t respond to antibiotics alone, and its symptoms were more severe: chills, high fever, nausea, and, in rare cases, hemolytic anemia, a blood disorder that can be life-threatening. Then anaplasmosis joined the fray, spreading fevers and chills of its own. “People were getting knocked on their asses,” Johnson said. “Sometimes they’d get the trifecta of Lyme, babesiosis, and anaplasmosis, and end up in the I.C.U. fighting for their lives.”",
+      "zh": "他于2022年来到马撒斯岛时，就不断听到“蜱虫比以往更严重”这样的说法。可这句话其实有人讲了很多年。这个岛在19世纪还是农场和牧场，到了20世纪逐步变成自然保护区和住宅区，银色木瓦屋顶的房屋被森林和鹿群包围。这个地方越是田园化，寄生虫越能繁衍。“每头鹿一个季节都可能携带五百到一千只蜱虫。”罗登-赖诺兹斯说。前任研究员迪克·约翰逊回忆说，他在1990年至2001年间感染过莱姆病四到五次。“那并不算什么大事，”约翰逊告诉我，“通常你连验血都不需要。”莱姆病由鹿蜱传播，病原是细菌；若不治疗可能导致从流感样症状到慢性疲劳和关节炎等一系列表现。但一般用多西环素或阿莫西林就能治好。到了2000年代初，另一种蜱传疾病、巴贝虫病开始流行。与莱姆病不同，它单用抗生素往往不够，症状也更重：寒战、高热、恶心，少数情况下还会引发溶血性贫血，这是一种可危及生命的血液疾病。后来，anaplasmosis（嗜人红细胞体病）又加入战场，带来了自己的发热和寒战。“有人都被干倒了。”约翰逊说，“有时他们会同时得上莱姆病、巴贝虫病和anaplasmosis这三联，最后进了重症监护室，为自己的人命搏斗。”"
+    },
+    {
+      "id": "p008",
+      "en": "The ticks on Martha’s Vineyard can now cause nearly a dozen different diseases. Lyme and babesiosis are eleven times more common than in mainland Massachusetts, and anaplasmosis is five times more common. Deer ticks were long responsible for most of the infections—nearly nine hundred cases of Lyme and babesiosis alone between 2020 and 2024. But those aren’t the ticks that locals fear most. Roden-Reynolds pointed to a row of stocky little bugs, each with a white dot on its back. These were lone-star ticks, first confirmed to be on the island in 2011. Most ticks are content to sit and wait for a meal to wander past; lone stars have no patience for that. “We see them actually pursuing hosts, which is really disconcerting,” one entomologist told me. Roden-Reynolds has found lone stars on walking trails and benches, in toolsheds, parking lots, and the yards of hundreds of local homes that he has surveyed. He has heard of them scrambling down dunes and across burning sand to feed on sunbathers. “Oh, they’re relentless,” he said.",
+      "zh": "现在，马撒斯岛上的蜱虫能传播的疾病已近十二种。与马萨诸塞州大陆部分相比，莱姆病和巴贝虫病发生率高出11倍，anaplasmosis高出5倍。过去，鹿蜱长期是绝大多数感染的主要来源——仅在2020年至2024年间，几乎就有将近九百例莱姆病和巴贝虫病病例。但这些并不是本地人最害怕的蜱。罗登-赖诺兹斯指着一排浑圆的小虫，每只背上都有一个白点，那就是独星蜱。这种蜱虫于2011年首次在该岛被确认为存在。大多数蜱虫甘愿蹲在一旁等猎物经过；独星蜱可没有这种耐心。“我们其实能看到它们主动去追宿主，这非常让人不安。”一位昆虫学家对我说。罗登-赖诺兹斯在他勘查过的上百个本地住家庭院里，在步道和长凳旁、工具棚、停车场里都发现过独星蜱。他还听说它们会从沙丘上窜下，又爬过滚烫的沙子去吸食晒太阳者。 “哦，它们很顽强。”他说。"
+    },
+    {
+      "id": "p009",
+      "en": "To an outsider, the scene may spark a certain Schadenfreude, like an army of tiny barbarians sacking Rome. But the Vineyard is more than a wealthy enclave in this case. It’s a microcosm—part of a pattern of infestations and pest-borne diseases that has been repeated around the world, as climates have changed and landscapes have transformed. Fifty years ago, lone-star ticks rarely crossed the Mason-Dixon Line. Now they’ve marched as far north as Maine and as far west as the Oklahoma panhandle. One of the afflictions they bring, called alpha-gal syndrome, is the most rapidly spreading tick-borne illness in the country. Nature, it seems, is coming back to bite us.",
+      "zh": "对外来者来说，这一幕可能会引起某种幸灾乐祸，像一支小小野蛮人的大军在洗劫罗马。但在这个案例里，葡萄园不只是富人区。它是一个缩影——随着气候变化和景观变化而在世界各地反复上演的寄生虫侵扰和虫媒疾病模式的一部分。五十年前，独星蜱（Lone Star tick）几乎从未越过梅森-狄克森线。如今，它们已经一路向北进到缅因州，向西到达俄克拉何马州的西北角。它们携带的一种疾病叫做α-半乳糖致敏综合征，是全国传播速度最快的蜱虫传播疾病。大自然似乎正在反咬我们一口。"
+    },
+    {
+      "id": "p010",
+      "en": "In the summer of 2003, in a suburb of Sydney, Australia, a surfer went to see an allergist named Sheryl van Nunen. He was nineteen years old, tall and tan, with sun-bleached hair—“The sort of fellow you’d see on a beach in Gallipoli,” van Nunen told me—but he felt less than sprightly. Not long before seeing her, he had rushed to an emergency room in the middle of the night, his breathing ragged, his blood pressure low, his body covered in hives. He was having an anaphylactic reaction but didn’t know it. Van Nunen had seen such symptoms before, in patients going back for six years. The first was an older gentleman who had eaten a steak at a beachside restaurant in Sydney. The surfer, whose name was Jake, was the eleventh.",
+      "zh": "2003年夏天，在澳大利亚悉尼一个郊区，一名冲浪者去看过敏科医生谢丽尔·范·努南（Sheryl van Nunen）。他19岁，身材高大、皮肤黝黑，头发被阳光晒得发白——“你会在加里波利的海滩上看到的那种人，”努南告诉我——但他看起来并不轻松愉快。在见她之前不久，他在半夜冲到急诊室，呼吸急促，血压很低，身体布满风团。当时他正处于过敏性休克反应中，但并不知情。努南在过去六年里已见过这样的病例。第一个人是位年长的绅士，他在悉尼一家海滨餐厅吃了一份牛排。那名冲浪者叫杰克，他是第十一位患者。"
+    },
+    {
+      "id": "p011",
+      "en": "Van Nunen had asked Jake to bring in some leftovers from his last meal before the reaction. Now she poked a surgical lancet into each food item in turn, then pricked the skin of his right arm—a standard test for allergies. After a moment, the spot where she’d pricked him with a trace of cooked meat began to swell. It was a tiny welt—less than two millimetres in diameter—and Jake was unimpressed. Maybe the meat had some spice on it or was processed with a chemical? Van Nunen went to a refrigerator in her office and pulled out a tray of raw meats that she’d bought from an organic butcher—bits of beef and lamb. When she pricked the surfer again, this time after poking the raw beef, his skin swelled up ten times as much as before. Something had made him allergic to red meat.",
+      "zh": "努南让杰克带来反应前最后一顿饭的剩余食物。她先用一次性手术针依次刺入每一样食物，再在他右臂皮肤上做刺入——这是过敏测试的标准流程。过了一会儿，先前她用少量煮熟牛肉刺激的部位开始肿胀。是一个微小的风团，直径不足两毫米，杰克并不在意。也许那块肉上有点辛香料，或者用了化学添加剂？于是努南走到办公室的冰箱，拿出一盘从有机屠夫那里买来的生肉——牛肉和羊肉。她再次给这个冲浪者刺入，这次是在他接触生牛肉后，他右臂的肿胀比刚才大了十倍。某种东西让他对红肉产生了过敏。"
+    },
+    {
+      "id": "p012",
+      "en": "“Is anyone objecting to the marriage, or is it all about my shorts?”",
+      "zh": "“有谁在反对这场婚礼吗，还是他们只是看不惯我的短裤？”"
+    },
+    {
+      "id": "p013",
+      "en": "Cartoon by Will McPhail",
+      "zh": "威尔·麦克菲尔的漫画"
+    },
+    {
+      "id": "p014",
+      "en": "The beaches and bush north of Sydney are full of peculiar beasts, like Martha’s Vineyard reimagined by Hieronymus Bosch: wobbegongs and jelly blubbers, swamp wallabies and fairy penguins, weedy sea dragons and beach worms up to nine feet long. Smaller creatures, too, can take alarming forms. The Australian paralysis tick, for example, doesn’t content itself with simply sucking its victims’ blood; it injects them with a neurotoxin that can be strong enough to kill a child if their symptoms go untreated. (In New South Wales alone, tick paralysis caused twenty deaths between 1900 and 1945.) The paths through the bush are infested with these ticks, as are many back yards. Six of the patients that van Nunen had treated for the meat allergy remembered being bitten by a paralysis tick. But their symptoms had appeared weeks or even months after the bite, and they were triggered hours after eating meat. The neurotoxin didn’t work that way—and most allergies didn’t, either.",
+      "zh": "悉尼以北的海滩和灌木丛里，栖息着许多奇特生物，仿佛赫洛尼穆斯·博世笔下重生的玛沙葡萄园：有偏斜鲨鲨鱼（wobbegong）、水母状海蛞蝓、沼泽沙袋鼠和仙女企鹅、长海龙与长达九英尺的沙滩虫。小生物也可能变得令人警惕。以澳洲麻痹蜱为例，它并不满足于仅仅吸食猎物的血，它会注入一种神经毒素；如果症状得不到及时治疗，这种毒素足以杀死一个孩子。（单在新南威尔士州，1900年至1945年间，蜱虫麻痹导致了20人死亡。）穿越灌木丛的小路上到处都有这种蜱，许多后院里也有。van Nunen曾治疗的6名对红肉过敏患者中，回忆起自己曾被麻痹蜱叮咬过。然而，他们的症状是在被叮咬后几周甚至几个月才出现，而又在进食肉类后数小时被触发。这种神经毒素并不是这样起作用的——多数过敏反应也并非如此。"
+    },
+    {
+      "id": "p015",
+      "en": "By 2007, van Nunen had seen more than seventy patients with the meat allergy, many of whom had gone into anaphylactic shock. “I just thought, If this is an epidemic, we need to get the word out,” she told me. That fall, she presented a summary of twenty-five cases at a conference in Fremantle, south of Perth. The reaction was muted. “People were actually stunned,” she recalled. “They probably thought that I’d slipped off my trolley wheels.” Years later, van Nunen told me, when a colleague introduced her as a speaker at a panel in Sydney, she mentioned the presentation in Fremantle and said, “We thought she had gone entirely mad.”",
+      "zh": "到2007年，van Nunen已经看过70多名患有肉类过敏的患者，其中许多人出现过过敏性休克。“我当时只想，这如果是流行病，我们就得把这个消息传开，”她告诉我。那年秋天，她在珀斯以南弗里曼特尔的一次会议上，汇报了25例病例。反响平平无奇。“人们其实被震惊了，”她回忆道，“他们可能以为我是从车子上掉下来的。”几年后，van Nunen再次告诉我，在悉尼一场分组讨论中，一位同事介绍她演讲时，她提起了弗里曼特尔的那场分享，并说：“我们那时都以为她彻底疯了。”"
+    },
+    {
+      "id": "p016",
+      "en": "Meanwhile, ten thousand miles to the northeast, an allergist and immunologist at the University of Virginia, Thomas Platts-Mills, was confronting a strange pattern of his own. He was investigating a drug called cetuximab, which contains genetically engineered antibodies that target cancer cells and prevent them from growing. In clinical trials, cetuximab had a good safety record—only three per cent of patients reacted poorly to it. But when it went to market, in 2006, it had a disturbing effect on patients in some areas. In clinics in Boston and California, the drug was well tolerated. But in North Carolina and Tennessee, nearly a quarter of the patients had severe reactions to the drug. In Arkansas, a patient died as it was being administered.",
+      "zh": "与此同时，距离那里东北方一万英里外，弗吉尼亚大学的过敏科与免疫科医生托马斯·普拉特斯-米尔斯（Thomas Platts-Mills）也在面对一组同样怪异的模式。 他正在研究一种叫做西妥昔单抗（cetuximab）的药物，这种药物含有靶向癌细胞并抑制其生长的基因工程抗体。在临床试验中，西妥昔单抗有良好的安全记录——只有3%的患者出现不良反应。但2006年它上市后，在某些地区却出现了令人不安的影响。在波士顿和加州的诊所里，患者通常耐受得很好；然而在北卡罗来纳州和田纳西州，接近四分之一的患者对该药出现了严重反应。在阿肯色州，一名患者在给药过程中去世。"
+    },
+    {
+      "id": "p017",
+      "en": "When Platts-Mills and his team studied blood samples from the reactive patients, they found allergy antibodies to a sugar molecule called galactose-⍺-1,3-galactose—alpha-gal for short. Most mammals have alpha-gal in their bodies, but humans and other primates do not. That’s one reason our immune systems reject transplant organs from pigs. Cetuximab is produced from both mouse and human DNA, so it does have some alpha-gal in it. But a single dose shouldn’t have been enough to trigger a reaction. And why were Southerners so susceptible?",
+      "zh": "当 Platts-Mills 和他的团队研究这些患者的血液样本时，他们发现这些过敏患者体内存在一种糖分子抗体——半乳糖-α-1,3-半乳糖，简称 alpha-gal。大多数哺乳动物体内都有 alpha-gal，但人类和其他灵长类没有。这就是为什么我们的人类免疫系统通常会排斥猪的移植器官之一。Cetuximab 是由小鼠和人类 DNA 共同制成的，因此里面确实含有一些 alpha-gal。但一针剂量不足以触发过敏反应。那为什么南方人会如此容易敏感？"
+    },
+    {
+      "id": "p018",
+      "en": "As it happened, a few patients had come to the university clinic recently with a strange complaint: they seemed to be allergic to red meat. “It sounded made up,” Scott Commins, an allergy researcher at the University of North Carolina, told me. Commins was a post-doctoral fellow in Platts-Mills’s lab at the time and had been assigned to study the patients. “You’ve been eating hot dogs and hamburgers all your life, and all of a sudden you’re allergic to meat?” Most food allergies flare up within minutes of consumption, but these symptoms came hours after a meal. And the same patients weren’t allergic to chicken, turkey, fish, or seafood. What was different about pork and beef? “We were all reading about alpha-gal,” Commins told me. “So we started to say, ‘Holy shit! What if it’s related to that?’ ”",
+      "zh": "恰在此时，最近有几位患者来到大学诊所，提出一个奇怪的抱怨：他们似乎对红肉过敏。北卡罗来纳大学的过敏研究者 Scott Commins 告诉我：“这听起来像是编造出来的。”当时，Commins 是 Platts-Mills 实验室的一名博士后，负责研究这些患者。“你一辈子都在吃热狗和汉堡，结果突然对肉类过敏？”他回忆道。大多数食物过敏在进食后几分钟内就会发作，但这些症状却在进餐后几个小时才出现。而且同样的患者对鸡肉、火鸡、鱼或海鲜并不过敏。那到底是猪肉和牛肉有什么不同？“我们当时都在读 alpha-gal 的相关资料，”Commins 告诉我，“所以我们开始说：‘天哪！会不会和它有关？’”"
+    },
+    {
+      "id": "p019",
+      "en": "Humans and their ancestors have been eating red meat for millions of years. It seemed implausible that some cancer patients and carnivores would suddenly become allergic to it. Perhaps their immune systems were sensitized to alpha-gal by a local fungus, parasite, or pollen. The team had a map of patients who’d had allergic reactions to cetuximab—they were scattered across the Southeast, from Virginia to southern Missouri. But no other allergen seemed to have the same distribution. Then, in the summer of 2007, a research assistant named Jake Hosen got a hit. He was poring over maps of parasite-borne diseases when he came upon one for Rocky Mountain spotted fever, a disease often carried by dog ticks. It didn’t quite align with the cetuximab map—the cases stretched all the way to Boston—but it was close. So Hosen looked up the range of a Southern tick, the lone star, common as dirt in Virginia. That map was a perfect match.",
+      "zh": "人类及其祖先已经吃了数百万年的红肉。要让一些癌症患者和肉食性动物突然对它过敏似乎不太可能。也许他们的免疫系统是被当地真菌、寄生虫或花粉中的某种成分“致敏”了。团队手里有一张对 cetuximab 产生过敏反应患者的分布图——这些患者散布在东南部，从弗吉尼亚到密苏里南部都能看到。但没有其他过敏原呈现出同样的分布。然后，在 2007 年夏天，研究助理 Jake Hosen 有了突破。他正在研究寄生虫传播疾病的地图时，看到了一张洛矶山斑疹热的地图——这种疾病常由蜱虫携带。它和 cetuximab 的分布图并不完全重叠，后者一直延伸到波士顿，但已经很接近了。于是 Hosen 查找了美国南部一种名为“独星蜱”的分布范围，这种蜱在弗吉尼亚非常常见。那张地图与患者分布图完全吻合。"
+    },
+    {
+      "id": "p020",
+      "en": "“We were thinking, Can ticks do this?” Commins recalled. “So, I started feverishly calling all the people in my study. Ninety-three per cent had a tick history.” The final proof was provided, inadvertently, by Platts-Mills. In August of 2007, he was hiking in the Blue Ridge Mountains when he felt an odd, fuzzy feeling on his ankle. When he pulled down his sock, he saw what looked like hundreds of tiny seeds. Then they began to move. The seeds were a cluster of lone-star-tick larvae—a tick bomb, as it’s called—some of them already feeding on his blood. Over the next few weeks, Platts-Mills kept a record of his rising allergy antibodies. “He came in with the ticks in a Tupperware container,” Hosen told me. “And he said, ‘Draw my blood! Draw my blood!’ ”",
+      "zh": "“我们在想，蜱虫真的会导致这种情况吗？”Commins 回忆道。“于是我开始疯狂给研究对象打电话。93% 的人都有蜱虫叮咬史。”最终的直接证据却被 Platts-Mills 不经意间提供了。2007 年 8 月，他在蓝岭山脉徒步时，脚踝上有一种奇怪的发痒绒毛感。他把袜子拉下来一看，看到好像有上百颗小种子的样子。然后那些‘种子’开始移动。那其实是一团独星蜱幼虫——俗称“蜱虫雷”，其中一些已经开始吸他的血了。接下来的几个星期里，Platts-Mills 一直记录自己过敏抗体逐渐升高的情况。“他把蜱虫装在一个 Tupperware 盒里拿来，”Hosen 对我说，“并且说：‘给我抽血！给我抽血！’”"
+    },
+    {
+      "id": "p021",
+      "en": "That November—the same month that Sheryl van Nunen presented her tick theory to an incredulous audience in Australia—Platts-Mills went to a meeting in London. One night, for dinner, he ate three lamb chops and had two glasses of wine. A few hours later, he woke up in his hotel room feeling itchy. Then he watched, with some satisfaction, as his body broke out in hives. “Thus,” he later wrote, “the syndrome was now formally confirmed.”",
+      "zh": "那年11月，也就是Sheryl van Nunen在澳大利亚向一群半信半疑的听众提出她的蜱虫理论的同一个月，Platts-Mills前往伦敦参加一次会议。一个晚上，晚餐时他吃了三块羊排，并喝了两杯葡萄酒。几小时后，他在酒店房间里醒来，感觉浑身发痒。随后他满意地看到，自己的身体开始起了风团。后来他写道：“就这样，这种综合征现在终于被正式确认了。”"
+    },
+    {
+      "id": "p022",
+      "en": "Alpha-gal syndrome was an epidemiological novelty at first—an oft-told tale of far-flung scientists, baffling symptoms, and bloodthirsty ticks. Then it began to spread. The syndrome has now infected people in more than thirty countries on six continents. It can be found in Germany’s Black Forest and on small farms in South Africa, in the rain forests of Peru and the mountains of western Japan. Some tick species produce alpha-gal naturally in their saliva, which they inject into their host when they bite. In North America, the syndrome is transmitted mostly by the lone-star tick, but it seems to find new vectors wherever it goes. In Brazil, it’s carried by the Cayenne tick, in South Korea by the Asian longhorned tick, in Sweden and Norway by the castor-bean tick, and in Zimbabwe and Botswana by the South African bont tick. But its most effective carrier remains the paralysis tick. In Queensland and northern New South Wales, where most of the ticks live, the number of people with the syndrome is growing by forty-five per cent a year.",
+      "zh": "Alpha-gal 综合征起初是一种流行病学新鲜现象——一个常被反复讲述的故事：地理分散的科学家、令人困惑的症状，以及嗜血的蜱虫。后来它开始扩散。如今，这种综合征已经感染了六大洲三十多个国家的人。它可见于德国黑森林，也可见于南非的小农场、秘鲁的雨林和日本西部的群山。在一些蜱虫中，α-半乳糖基（alpha-gal）天然存在于它们的唾液里，蜱虫叮咬宿主时会把它注入体内。在北美，传播该综合征的主要是独星蜱，但它似乎在流入新地区后总能找到新的传播媒介。在巴西，它主要由卡宴蜱携带；在韩国，由亚洲长角蜱携带；在瑞典和挪威，由芥子草（蓖麻豆）蜱携带；在津巴布韦和博茨瓦纳，由南非蜱携带。尽管如此，其最有效的载体仍然是致麻痹蜱。在昆士兰和新南威尔士北部——也就是大多数这类蜱虫栖息的地方——患病人数每年增长45%。"
+    },
+    {
+      "id": "p023",
+      "en": "But those are just the known cases. Only a fraction of people with antibodies to alpha-gal become allergic to it, and those who are often don’t realize it. Some react only to red meat. Some also react to milk, cheese, and other animal products that have alpha-gal. The symptoms are so delayed that people often blame them on food poisoning, irritable-bowel syndrome, gluten intolerance. In the U.S., according to the Centers for Disease Control and Prevention, as many as half a million people have alpha-gal syndrome, but other researchers suspect that the number is higher. For years, testing was spotty at best, and doctors often weren’t aware of the syndrome. In a study published in 2017, fewer than one in ten alpha-gal patients were correctly diagnosed. In 2024, a New Jersey man died after eating a burger at a barbecue—the syndrome’s first documented fatality—and at least three other deaths might be linked to alpha-gal. There are likely to be more.",
+      "zh": "但这些只是已知病例。只有一小部分对 alpha-gal 有抗体的人会对其过敏，而许多人甚至没意识到这一点。有人只对红肉有反应，也有人会对牛奶、奶酪和其他含有 alpha-gal 的动物制品产生反应。这些症状有明显迟发性，因此人们常常把它们归咎于食物中毒、肠易激综合征、麸质不耐受等。在美国，疾控中心（CDC）估计最多有50万名患者患有 alpha-gal 综合征，但其他研究者怀疑这个数字更高。多年来，检测一度非常零散，很多医生也并不熟悉该综合征。在2017年发表的一项研究中，不到十分之一的 alpha-gal 患者得到了准确诊断。2024年，一名新泽西州男子在烧烤时吃了一个汉堡后死亡，这是该综合征首次有文献记录的致死案例；另有至少三起死亡也可能与 alpha-gal 有关，可能还会有更多。"
+    },
+    {
+      "id": "p024",
+      "en": "Could a syndrome so stealthy have lurked among us all along? Commins and van Nunen don’t think so. The surge in alpha-gal patients was too sudden and too great. Van Nunen has worked on Sydney’s North Shore for forty years. “Anyone who had anaphylaxis was sent to me, and I’ve talked to long-term residents,” she told me. “I know that patients didn’t have it before. It is an epidemic.” What triggered it still isn’t clear. Does the alpha-gal in a tick’s saliva piggyback on some virus or antigen that sensitizes people to it? “We lack a unifying hypothesis,” Commins said.",
+      "zh": "这样的综合征会不会一直潜伏在我们之中却不被察觉？Commins 与 van Nunen认为未必。alpha-gal 患者数量的激增过于突然而巨大。van Nunen在悉尼北岸工作了四十年。“每个发生过敏性休克的人都被送到我这里，而我也和许多长期居住的居民交谈过，”她对我说，“我知道这些患者以前没有得过这种病。这是一场流行病。”是什么触发了这一切仍不清楚。是蜱虫唾液中的 alpha-gal借助某种病毒或抗原‘搭便车’，让人群发生敏化吗？Commins说：“我们还缺乏一个统一的假说。”"
+    },
+    {
+      "id": "p025",
+      "en": "One thing is certain: ticks make excellent disease vectors, purpose-built for the modern world. They’re resistant to pesticides, partial to rising temperatures, and happy to feed on anything that moves—mice, deer, birds, hunters, hikers, suburbanites, and second-home builders. As cities have sprawled into countryside, and people have pushed deeper into nature, we’ve turned ourselves into a vast smorgasbord for ticks. Messing with their habitat seems only to make them multiply.",
+      "zh": "有一点是肯定的：蜱虫是非常出色的病媒，仿佛是为现代世界“量身定制”的生物。它们对杀虫剂有抵抗力，偏爱升高的温度，并且乐意吸食任何会动的生物——老鼠、鹿、鸟类、猎人、徒步者、郊区居民，甚至盖第二套别墅的开发商。随着城市向乡村蔓延，人与自然的接触越来越深入，我们把自己也变成了蜱虫的巨大“食肉自助台”。破坏它们的栖息地似乎只会让它们更容易繁殖。"
+    },
+    {
+      "id": "p026",
+      "en": "In the nineteen-nineties, the Australian government launched a national campaign to eradicate red foxes. British settlers had imported them more than a century earlier for hunts, only to watch them exterminate native species like the numbat, the boodie, and Gilbert’s potoroo. The fox-eradication campaign was deemed a huge success, but it came with another unintended consequence. As the foxes died, the ticks that had fed on them found another primary host—the shrewlike native bandicoot, which Australians had worked hard to reëstablish. “They became a nursery for ticks,” van Nunen told me. “It’s like Whac-A-Mole, trying to do something with nature.” The foxes went down; the bandicoots and meat allergies popped up.",
+      "zh": "20世纪90年代，澳大利亚政府发起了全国性消灭赤狐的运动。英裔定居者一个多世纪前为打猎而引进它们，结果这些狐类把土著物种比如袋貂、布迪袋鼠和吉尔伯特沙袋鼠（Numbat、boodie 和 Gilbert’s potoroo）几乎灭绝。赤狐根除计划被认为是巨大成功，但也带来了另一种意想不到的后果。随着赤狐减少，原本以它们为食的蜱虫又找到了另一种主要宿主——这种澳洲的短鼻鼩似动物，即土著负鼠科动物，澳大利亚人曾努力将其重新恢复。“它们成了蜱虫的育苗场，”凡·努嫩（van Nunen）对我说，“这就像玩‘打地鼠’，试图用某种方式去干预自然。” 狐狸减少了；而负鼠和对红肉过敏症状也随之“冒”了出来。"
+    },
+    {
+      "id": "p027",
+      "en": "Substitute bandicoots with white-tailed deer, paralysis ticks with lone stars, and you get the story of alpha-gal in America. Like the bandicoot, white-tailed deer were once an endangered species here, hunted nearly to extinction before the First World War. Then hunting laws were passed, habitats restored, deer reintroduced to their old territories. “We were an agrarian society and then we reforested the eastern United States,” Holly Gaff, a tick researcher and mathematical ecologist at Old Dominion University, in Virginia, told me. “Forest brings wildlife, wildlife brings ticks, and ticks bring disease.” The U.S. now has some thirty-six million deer, wandering the landscape like a fleet of mobile blood banks. “They can make infinite ticks, basically,” Gaff said.",
+      "zh": "如果把负鼠换成白尾鹿，把麻痹蜱换成独角蜱（lone star tick），你就得到美国alpha-gal（α-半乳糖凝集素）事件的故事。和负鼠一样，白尾鹿曾经也是美国的濒危物种，在第一次世界大战前几近被猎杀到灭绝边缘。随后又通过禁猎法案、栖息地修复、将鹿重新引回原来的活动区域。弗吉尼亚州老东部大学（Old Dominion University）的蜱虫研究员与数学生态学家霍莉·加夫（Holly Gaff）告诉我：“我们曾是一个以农业为主的社会，后来把美国东部重新恢复了森林。” 她接着说：“有了森林就有野生动物，野生动物有了蜱虫，蜱虫就会带来疾病。” 如今美国大约有三千六百万人（约三千六百万）白尾鹿，在大地上像一支支流动的“活体血库”。加夫说：“它们几乎可以制造无数只蜱虫。”"
+    },
+    {
+      "id": "p028",
+      "en": "“Someday her paintings will be on the walls of caves in New York.”",
+      "zh": "“总有一天，她的画会挂在纽约的洞穴墙上。”"
+    },
+    {
+      "id": "p029",
+      "en": "Cartoon by Frank Cotham",
+      "zh": "插画：Frank Cotham"
+    },
+    {
+      "id": "p030",
+      "en": "Even states already teeming with bugs have begun to feel under siege. “Every year, we bring in new pests, and we still have all the same ones we had before,” Nancy Hinkle, a veterinary entomologist at the University of Georgia, told me. “It’s a never-ending battle.” Some pests come into the country on livestock and tropical fruit; others hitch rides on shipping crates, wooden pallets, foreign travellers and their pets. In Georgia, chicken farmers are beleaguered by bedbugs, which have hopped from hotel rooms to poultry farms, and from there to workers’ homes. In Texas, ranchers are bracing for an onslaught of screwworms, the flesh-eating maggots of blowflies. Before they were driven south out of the U.S. in the fifties and sixties, screwworms killed millions of deer and cattle, burrowing under their skin and into the navels of newborn calves and fawns. Now they’ve worked their way back north through Mexico to the Texas border. In more than two dozen states, meanwhile, farmers are fending off Asian longhorned ticks. First spotted on an Icelandic sheep in New Jersey in 2017, they can carry a deadly cattle parasite, Theileria orientalis. “We didn’t need another tick in Georgia,” Hinkle said. “We had twenty-two species already. That was a gracious plenty of them.”",
+      "zh": "即便在本来就虫害猖獗的州，人们也开始感觉到被围攻了。“每年我们都会引入新的害虫，而且以前就有的那些也还在，”我在佐治亚大学工作的兽医昆虫学家南希·欣克尔（Nancy Hinkle）告诉我，“这是一场无休止的斗争。”有些害虫随着牲畜和热带水果入境；另一些则乘坐运输箱、木托盘、外国旅客和他们的宠物四处跑。佐治亚州的鸡场主正受到臭虫困扰，这些臭虫从酒店房间跳到家禽场，再从那里进入工人的住宅。德克萨斯州，牧场主正在防范一种寄生蠕虫——蝇蛆的“螺旋幼虫”再次来袭。在20世纪50到60年代被赶到美国南部之前，螺旋幼虫曾夺走数百万只鹿和牛的生命，钻入它们皮下，并钻入新生小牛和小鹿的肚脐。如今它们已沿墨西哥一路向北回流到德克萨斯边境。与此同时，在二十多个州，农民正在抵御亚洲长角蜱。2017年它们首次在新泽西一只冰岛绵羊身上被发现，这些蜱虫会携带一种致命的牛寄生虫——奥泰利亚甲型分支（Theileria orientalis）。“我们在佐治亚州不需要再多一种蜱虫了，”欣克尔说，“我们已经有二十二种蜱虫了。这已经算是‘足够多’了。”"
+    },
+    {
+      "id": "p031",
+      "en": "The rise of the lone star may be the breaking point in this pest-ridden history. Like Lyme disease, named for a posh town in rural Connecticut, alpha-gal syndrome can seem like a symptom of privilege—of pampered city folks stepping out of their element. Martha’s Vineyard and the Hamptons have some of the highest alpha-gal rates in the country, but even there the people most at risk from infection may be outdoor workers. And the syndrome now threatens farmers, ranchers, hunters, and foresters across the South and the Midwest. “I have been standing up for thirty years saying, ‘If you get ehrlichiosis you could die,’ ” Gaff told me. “But if you say, ‘You might not be able to eat hamburgers or steak ever again,’ you suddenly get a reaction.”",
+      "zh": "草原星形蜱（lone star tick）的兴起，可能是这段充满害虫史上的临界点。就像莱姆病（得名于康涅狄格州乡村一个高档小镇）一样，α-半乳糖致敏综合征（alpha-gal）看起来也像一种特权的症状——仿佛只有被宠坏了的城市人走出舒适区才会得病。马撒葡萄园（Martha’s Vineyard）和汉普顿斯（Hamptons）的发病率在全美属前列，但即使在这些地方，风险最高的人群也可能是从事户外工作的劳动者。如今，这种综合征又在南方和中西部威胁着农夫、牧场主、猎人和林业工人。“我这三十年来一直在强调：‘如果你得了恙虫病（ehrlichiosis），你可能会死，’”Gaff告诉我，“但如果你说：‘你可能再也不能吃汉堡或牛排了，’你就会立刻引起人们的反应。”"
+    },
+    {
+      "id": "p032",
+      "en": "Phillip James Ellison grew up in the bootheel of Missouri, wedged between eastern Arkansas and western Tennessee. “We come from crops,” he told me. “Cotton, dent corn, milo, soybean—that’s what I played in, as a kid in the fields. Then I moved up here to beef territory.” Missouri, Arkansas, and Oklahoma are the epicenter of alpha-gal in the United States. A study of blood samples from military recruits, taken between 2001 and 2007, found that nearly half the recruits from south-central Missouri, where Ellison lives, had allergy antibodies for alpha-gal. It’s not the best cattle country—scrubby pastures crisscrossed by tangled woods and limestone bluffs—but it’s ideal for ticks. Ellison’s wife, Kristie Byrd, belongs to a family that has run cattle east of Springfield for more than a century. When Ellison arrived, twelve years ago, he was put to work bottle-feeding the calves and transitioning them to grain. Then his body couldn’t take it any longer.",
+      "zh": "菲利普·詹姆斯·艾利森（Phillip James Ellison）在密苏里州西南“鞋底区”（bootheel）长大，那里夹在阿肯色州东部和田纳西州西部之间。“我们出身于农作物地，”他告诉我，“棉花、甜玉米、黍子、高粱、黄豆——这就是我小时候在地里玩耍的东西。后来我搬到这里的牛肉区来了。”密苏里州、阿肯色州和俄克拉何马州是美国α-半乳糖综合征的中心地带。一项对2001年至2007年期间入伍新兵血样的研究发现，几乎一半来自艾利森所在的密苏里州中南部的新兵，都有针对α-gal的过敏抗体。那并非上上之选的养牛地区——零星灌木草场与纠缠的林地和石灰岩崖峭交错，但却非常适合蜱虫生存。艾利森的妻子克里斯蒂·伯德（Kristie Byrd）来自一个在斯普林菲尔德以东饲养奶牛已逾百年的家族。艾利森十二年前到来时，最初被安排去给小牛喂奶，并帮助它们过渡到吃谷物。后来，他的身体再也受不了了。"
+    },
+    {
+      "id": "p033",
+      "en": "“I can’t even get near their dander anymore, or their wet nose or saliva,” he told me. “Whenever I handle one of them, I have to soak my hands—they’re so red and swollen.” The symptoms began not long after he moved to the area. Ellison would wake up with his stomach knotted, his skin crawling with a rash. It itched so badly sometimes that he would scratch himself bloody. “The doctors would say it’s lactose intolerance,” he told me. “You would not believe how many rounds of prednisone I’ve taken. Then I go to the dermatologist and he says, ‘Well, it’s just your eczema acting up.’ ” It was ten years before he was given a diagnosis of alpha-gal. “Basically, if it gives live birth and breast-feeds, I can’t touch it and I can’t eat it,” he said.",
+      "zh": "“我现在连靠近它们的皮屑都不行，更别提它们湿漉漉的鼻尖或唾液了。”他对我说。“每次我碰到它们，就得把手泡湿——手会红肿得厉害。”这些症状在他搬到这个地区后不久就开始了。埃利森每天早上醒来都会胃里打结、皮肤起疹子，痒得厉害到有时会抓破出血。“医生都说是乳糖不耐受。”他告诉我。“你都想不到我吃了多少轮泼尼松。后来我去看皮肤科，医生又说‘这只是你的湿疹复发’。”直到十年后他才被诊断出 alpha-gal。 “基本上，只要它是活产并且会哺乳，我既不能碰它，也不能吃它。”他这样说。"
+    },
+    {
+      "id": "p034",
+      "en": "We were sitting in his Dodge Ram pickup, looking out over a fenced-in pasture. It was a damp gray evening in March, and a few cows and calves were huddled out in the cold, waiting to be fed. Ellison, who is fifty-five, was slouched behind the wheel with the heater blowing on him. He had on a rumpled, fleece-lined flannel shirt and a Peterbilt hat tugged low over his eyes. “I sell truck parts now,” he said. “I’m not allergic to truck parts.” He pointed to a calf standing off by itself. He was not only allergic to their dander and saliva; they could also carry lone-star ticks that could make his condition worse. The saddest part was not being able to give the calves treats anymore, he said. They used to trail after him as if he were their mom. “I was named for the disciples in the Bible, and I still follow the Ten Commandments,” he said. “But in that ten-year period when I didn’t know what was wrong with me, depression took over. I had bad thoughts. I told my mom, If I didn’t have a daughter and granddaughter, I would have gone home by now.”",
+      "zh": "我们坐在他那辆道奇·雷姆皮卡上，望着一片有围栏的牧场。那是三月阴沉潮湿的傍晚，几头奶牛和小牛蜷缩在外，等着喂食。五十五岁的埃利森靠在方向盘后面，车里的暖风正往他身上吹。他穿着一件皱巴巴的绒里法兰绒衬衫，戴着一顶压得很低的彼得比尔特帽子。“我现在卖卡车零件。”他说。“我对卡车零件不过敏。”他指着一头独自站在一边的小牛。并非只有它们的皮屑和唾液会让他过敏，它们还可能带有单星蜱，进一步加重他的症状。最让他难过的是再也不能给小牛零食了。”小牛以前总是跟着他，就像跟着妈妈一样。”“我叫的名字来自《圣经》里的门徒，而且我一直都遵守十诫。”他说。“但在那十年我都不知道自己怎么了的时候，抑郁几乎把我吞没。我情绪很糟糕，甚至有过不好的想法。”他对我说，“如果我没有女儿和孙女，我早就回家了。”"
+    },
+    {
+      "id": "p035",
+      "en": "Michelle Kleeman, who has alpha-gal syndrome, on her family farm in Missouri. She is no longer able to go to restaurants with an open grill.",
+      "zh": "米歇尔·克莱曼（Michelle Kleeman）在密苏里州自家农场里生活。她患有 alpha-gal 综合征，已经不能再去有明火烧烤摊位的餐厅就餐。"
+    },
+    {
+      "id": "p036",
+      "en": "The alpha-gal stories I’ve heard often play like scenes from horror films. The victims are unsuspecting, the settings innocuous: a burger joint, a picnic, a quiet night at home. A pregnant woman wakes up to find her husband leaning over her in the dark. “Something’s wrong,” he says. “My face doesn’t feel right. Could you go with me to the bathroom and look at it?” When she turns on the light, the left side of his face is so badly swollen that he’s nearly unrecognizable. An eleven-year-old girl comes home with her hands covered in blisters. There’s something weird in the school’s new soap, she tells her mom.",
+      "zh": "我听到的 alpha-gal 病例故事常常像恐怖片里的片段。受害者天真无知，场景却很寻常：一家汉堡店，一次野餐，一个在家里的平静夜晚。一个怀孕的女人在黑暗中醒来，发现丈夫俯伏在她身边。“不对劲，”他对她说。“我的脸好像不舒服，你能陪我去洗手间看看吗？”她一开灯，丈夫左半边脸肿得厉害，几乎认不出人来。一个十一岁的女孩回到家，手上全是水疱。她告诉妈妈，学校里新上的肥皂里有些不对劲。"
+    },
+    {
+      "id": "p037",
+      "en": "The syndrome is cryptic, unpredictable. It can lie dormant in the blood for years—even elevated allergy antibody levels may never trigger a reaction—then erupt with sudden violence. Without tick bites, red meat, or dairy to incite it, the immune response will subside eventually. After three or four years, you might even be able to eat a cheeseburger again. But if you live or work in the countryside, the opposite is more likely to happen. Another tick will latch on, and your immune system will reignite. The more bites you get, the more allergic you’ll probably become. At first, it may take a whole steak to set you off, then just the smell of bacon will do it. “I can’t go to restaurants with open grills anymore,” Michelle Kleeman, who owns a small farm an hour and a half west of Ellison’s place, told me. “My throat would be swelling from the smoke.”",
+      "zh": "这种综合征非常诡异、难以预测。它可以在血液里潜伏多年——即使过敏抗体水平升高，也可能始终不引发反应——然后突然以猛烈的方式爆发。若没有蜱虫叮咬、红肉或奶制品来触发，它的免疫反应最终会平息。三四年后，你甚至可能又能吃上一份芝士汉堡了。但如果你住在乡下或在乡下工作，反而更可能发生相反的情况。又一只蜱虫会吸附上来，你的免疫系统会被重新点燃。蜱虫叮得越多，你可能会变得越过敏。起初，也许要你整块牛排才会发作，后来闻到培根味道都可能触发。米歇尔·克利曼（Michelle Kleeman）在离艾利森家一小时三十分钟车程的地方有一处小农场，她告诉我：“我现在不能再去有开放式烧烤架的餐厅了。烟味会让我喉咙肿起来。”"
+    },
+    {
+      "id": "p038",
+      "en": "In rural communities, alpha-gal doesn’t attack just the body. It attacks a way of life. Farming, ranching, hunting, raising and eating animals: everything you’ve been taught to do is suddenly bad for you. Even the landscape has turned toxic. Forty years ago, when the AIDS epidemic was ravaging New York, some Southern Baptists described it as God’s judgment—a punishment for its victims’ life style. I never heard alpha-gal described that way, but there were other, equally sinister explanations.",
+      "zh": "在农村社区里，alpha-gal 不只是攻击身体。它攻击的是一种生活方式。养殖、牧场经营、打猎、饲养和食用动物：你被教导过一直要做的一切，突然都成了对你不利的事。连周围的景观也变得有毒。四十年前，当艾滋病流行病在纽约肆虐时，一些南方浸信会教徒把它称为上帝的审判——对受害者生活方式的惩罚。我从未听人这样形容 alpha-gal，但还有其他同样阴森的解释。"
+    },
+    {
+      "id": "p039",
+      "en": "“I’m sure you’ve heard all the conspiracy theories,” Rick Blubaugh, an emergency-room doctor in Branson, Missouri, told me one morning, at a local diner. “There is a whole counterculture out there.” Lyme disease began as a biological weapon, one theory suggested. The bacterium that causes it, Borrelia burgdorferi, was named for the entomologist Willy Burgdorfer. During the Cold War, Burgdorfer did research for the U.S. military, infecting ticks for potential use as a bioweapon. But the Lyme-disease theory was soon debunked: Borrelia burgdorferi has been around since at least 1894, tick researchers pointed out, when some mice with the bacteria were collected on Cape Cod. Alpha-gal was more of a private enterprise, another rumor contends. Bill Gates, the co-founder of Microsoft, has invested heavily in lab-grown meats, which have no alpha-gal. His foundation has also funded research to genetically modify ticks to protect cattle. What if that work triggered the epidemic? “Covid got out of the lab. Did this get out, too?” Blubaugh said.",
+      "zh": "布兰森（Branson，密苏里州）的一位急诊科医生里克·布卢博（Rick Blubaugh）在一家当地小餐馆清晨对我说：“我敢肯定你已经听过所有阴谋论了。外面真有一整个反主流圈子。” 有人提出一种说法：莱姆病一开始是生物武器。造成它的细菌伯氏疏螺旋体（Borrelia burgdorferi）曾以发明该细菌命名者——昆虫学家威利·博格多菲尔（Willy Burgdorfer）的名字命名。冷战时期，博格多菲尔曾替美国军方做过研究，曾培养过感染蜱虫的标本，探讨其潜在的生物武器用途。但莱姆病起源理论很快被推翻：一位位蜱虫研究者指出，Borrelia burgdorferi 至少自1894年以来就已存在，当时在卡普科德（Cape Cod）就已采集到带有这种细菌的老鼠。另一种说法认为，alpha-gal 更像是某种“私人企业”事件。微软联合创始人比尔·盖茨（Bill Gates）重金投资了实验室培育肉类，而这种肉不含 alpha-gal。他的基金会也资助过用于基因改造蜱虫以保护牛群的研究。那会不会就是引发这场流行的元凶？“新冠是从实验室跑出来的。这个是不是也从实验室跑出来了？”布卢博这样问。"
+    },
+    {
+      "id": "p040",
+      "en": "That theory has also been roundly dismissed: the research funded by the Gates Foundation wasn’t on lone-star ticks, and it had no relation to alpha-gal. Yet Blubaugh can see why the syndrome’s sudden rise seems suspect. When he started working in Missouri, twenty years ago, he almost never saw alpha-gal cases. “It’s almost daily now,” he said. People used to mistake the syndrome for other allergies; now they do the opposite. They come in with a rash, a stomach ache, a racing pulse, and assume that they’re allergic to meat. “They’ve already given themselves two or three epi shots and they say they need more,” Blubaugh told me. “And I think, Let’s hold off. Epinephrine makes you jittery and anxious, and your heart rate goes up. Maybe it’s causing the problem.”",
+      "zh": "这个理论同样被广泛驳斥：盖茨基金会资助的研究并未针对独星蜱（lone-star tick），而且与 alpha-gal 也没有关联。然而布卢博能理解为何这种综合征突然激增会让人觉得可疑。二十年前他在密苏里州开始工作时，几乎从未见过 alpha-gal 病例。“现在几乎每天都能见到。”他如是说。人们过去常把这种综合征误认为其他过敏；现在却恰恰相反。他们带着皮疹、腹痛、心跳加快而来，并认为自己对肉类过敏。“他们已经打了两到三针肾上腺素，之后又说还要更多，”布卢博告诉我。“我会想：先等等。肾上腺素会让人紧张、焦虑，心率也会上升。也许正是它在加重问题。”"
+    },
+    {
+      "id": "p041",
+      "en": "True anaphylaxis is hard to mistake. When it seizes the immune system, the body goes haywire in a few ways at once. The skin may blister and the eyes inflame, the stomach knot up and the bowels loosen. If the throat and the tongue swell up, people often make an odd sound when they breathe in—a whistling squeak, or screech, known as stridor. “That’s when I’ll give epinephrine,” Blubaugh said. He gets a case like that almost every week, he told me. But that, too, gives him pause. “People have been getting bitten by ticks for thousands of years. Why are we seeing this disease all of a sudden?”",
+      "zh": "真正的过敏性休克并不容易误诊。当它发作到免疫系统时，身体会几乎同时在多个方面失控。皮肤可能起泡，眼睛发炎，胃会绞紧，肠道也可能变得松弛。如果喉咙和舌头肿胀，很多人吸气时会发出异样的声音——一种尖细的哨音或刺耳的高鸣，医学上称为吸气性喘鸣。布卢博（Blubaugh）说：“那时候我会给对方注射肾上腺素。”他告诉我，他几乎每周都会遇到这种情况。但这同样也让他困惑：“人类被蜱虫叮咬已有数千年历史，我们为何突然开始看到这种疾病？”"
+    },
+    {
+      "id": "p042",
+      "en": "Matthew Overcast, a state representative for southern Missouri, didn’t believe in alpha-gal when he first heard about it from his family doctor. “I wouldn’t have said it was a conspiracy theory,” he told me. “But when he threw it out there I was, like, ‘Wait, what?’ ” Overcast has since become one of the country’s strongest advocates for alpha-gal awareness. When his oldest daughter, Lyla, was in kindergarten seven years ago, she began to suffer from escalating waves of symptoms: nausea, rashes, cramps, migraines, and easily fractured bones. Before her doctors diagnosed her with alpha-gal, they thought she might have leukemia or an autoimmune disease. “As a parent, you’re both pissed off and relieved when it turns out to be just an allergy,” Overcast said. Around that time, Lyla’s sister Adalynn began to get hives and stomach aches; then her brother Jackson came home with a rash on his face. Both were later diagnosed with alpha-gal, along with Overcast’s aunt, his youngest brother, and his wife, Jessica.",
+      "zh": "马修·奥弗卡斯特（Matthew Overcast）是密苏里州南部的一名州议员，最初听到家庭医生提到阿尔法-半乳糖综合征（alpha-gal）时并不相信。“我不会说那是阴谋论，”他告诉我，“但当他抛出这个说法时，我当时就是‘等等，这是怎么回事？’”此后，奥弗卡斯特已成为全美最积极的 alpha-gal 认知倡导者之一。七年前，他大女儿莱拉（Lyla）上幼儿园时，开始出现越来越严重的一串症状：恶心、皮疹、腹绞痛、偏头痛，以及容易骨折。医生在确诊她为 alpha-gal 之前，先是怀疑她可能患有白血病或自身免疫性疾病。“作为父母，发现只是过敏时，你既会气愤，也会松一口气，”奥弗卡斯特说。就在那段时期，莱拉的妹妹阿达琳（Adalynn）也开始出现荨麻疹和胃痛，随后她的弟弟杰克逊（Jackson）回家时脸上起了皮疹。后来他们都被诊断为 alpha-gal，和奥弗卡斯特的姑姑、最小的弟弟，以及妻子杰西卡（Jessica）一样。"
+    },
+    {
+      "id": "p043",
+      "en": "“The Supreme Court has declined to uphold a ruling overturning the Ninth Circuit’s denial of a stay to block a district-court ban. Happy? Or outraged?”",
+      "zh": "“最高法院拒绝维持一项推翻第九巡回上诉法院驳回中止执行下级法院禁令申请的裁定。你是觉得高兴吗？还是愤怒？”"
+    },
+    {
+      "id": "p044",
+      "en": "Cartoon by Robert Leighton",
+      "zh": "罗伯特·莱顿（Robert Leighton）绘制的漫画"
+    },
+    {
+      "id": "p045",
+      "en": "Last year, Overcast filed a bill with the Missouri legislature requiring labs to report and track all positive tests for alpha-gal. (It was passed in May and awaits the governor’s signature.) The data on blood samples from military recruits are twenty years old, and without up-to-date numbers it’s hard to know where and how to combat the syndrome. Twelve other states now track alpha-gal, and the preliminary numbers are alarming. In Virginia alone, since September, more than fourteen thousand people have tested positive for alpha-gal antibodies, most of them, probably, after showing symptoms of the allergy. On a per-month basis, that’s more than ten times the cases of Lyme disease recorded between 2010 and 2020—and Virginia’s alpha-gal rates aren’t nearly as high as Missouri’s.",
+      "zh": "去年，奥弗卡斯特（Jessica Overcast）向密苏里州议会提交了一项法案，要求实验室报告并追踪所有α-半乳糖基（alpha-gal）阳性检验结果。（该法案已于五月通过，正在等待州长签署。）军队新兵血样的数据已有二十年历史，没有最新数字，就很难知道这种综合征在何地、以何种方式被有效遏制。现在已有12个州开始追踪α-半乳糖基，初步数据令人警惕。单在弗吉尼亚州，去年9月以来，已有超过一万四千人检测出α-半乳糖基抗体阳性，其中多数人很可能是在出现过敏症状后才检测。按月计算，这个数字已经远高于2010年至2020年间每月记录到的莱姆病病例，至少高出十倍以上——而且弗吉尼亚的α-半乳糖基发病率还远低于密苏里州。"
+    },
+    {
+      "id": "p046",
+      "en": "It’s not clear what happens next. “I don’t see alpha-gal in the same light as measles or tuberculosis,” Blubaugh told me. “The data may help get more funding, but what’s the end goal? Can we cure it? Can we control it?” How do you stop an epidemic that seems to be everywhere and nowhere at once? That upends lives yet often goes undiagnosed? That requires wrenching social changes in how people eat, socialize, and move through nature? As Overcast put it, “It’s the only allergen you can’t avoid.”",
+      "zh": "接下来会怎样并不清楚。布卢博（Blubaugh）告诉我：“我不把α-半乳糖基看作麻疹或结核病那样。” 他接着说：“这些数据也许能带来更多资金，但最终目标是什么？我们能治好吗？我们能控制吗？” 那么，当一种疫情似乎无处不在又似乎无处可寻时，如何遏制它？它会颠覆人们的生活，却常常未被诊断出来？这就要求人们在饮食、社交和接触自然的方式上做出剧烈的社会性改变吗？奥弗卡斯特指出，这是“唯一你避不开的过敏原。”"
+    },
+    {
+      "id": "p047",
+      "en": "Red meat and dairy are just the beginning. Animal products are woven so tightly, so microscopically, into what we consume that we often don’t know they’re there: Doritos, ramen, marshmallows, and frosted cereals; French fries cooked in beef tallow; tofu prepared on a grill that just had meat on it—even the most innocuous products can contain beef, pork, or dairy. The amount may be infinitesimal—white sugar and bottled water are sometimes purified with charred animal bones, for instance—but some hypersensitive alpha-gal patients avoid the risk anyway. They scan food labels for “natural flavoring”—industry shorthand, in many cases, for beef and pork extracts—the way other people scan for artificial coloring.",
+      "zh": "红肉和乳制品只是起点。动物制品已以极其紧密、极其微观的方式嵌入了我们摄入的食物中，以致我们常常不知道它们就在里面：玉米片、拉面、棉花糖和糖霜麦片；用牛油煎的薯条；刚煎过肉类的烤架上做的豆腐——甚至是看似最无害的食品也可能含有牛肉、猪肉或奶制品。含量可能微乎其微——例如白砂糖和瓶装水有时会用烧焦动物骨粉进行净化——但一些对α-半乳糖基高度过敏的患者仍会规避一切风险。与他人会查找“人工色素”一样，他们会去看食品标签上的“天然香精”，这在许多情况下是行业里对牛提取物和猪提取物的代称。"
+    },
+    {
+      "id": "p048",
+      "en": "“When Lyla was first diagnosed, I cried in the grocery store,” Jessica Overcast told me. “I didn’t know what to feed her.” It was a weekday night, and the family was having dinner around the kitchen table. The Overcasts live an hour southeast of Springfield, in a small white farmhouse on a county road lined by forests and fields. Jessica, who is thirty-two and works for an online educational company, had made roasted salmon. While she talked, her four youngest, ages five to eleven, bounced and lolled and hotdogged around the kitchen, peering at me curiously, then dashing away. Lyla was baking boxed brownies for dessert. She was in seventh grade now, tall and skinny, with glasses, braces, and a bright, impish, self-possessed spirit.",
+      "zh": "“莉拉刚确诊时，我在超市哭了。”杰西卡·奥弗卡斯特（Jessica Overcast）对我说。“我根本不知道该给她喂什么。” 那是个平日晚间，家人围着厨房餐桌吃晚饭。奥弗卡斯特一家住在斯普林菲尔德东南约一小时车程的乡间小白色农舍，沿着林地和田野之间的县道。三十二岁的杰西卡在一家在线教育公司工作，做了烤三文鱼。她边说边听，四个最小的孩子（五岁到十一岁）在厨房里蹦蹦跳跳、三五成群，时而好奇地看我一眼，又飞快跑开。莉拉正在烤方形盒装蛋糕作为甜点。她现在读初中七年级，个子高瘦，戴着眼镜和牙套，神情明亮、俏皮，又很镇定。"
+    },
+    {
+      "id": "p049",
+      "en": "“We’re really blessed that they like their vegetables,” Jessica said, putting some mashed broccoli and carrots on the table. “Even supplements can be difficult to know if they’re safe.” Iron and Vitamin B12 are often derived from beef organs, Vitamin D3 from lanolin secreted by the sebaceous glands of sheep. Other supplements come in gelatin capsules, made from collagen derived from cow and pig bones and hides, or mixed with dairy binders such as lactose and sodium caseinate. We wash our bodies with animal products (soap can contain tallow), brush our teeth with them (toothpaste can contain glycerin obtained from animal fat), and moisten our skin with them (lotions can contain lanolin, collagen, and tallow). “I always tell my husband, we have done an excellent job,” a rancher in Missouri, whose son has alpha-gal, told me. “I am so proud of how the beef industry has infiltrated every single thing.”",
+      "zh": "“我们真是很幸运，他们喜欢吃蔬菜，”杰西卡说着，把一些捣碎的西兰花和胡萝卜放到桌上。“就连补充剂也很难确认是不是安全。” 铁和维生素B12常常来自牛内脏，维生素D3则来自羊皮脂腺分泌的羊毛脂。其他补充剂装在明胶胶囊里，明胶来自牛骨和猪皮提取的胶原蛋白，或与乳制粘合剂如乳糖、焦磷酸钠（sodium caseinate）混合。我们洗澡时也在用动物来源的产品（肥皂可能含有牛油），刷牙时也在用它们（牙膏可能含有从动物脂肪中提取的甘油），给皮肤保湿时也会用到它们（乳液可能含有羊毛脂、胶原蛋白和牛油）。“我总跟丈夫说，我们做得很好，”一位住在密苏里州、儿子患有alpha-gal综合征的牧场主告诉我，“我很自豪地看见，牛肉行业已经渗透到每一件事里了。”"
+    },
+    {
+      "id": "p050",
+      "en": "If there is one thing that would improve the lives of people with alpha-gal, Scott Commins told me, it’s better labelling: “Just tell us what’s in this stuff!” Drugs are a particular risk. When they’re injected into a vein, the allergic reaction can come within minutes rather than hours, and it can be life-threatening. Heparin, a common blood thinner, is extracted from pig intestines. Insulin can come from pig pancreases, estrogen from the urine of pregnant mares. Vaccines can contain amino acids or enzymes from beef. Antivenins for snakebites are made from horse blood. “The medical community is going to have to have a reckoning,” Lea Hamner, an epidemiologist on Martha’s Vineyard, told me. “Rabies is a hundred per cent fatal. Do you avoid the vaccine or risk the allergic reaction?” Even drugs that were once safe may have since been reformulated with animal products, she said. “Having to do that level of research on everything—that is a terrifying place to be.”",
+      "zh": "如果有什么能改善alpha-gal患者生活的，斯科特·科明斯告诉我，那就是更好的标识：“只要告诉我们这些东西里都有什么就行！” 药物是一个特别危险的领域。药物一旦静脉注射，过敏反应可能在几分钟内出现，而不是几个小时，并且可能危及生命。肝素，一种常见的抗凝药，提取自猪小肠。胰岛素可能来自猪胰腺，雌激素可来自怀孕母马的尿液。疫苗中也可能含有来自牛的氨基酸或酶。抗蛇毒血清是用马血制成的。位于马撒葡岛的流行病学家莉娅·哈姆纳告诉我，“医疗界必须认真面对这个问题。” “狂犬病是一种一百％致死的疾病。你是在冒着过敏反应的风险下接种疫苗，还是不接种去赌命呢？” 她说，即使是曾经被认为安全的药物，也可能后来被改配方后加入了动物来源成分。“不得不对每一样东西都做这么深入的调查——那是个可怕的处境。”"
+    },
+    {
+      "id": "p051",
+      "en": "The Overcasts are old hands at avoiding alpha-gal by now. “It’s really not something you want to screw around with,” Matthew Overcast told me, at his house that night. “It can go from a moderate reaction to anaphylaxis like that.” He snapped his fingers. “We’re an hour’s drive from the hospital. We only have two EpiPens per kid, and you have to administer them every fifteen minutes. So, we’re kind of in a bind.” Last year, to keep some red meat in their diet, they took up emu farming. Seven of the prehistoric-looking birds were stalking around a pen outside, glaring at visitors as if we were the ones on the wrong continent. Inside the house, a plastic bin in the TV room held a striped emu chick, waddling under a heat lamp.",
+      "zh": "奥弗卡斯一家早已是回避alpha-gal问题的老手了。“这事儿你就是别乱来，真的太危险了，”马修·奥弗卡斯那晚在他家里跟我说。“反应可以从中度反应一路发展成那样的过敏性休克。”他打了个响指。“我们离最近医院要开车一小时。每个孩子只配有两支肾上腺素笔，而且要每十五分钟打一次。所以我们总有点被迫无奈。” 去年，为了在饮食里保留一点红肉，他们开始养鸸鹋。七只看起来像远古生物的鸟在外面的围栏里巡逻，像在盯着访客看，仿佛是我们站错了地盘一样。进了屋，电视房里有一个塑料箱，里面是一只带条纹的鸸鹋小鸡，在暖灯下慢慢踱步。"
+    },
+    {
+      "id": "p052",
+      "en": "“We tried ostrich, but they died off in the first week,” Matthew said. Then, last spring, a tornado hit a local emu farm, and one of the birds got loose when his cage was destroyed. “He’d been wandering around for two or three months when we rescued him. We’re hoping to find an affordable way to produce them, but it’s a little bit of a challenge.” Their house sits on only an acre of land—when Overcast quit his job at a law firm to be a state representative, he took a six-figure pay cut—and the closest U.S.D.A.-certified slaughterhouse that will process the birds is in Arkansas. Still, for now, the meat is worth it. Emu is darker than beef and just as rich, yet it has no alpha-gal. “We did a blind taste test and a lot of people failed,” Jessica said.",
+      "zh": "“我们试过养鸵鸟，但第一周它们就全死了，”马修说。然后去年春天，一场龙卷风袭击了一家本地鸸鹋农场，他家的一只鸟在笼子被毁后逃了出来。“他被我们救回来前，已经在外面游荡了两到三个月。我们希望找到一种负担得起的生产方式，但这确实有点难。” 他们的房子只有一英亩地，马修离开律师事务所去当州议员时，薪水下降了六位数；离得最近、能处理这些鸟并通过美国农业部（U.S.D.A.）认证的屠宰场在阿肯色州。尽管如此，目前这肉还是值得买。鸸鹋肉比牛肉更黑，脂香也一样丰富，却不含alpha-gal。杰西卡说，“我们做过盲测，结果有很多人都没猜对。”"
+    },
+    {
+      "id": "p053",
+      "en": "“It tasted just like the real thing!” Lyla said. I asked her if she missed red meat. “Oh, definitely. Burgers! They just poofed out of existence, and I was, like, ‘Come back!’ ”",
+      "zh": "“它尝起来就像真的一样！”Lyla 说。我问她是否想念红肉。“哦，当然想。是汉堡！它们直接凭空消失了，我当时就想，‘快回来！’”"
+    },
+    {
+      "id": "p054",
+      "en": "Red meat may one day be widely available for people with alpha-gal, but it probably won’t come from giant birds. Six years ago, the F.D.A. approved the first bioengineered, alpha-gal-free pig for human consumption. Bred by a biotech company called Revivicor, now owned by United Therapeutics, it was originally designed to provide organs for transplant. To prevent the organs from being rejected by their new human hosts, Revivicor deactivated a gene that codes for the enzyme that creates the alpha-gal molecule. A kidney from one of those pigs was the first to be transplanted into a human body, at N.Y.U. Langone Health, in 2021.",
+      "zh": "对 α-gal 过敏的人来说，红肉也许将来会更容易买到，但它大概不会来自“巨型鸟类”。六年前，美国食品和药物管理局（F.D.A.）批准了第一种用于人类食用的生物工程化 α-gal 缺失猪。该猪由一家名为 Revivicor 的生物技术公司培育，而该公司现为 United Therapeutics 所有，最初目的是用于提供移植器官。为了防止这些器官在新的人体宿主中被排斥，Rivicor 关闭了一个编码产生 α-gal 分子的酶的基因。2021 年，这些猪的一个肾脏在纽约大学朗格恩健康中心（N.Y.U. Langone Health）完成了首次人体移植。"
+    },
+    {
+      "id": "p055",
+      "en": "Eating the pigs was an afterthought. “We are very, very focussed on xenotransplantation,” John Bianchi, the vice-president for regulatory affairs at United Therapeutics, told me. The GalSafe pigs, as they’re called, are raised in an unmarked facility in rural Virginia, surrounded by razor wire and surveillance cameras. “We don’t want to invite any troublesome actors,” Bianchi said, when I went there in April. “There is incredible public concern and anxiety about gene-edited animals. But I think the GalSafe pig turns that upside down. Now all of a sudden you have a product that primarily benefits the consumer rather than the producer.”",
+      "zh": "吃这些猪只是后续才想到的事情。United Therapeutics 的监管事务副总裁 John Bianchi 告诉我说：“我们非常非常专注于异种移植。” 这些“GalSafe 猪”被称为 GalSafe，在弗吉尼亚州乡村地区一个不显眼的设施里饲养，周围有刀片网和监控摄像头。我四月去那里时，Bianchi 说：“我们不想招惹任何惹事者。公众对基因编辑动物有着巨大的担忧和焦虑。但我认为 GalSafe 猪扭转了这种局面。现在，突然之间，你得到的是一种主要惠及消费者而非生产者的产品。”"
+    },
+    {
+      "id": "p056",
+      "en": "My visit to the pig facility felt like touring a biohazard site. Codes were entered, security officers alerted, the car hosed off. To protect the pigs from contaminants and human pathogens, I had to change into sterile scrubs, rubber boots, and gloves, then dip my soles in a pan of disinfectant. Still, when I stepped inside the nursery, I found a drove of perfectly ordinary-looking pink pigs. They were four months old, trotting around in large pens with feed piped into bins from above. Some big rubber balls had been tossed in to keep them distracted. The gene editing had no effect on their health, Bianchi assured me, and they tasted just like other pigs. So far, only one company has been licensed to sell GalSafe pork: Amaroo Hills, based in North Carolina and Tennessee, which also raises emu. But word has spread in the meat-starved alpha-gal community. “I’m hoping to get my hands on a hog or two who have that gene removed,” Matthew Overcast told me.",
+      "zh": "我参观那座猪场时，感觉像是在参观生物危险区域。进出需要输入代码，安保人员被提醒，汽车要冲洗消毒。为了防止猪只受到污染和人类病原体的影响，我必须换上无菌手术服、橡胶靴和手套，并把鞋底浸入消毒液。即便如此，当我走进保育场时，看到的却是一群外表普通的粉红色小猪。它们四个月大，在大栏舍里来回走动，饲料从上方管道直接送进料槽。一些大橡胶球被扔进去，用来让它们分散注意力。Bianchi 向我保证，基因编辑对它们的健康没有影响，而且它们尝起来和其他猪没什么两样。到目前为止，只有一家获得许可的公司能销售 GalSafe 猪肉：阿马罗山公司（Amaroo Hills），总部在北卡罗来纳州和田纳西州，同时也养食用鸸鹋。正因为如此，这个渴望红肉的 α-gal 群体很快就听说了。Matthew Overcast 告诉我说：“我希望能拿到一两头把这个基因去掉的猪。”"
+    },
+    {
+      "id": "p057",
+      "en": "The day before I visited the pigs, I’d tasted some GalSafe pork at the University of North Carolina. It was being served to an alpha-gal patient as part of a double-blind clinical trial organized by Scott Commins and Sarah McGill, a gastroenterologist at the medical school. McGill had chosen thirty patients who tested positive for alpha-gal and had symptoms of the syndrome. In previous weeks, they had twice come to the university and eaten a bowl of cooked ground pork. Then they waited six hours to see what happened. The pork looked identical on both visits, but one serving came from a regular pig, the other from a GalSafe pig. Neither the patients nor the researchers knew which was which.",
+      "zh": "在我去参观那些猪之前一天，我在北卡罗来纳大学尝过一些 GalSafe 猪肉。它是作为一项双盲临床试验的一部分，供一位 alpha-gal 患者食用的，而这项试验由斯科特·科明斯（Scott Commins）和沙拉·麦吉尔（Sarah McGill）医生组织。麦吉尔是一名医学院的胃肠科医生，她选了三十位检测呈阳性且有 alpha-gal 综合征症状的患者。此前几周，患者们曾两次来到大学食堂，吃了一碗煮熟的猪肉末。随后他们等待了六个小时观察反应。两次喂食外观完全一样，但一份来自普通猪，另一份来自 GalSafe 猪。无论是患者还是研究人员，都不知道哪份是哪一种。"
+    },
+    {
+      "id": "p058",
+      "en": "The GalSafe pork I tasted was as ordinary as advertised, just a little bland for lack of spices. McGill and Commins expected it to have no allergic effect on their patients, and for the opposite to be true of the regular pork. But when McGill sent me her summary of the study later, the results were equivocal. The regular and the GalSafe pork caused allergic reactions at about the same rate—roughly twenty per cent of the time. The GalSafe caused only nausea and, in one case, faint flushing; the regular pork gave some patients hives, as well, and sent one woman to the hospital with recurrent vomiting. But most patients had no reaction to either meat.",
+      "zh": "我尝过的 GalSafe 猪肉和宣传中描述的一样普通，只是因为缺少香料而略显清淡。麦吉尔和科明斯本来预期它对患者不会产生过敏反应，而普通猪肉则会产生。可当麦吉尔后来把研究总结发给我时，结果却是模棱两可的。普通猪肉和 GalSafe 猪肉引发过敏反应的比例大致相同——大约百分之二十左右。GalSafe 猪肉只引起了恶心，以及在一个案例中出现了一过性的潮红；普通猪肉也让一些患者长起了荨麻疹，并且有一位女性因反复呕吐被送进医院。但大多数患者对两种肉都没有出现反应。"
+    },
+    {
+      "id": "p059",
+      "en": "“I have more questions than answers right now,” McGill told me. Were some of the patients false positives for alpha-gal? Did they have to eat meat more than once to reignite the allergy? Did their fear of a reaction alone make them react to the GalSafe pork? “It’s curious. It’s discordant,” she said. “I know that people can get way sick from alpha-gal, and I think it’s still underdiagnosed. But we’ve got a long way to go. It’s really humbling.”",
+      "zh": "“现在我有的不是答案，而是更多问题，”麦吉尔告诉我。“有些患者其实是 alpha-gal 的假阳性吗？他们是否需要多次进食肉类才会把过敏重新引发？仅仅对反应的担忧，是否会让他们对 GalSafe 猪肉也出现反应？‘这很奇怪，前后不一致。’她说。‘我知道有人会因为 alpha-gal 而严重生病，而且我认为这种情况仍然被低估了。但我们还有很长的路要走。这真让人感到谦卑。’”"
+    },
+    {
+      "id": "p060",
+      "en": "Food intolerances are part mind and part body. They’re bound up in our habits and aversions, fears and imaginings. If you’re allergic to bees, a sting can kill you. But most allergies aren’t that extreme—they’ll give you hives but won’t stop your heart—and most intolerances aren’t allergies at all. You may get indigestion from gluten or lactose intolerance, but you’ll never go into anaphylactic shock. True allergies build up antibodies in the blood, which react to the presence of certain molecules. But even a system crawling with allergy antibodies sometimes needs another nudge before it attacks.",
+      "zh": "食物不耐受兼具心理和生理成分，它们与我们的习惯、厌恶、恐惧和想象交织在一起。若你对蜜蜂过敏，被蜇一针就可能致命；但大多数过敏反应没有那么极端——它们会让你起荨麻疹，却不至于让心脏停止跳动——并且多数“食物不耐受”根本不是过敏。你可能因麸质或乳糖不耐受而消化不良，但你不会发生过敏性休克。真正的过敏会在体内产生抗体，这些抗体会对某些分子作出反应。但即使一个人全身免疫系统里充满了过敏抗体，有时也还需要另一个“触发点”才会真正发动攻击。"
+    },
+    {
+      "id": "p061",
+      "en": "“I get tick bites, and I make low-level antibodies for alpha-gal,” Jeffrey Wilson, an allergist and immunologist at the University of Virginia, told me. “But I love to smoke brisket, and I never stopped. Why can I do that, and others end up in the emergency room?” Wilson believes that some reactions could be triggered by sources other than alpha-gal. He likens it to chronic urticaria, another condition that some of his patients have. “They break into hives for no rhyme or reason,” he said. A tick bite boosts allergy antibodies of all sorts, not just for alpha-gal. In some people, this could prime their system for reactions at any time, he said. “It’s like you have too much information in your body, and, with stress or other life things, you break out.”",
+      "zh": "弗吉尼亚大学的过敏与免疫学医生杰弗里·威尔逊（Jeffrey Wilson）对我说：“我会被蜱虫咬，而且我会为α-半乳糖基（alpha-gal）产生低水平抗体。可我很喜欢吃烤牛胸肉，而且我从未停过。为什么我可以这样做，而有些人却最终进了急诊室？”威尔逊认为，有些反应可能是由其他来源触发的，不仅仅是alpha-gal。他将其比作慢性荨麻疹，这是他的一些病人也会患上的另一种情况。“他们会无缘无故长出风团，”他解释道。蜱虫叮咬会提升体内多种过敏抗体，而不只是针对alpha-gal。在某些人身上，这可能会让身体随时做好反应准备。”他补充道：”这就像你身体里有了太多‘信息’，在压力或其他生活因素作用下，它们就会爆发出来。”"
+    },
+    {
+      "id": "p062",
+      "en": "Americans didn’t used to be this sensitive. Between 1997 and 2011, the rate of food allergies in children increased by fifty per cent, then did so again between 2007 and 2021. When I was in Missouri, I had lunch at a café in Springfield called the Safe Spoon. The menu was free of alpha-gal and of the nine most common food allergens—dairy, eggs, fish, peanuts, sesame, shellfish, soy, tree nuts, and wheat. “The term ‘vegan’ is basically a curse word around here,” the owner told me. Yet the place was packed. Many of the customers had more than one allergy, she said, and some hadn’t been able to share the same meal with their families for years.",
+      "zh": "美国人以前并没有这么敏感。从1997年至2011年，儿童食物过敏率上升了50%，之后在2007年至2021年又再次上升。去年我在密苏里州时，在斯普林菲尔德的一家名为“安全勺子”（Safe Spoon）的咖啡馆吃午饭。那里的菜单不含alpha-gal，也不含九种最常见的食物过敏原：乳制品、鸡蛋、鱼、花生、芝麻、贝类、大豆、坚果和小麦。店主告诉我：“‘素食主义者’这个词在这里几乎算是脏话。”尽管如此，店内却坐满了客人。她说，许多人有不止一种食物过敏，而且有些人多年都无法与家人共进同一顿饭。"
+    },
+    {
+      "id": "p063",
+      "en": "Allergists themselves are partly to blame. For decades, they told new parents to keep peanuts and other allergenic foods out of their children’s diets. But the gut, it turns out, is extremely good at habituating itself to allergens. The skin and lungs are not. When children stopped eating peanuts, the allergens still found ways into their bodies. Between 1997 and 2010, peanut allergies quadrupled in the U.S.",
+      "zh": "过敏科医生自己也有一部分责任。几十年来，他们常常建议新生儿父母让孩子远离花生和其他高致敏食物。可事实是，肠道对过敏原具有很强的“适应”能力，而皮肤和肺却没有。当孩子停止食用花生后，致敏物仍会找到方式进入他们体内。1997年至2010年间，美国花生过敏率增长了四倍。"
+    },
+    {
+      "id": "p064",
+      "en": "Such overcaution is at the heart of three of the most popular explanations for the allergy epidemic: the hygiene hypothesis (we’ve stunted our immune systems by being too clean), the old-friends hypothesis (we’ve ravaged our gut biome with bad food and antibiotics), and the epithelial-barrier hypothesis (we’ve weakened the protective linings of our skin and lungs with disinfectants and other chemicals). But none of them can fully account for the rise of alpha-gal syndrome. “That is one of the fascinating things about it,” Commins told me. “It breaks all the allergy rules.” Some of the worst cases of the syndrome, for instance, have been on poor farmsteads in South Africa’s Eastern Cape. “They represent everything we’ve been told about nonallergic environments,” Commins said. “Dirt floors, babies without shoes, animals in the home, yet still you can become allergic.”",
+      "zh": "这种过度谨慎心态正是解释过敏流行的三大主流理论核心：卫生假说（我们因生活过于洁净而抑制了免疫系统）、旧朋友假说（我们用不健康食物和抗生素破坏了肠道微生物群）、以及上皮屏障假说（我们用消毒剂等化学物削弱了皮肤和肺部的保护屏障）。但这些都无法完全解释alpha-gal综合征的上升。“这也是它最有趣的地方，”康明斯（Commins）对我说，“它打破了所有过敏规则。”例如，一些最严重的病例发生在南非东开普省（Eastern Cape）的贫困农庄。“它们似乎完全符合我们对‘非过敏环境’所持的所有观点，”康明斯说，“泥土地面、孩子不穿鞋、家里有动物，但你仍然可能变得过敏。”"
+    },
+    {
+      "id": "p065",
+      "en": "The results of the GalSafe-pork trial were, in some ways, par for the course. If you go into any classroom and draw blood from a hundred third graders, Commins said, fifteen or so will test positive for peanut antibodies, but only three or four will have symptoms when they eat peanuts. “This is a problem with all allergies,” he said. “I think it’s worse with alpha-gal because of the dang ticks.” Sometimes the antibodies can be stirred to action by exercise, alcohol, or a combination of the two. (In one German alpha-gal study, the researchers had some subjects drink a glass of wine or half a litre of beer and spin on a stationary bike.) Sometimes the antibodies just can’t be bothered.",
+      "zh": "GalSafe-pork 试验的结果在某种程度上属于“家常便饭”。康姆斯说，如果你走进任何一间教室，对一百名三年级学生抽一口血，差不多会有十五个人检测出对花生抗体阳性，但只有三四个人在吃花生后会出现症状。 “这也是所有过敏反应都存在的问题，”他解释道。“我认为 alpha-gal 的情况更糟，因为是那些该死的蜱虫。” 有时运动、酒精，或两者叠加会把这些抗体刺激到“出动”。（在一项德国的 alpha-gal 研究里，研究人员让部分受试者喝一杯葡萄酒或半升啤酒后，再在固定自行车上骑行。）有时这些抗体就像懒得出手。"
+    },
+    {
+      "id": "p066",
+      "en": "The Overcasts are so keen to reintroduce red meat to their diet that they have started raising emus. Adalynn and her sister Josephine tend to one of the birds.",
+      "zh": "Overcasts 家族为了尽快把红肉重新加回饮食中，已经开始饲养鸸鹋。阿达琳和她的妹妹约瑟芬轮流照料其中一只鸸鹋。"
+    },
+    {
+      "id": "p067",
+      "en": "Commins is working on a more definitive test for alpha-gal syndrome. In his lab at the university, he showed me a picture of a group of mast cells—the immune system’s first responders—as seen through a microscope. He called them Cluster 43. The cells had appeared in blood samples from patients with the syndrome after he activated their antibodies with an alpha-gal antigen. If the method could be automated, it could cut down drastically on false positives, Commins said. “It’s fancy but not otherworldly; the technology to do it could be there in three to five years.” It could also lead to more targeted treatments.",
+      "zh": "康姆斯正在研发一项更有决定性的 alpha-gal 综合征检测试验。在大学实验室里，他给我看了一张显微镜下的肥大细胞图片——免疫系统的“第一反应者”。他把它们叫作 Cluster 43。当他用 alpha-gal 抗原激活这些患者的抗体后，这些细胞会出现在综合征患者的血样里。若这个方法能实现自动化，能大幅减少假阳性，康姆斯说，“这项技术并不神秘；三到五年内就可能成熟。” 它也可能推动更有针对性的治疗方案出现。"
+    },
+    {
+      "id": "p068",
+      "en": "When Commins has patients who are highly allergic, he often prescribes Xolair. Originally approved for asthma, Xolair can also prevent severe reactions to food allergies. Some patients even eat meat while they’re on it, though it’s not yet approved for that use. Others swear by acupuncture that focusses on the nerves of the outer ear. “I’m fascinated by it,” Commins told me. “The best I can think of is that the needles are manipulating the signal from the vagus nerve—this master controller that has a branch that goes to the back of the ear. Mast cells sit at the end of nerve endings. So it may be that acupuncture somehow manipulates what the mast cell is sensing.” Allergists have always downplayed the role of the nervous system, he said. “But I think about my own kid. He eats a walnut and has hives within seconds. That has got to be the nervous system. Nothing else moves that fast. In my mind, that is where we are going. That is the next great thing.”",
+      "zh": "当康姆斯遇到高度过敏的患者时，他常会开处方注射 Xolair。该药最初是为哮喘获批的，但也能预防食物过敏引发的重症反应。有些患者甚至在服用期间吃肉，尽管这一用途还未获批。另一些人则坚定地认为耳针疗法很有用，尤其是刺激耳廓外围神经的针灸。 “我对此很感兴趣，”康姆斯对我说，“我能想到的最好解释是，针灸可能是在调节迷走神经的信号——这个主控系统有一支分支通往耳后的部位。肥大细胞位于神经末梢的末端，所以针灸或许能以某种方式改变肥大细胞感知到的信号。” 他说，过敏科医生向来低估了神经系统的作用。“但我每每想到我自己的孩子：他吃下一颗核桃，几秒钟内就会起风团。没有别的机制能这么快。” 在我看来，这就是我们接下来要走的方向。 “那就是下一个重大突破。”"
+    },
+    {
+      "id": "p069",
+      "en": "In the meantime, alpha-gal is a rare challenge to public health. It has no cure, no ironclad diagnosis or epidemiological data, and an expanding horde of ticks to spread it. The only way to stop them, Patrick Roden-Reynolds told me, when we were collecting lone stars on Martha’s Vineyard, may be to kill their hosts—to treat deer less like outdoor ornaments and more like supper. “You want my bold opinion?” he said. “We need to eat our way out of this problem.”",
+      "zh": "与此同时，阿尔法-加尔综合征对公共健康来说是一个罕见而棘手的挑战。它没有治愈方法，没有铁定可靠的诊断手段或确切的流行病学数据，而且传播它的蜱虫数量正在不断扩大。帕特里克·罗登-雷诺兹在我和他一起在马萨诸塞州马萨诸塞维京群岛（Martha’s Vineyard）的草地上采集孤星蜱时告诉我，阻止它们的唯一办法，也许是杀掉它们的宿主——把鹿从“户外观赏物”更像“户外装饰”，变成“待宰的晚餐”。“你想听我大胆的看法吗？”他说。“我们得靠吃掉它们来解决这个问题。”"
+    },
+    {
+      "id": "p070",
+      "en": "On my last day on the Vineyard, the leaders of the anti-tick campaign gathered on Zoom for a war council. Roden-Reynolds, the epidemiologist Lea Hamner, and Virginia Barbatti, the executive director of a nonprofit called Tick Free Martha’s Vineyard, were hunched over their laptops at locations around the island, scrutinizing a map of enemy encampments. Earlier that day, Barbatti’s group had released a sobering new survey of the island’s deer population. Using drones with heat-seeking sensors, it had located nearly five thousand deer on the island’s eighty-eight square miles of land—four times the deer density of central and western Massachusetts.",
+      "zh": "我在维京群岛的最后一天，反蜱虫运动的负责人们聚在 Zoom 上开了次战争会议。罗登-雷诺兹、流行病学家莱娅·哈姆纳（Lea Hamner）以及名为“无蜱虫马莎葡萄园”的非营利组织执行董事弗吉尼亚·巴巴蒂（Virginia Barbatti）坐在全岛各处的各自位置，弯着腰伏在笔记本电脑前，盯着一张敌方据点地图。那天早些时候，巴巴蒂所在小组发布了岛上鹿群的一项触目惊心的新调查。该调查使用配备热成像传感器的无人机，在这座横跨88平方英里的岛上共发现了近五千头鹿——是马萨诸塞州中部和西部鹿密度的四倍。"
+    },
+    {
+      "id": "p071",
+      "en": "“Tick experts, when I tell them our deer density, they just laugh,” Hamner said. “They say, You don’t have a chance.” Hamner, who is thirty-three, is accustomed to places in crisis. Her father worked for U.S.A.I.D. in the Philippines; her mother worked for the World Health Organization there, and later did her doctoral research on sex workers in Peru. Hamner’s first jobs, after getting her master’s in public health at Yale, were in Washington State, where she was plunged into work on tuberculosis, opioid addiction, and then the pandemic. Skagit County, where she was based, had some of the first documented cases of COVID in the U.S., including fifty-two members of the Skagit Valley Chorale. In 2021, when Hamner moved to Martha’s Vineyard, where her husband was born and where she’d spent summers as a girl with her grandparents, she wasn’t expecting to work on public health right away. “I really needed a break,” she told me. Then came alpha-gal.",
+      "zh": "“我把我们这里的鹿密度告诉蜱虫专家，他们只会笑。”哈姆纳说。“他们会说：你们是没机会了。”33岁的哈姆纳已经习惯了危机现场。她的父亲在菲律宾为美国国际开发署（USAID）工作；她的母亲也在那里为世界卫生组织（WHO）效力，后来又在秘鲁做了关于性工作者的博士研究。哈姆纳在耶鲁大学获得公共卫生硕士后，第一份工作是在华盛顿州，她投身于结核病、阿片类药物成瘾，然后又是新冠疫情的工作。她所在的斯凯吉特县（Skagit County）是美国最早有记录的确诊新冠病例之一，包括斯凯吉特谷男声合唱团（Skagit Valley Chorale）的52名成员。2021年，哈姆纳搬到马萨诸塞维京群岛，她丈夫出生于此，她小时候也曾跟随祖父母在此度过夏天；她当时并不指望马上就从事公共卫生工作。“我真的需要一段休息，”她告诉我。之后就是阿尔法-加尔综合征。"
+    },
+    {
+      "id": "p072",
+      "en": "“This is an existential threat,” Hamner said. “Not just to our health and well-being, but to our economy. People will leave and not come back.” The taxes paid by second-home owners keep the island’s public services afloat, and most businesses survive on tourism in the summer months—when all the ticks come out to feed. “People with alpha-gal will be the ones to leave first,” Hamner said. “To have a chance to get over their allergy, they need to not get more tick bites.” Barbatti nodded. “There is this sense of, Am I putting my kids at undue risk?” she said. “Are we going to have a generation of kids going to college with EpiPens?”",
+      "zh": "“这是一种生存危机。”哈姆纳说。“这不仅威胁到我们的健康和福祉，也威胁到我们的经济。人们会离开，而且不会回来。”二手房屋业主缴纳的税款让岛上的公共服务得以维持，且大多数企业依赖夏季旅游业维持生计——而就在那时，所有蜱虫都开始吸血觅食。“会先离开的，是那些得了阿尔法-加尔的人。”哈姆纳说。“要想有机会摆脱这种过敏，他们就必须不再遭受更多蜱咬。”巴巴蒂点点头说：“会有这样的担忧：‘我是不是让孩子们面临过高风险？’‘我们会不会出现一代孩子上大学时都带着肾上腺素自动注射笔（EpiPen）？”"
+    },
+    {
+      "id": "p073",
+      "en": "Martha’s Vineyard is more than a microcosm of the epidemic. It’s a testing ground for addressing it, Hamner said. “An island is a controlled environment to do experiments and then scale out. We have high need, high burden, high impact, and we really need to incubate a solution. Once we get the blueprint, we can go to, How do you translate this to Missouri?”",
+      "zh": "哈姆纳指出，马萨诸塞葡萄园岛不只是疫情的一个缩影，它更是应对疫情的试验场。“一个岛屿是进行试验并再逐步扩大成规模的可控环境。我们有巨大的需求、沉重的负担、显著的影响，因此确实需要孵化一套解决方案。只要我们拿到这张蓝图，就能把它推广到密苏里州，问题是：‘你怎么把这一套方法转化到密苏里州？’”"
+    },
+    {
+      "id": "p074",
+      "en": "The first impulse, for many locals, is to smother their yards in pesticides. But that almost never works. Lone stars can tolerate many poisons, and, even when they can’t, there are always more ticks next door to replace them. “You can’t spray a whole city,” Holly Gaff, the tick researcher at Old Dominion, told me. Gaff and a team of engineers at Virginia Military Institute have designed a TickBot—a sort of outdoor Roomba—that can drag a permethrin-soaked cloth around a lawn. Another device, called a 4-Poster bait station, attacks the ticks that congregate on deer’s heads. When deer bend down to eat the bait, paint rollers cover their heads in permethrin. But those are stopgaps at best.",
+      "zh": "许多当地居民的第一反应是把自家院子都罩在农药下，但这几乎从未奏效。独星蜱能耐受许多毒药，即使它们偶尔受不了，也总有人在隔壁放下另一批蜱虫来补位。老牌多明顿（Old Dominion）的蜱虫研究员霍利·加夫（Holly Gaff）告诉我：“你不能把整座城市都喷一遍。”加夫和弗吉尼亚军事学院的一组工程师设计了“TickBot”——一种室外版的扫地机器人（Roomba）——可以拖着一块浸有溴氯氰菊酯（permethrin）的布在草坪上反复行走。另一种叫“4-Poster诱饵站”的设备则专门清除聚集在鹿头上的蜱虫。鹿弯下身去啃食诱饵时，画滚筒会在它们的头上涂上溴氯氰菊酯。但这些顶多只能算是权宜之计。"
+    },
+    {
+      "id": "p075",
+      "en": "“Zoom in on the deer locations,” Roden-Reynolds said. He blew up the shared map on his screen and moved his pointer to a dark, amorphous area fringed with bright-yellow dots. “Compare the conservation areas to the neighborhoods,” he said. “Look at Peaked Hill Reservation. It has a few deer, but the neighborhoods around it are just loaded.” Red Gate Farm, Jackie Onassis’s old estate, was especially popular. Deer aren’t idiots, Roden-Reynolds said. Hunting is allowed in conservation areas, but illegal within five hundred feet of an occupied house without the owners’ permission, so the deer go where they won’t be shot. He zoomed the map out again. All over the island, the residential areas were clustered with dots, along forest edges and around people’s yards. By day, the deer stay close to the houses, but not too close. At night, they move in and eat the hydrangeas.",
+      "zh": "罗登-雷诺兹说：“把视角放到鹿的活动点。”他将共享地图放大，在屏幕上把指针移到一个暗色的、边缘散布亮黄点的模糊区域。“把保护区和住宅区对比一下，”他说，“看下Peaked Hill保护区。那里的鹿不多，但周边社区却密密麻麻都是鹿。”红门农场（Red Gate Farm），这是杰姬·奥纳西斯的旧庄园，尤其是一个热点。罗登-雷诺兹说，鹿并不愚蠢。保护区内允许狩猎，但在距有人居住的房屋五百英尺以内没有业主许可就属非法，所以鹿会去那些不容易被射中的地方。他又把地图缩回去。全岛到处可见：住宅区沿着林缘和人们院落分布成一团团点状聚集。白天，鹿会在离房屋不远处活动但不会太靠近；到了夜里，它们就会进到屋子周边去啃食绣球花。"
+    },
+    {
+      "id": "p076",
+      "en": "Truly controlling the ticks will take an island-wide killing spree, the war council agreed. Deer numbers will have to drop by at least seventy per cent—more than three thousand animals. Local hunters, by all accounts, are ready and able. The hunting season has been lengthened by nearly two months, and there is no bag limit on does. Tick Free Martha’s Vineyard plans to build a processing facility for the carcasses; the meat, most of it donated to a local food pantry, is in high demand. “This island elevates fishermen. It elevates farmers,” Barbatti said. “This is our opportunity to elevate the hunting community.”",
+      "zh": "战争理事会一致认为，真正把蜱虫控制住必须进行一次“全岛式”大规模清理行动。鹿群数量至少要下降七成以上，至少要减少三千多只。当地猎人无论从意愿还是能力上都已准备就绪。狩猎季节已几乎延长了两个多月，并且对雌鹿没有猎获上限。“蝗虫自由马撒葡萄园”计划正在筹建一座屠宰后处理场；鹿肉大部分会捐给本地食物银行，需求量很大。“这个岛能抬高渔民的地位，也能抬高农民的地位，”巴巴蒂说，“这是我们帮助猎人社区走上台前的机会。”"
+    },
+    {
+      "id": "p077",
+      "en": "The deer are easy pickings for now. Roden-Reynolds is a bow hunter. In the sixteen years before he moved to the island, he shot a total of four deer. Now he shoots five a year. Hamner’s in-laws have a family hunting camp that killed fifty in one week this past fall. “They think they did bad if they shoot forty,” she said. But the fewer deer there are, the harder the hunting will be. In the late nineties, when Lyme disease swept over Monhegan Island, off the coast of Maine, a professional sharpshooter was brought in to kill every single deer. The campaign worked: the tick population plummeted. But Martha’s Vineyard won’t go that far—not yet, anyway. “This is just step one,” Barbatti said. “It is the lever that is available to us now.”",
+      "zh": "目前来说，鹿是很容易被盯上的。罗登-赖诺兹斯（Roden-Reynolds）是个弓箭猎手。在他搬到这座岛屿前的十六年里，他一共打了四头鹿；现在他一年打五头。哈姆纳尔（Hamner）的姻亲家有一个家族狩猎营地，去秋那个星期他们就打死了五十头鹿。“他们觉得打了四十头都算失败，”她说。可鹿越来越少，打猎就会更困难。九十年代末，当莱姆病在缅因州外海的蒙赫根岛（Monhegan Island）肆虐时，他们请来了一名职业神枪手，目标是把每一头鹿都打掉。那次行动很奏效：蜱虫数量骤降。但马撒托维尔德（Martha’s Vineyard）还不会走到那一步——至少现在还不会。巴巴蒂（Barbatti）说：“这只是第一步。现在这是我们能动用的杆杠。”"
+    },
+    {
+      "id": "p078",
+      "en": "In the meantime, like the paralysis ticks in Australia, the lone stars will find other hosts to feed on, such as short-tailed shrews and white-footed mice. “There are plenty of little nurseries out there,” Nancy Hinkle, the veterinary entomologist in Georgia, told me. “Possum, raccoons, dogs, cats, rodents, foxes, skunks, us.” Nothing can match deer for hosting ticks, so the lone-star population will drop, but it will never go away. “They’ll survive long after we do,” Hinkle said. “They’ll survive after nuclear annihilation.”",
+      "zh": "与此同时，就像澳大利亚的麻痹蜱一样，独星蜱会寻找其他宿主来吸血，比如短尾鼩鼱和白足鼠。“外面有足够多的小“育仔场”。”乔治亚州的兽医昆虫学家南希·欣克尔（Nancy Hinkle）对我说，“负鼠、浣熊、狗、猫、啮齿动物、狐狸、臭鼬，还有我们。”没有任何动物能像鹿一样承载蜱虫，所以独星蜱的数量会下降，但它们不会消失。“它们会在我们之后存活，”欣克尔说，“甚至会在核毁灭之后继续存活。”"
+    },
+    {
+      "id": "p079",
+      "en": "Late that night, I walked back to my hotel in Vineyard Haven, relieved to be heading home the next morning. I’d spent the past few months in some of the country’s most beautiful landscapes—the Ozarks, the Blue Ridge Mountains, and this bright, windblown island—but always with a vague sense of unease. Every passing lawn and meadow, every winding path through the woods, seemed to hide a lurking menace. That may be what’s hardest to bear about alpha-gal: how it puts us at odds with nature, makes us distrust our most beloved places. It would be good to be back in New York City, I thought, in the relative safety of brick and concrete.",
+      "zh": "那天晚上很晚，我回到维恩德雅德（Vineyard Haven）的酒店，心里松了口气，想着第二天就能回家。过去几个月里，我在这个国家最美的风景里穿行——奥扎克山脉、阿巴拉契亚蓝岭山脉，以及这座明亮而风大的海岛——但总有一种模糊的不安萦绕。每一片经过的草坪和草甸、每一条穿过树林的弯曲小路，都像是在藏着潜伏的威胁。也许这正是 alpha-gal 最难忍受之处：它让我们与自然对立，让我们不再信任最心爱的地方。我想，回到纽约市会很好，在砖瓦和混凝土的相对安全里。"
+    },
+    {
+      "id": "p080",
+      "en": "Wishful thinking, as it turned out. A health alert from the city later informed me that lone-star ticks are now comfortably settled on Staten Island and parts of the Bronx. Eastern Long Island has been overrun for decades, and Brooklyn could be next. All it would take is a tick bomb or two to infest Prospect Park, three blocks from my house. The barbarians are crawling toward the gate. ♦",
+      "zh": "结果证明这只是愿望而已。之后市里发出健康警报，告诉我独星蜱已经在史泰登岛（Staten Island）和布朗克斯的部分地区“安家落户”了。东长岛几十年来一直被它们占领，布鲁克林可能是下一个。只要有一两枚“蜱虫炸弹”落到我的住处三条街外的普罗斯佩克特公园（Prospect Park）里，它们就能迅速扩散。野蛮人正在向围栏爬来。♦"
+    }
+  ],
+  "translated_at": "2026-07-22T23:42:30+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

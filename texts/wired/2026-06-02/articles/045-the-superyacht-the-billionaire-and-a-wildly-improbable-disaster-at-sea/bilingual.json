@@ -10,412 +10,415 @@
   "order": 45,
   "section": "Bradley Hope",
   "title_en": "The Superyacht, the Billionaire, and a Wildly Improbable Disaster at Sea",
-  "title_zh": "",
+  "title_zh": "游艇、亿万富翁与一场几乎离奇的不可能海上灾难",
   "rubric_en": "The last night of tech mogul Mike Lynch’s life has become fodder for conspiracy theories. For the first time, the whole story can be told.",
-  "rubric_zh": "",
+  "rubric_zh": "科技巨头迈克·林奇生命中的最后一夜，已成为阴谋论者的“原料”。如今，这个完整故事终于可以被完整讲述。",
   "date": "2025-09-10T06:00:00-04:00",
   "origin_url": "",
-  "translation_status": "pending",
+  "translation_status": "translated",
   "paragraphs": [
     {
       "id": "p001",
       "en": "In the predawn hours of August 19, 2024, bolts of lightning began to fork through the purple-black clouds above the Mediterranean. From the rail of a 184-foot vessel, a 22-year-old named Matthew Griffiths took out his phone to record a video. The British deckhand was just a week and a half into his first official yacht job, and he wasn’t on just any boat. The yacht, the $40 million Bayesian, was a star of the superyacht world, considered to be a feat of minimal design and precision engineering. As thunder rolled toward the anchored vessel, Griffiths set the video to AC/DC’s “Thunderstruck” and posted it to Instagram. It was 3:55 am.",
-      "zh": ""
+      "zh": "2024年8月19日的拂晓前时分，地中海上空乌黑中带着紫色的云层中闪过一道道闪电。英国海员马修·格里菲斯站在一艘长达184英尺的游艇栏杆上，拿出手机录下了视频。这个22岁的年轻人刚入职官方认证的游艇工作岗位一个半星期，还不是什么普通船只。他拍摄的正是价值4000万美元的“Bayesian”游艇——这艘船在超级游艇界被视为最小主义设计与精密工程的典范。雷声在停泊的船只方向轰鸣而来时，格里菲斯把视频配上AC/DC的《Thunderstruck》，并上传到了Instagram。当时是凌晨3点55分。"
     },
     {
       "id": "p002",
       "en": "In the video, the Bayesian’s aluminum mast, one of the tallest in the world, is briefly visible against the roiling sky.",
-      "zh": ""
+      "zh": "在视频中，Bayesian的铝制主桅杆——被认为是世界上最高的桅杆之一——短暂地映入翻滚天幕。"
     },
     {
       "id": "p003",
       "en": "Below deck, the yacht’s owner, Michael Lynch, had every reason to be sleeping soundly. The boat trip had been organized as a celebration. Months earlier, Lynch had walked out of a San Francisco federal courthouse a free man, acquitted of all charges in one of the largest fraud cases in Silicon Valley history.",
-      "zh": ""
+      "zh": "在船舱内，游艇主人迈克尔·林奇理应睡得很安稳。此行本是一场庆祝之旅。几个月前，林奇走出旧金山联邦法院的审判大厅，成为自由之身，在硅谷历史上最大规模的欺诈案之一中被判无罪。"
     },
     {
       "id": "p004",
       "en": "Lynch had built his fortune on understanding probability, on turning the unlikely into the possible. He had named his yacht Bayesian in honor of the statistical theorem that made him a billionaire, after the sale, in 2011, of his company Autonomy. The British tech giant sold software that could find meaningful signals amid the flood of unstructured data in emails, videos, and phone calls, but it would be better known as the company that allegedly defrauded, and nearly destroyed, Hewlett-Packard.",
-      "zh": ""
+      "zh": "林奇的财富建立在概率学的洞察上，也建立在把“不可能”变为“可能”之上的能力。2011年出售Autonomy后，他将自己的游艇命名为Bayesian，以纪念让他成为亿万富翁的统计定理。那家英国科技巨头出售的软件能够从电子邮件、视频和电话等非结构化数据洪流中识别有意义的信号，但它后来更广为人知的是，被指控参与欺诈并几乎摧毁惠普的那家公司。"
     },
     {
       "id": "p005",
       "en": "The cabins aboard the Bayesian contained the people who had stood by Lynch through his 13-year-long legal ordeal. Beside him in the master suite was his wife of 22 years, Angela Bacares, a former vice president in the investment division of Deutsche Bank who had caught his eye while working an Autonomy deal. Other cabins housed the Clifford Chance attorneys who had orchestrated Lynch’s legal victory, as well as longtime colleagues, their partners, and a 1-year-old baby, all supported by 10 crew members. Also onboard was Lynch’s younger daughter, Hannah, 18, who was about to begin her studies at Oxford. Her older sister, Esme, 22, had remained in London.",
-      "zh": ""
+      "zh": "贝叶斯号上的舱室里，都是那些在林奇经历了长达13年的官司期间始终站在他身边的人。与他同在主舱的是与他结婚22年的妻子安杰拉·巴卡雷斯，她曾任德意志银行投资部门副总裁，在办理一个阿图诺米（Autonomy）交易时认识了他。其他舱室里住着克利福德·张律师事务所的律师，这些律师曾帮助林奇赢得官司，以及多年的同事、他们的伴侣和一名1岁的婴儿，全部由10名船员照看。船上还搭载了林奇18岁的幼女汉娜，即将前往牛津开始学业。她的姐姐埃斯梅（Esme）22岁，仍留在伦敦。"
     },
     {
       "id": "p006",
       "en": "The day before, their last of the trip, the group had been subdued. They had spent the afternoon in the laid-back coastal town of Cefalù, wandering the plaza and visiting the church. That night, they had gathered for dinner in the saloon of the Bayesian, followed by dessert and drinks on the upper deck. Everyone was in bed by 12:30 am. Water taxis were due early the next morning to take them to Palermo for their flights home.",
-      "zh": ""
+      "zh": "前一天，也是这次行程的最后一天，这群人都很平静。那天下午，他们在性格悠闲的海滨小镇锡雅卢（Cefalù）消磨时光，在广场散步并参观了教堂。那天晚上，他们在贝叶斯号的会所吃了晚饭，之后在上层甲板上喝了甜点和酒。到凌晨12点30分，大家都上床休息。第二天一早，水上出租船就该把他们载到巴勒莫，然后乘机返程。"
     },
     {
       "id": "p007",
       "en": "Many of them would not make it. Griffiths’ video was to be the final earthly record of the Bayesian. Two minutes after he posted it, wind and rain started to buffet the vessel, and the young deckhand hurried to close forward hatches and cockpit windows. At 4 am, he ran down the stairs to wake the captain. This is the first time that details of Griffiths’ account, as well as those of many associates of Lynch, are being shared—WIRED interviewed dozens of friends and colleagues of Lynch, reviewed thousands of pages of court documents, and reconstructed events on the Bayesian based on accounts, yacht GPS data, and official investigative reports. The Bayesian and its human cargo were about to face forces that would test every calculation of the yacht’s design, the terrifying and tragic culmination of a series of highly improbable events. To this day, mystery surrounds the final night of Lynch’s life, making room for conspiracy theories about spies and secret hard drives that can’t seem to be quashed.",
-      "zh": ""
+      "zh": "其中很多人将无法生还。格里菲斯（Griffiths）的视频将成为贝叶斯号在世间留下的最后记录。视频发布两分钟后，风雨就开始猛烈拍打着这艘船，年轻的甲板员赶紧去合上前舱口和驾驶甲板的窗户。凌晨4点，他跑下楼去叫醒船长。这是首次公开格里菲斯的叙述细节，以及林奇众多熟人的相关情况——《连线》（WIRED）采访了林奇的数十位朋友和同事，查阅了数千页法庭文件，并结合证词、游艇的GPS数据以及官方调查报告，重建了贝叶斯号上的事件。贝叶斯号和船上的所有人即将面对一股力量，去检验这艘游艇设计中的每一项计算，这是一连串高度不可能发生的事件所导致的可怕且悲剧性的终局。直到今天，林奇最后一夜仍笼罩在谜雾中，反复滋生着关于间谍与“绝密硬盘”的阴谋论，而且似乎无法彻底打消。"
     },
     {
       "id": "p008",
       "en": "Today, Bayesian analysis is everywhere—powering spam filters, search engines, medical diagnoses, and artificial intelligence. Silicon Valley engineers casually talk about “updating their priors” as they refine machine-learning models. But in the 1980s, when Mike Lynch was a PhD student at Cambridge, Bayesian inference was still fighting for respectability, dismissed by many statisticians as unscientific because it dared to incorporate earlier beliefs into its calculations.",
-      "zh": ""
+      "zh": "如今，贝叶斯分析已无处不在——用于垃圾邮件过滤、搜索引擎、医疗诊断和人工智能。硅谷工程师在优化机器学习模型时，会轻描淡写地说自己在“更新先验（updating their priors）”。但在1980年代，当迈克·林奇还是剑桥大学的博士生时，贝叶斯推断还在争取学术认可，许多统计学家把它当作“不够科学”，因为它大胆地把先前的信念纳入了计算。"
     },
     {
       "id": "p009",
       "en": "Lynch had arrived at Cambridge in 1983 to study natural sciences, carrying with him the determination of someone who had started life in the red—minus £4, to be exact, the amount his Irish immigrant parents owed the bank after they got married. His father was a fireman from Cork, his mother a nurse from Tipperary. Growing up in 1970s London as an Irish boy meant learning to navigate prejudice during the height of the IRA bombings. “You had to learn to run fast,” he would later say, “but reading the room is a good thing to have as a skill.”",
-      "zh": ""
+      "zh": "林奇于1983年来到剑桥学习自然科学，带着一种从“负债”起步的人生决心——准确地说，是负4英镑，也就是他的爱尔兰移民父母婚后欠下银行的金额。他的父亲是来自科克的消防员，母亲是来自蒂珀雷里的护士。成长于20世纪70年代的伦敦，这名爱尔兰男孩在爱尔兰共和军（IRA）轰炸达到高峰期，学会了如何在偏见中周旋。“你必须学会跑得快，”他后来会这样说，“但读懂现场气氛也是一种很有用的能力。”"
     },
     {
       "id": "p010",
       "en": "He had won a scholarship to Bancroft’s School—money bequeathed in the 1700s for the education of “poor boys”—and spent three hours a day commuting to Woodford Green, often hitchhiking and listening to drivers talk about their lives. On weekends, he practiced clarinet and saxophone and worked at his mother’s hospital, progressing from mopping floors to serving tea to patients. It was there, talking to the dying, that he learned a fundamental lesson: “Get on with it. Do stuff. Whatever it is you want to do, just do it.”",
-      "zh": ""
+      "zh": "他获得了班克罗夫特学校的奖学金——这是17世纪捐赠的、用于“贫困男孩”教育的资金——并花了每天三小时往返伍德福德格林，上下学期间常常搭便车，并听着司机谈论他们的生活。周末时，他练习单簧管和萨克斯风，还在母亲所在的医院做工，从拖地板起步，后来到给病人端茶。正是在那里，和垂危的人交谈时，他学到了一条根本原则：“把事做下去。去做。你想做什么，就去做。”"
     },
     {
       "id": "p011",
       "en": "Lynch’s path to corporate software began at a distant remove—he wanted to build a digital music synthesizer. (It was the ’80s, after all.) Samplers like the Fairlight CMI cost around £18,000 to £30,000. So Lynch, who had been tinkering with electronics since childhood and tried starting bands, created a groundbreaking program for the Atari ST computer that could manipulate sound with “an accuracy of one sample—that’s one 50,000th of a second,” according to a 1988 interview with Sound on Sound magazine. The software gave musicians capabilities that were normally out of reach at the time. These technical obsessions led Lynch to Peter Rayner’s signal processing group at Cambridge, in the engineering department. Lynch had switched from natural sciences to electrical sciences in his third year. “I initially thought he was a bit lazy,” Rayner told me, recalling how Lynch often hadn’t done the assigned work. “But when we worked through problems in supervision, he showed great insight and came up with sometimes incorrect approaches, but often very interesting ones.” Rayner’s lab had a distinctly commercial bent, focused on solving real-world problems. Many of his roughly 100 PhD students went on to found companies, becoming, he said, full professors, multimillionaires, and even one billionaire—Lynch.",
-      "zh": ""
+      "zh": "林奇进入企业软件世界的起点很偶然——他本来想做一台数字音乐合成器。（毕竟，那是80年代。）像Fairlight CMI这样的采样器当时价格在18,000到30,000英镑之间。于是林奇——他从小就爱折腾电子产品，还尝试过组建乐队——为Atari ST电脑开发了一款开创性的程序，可“以一个采样点的精度操控声音”，按他在1988年接受《Sound on Sound》杂志采访时的话说，“这相当于五万分之一秒。”这款软件赋予音乐人当时通常无法获得的能力。这些技术痴迷让林奇走进剑桥工程学院的彼得·雷纳信号处理小组。林奇在三年级时从自然科学转到了电子科学。雷纳对我说：“我最初觉得他有点懒，”他回忆起林奇经常没有完成分配的作业。“但当我们在督导中一起解决问题时，他展现出很强的见解，有时会提出不正确的思路，但很多时候却很有趣。”雷纳的实验室明显带有商业取向，重点在于解决现实世界的问题。他说，他大约100名博士生里，很多人后来都创办了公司，有人成为了正教授、千万富翁，甚至一位亿万富翁——林奇。"
     },
     {
       "id": "p012",
       "en": "At Cambridge, Lynch discovered that the same mathematics he was using to clean up audio samples could be applied to any kind of noisy data. At the heart of this approach was Bayesian inference, a way of thinking about probability that had been developed by Thomas Bayes, a Presbyterian minister in the 1700s who died before publishing his findings. They were discovered by a friend who happened upon them when cleaning out Bayes’ things.",
-      "zh": ""
+      "zh": "在剑桥，林奇发现，他用来清理音频样本的同一套数学方法，也可以应用到任何类型的噪声数据上。这个方法的核心是贝叶斯推断——一种关于概率的思维方式，由18世纪的长老会牧师托马斯·贝叶斯提出，但他在发表这些发现之前去世了。后来这些成果被一位朋友在整理贝叶斯遗物时偶然发现。"
     },
     {
       "id": "p013",
       "en": "The power of Bayesian thinking lies in how it handles uncertainty. As Rayner explained to me, using a simple example: “If I gave you a coin and you tossed it and it came down heads, then all you could say based on that one experiment is the probability of tossing a head is 1—certain. But Bayes would say, ‘Come on, we know it’s going to be around a half.’ It allows you to take account of previous knowledge.”",
-      "zh": ""
+      "zh": "贝叶斯思维的力量在于它处理不确定性的方式。雷纳向我解释说，用一个简单例子：如果我给你一枚硬币，你掷了一次并且是正面，那么根据这一次实验你只能说，掷出正面的概率是 1——确定的。但贝叶斯会说：‘等等，我们知道它大约应该是五五之一。’它允许你把已有的先验知识纳入考虑。"
     },
     {
       "id": "p014",
       "en": "This idea, of starting with prior assumptions and updating them with new evidence, seems simple, but Bayesian methods proved extremely effective at pattern recognition in the age of computers. Lynch’s doctoral thesis, completed in 1990, applied these techniques to neural networks for pattern classification—“a small step along the road” to modern AI, as Rayner put it. But Lynch saw commercial potential where others saw only academic interest. While supposedly working as a postdoc, he was often absent from the lab, secretly raising money for his first company. “Later on, I said to him, ‘Why on earth didn’t you come to me, Mike?’” Rayner recalled. “He said, ‘I didn’t want you to know!’”",
-      "zh": ""
+      "zh": "从先验假设出发，再用新证据不断更新的这一思想看起来很简单，但在计算机时代，贝叶斯方法在模式识别上证明了极高的有效性。林奇于1990年完成的博士论文，把这些技术应用于用于模式分类的神经网络——“通往现代人工智能的一小步”，正如雷纳所说。可林奇看到了商业潜力，而其他人只看到学术兴趣。表面上他在做博士后工作时，常常不在实验室里，实际上却在悄悄为自己的第一家公司筹款。“后来我对他说：‘你到底为什么不来找我，迈克？’”雷纳回忆道。“他说：‘我不想让你知道！’”"
     },
     {
       "id": "p015",
       "en": "That company was Cambridge Neurodynamics, founded after he completed his PhD, and its flagship product was a fingerprint recognition system that could handle smudged or partial prints. After Cambridge Neurodynamics, Lynch founded Autonomy. The new company would take the same ideas even further, applying them to the explosion of unstructured data that businesses were generating but couldn’t effectively search or analyze.",
-      "zh": ""
+      "zh": "这家公司叫剑桥神经动力学（Cambridge Neurodynamics），成立于他完成博士学位之后，旗舰产品是一种指纹识别系统，能够处理模糊或局部缺失的指纹。离开剑桥神经动力学后，林奇又创立了Autonomy。新公司把这些思想推进得更远，将其应用于企业正在生成却无法有效搜索和分析的、海量非结构化数据。"
     },
     {
       "id": "p016",
       "en": "The company’s breakthrough was IDOL—Intelligent Data Operating Layer—a pattern-recognition engine that could understand the actual meaning within human-generated information. Unlike keyword searches that might confuse different terminology, IDOL could recognize that a document about “automobiles” was relevant to a search for “cars.” It could identify concepts, find patterns, and extract meaning from chaos. The name Autonomy itself reflected Lynch’s vision: software intelligent enough to operate independently, to make its own guesses about meaning and relevance without human intervention. As Lynch would later explain in a 2000 interview with WIRED, “Bayes gave us a key to a secret garden. A lot of people have opened up the gate, looked at the first row of roses, said, ‘That’s very nice,’ and shut the gate. They don’t realize there’s a whole new country stretching out behind those roses.”",
-      "zh": ""
+      "zh": "这家公司的突破口是 IDOL——智能数据操作层（Intelligent Data Operating Layer）——一种模式识别引擎，能够理解人类生成信息背后的实际含义。不同于可能混淆不同术语的关键词搜索，IDOL 能够识别出一份关于“automobiles”的文档与“cars”这一检索词是相关的。它能识别概念、发现模式，并从混乱中提取意义。公司名称 Autonomy 本身也体现了林奇的愿景：软件要足够智能，能够独立运行，在没有人为干预的情况下，对意义和相关性自行做出判断。正如林奇在2000年接受 WIRED 采访时后来所解释的，‘贝叶斯给了我们一把进入秘密花园的钥匙。很多人已经打开大门，看了第一排玫瑰，说了句“真漂亮”，然后把门关上。他们没有意识到，在这些玫瑰后面，延展着一个全新的国度。’"
     },
     {
       "id": "p017",
       "en": "Lynch had always been more interested in how people thought than what they knew. I talked to one of his employees, Emily Orton, who still remembers her first interview with Lynch back in 2009. While other executives had asked about her qualifications and experience, Lynch wanted to see how she dealt with the unexpected. He asked her a single question: “Tell me what makes you angry?”",
-      "zh": ""
+      "zh": "林奇一向更在意人们如何思考，而不是他们知道了什么。我采访了他的一位前员工、2009年就被他面试过的艾米丽·奥顿。其他高管在面试时都会问她的资历和经验，而林奇更想看看她如何应对突发情况。他只问了一个问题：“告诉我，是什么会让你生气？”"
     },
     {
       "id": "p018",
       "en": "By that point, Autonomy was Britain’s largest software company. Its software was being used by intelligence agencies, law enforcement, and major corporations worldwide, and its acquisition, in 2005, of Verity—a search company double Autonomy’s size in terms of sales—eventually led to a market value north of $6 billion. Lynch earned the nickname “Britain’s Bill Gates.”",
-      "zh": ""
+      "zh": "到那时，Autonomy 已经是英国最大的软体公司。其软件被全球情报机构、执法部门和大型跨国企业使用，而该公司在 2005 年收购 Verity——一家销售额是 Autonomy 两倍的搜索公司——最终使其市值攀升到60多亿美元。林奇也因此被称为“英国的比尔·盖茨”。"
     },
     {
       "id": "p019",
       "en": "Andy Kanter, an American lawyer at Autonomy since the late ’90s, had watched Lynch evolve from entrepreneur to CEO of a major corporation. He was a perfectionist, says Kanter. When Kanter and a colleague spent weeks crafting the IPO prospectus, Lynch read it, declared it “entirely wrong,” then approved it after they changed perhaps 10 words. “If something wasn’t right, he would dismiss it as useless,” Kanter said. “Ninety-five percent good isn’t good enough.”",
-      "zh": ""
+      "zh": "安迪·坎特从 90 年代末起就是 Autonomy 的美国律师，他亲眼见证了林奇从企业家成长为大型企业首席执行官。他说，林奇是个完美主义者。坎特和一位同事花了数周时间起草 IPO 招股书，林奇读过后直接说“完全错了”，随后又在他们只改了大约十个词之后批准了。坎特说：“只要有任何地方不对，他就会直接否定，认为没用。‘好到95%’还不够好。”"
     },
     {
       "id": "p020",
       "en": "But this harshness—one of his own lawyers told me that “he could be a prick”—came with fierce loyalty. For Christmas parties, Lynch flew the entire UK staff to four-star hotels in European cities—Venice, Prague. And quarter after quarter, the company continued to beat analyst expectations. To the outside world, Autonomy appeared to be exactly what Europe needed: a homegrown technology champion that could compete with Silicon Valley.",
-      "zh": ""
+      "zh": "但这种严厉——连他的律师也对我说“他也许很难相处”——也伴随着强烈的忠诚。每逢圣诞聚会，林奇都会把英国全体员工带去欧洲各城市的四星级酒店，诸如威尼斯、布拉格等。并且季复一季，公司持续超出分析师预期。对外界来说，Autonomy 看起来正是欧洲所需要的：一家能够与硅谷抗衡的本土科技“冠军”。"
     },
     {
       "id": "p021",
       "en": "But maintaining Autonomy’s image of consistent growth required increasingly creative measures. At the center of this effort was Sushovan Hussain, the CFO who had joined in 2001. Lynch and Hussain’s relationship went back to their school days—though Lynch would later downplay this, testifying that Hussain was merely a “third-level acquaintance” who had arrived at Bancroft’s in his final year. Yet they had both gone on to Cambridge and kept in touch over the years, and Lynch had attended Hussain’s wedding. When Hussain returned to England after working in the oil industry abroad, Lynch hired him.",
-      "zh": ""
+      "zh": "但要维持 Autonomy 稳定增长的形象，所采用的措施越来越“有创意”。这一努力的核心人物是 2001 年加入公司的首席财务官苏绍文·侯赛因（Sushovan Hussain）。林奇与侯赛因的关系可以追溯到他们的学生时代——尽管林奇后来在证词中淡化了这一点，称侯赛因只是他在班克罗夫特（Bancroft’s）高年级时“第三层关系”的人。然而两人后来都去了剑桥并多年保持联系，林奇还出席了侯赛因的婚礼。侯赛因在海外石油行业工作后回到英格兰，林奇便聘用了他。"
     },
     {
       "id": "p022",
       "en": "Software companies are judged differently than other businesses. Investors expect them to maintain high profit margins, because software costs almost nothing to reproduce—once you write the code, you can sell it infinitely without manufacturing costs. But, inevitably, some quarters fall short. So Lynch and Hussain developed practices designed to smooth out the randomness.",
-      "zh": ""
+      "zh": "软件公司与其他行业的公司评判方式不同。投资者要求它们维持较高利润率，因为软件几乎没有复刻成本——代码一旦写好，就可以无限次销售而不产生制造成本。但不可避免地，总会有某些季度不达标。因此林奇与侯赛因开始制定一套“平滑”波动的做法。"
     },
     {
       "id": "p023",
       "en": "The most straightforward was hardware reselling. When software sales fell short, Autonomy would purchase servers from manufacturers like EMC, Dell, and Hitachi, then resell them to customers—often at a loss. This wasn’t unusual; many software companies bundled hardware with their products. What was distinctive, according to later court findings, was how Autonomy accounted for these transactions. Instead of recording all the hardware costs as “cost of goods sold,” which would have devastated those crucial gross margins, portions were allocated to “sales and marketing expenses.” This preserved the illusion of a pure software company while pumping up revenue. The company also developed complex, opportunistic arrangements with resellers. During analyst calls, when hedge funds would try to trip up Hussain with coordinated questions about the numbers, Lynch would protect, and at times coach, his CFO.",
-      "zh": ""
+      "zh": "最直接的做法是转售硬件。每当软件销售不达标时，Autonomy 就会从 EMC、Dell 和日立等厂商处购入服务器，再将其转售给客户——通常是以亏损的方式。这样的做法并不罕见；许多软件公司都会将硬件与其产品捆绑出售。与此不同的是，后来的法庭调查发现，Autonomy 对这些交易的会计处理方式别具一格。公司没有把全部硬件成本记入“销售成本”，因为那会严重毁掉当时关键的毛利率，而是把其中一部分分摊到“销售和市场费用”之下。这样既维持了“纯软件公司”的假象，也人为抬高了收入。公司还与经销商制定了复杂且机会主义的交易安排。分析师电话会议上，当对冲基金会围着数字抛出连环追问试图难倒侯赛因时，林奇不仅会出面保护他，甚至在某些时候还会为财务总监“把关”甚至“指导”发言。"
     },
     {
       "id": "p024",
       "en": "So business stayed booming, and Lynch lived the life of a quirky multimillionaire. He had moved his family to a sprawling 69-acre farm he owned in Suffolk, complete with gardens, parkland, paddocks, and woodland. He restored a water mill and began breeding rare animals—“cows that became defunct in the 1940s and pigs that no one’s kept since medieval times,” as he would later describe them. He loved dogs, especially the rare Otter Hound. His dogs were all named after engineering parts: Switch, Tappet, Pinion, Valve, and Cam.",
-      "zh": ""
+      "zh": "于是生意一如既往地红火，林奇也过上了怪诞而富裕的多百万富翁生活。他把家人迁到自己在萨福克拥有的一处占地 69 英亩的广阔庄园，里面有花园、草坪、马场和林地。这里他修复了一座水磨坊，并开始养殖稀有动物——他后来会把这些动物描述为“40 年代已经绝迹的奶牛”和“自中世纪以来无人饲养的猪”。他非常喜欢狗，尤其偏爱稀有的水獭猎犬（Otter Hound）。他的狗都以工程零件命名：Switch、Tappet、Pinion、Valve 和 Cam。"
     },
     {
       "id": "p025",
       "en": "Politicians sought out his advice for Britain’s technological future, and he was a popular speaker at events and in the business media. Everything Lynch touched, it seemed, turned to gold.",
-      "zh": ""
+      "zh": "政界人士会寻求他就英国的科技未来提供建议，他也常受邀在各类活动和商业媒体中演讲。人们仿佛都相信，林奇接触到的任何事情都会“化作黄金”。"
     },
     {
       "id": "p026",
       "en": "Leo Apotheker had been CEO of Hewlett-Packard for less than a year when he announced his vision to transform the technology giant: It was time for HP to pivot from its roots in hardware manufacturing to become a software and services company. It was March 2011, and Apotheker needed a flagship acquisition to demonstrate this new direction. By July, Lynch and Apotheker were meeting in Deauville, the French seaside resort.",
-      "zh": ""
+      "zh": "当利奥·阿波泰克（Leo Apotheker）出任惠普首席执行官不足一年时，他便提出了这样一个愿景：惠普应从硬件制造的传统核心转向一家软件与服务公司。那是2011年3月，阿波泰克急需一笔标志性收购来证明这一新方向。到了7月，林奇与阿波泰克在法国滨海度假胜地迪维尔会面。"
     },
     {
       "id": "p027",
       "en": "HP initially proposed acquiring Autonomy for between £24.94 and £26.94 per share in late July 2011. When market volatility drove down Autonomy’s stock price in early August, HP attempted to renegotiate lower, but Lynch held firm, refusing to accept anything below £25. Within weeks of that first proposal, the companies settled on £25.50 per share—approximately $11.1 billion total, a 64 percent premium over Autonomy’s market value. HP’s due diligence was, as Andy Kanter would later describe it, shocking in its brevity: “Having run billions and billions of dollars of acquisitions,” he told me, “I’d never seen anything like it.” The exact duration would become a matter of dispute—Lynch’s lawyers would claim it amounted to just six hours in conference calls, while HP described hundreds of people involved and consultations with Deloitte, Autonomy’s auditor.",
-      "zh": ""
+      "zh": "2011年7月下旬，惠普最初提出以每股24.94英镑至26.94英镑的价格收购Autonomy。进入8月初后，市场波动使Autonomy股价下跌，惠普试图压低价格，但林奇立场坚定，拒绝接受低于25英镑的报价。在首次提议后的几周里，双方最终达成每股25.50英镑的收购价，总额约111亿美元，约为Autonomy市值的64%溢价。正如安迪·坎特（Andy Kanter）后来所说，惠普的尽职调查“短促得令人震惊”：他对我说，“我曾参与过数十亿甚至数百亿美元的并购，但从未见过这种情况。”确切所花时间后来成为争议焦点——林奇的律师称全部过程仅通过电话会议持续了六小时，而惠普则说，过程涉及数百人的参与，并与Autonomy的审计机构德勤进行了咨询。"
     },
     {
       "id": "p028",
       "en": "On August 18, 2011, HP put out what Kanter called “some of the five craziest corporate things all at the same time.” In a single press release, the company announced the Autonomy acquisition, revealed it had missed its numbers, lowered guidance, wrote off previous acquisitions, and disclosed plans to potentially split the company and exit the PC business. The stock price plummeted. The Autonomy acquisition, meant to herald HP’s transformation, instead became the symbol of a company in chaos.",
-      "zh": ""
+      "zh": "2011年8月18日，惠普发布了坎特称其为“同时发生的五件最疯狂公司动作”之一的公告。在同一份新闻稿中，公司宣布收购Autonomy，披露未达标业绩、下调业绩指引、注销先前并购交易，并公布可能拆分公司和退出PC业务的计划。股价应声暴跌。原本应象征惠普转型起点的Autonomy收购，反而成了这家企业陷入混乱的象征。"
     },
     {
       "id": "p029",
       "en": "HP’s board, watching their share price crater, seemed to panic. About a month after the announcement—before the deal had even closed—they fired Apotheker and replaced him with Meg Whitman. The acquisition closed in October, but by then Autonomy had already become, in Lynch’s words, “the unwanted stepchild.” By May 2012, Whitman fired Lynch and reshuffled most of Autonomy’s senior leadership. Six months later, HP was writing down $8.8 billion of Autonomy’s value, with $5 billion attributed to what it called “serious accounting improprieties, disclosure failures and outright misrepresentations” at Autonomy.",
-      "zh": ""
+      "zh": "惠普董事会在看到股价崩塌后似乎陷入了慌乱。公告发布大约一个月后——交易尚未正式完成——他们解雇了阿波特克并由梅格·惠特曼接任。并购于十月完成，但到那时，奥托诺米已经在林奇的话里变成了“不要的继子”。到2012年5月，惠普解雇了林奇，并重组了奥托诺米大部分高层。六个月后，惠普对奥托诺米价值减记了88亿美元，其中50亿美元被归因于其所称的“严重会计不当、信息披露失误以及彻底的虚假陈述”。"
     },
     {
       "id": "p030",
       "en": "From Lynch’s perspective, the narrative was clear: HP had thrown a Hail Mary, the market had punished the company for it, and now it needed someone to blame. HP saw it differently. In its telling, it had been systematically deceived, the victim of a sophisticated fraud that had inflated Autonomy’s value. The battle lines were drawn. HP sued Lynch in the UK for $5 billion. The US Department of Justice launched a criminal investigation. Lynch countersued, claiming HP had destroyed his reputation and mismanaged the acquisition. What had begun as a transformative deal had become one of the most bitter corporate disputes in recent history.",
-      "zh": ""
+      "zh": "从林奇的角度看，故事很清晰：惠普当时就像一记“孤注一掷”，市场因此惩罚了公司，而现在公司需要一个替罪羊。惠普却是另一种叙事。按惠普的说法，它是被系统性欺骗的受害者，遭遇了一场复杂的欺诈，财务指标被人为抬高了奥托诺米的估值。双方的阵营由此对立。惠普在英国起诉林奇高达50亿美元。美国司法部启动了刑事调查。林奇反诉，称惠普毁掉了他的声誉并且并购执行不当。这桩本应是公司变革性的交易，最终成了近年最激烈的企业争端之一。"
     },
     {
       "id": "p031",
       "en": "When HP announced its write-down in November 2012, Lynch had a choice. He could remain silent, let lawyers handle negotiations, perhaps reach a settlement. Instead, he went on Channel 4’s main business program and blamed HP for running a broken company. “In a year, they destroyed that value that was created over 10 years,” he said.",
-      "zh": ""
+      "zh": "2012年11月惠普宣布减记时，林奇有一个选择：他可以保持沉默，让律师处理谈判，也许最终达成和解。结果他反而登上了第四频道的主打商业节目，指责惠普把公司带进了烂摊子。“一年之内，他们毁掉了十年才创造的价值。”他说。"
     },
     {
       "id": "p032",
       "en": "That drove HP to double down even more. It made a criminal complaint in the US and filed a civil case in the UK. Against the advice of his legal team, Lynch insisted on fighting the UK civil case first. He had his team build new software to analyze the more than 11 million documents in the case. At times, he’d gather his legal team aboard the Bayesian—purchased just a year earlier—for strategy sessions.",
-      "zh": ""
+      "zh": "这反而让惠普更加坚定地加码。公司在美国提出刑事指控，并在英国提起民事诉讼。尽管律师团队建议先不要，那么林奇坚持要先应战英国民事诉讼。为了准备案件，他让团队开发了新软件，以分析案件中超过1100万份文件。有时，他还会邀请自己的法律团队在“贝叶森”号游艇上——这艘艇是在一年前买下的——召开战略会议。"
     },
     {
       "id": "p033",
       "en": "Lynch also continued to hobnob with British politicians and founded a new venture capital company, Invoke Capital, in 2012, assembling about 60 former Autonomy employees. Most of the money in the fund came from his personal fortune from the HP sale, about $800 million. Invoke’s portfolio spun out multiple highly successful companies, with traces of Bayesian inference in each one. Darktrace became a global force in AI-powered cybersecurity, valued at nearly $5 billion in its 2024 acquisition by Thoma Bravo. Featurespace’s fraud-detection technology became standard for major banks, with a proposed £700 million acquisition by Visa. Sophia Genetics went public in 2021 at a $1.14 billion valuation.",
-      "zh": ""
+      "zh": "林奇还继续与英国政界人物交往，并于2012年成立了新的风险投资公司 Invoke Capital，汇集了约60名前 Autonomy 员工。该基金的大部分资金来自他在 HP 出售交易中获得的个人财富，约8亿美元。Invoke 的投资组合中诞生了多个极其成功的公司，而且每家公司都带有贝叶斯推断的影子。Darktrace 在人工智能驱动的网络安全领域成为全球力量，其在2024年被 Thoma Bravo 收购时估值接近50亿美元。Featurespace 的反欺诈技术成为大银行的行业标配，维萨提出收购价为7亿英镑。Sophia Genetics 于2021年上市，估值达到11.4亿美元。"
     },
     {
       "id": "p034",
       "en": "In this way, his wealth grew, but the legal threats hovered above him, an axe yet to drop. In 2018, Hussain, who had fought his criminal case first in the US, was convicted of conspiracy, wire fraud, and securities fraud. It was a bad omen to have a jury decide criminal liability, a much higher bar than a civil ruling.",
-      "zh": ""
+      "zh": "如此一来，他的财富继续增长，但法律威胁始终笼罩在他头上，像一把尚未落下的斧子。2018年，曾在美国先行审理其刑事案件的侯赛因被判阴谋、电子邮件诈骗和证券欺诈罪。由陪审团裁决刑事责任，是个不祥的预兆，因为刑事责任的门槛远高于民事裁判。"
     },
     {
       "id": "p035",
       "en": "Lynch’s civil trial ran for 93 days, and what emerged was deeply troubling. The court found that when Autonomy’s US finance chief Brent Hogenson raised alarms in 2010 about suspect sales, Lynch’s response was not to investigate but to suppress. He forwarded Hogenson’s concerns with instructions to use “the usual encryption,” warned that “emails have been known to escape,” and ultimately plotted to fire Hogenson—indicating that Lynch knew the allegations were true.",
-      "zh": ""
+      "zh": "林奇的民事审判持续了93天，审判中出现了令人深感不安的事实。法庭发现，在2010年，Autonomy 的美国财务负责人布伦特·霍格森提出销售异常的警报时，林奇的反应不是展开调查，而是压制问题。他转发了霍格森的担忧时附上了“按常规加密处理”的指示，警告称“电子邮件可能会泄露”，最终还策划解雇霍格森——这一系列做法表明，林奇知道这些指控属实。"
     },
     {
       "id": "p036",
       "en": "The court delivered a devastating judgment in January 2022. In a 1,700-page ruling, the judge found that Lynch had been “aware of improprieties in Autonomy’s accounting practices” and had been “dishonestly involved in manipulating the accounts.” The systematic accounting practices weren’t just aggressive. They were, the judge concluded, a deliberate scheme to mislead. American prosecutors, who had been waiting for the UK proceedings to conclude, now had the ammunition they needed. Extradition proceedings, already in motion, gained momentum.",
-      "zh": ""
+      "zh": "法院在2022年1月作出了毁灭性的裁决。在一份长达1,700页的判决书中，法官认定林奇“意识到 Autonomy 的会计作法存在不当行为”，并且“在篡改账目中有不诚实的参与”。这些有系统性的会计做法并不只是激进，它们，法官总结说，是一套故意误导公众的方案。一直在等待英方程序结束的美国检方现在终于拿到了所需证据。早已启动的引渡程序也因此加快了进程。"
     },
     {
       "id": "p037",
       "en": "Lynch’s forced travel to the United States in May 2023 marked the beginning of an extraordinary ordeal. Federal prosecutors in San Francisco charged him in a 16-count indictment that included conspiracy to commit wire fraud, wire fraud, securities fraud, and conspiracy. If convicted on all counts, the 57-year-old faced up to 25 years in prison—effectively a life sentence.",
-      "zh": ""
+      "zh": "林奇于2023年5月被迫前往美国，标志着一场异常遭遇的开端。旧金山的联邦检察官依据一份16项指控的起诉书对其提出起诉，其中包括阴谋实施电信诈骗、电信诈骗、证券欺诈以及共谋。如果他在所有指控上被定罪，这位57岁的男子将面临最高25年监禁——实际上相当于终身监禁。"
     },
     {
       "id": "p038",
       "en": "Despite US prosecutors promising the English court that Lynch wouldn’t be incarcerated pretrial, Judge Charles Breyer immediately sent him to jail upon arrival, his lead attorney Reid Weingarten recalled. “That was probably the lowest moment.” He ended up in jail for only one day, though, after posting a $100 million bond. The mathematics of his situation became Lynch’s obsession. “What are the odds?” he would constantly ask his friends and lawyers, especially Weingarten, who found it maddening. “It was the stupidest question ever,” he would later recall. “There’s just too many variables.” At the same time, he respected Lynch’s genuine curiosity—“there was nothing he didn’t know about or didn’t want to know about,” from astrophysics to politics, culture, music, even American baseball.",
-      "zh": ""
+      "zh": "尽管美国检方向英国法院承诺林奇在审前不会被关押，代理律师里德·温加滕回忆说，查尔斯·布雷耶法官还是在他抵达后立即将其送进监狱。“那可能是他人生中最灰暗的时刻。”不过，在缴纳1亿美元保释金后，他实际上只在狱中待了一天。“数学”成了林奇的执念。“这有多大概率？”他不断向朋友和律师询问，尤其是温加滕，后者对此颇为抓狂。“这绝对是他问过最愚蠢的问题之一，”他后来回忆道，“变量实在太多了。”与此同时，他也很尊重林奇那种真诚的求知欲——“他没有不想知道的事，也没有不了解的领域”，从天体物理到政治、文化、音乐，甚至是美国棒球。"
     },
     {
       "id": "p039",
       "en": "The trial began in March 2024, with Lynch joined by his former VP of finance Stephen Chamberlain as codefendant. From the start, it was clear that Lynch’s team had it easier. Hussain’s conviction had taught them the playbook of US prosecutors, and they’d had years to ready a new defense. Each night, Lynch and his legal team would work out who the prosecution was going to bring the next day. They also hired a “shadow jury”—a barman and a clerk paid to sit through all 11 weeks of proceedings and register independent impressions.",
-      "zh": ""
+      "zh": "审判于2024年3月开庭，林奇与前财务副总裁斯蒂芬·张伯林作为共同被告一同出庭。从一开始就很明显，林奇的辩护团队占了优势。侯赛因的定罪让他们摸清了美国检方的套路，他们也有了多年时间来准备新的辩护。每晚，林奇和他的律师团队都会梳理检方次日可能提出的论点和证据。他们还聘请了一支“影子陪审团”——一名酒吧调酒师和一名文员，受薪旁听全部11周的诉讼并给出独立观察。"
     },
     {
       "id": "p040",
       "en": "Most white-collar defendants stay silent; Lynch insisted on taking the stand. He presented himself as a down-to-earth British entrepreneur who had been victimized by American corporate incompetence. He walked the jury through his working-class background, his academic achievements. When prosecutors pressed him on specific transactions, he deflected skillfully—these were matters for the finance team, he was focused on technology and strategy.",
-      "zh": ""
+      "zh": "大多数白领犯罪被告人会选择缄默；林奇却坚持上台作证。他塑造自己为一位朴实的英国创业者，受到美国企业管理无能的迫害。他向陪审团讲述了自己的工薪家庭背景、学术成就。当检察官就具体交易细节逼问时，他熟练地把问题引开——这些是财务团队要负责的内容，他自己专注于技术和战略。"
     },
     {
       "id": "p041",
       "en": "One of the most effective moments came when Lynch described the experience with HP. “I watched them take this beautiful company and just wreck it,” he told the jury, emotion creeping in. “And then they had the audacity to blame me for their incompetence.”",
-      "zh": ""
+      "zh": "林奇谈到与惠普有关的经历时，讲出了一段最有说服力的话。“我亲眼看着他们把这家美丽的公司弄得一团糟，”他向陪审团说着，声音里带着情绪，“然后他们竟然竟敢把自己的无能推到我头上。”"
     },
     {
       "id": "p042",
       "en": "The verdict came on June 6, 2024. As the jury foreman read “not guilty” to all remaining charges, Lynch cried. So did his wife. Chamberlain was also acquitted on all counts. Speaking to journalists later, Lynch reflected on what he’d endured: “It’s bizarre, but now you have a second life,” he said. “The question is, what do you want to do with it?”",
-      "zh": ""
+      "zh": "判决于2024年6月6日作出。当陪审团长宣读“无罪”时，林奇泪流满面。连他的妻子也是如此。钱德莱恩也在所有指控上被宣告无罪。林奇后来对记者说起自己所经历的一切：“这真是奇怪，但现在你好像得到了第二次人生，”他说，“问题是，你想拿这第二次人生做什么？”"
     },
     {
       "id": "p043",
       "en": "As part of his recovery process, Lynch planned a long summer aboard the Bayesian, full of friends and celebration. For one particular outing in August, he invited along everyone who stayed close to him during the darkest period of his life. Christopher Morvillo, the Clifford Chance partner who had helped quarterback the US legal strategy, was there with his wife, Neda. Jonathan Bloomer, the Morgan Stanley international executive who had served as a character witness, had accepted the invitation along with his wife, Judy.",
-      "zh": ""
+      "zh": "为了恢复，他计划在贝叶斯号上度过一个漫长的夏日，与朋友们尽情庆祝。8月的一次出航中，他邀请了在自己生命中最黑暗时期始终陪伴在旁的每一个人。与他一道前往的，还有曾在美国法律战略上担任核心协调的 Clifford Chance 合伙人克里斯托弗·莫维洛（Christopher Morvillo）及其妻子内达（Neda）。曾担任“品格证人”的摩根士丹利（Morgan Stanley）国际高管乔纳森·布鲁默（Jonathan Bloomer）也接受了邀请，并带上了妻子朱迪（Judy）。"
     },
     {
       "id": "p044",
       "en": "The yacht itself was a 56-meter sailing vessel with a dark blue hull and a minimalist Japanese-style interior, later referred to by The Times of London as a “masterpiece of engineering and opulence.” The yacht’s original name was Salute; Lynch rechristened it the Bayesian. The vessel was magnificent but also an anomaly: It had a single, towering aluminum mast.",
-      "zh": ""
+      "zh": "这艘游艇是一艘56米长的帆船，深蓝色船体配以极简日式内饰。后来《伦敦时报》把它称为“工程学与奢华的杰作”。它最初的名字是“Salute”，林奇后来将其改名为“Bayesian”。这艘船宏伟非凡，也很少见：它只有一根高耸的铝制桅杆。"
     },
     {
       "id": "p045",
       "en": "The following account is drawn from official investigation reports, videos, photos, and people familiar with the accounts of the crew and survivors. The August sailing was planned as a leisurely tour of Sicily’s northern coast and Aeolian Islands. The group started in Milazzo, then spent four days exploring the volcanic archipelago. They anchored off Isola di Vulcano one day for a few hours to watch the active crater glow against the sky, visited Panarea, and enjoyed the crystal clear waters around Dattilo. It was exactly the kind of relaxed, intimate celebration Lynch had envisioned. It was also a sendoff for Hannah, an aspiring poet. The two loved to spar over meals, arguing about politics and world events, with Lynch playing the contrarian.",
-      "zh": ""
+      "zh": "以下内容来自官方调查报告、视频、照片，以及熟悉船员与幸存者叙述的相关人员的采访。8 月的航行本来是一场轻松的旅行，路线是西西里岛北岸和埃奥利亚群岛。当时小组先从米拉佐启程，随后在这个火山群岛上游览了四天。他们有一天在弗尔卡诺岛近岸停泊了几个小时，看着活动中的火山口在夜空中发出微光，还前往了帕纳雷亚岛，并在达蒂洛周围欣赏了清澈见底的水域。这正是林奇想要的那种轻松、私密的庆祝方式。那也是为诗歌新秀汉娜送别的一次聚会。两人最爱在用餐时辩论，争论政治和时事，林奇总是喜欢唱反调。"
     },
     {
       "id": "p046",
       "en": "That weekend, Lynch received two devastating calls from Andy Kanter about Stephen Chamberlain, his Autonomy codefendant. The first call, on Saturday, Lynch answered with a happy hello—laughter and cheer audible in the background—before Kanter delivered what he called “the gravest news”: Chamberlain, a middle-aged soccer fan and avid runner, had been struck by a car while jogging and suffered a traumatic head injury. By Sunday’s call, the news was worse: The hospital was turning off life support. The group aboard the Bayesian lit a candle for Chamberlain in the church at Cefalù.",
-      "zh": ""
+      "zh": "那周末，林奇接到了安迪·坎特打来的两通震惊电话，都是关于斯蒂芬·钱伯莱恩——他在 Autonomy 案件中的共同被告。周六那通，林奇先是开口‘喂，你好’并带着笑意回应，背景里还能听见笑声与欢快的说话声，但随后坎特带来他所说的‘最沉重的消息’：钱伯莱恩这位中年足球迷、热爱跑步的人在慢跑时被一辆汽车撞到，遭受了严重的颅脑创伤。到周日的电话，情况更糟：医院正准备撤除其生命支持。贝叶森（Bayesian）号上所有人当晚在锡法卢的教堂里为钱伯莱恩点燃了一支蜡烛。"
     },
     {
       "id": "p047",
       "en": "Weather forecasts for that night had mentioned possible thunderstorms, but nothing unusual for August in the Mediterranean. The five-day trip had been blessed with perfect conditions—clear skies, warm temperatures, and gentle winds. Lynch and his wife told the captain to move the Bayesian farther west to the village of Porticello to make the commute to the airport the following morning easier, in the event of rain.",
-      "zh": ""
+      "zh": "当晚的天气预报提到可能有雷暴，但对于地中海 8 月份来说并不罕见。当时这趟为期五天的行程一直很顺利，天气条件理想：天空晴朗、气温温暖、风势平缓。林奇和妻子让船长将贝叶森向西移到波尔蒂切洛村，以便第二天早晨前往机场的路程更顺畅，以防下雨。"
     },
     {
       "id": "p048",
       "en": "The crew settled into their nightly routines. The Bayesian sat at anchor around 300 meters from shore, her distinctive silhouette dark against the night sky.",
-      "zh": ""
+      "zh": "船员们开始进入每日的夜间例行安排。贝叶森在距岸约三百米的地方抛锚，她独特的船身轮廓在夜空下显得深沉而醒目。"
     },
     {
       "id": "p049",
       "en": "Even as people turned in for the night, the flashes of lightning had been visible for some time—flaring from the west, far offshore where a dense cloud tower brooded—but nothing hinted it would reach the anchorage. Thunderstorm alerts were in force for Sicily’s north coast, yet forecasters expected only scattered cells. In Griffiths’ Instagram video, lightning flickers in the clouds, the flashes outlining their depths.",
-      "zh": ""
+      "zh": "当人们陆续就寝时，雷光已在持续闪烁——从西面远离海岸的浓密云团中升起，像一座阴沉的雷云塔般起伏，却毫无迹象表明它会向停泊区逼近。西西里北海岸已发布雷暴预警，但气象预报当时只预计会有零散的雷阵雨。格里菲斯的 Instagram 视频中，雷电在云中一闪一闪，光芒勾勒出云层的深处。"
     },
     {
       "id": "p050",
       "en": "Meteorological analysis later showed a perfect, if unlikely, recipe for disaster: Tyrrhenian surface water near 29 degrees Celsius—2 to 3 degrees above the norm—pumped moisture aloft like fuel into a furnace. When that hot air collided with colder masses higher up, it produced a rotating updraft—a supercell.",
-      "zh": ""
+      "zh": "气象复盘后来显示，这场灾难源于一个近乎完美却又几乎不可能发生的组合：提雷尼亚海表面水温约 29 摄氏度，较常年高出 2 到 3 摄氏度，像燃料一样将水汽高举上升，像给炉膛投了火；当这股暖湿空气与上空较冷的气团相撞时，便形成了旋转上升气流——超级单体雷暴。"
     },
     {
       "id": "p051",
       "en": "As Griffiths ran to shut the forward hatches, the wind was already past 30 knots; 5 miles away, it was recorded at 41 knots. By 3:57 am, the Bayesian began to drift under pressure from the wind, dragging its anchor. The yacht’s chief engineer, Timothy Parker Eaton, who had sleeping quarters near the engine, felt the movement. He made sure all three generators were operating and headed to the wheelhouse—the yacht’s enclosed main control room.",
-      "zh": ""
+      "zh": "当格里菲斯赶去关闭前舱口时，风速已超过每小时 30 节；在距船 5 海里处，记录值达到 41 节。到凌晨 3:57，贝叶斯号在风压作用下开始漂移，锚链被拖拽。游艇总工程师蒂莫西·帕克·伊顿（Timothy Parker Eaton）住在接近机舱的卧室，最先感到了船体的位移。他确认三台发电机都在运转，然后前往舵轮室——船上的封闭式主控制舱。"
     },
     {
       "id": "p052",
       "en": "The vessel was lurching, but boats, of course, are always moving. Only some passengers woke up in the dark night. Key crew members—chief officer Tijs Koopmans and chief steward Sasha Murray among them—dressed hurriedly and made their way out of the crew’s quarters. Bacares pulled on her dressing gown and went to the saloon to check what was going on. Charlotte Golunski and her husband brought their baby there, too, to avoid waking the other guests. On deck, the crew worked to secure the vessel against the building storm, closing windows and securing cabinets. Above, on the fly deck, the chief steward met a wall of rain that she’d later describe as unlike anything she’d ever seen.",
-      "zh": ""
+      "zh": "船体在倾斜，然而船在海上本来就始终在移动。那晚只有少数乘客在黑暗中醒来。关键船员——包括大副蒂伊斯·库普曼斯和首席管家萨莎·默里——匆忙穿好衣服，从船员区赶到甲板。巴卡雷斯披上浴袍，去到船厅查看发生了什么。夏洛特·戈伦斯基（Charlotte Golunski）和她丈夫也把婴儿带过去，以免惊醒其他客人。甲板上，船员忙着加固船体以应对不断增强的风暴，关闭窗户、固定橱柜。高层的飞甲板上，首席管家遇到一片雨幕，她后来形容那是她此生从未见过的。"
     },
     {
       "id": "p053",
       "en": "Meanwhile, the chief officer climbed to the flying bridge, where Captain James Cutfield, just roused, ordered him to wake the rest of the crew. Below, a crew member passed the galley: Chef Recaldo Thomas was stowing pans. “Good morning!” he called, as if greeting just another squall.",
-      "zh": ""
+      "zh": "与此同时，首席军官爬上了飞桥，刚醒来的船长詹姆斯·卡特菲尔德命令他把全体船员叫醒。下面，舱面上正有一名船员走过厨房通道：主厨雷卡尔多·托马斯正在收拾平底锅。他叫了一声“早上好”，仿佛只是迎接又一次普通的狂风。"
     },
     {
       "id": "p054",
       "en": "By now the yacht was sliding south-southeast at 1.8 knots. The yacht’s 72-meter aluminum mast—taller than a 20-story building—caught the wind like a lever, and the boat started to heel. The chief officer confirmed with the chief engineer that engines and pumps were ready to reposition the boat.",
-      "zh": ""
+      "zh": "到那时，游艇已经以每小时1.8节向东南南方向滑行。游艇72米长的铝制桅杆——比20层楼还高——像杠杆一样迎风，把船体掀起。首席官员随后向首席工程师确认，发动机和水泵已准备好将船只重新摆位。"
     },
     {
       "id": "p055",
       "en": "At 4:04 am the onboard CCTV caught the flying-bridge awning shredding in an instant, obliterated by the force of the gale. Just moments later, as Captain Cutfield grabbed the helm to swing the bow into the wind, the downburst struck. A shaft of cold air dropped from 30,000 feet and hit the sea like an invisible fist. Wind leapt from 30 knots to more than 70 knots, a hurricane-force gust that struck the Bayesian with devastating power. The weather service’s review of satellite data would later suggest bursts over 87 knots, or nearly 100 miles per hour. The yacht began to tip hard to starboard. Within 15 seconds it capsized, generators cutting out as the side hit the water. It was 4:06.",
-      "zh": ""
+      "zh": "凌晨4:04，船上的闭路电视记录下飞桥遮阳篷瞬间被撕裂，狂风一击便将其摧毁。就在不久之后，卡特菲尔德船长抓住舵盘准备把船头转向迎风角时，突发下击暴流袭来。冷空气从30000英尺高度像一记无形铁拳般砸下。风速从30节陡升到70多节，这阵飓风级狂风以毁灭性力量打在“贝叶斯尼”号上。气象部门后来通过卫星数据复核，认为阵风曾超过87节，接近每小时100英里。游艇开始猛烈向右舷倾斜。15秒内它便翻覆，发电机在船体触水的一刻熄火。时间是4:06。"
     },
     {
       "id": "p056",
       "en": "People, furniture, and glass hurled sideways as battery lights flickered on, and then off. Bacares, the Golunski family, and a steward slammed into a wall—now the floor—and were cut by shattering glass. Griffiths, thrown from the flying bridge into the sea, clawed back aboard. Records indicate that the alarm was never pulled; no one had time.",
-      "zh": ""
+      "zh": "人、家具和玻璃被抛向侧面，电池灯闪烁了下又灭了。巴卡雷斯、戈伦斯基一家以及一名男服务员被抛向一面墙——随后那一面墙变成了地板——并被飞散的碎玻璃划伤。格里菲斯从飞桥被掀入海里后又拼命爬回船上。记录显示警报从未被拉响；大家都来不及了。"
     },
     {
       "id": "p057",
       "en": "Below, guests Matthew Fletcher and Ayla Ronald escaped their forward cabin by pulling out drawers as steps. Their cabin was farthest from the stairwell—the stairwell being a pivotal location, a straight shot to the saloon, which was the best way to exit the ship. Water poured over the rails. The yacht was flooding fast.",
-      "zh": ""
+      "zh": "在下面，旅客马修·弗莱彻（Matthew Fletcher）和艾拉·罗纳德（Ayla Ronald）通过把抽屉抽出来当作台阶，逃出了他们的前舱。 他们的舱室最远离楼梯间——而楼梯间是一个关键位置，一条通往舱门厅（saloon）的直通道，也是离开船舶的最佳路线。水正从护栏上方倾泻而下。游艇正在迅速进水。"
     },
     {
       "id": "p058",
       "en": "In the saloon, a desperate human chain formed to pass people up toward the open air. The chief officer shoved Bacares up toward the central stairway, where water was now cascading down in a torrent, and another crew member pulled her up onto the side of the flybridge above. Together they handed up Charlotte Golunski and the baby, passing them person-to-person through the flooding, tilted interior. But the situation was fast evolving. Three of them were momentarily trapped in an air pocket behind the wheelhouse door—James Emslie tried to force it open from outside but couldn’t, due to the pressure of the rushing water. Eventually, one of the crew members got it open when the boat had filled with enough water for the pressure to equalize.",
-      "zh": ""
+      "zh": "在舱门厅里，乘客们拼命形成了一条人工接力链，想把人往通往外界的通道送上去。大副将巴卡雷斯（Bacares）推向中部楼梯口，那里的水已像洪流一样直冲而下，另一名船员把她从上方的飞桥（flybridge）侧面拉了起来。随后他们一起把夏洛特·戈伦斯基（Charlotte Golunski）和婴儿交接上来，顺着满是洪水和倾斜内饰的空间，人对人地传递。形势却在快速恶化。三人一度暂时被困在驾驶室门后方的一个气囊状空腔内——詹姆斯·埃姆斯利（James Emslie）在船外试图把门撑开，但因湍急进水形成的压力太大而失败。直到船里灌入足够水量、内外压力接近平衡后，才有一名船员把门打开。"
     },
     {
       "id": "p059",
       "en": "The chief officer, lowest in the chain, was suddenly swept back into the main saloon before he could climb after the others. The ship, at this point, was slanted on an angle and the officer was in a corner on the upper part of the slant. He surfaced in a small air bubble there: The ceiling was on his side, the wall above him. His first escape attempt failed in the black water, which was clogged with cushions and broken bits of the once-lovely interior. Finding another small air pocket, he was able on the second attempt to feel his way along the debris-filled space to the heavy glass doors at the back of the saloon, braced his feet against the tilted door frame and hauled them open wide enough to squeeze through into the open sea. He later told Italian investigators he was sure he was going to die.",
-      "zh": ""
+      "zh": "位于救援链最末端的大副在还未来得及跟着其他人爬上去时，突然被卷回主舱门厅。此刻船舶已倾斜，一名船员在上方倾斜区域的一个角落里被困。于是他浮出一处小气囊空间：头顶是天花板，头上方有墙壁。他在漆黑的水中第一次尝试逃生失败，那片黑水里塞满了抱枕和曾经漂亮内饰的碎片。找到另一个小气囊后，他第二次尝试时，凭着摸索在满是碎片的空间里沿向后方的重玻璃门，脚踩住倾斜的门框，把门撑开到足以挤进的程度，随后滑出到海里。之后他告诉意大利调查人员，他确信自己活不下去了。"
     },
     {
       "id": "p060",
       "en": "The remaining passengers and crew clung desperately to whatever they could find. At this point it was clear that there would be no saving the boat, only surviving its sinking. The storm, though, was over. The wind, on the surface of the water, was quiet. Outside in the water, Captain Cutfield tried to organize the abandonment of the superyacht, telling survivors to swim clear of the mast and the boom, which could drag someone down with it. Murray counted heads and Griffiths improvised a tourniquet on Emslie’s arm. The baby balanced on a cushion, absurdly, precariously. Then the group finally caught a break: Koopmans, the chief officer, surfaced and cut one life raft free right as other crew members were trying, and failing, to get to another one. He ferried it to the bobbing group and inflated it.",
-      "zh": ""
+      "zh": "剩余的乘客和船员都拼命抓住一切能抓住的东西。到这时，显然已经不可能拯救这艘船，只能争取在它下沉中活下来。风暴却已经过去。海面的风很平静。就在水里，卡普坦·卡特菲尔德（Captain Cutfield）尝试组织游艇弃船救生，告诫幸存者要远离桅杆和船首横杆（boom），以免被它们拖入水下。默里（Murray）在清点人数，而格里菲斯（Griffiths）给埃姆斯利的手臂临时打了夹板式止血带。婴儿歪歪扭扭地靠在一个靠垫上，情景离奇而又危险。随后小组终于等到一个机会：库普曼斯（Koopmans）——这位大副——冲到水面，刚好在其他船员试图却未能到达另一只救生筏时，把一只救生筏放出。 他把救生筏划向漂浮的一群人，并把它充气起来。"
     },
     {
       "id": "p061",
       "en": "From the raft, the group watched the Bayesian’s bow rise up and then plunge down. By 4:24, the boat was gone, drifting 50 meters down to the seabed. From the time the full storm struck the yacht, only 18 minutes had passed.",
-      "zh": ""
+      "zh": "从救生筏上，众人看到“Bayesian”号的船头先抬起又骤然下沉。到4:24，这艘船已经不见了，向下漂入海底，深度约50米。自从暴风雨全面袭击这艘游艇起，过去仅有18分钟。"
     },
     {
       "id": "p062",
       "en": "Ten minutes later, the chief engineer fired a red parachute flare, but higher-altitude wind carried it sideways. He fired a second, and a crew member aboard the 42-meter steel-hulled schooner Sir Robert Baden Powell, anchored nearby, spotted it and alerted the skipper. The downburst had struck like a scalpel; the other vessel, barely 100 meters away, lost nothing more than an awning frame.",
-      "zh": ""
+      "zh": "十分钟后，首席工程师发射了一枚红色降落伞照明弹，但更高空的侧风把它吹偏了方向。他又发射了第二枚，这时，停泊在附近的一艘42米钢船体双桅帆船“Sir Robert Baden Powell”上的一名船员看到了信号并向船长报告。下击暴流像手术刀般精准地切入；另一艘距离不足100米的船只仅仅失去了一根遮阳篷支架。"
     },
     {
       "id": "p063",
       "en": "Its tender reached the raft and recovered 15 survivors. Bacares was among them, injured but alive. Her husband, daughter, and five others—Jonathan Bloomer, Judy Bloomer, Christopher Morvillo, Neda Morvillo, and Recaldo Thomas—remained inside the sunken yacht. Thomas—the chef who had called “Good morning!”—was found dead later that day.",
-      "zh": ""
+      "zh": "它的随艇快艇赶到救生筏处，找回了15名幸存者。Bacares也在其中，受伤但幸存。她的丈夫、女儿，以及另外五人——Jonathan Bloomer、Judy Bloomer、Christopher Morvillo、Neda Morvillo和Recaldo Thomas——当时仍滞留在沉没游艇内。Thomas——那位曾喊过“Good morning!”的厨师——当天晚些时候被发现已去世。"
     },
     {
       "id": "p064",
       "en": "Lynch, as a baby. He grew up in a modest household, the son of Irish parents.",
-      "zh": ""
+      "zh": "Lynch在婴儿时期便罹患某些疾病。 他在一个普通家庭中长大，是爱尔兰父母的儿子。"
     },
     {
       "id": "p065",
       "en": "Lynch and his daughter Hannah, who was an aspiring poet.",
-      "zh": ""
+      "zh": "Lynch和他的女儿 Hannah，一位有志于成为诗人的女孩。"
     },
     {
       "id": "p066",
       "en": "Rescue boats eventually arrived, too late to do anything about those stuck inside the sunken boat. By 6 am, as the survivors reached the dock at Porticello, villagers began throwing clothing out of their windows for the barely clad group.",
-      "zh": ""
+      "zh": "救援船最终赶到，但为时已晚，无法对仍困在沉没船内的人施救。到凌晨 6 点，幸存者抵达 Porticello 码头时，村民们开始从窗户里把衣服扔给这群几乎衣不蔽体的人。"
     },
     {
       "id": "p067",
       "en": "Andy Kanter, who was due to join Lynch with another set of lawyers on the Bayesian the following week, flew to Sicily immediately upon hearing the news. As Lynch’s close friend and business associate, he found himself coordinating with authorities and helping Bacares navigate the bureaucratic maze that follows disasters. The man who had called Lynch just hours before the tragedy to tell him about Chamberlain’s life support now faced the impossible task of managing the aftermath of both men’s deaths. In an unforgettable coincidence, Chamberlain passed the following day—meaning both men had died from freak accidents, thousands of miles apart, roughly within 24 hours of each other. This would fuel wild conspiracy theories online for months.",
-      "zh": ""
+      "zh": "安迪·坎特（Andy Kanter）本应在下一周与另一组律师一起在Bayesian号与Lynch会合，但听到消息后立刻飞往西西里。作为Lynch的亲密朋友和商业伙伴，他发现自己要协调当局，并帮助 Bacares 应对灾难后那场官僚程序的迷宫。这个在悲剧发生前几小时刚打电话告诉Lynch有关 Chamberlain 濒临生命支持状态的人，如今不得不面对处理两位逝者后事的艰难任务。更令人难忘的巧合是，Chamberlain 在第二天去世——这意味着两人都在相距数千英里的地方、相隔约 24 小时内死于怪异事故。这个结果在网上引发了数月的离谱阴谋论。"
     },
     {
       "id": "p068",
       "en": "The scene that greeted Kanter was surreal in its intensity. The media had descended on the small Sicilian port with overwhelming force. The hotel where survivors were staying shut down reservations for five days to accommodate the press invasion, says Kanter. Reporters were climbing into ambulances, desperate for any scrap of information. Italian media speculated wildly about encrypted hard drives in the yacht’s safe, with tabloids suggesting connections to Western intelligence services. The lack of verifiable information didn’t stop the stories: One newspaper made up an interview with Charlotte Golunski, where she’d said she momentarily lost her baby for “two seconds.” In truth, she hadn’t spoken to any journalist. In one particularly bizarre moment, while survivors were ensconced at a resort hotel, a 12-foot-tall minion walked by—a jarring reminder that normal life continued even as families dealt with unimaginable loss.",
-      "zh": ""
+      "zh": "迎接 Kanter 的场景强烈到近乎超现实。媒体以压倒性力量涌入这个小小的西西里港口。Kanter 说，幸存者下榻的酒店停掉了五天的全部预订，以容纳这场媒体“入侵”。记者们甚至爬上救护车，急于抓到任何一丝消息。意大利媒体狂热猜测游艇保险箱里有加密硬盘，选刊甚至暗示与西方情报机构有关。缺乏可核实的信息并未阻止这些故事传播：有一家报纸“编造”了与 Charlotte Golunski 的采访，称她曾“有两秒钟”失去婴儿。事实上，她并未与任何记者交谈。在一个格外离奇的时刻，当幸存者们安顿在度假酒店时，一名高达12英尺的随从走过——这刺耳地提醒人们，尽管一些家庭正在承受难以想象的悲痛，正常生活却依旧在继续。"
     },
     {
       "id": "p069",
       "en": "Even before the bodies were recovered, the blame game began. The yacht’s manufacturer initially filed a €222 million claim against Lynch’s wife and crew members, though it was quietly withdrawn. Insurance companies began their own investigations, with potentially $150 million in claims at stake. Quickly, Italian prosecutors opened an inquiry, initially focusing on potential charges of negligent shipwreck and manslaughter. Captain Cutfield faced particular scrutiny—questions about the keel position, open hatches, and whether adequate warnings were given. The prosecutors moved swiftly, interviewing everybody during those first five days. Since the boat’s party were all witnesses, not subjects, they were required to sit for their interviews, even though they were literally still shaking from their trauma.",
-      "zh": ""
+      "zh": "在遗体被打捞出来之前，甩锅游戏就已经开始了。这艘游艇的制造商最初对林奇的妻子和船员提出了2.22亿欧元的索赔请求，但后来被悄悄撤回。保险公司随后展开了自己的调查，涉及的潜在索赔金额高达1.5亿美元。很快，意大利检察官展开了调查，最初集中在过失触礁和过失杀人等指控。卡普敦菲尔德船长受到特别关注——人们质疑龙骨位置、舱口敞开，以及是否给出了充分警示。检察官行动迅速，在最初的五天内采访了所有人。由于这艘船的派对成员都是“目击者”而非“嫌疑人”，他们被要求配合接受采访，即使当时他们还在经历创伤后的震惊与发抖。"
     },
     {
       "id": "p070",
       "en": "The recovery operation took days. Divers worked in dangerous conditions, navigating the yacht’s flooded interior to reach the victims. Mike Lynch, the Bloomers, and the Morvillos—Christopher and Neda—were found clustered together in one cabin on the port side, suggesting they had sought shelter together as the yacht went down. Hannah was discovered in another cabin on the same side, by herself.",
-      "zh": ""
+      "zh": "打捞行动持续了数天。潜水员在危险条件下作业，穿行于游艇进水后的舱内结构以到达遇难者所在地。迈克·林奇、Bloomers 夫妇以及莫维洛夫妇——克里斯托弗和内达——被发现聚在左舷的一间舱室里，表明他们在船体下沉时似乎是挤在一起寻求庇护。哈娜则在同一侧的另一间舱室中被单独发现。"
     },
     {
       "id": "p071",
       "en": "The following Sunday, townspeople organized a memorial service that culminated in a candlelight vigil where people released wreaths into the water. Still, the boat sat at the bottom of the sea. In May 2025, a Dutch diver working for a company trying to recover the yacht died, adding another life to the toll. Finally, in June, the yacht and mast were recovered and brought to a terminal nearby for further investigation. By this point, the crew had dispersed across the world and have mostly stayed quiet about the event. Griffiths, for his part, still plans on working in the yachting industry.",
-      "zh": ""
+      "zh": "次周日，镇民组织了追思仪式，最后在一场烛光守夜中向海面抛洒了花圈。尽管如此，游艇仍静静躺在海底。2025年5月，尝试回收这艘游艇的一家公司的荷兰潜水员遇难，又增加了一条伤亡数字。终于在6月，游艇和桅杆被打捞上来并运到附近码头，供进一步调查。此时，船员已散布世界各地，大多对此事保持沉默。格里菲斯方面则表示，自己仍计划留在游艇行业工作。"
     },
     {
       "id": "p072",
       "en": "In July, UK High Court judge Robert Hildyard ruled that Lynch’s estate and former Autonomy CFO Sushovan Hussain owed Hewlett-Packard more than £700 million ($940 million) in damages from the Autonomy acquisition. In a postscript to his judgment, Hildyard expressed his “sorrow at this devastating turn of events, and my sympathy and deepest condolences, having come to know and admire Dr Lynch (notwithstanding my findings against him) over the course of a very long trial.” The ruling, which represented a significant reduction from HP’s original $4 billion claim, nonetheless reportedly threatened to bankrupt the estate, estimated to be worth around £500 million. Hussain, now out of prison, has started a company to help former criminals find work.",
-      "zh": ""
+      "zh": "7月，英国高等法院法官罗伯特·希尔迪亚德裁定，林奇遗产与前Autonomy首席财务官苏肖万·侯赛因需向惠普支付超过7亿英镑（9.4亿美元）的损害赔偿，作为Autonomy收购案的一部分。在判决附带意见中，希尔迪亚德表示，“对这一毁灭性转折深表惋惜，并对林奇博士深表同情与最深哀悼，尽管在一场非常漫长的审判中，我始终对林奇心存了解与敬意。” 这一裁决将惠普最初4十亿美金的索赔大幅下调，但据称仍有可能使估值约5亿英镑的遗产陷入破产边缘。如今已经出狱的侯赛因，已经创办了一家公司，帮助前罪犯找到工作。"
     },
     {
       "id": "p073",
       "en": "The final reports on the Bayesian sinking have yet to be released. The UK’s Marine Accident Investigation Branch published an interim report in May 2025 that focused on design and environmental vulnerabilities—though Italian prosecutors are separately investigating the captain and two crew members for manslaughter and negligence. What has emerged through the various investigations, and through press accounts, is a critical flaw in the Bayesian’s design. The single-mast configuration that gave the yacht her elegant lines—unique among the boat designer’s sought-after series of similar vessels—also dangerously affected her center of gravity. The MAIB analysis, conducted by the Wolfson Unit at Southampton, found that with the keel raised and no sails set, the yacht became vulnerable to capsizing in winds exceeding 60 knots—a threshold crossed in seconds when the downburst struck. The other yachts in the same series as the Bayesian had two masts, not one. This problem might have been noticed earlier except for one other factor: Elite luxury yachts don’t have to comply with the same robust safety rules as commercial ones. The International Safety Management Code is voluntary for boats registered for private use.",
-      "zh": ""
+      "zh": "关于“贝叶斯”号沉没的最终调查报告尚未公布。英国海事事故调查局在2025年5月发布了一份中期报告，重点指出了设计和环境方面的脆弱性——与此同时，意大利检方正在分别以过失杀人和过失疏忽罪名调查船长及两名船员。通过多项调查以及媒体披露，已经显现出“贝叶斯”号设计中的一个关键缺陷：单桅结构赋予了这艘游艇优雅的船型线条，这种结构在该船厂同系列的同类豪华艇中极为稀有，却也使其重心受到危险影响。南安普敦沃尔森小组进行的MAIB分析发现，在放起吊篮（升起龙骨）且未放任何帆时，该艇在风速超过每小时60节时会变得有倾覆风险，而当突发下击暴流来临时，这一阈值在几秒钟内就被突破。与“贝叶斯”同系列的其他游艇都有两根桅杆，而不是一根。这个问题本应更早被发现，但另一个因素是：顶级豪华游艇不必遵循与商用船舶同等严格的安全规则。国际安全管理规则（ISM Code）对登记为私人用途的船只是自愿执行的。"
     },
     {
       "id": "p074",
       "en": "When the downburst struck at 4:06 am, hurricane-force winds exceeding 70 knots hit the Bayesian’s towering mast like a lever, causing the yacht to heel hard to starboard. The vessel capsized within 15 seconds and sank in just 18 minutes, settling 50 meters below on the seabed off Porticello, Sicily.",
-      "zh": ""
+      "zh": "当下击暴流在清晨4点06分袭击时，70节以上的飓风级风力把“贝叶斯”号高耸的桅杆像杠杆一样撬了出来，导致游艇迅速向右舷猛烈倾斜。该船在15秒内即完成侧覆，随后18分钟后沉没，最终在西西里波尔蒂切洛附近海底50米处搁浅。"
     },
     {
       "id": "p075",
       "en": "The $40 million Bayesian featured a 72-meter aluminum mast—one of the world’s tallest—that gave the 56-meter vessel her elegant profile but created a critical vulnerability. With the keel raised and no sails set, the yacht became vulnerable to capsizing in winds exceeding 60 knots, a threshold crossed when the downburst struck.",
-      "zh": ""
+      "zh": "这艘价值4000万美元的“贝叶斯”号配备一根72米长的铝合金桅杆，是世界上最高的桅杆之一，为56米艇体带来了优雅的外形，但也制造了一个致命弱点。与放起龙骨且未放帆的状态下，这艘游艇在风速超过60节时容易倾覆，而这一阈值恰在下击暴流来袭时被瞬间越过。"
     },
     {
       "id": "p076",
       "en": "What are the odds of all this happening? As I spoke to people about Lynch, I became obsessed with the probability of all these untethered events. I tried to find some way to quantify this. Consider his trajectory: Perhaps only one in 500 working-class boys win elite scholarships; one in 10 of those reach Oxbridge; one in 12 of those earn PhDs; one in 10,000 of those become centimillionaires—multiply it out and you’re already at one in 600 million. White-collar defendants are either acquitted or dismissed about 15 percent of the time, but when the CFO is already convicted? Lynch was one of the few CEOs in the past 25 years to walk free from a criminal conviction after his other subordinates had already been convicted. Then that final night: Severe downbursts strike Sicilian anchorages perhaps once every 14 years, but for one just 75 meters wide to bull’s-eye a 56-meter yacht while missing the schooner 100 meters away? Probably on the order of once in 2,300 years. And Stephen Chamberlain—a jogger’s daily risk of fatal collision is about one in 9 million; multiply by Lynch’s yacht-disaster probability and you get roughly one in 760 billion for both dying the same day.",
-      "zh": ""
+      "zh": "所有这些恰好发生的概率有多高？在与人谈起林奇时，我开始沉迷于这些看似毫不相干事件组合在一起的概率问题，试图找到一种量化方式。先看他的成长路径：也许每500个工人阶层家庭的男孩中，才有1个赢得精英奖学金；其中1/10进入牛津或剑桥；再有1/12获得博士学位；再有1/10,000成为“亿万富翁”——算下来已经是约6亿分之一。白领被告大约有15%的概率会被无罪判决或被撤诉，但当CFO已被定罪时，林奇却成为过去25年里少数从刑事定罪中走出的CEO之一，而他的其他下属早已被定罪。再看那个夜晚：在西西里，剧烈下击暴流在锚地附近大约每14年才有一两次，但让一阵只宽75米的暴流“正中”一艘56米游艇而又错过一艘相距100米的双桅船，可能大约是2300年一次。再说到史蒂芬·张伯莱恩：一位晨跑者当日发生致命撞击的风险约为900万分之一。把这个风险与林奇那次游艇灾难概率相乘，大约是7600亿分之一，两人同日在一场事故中遇难。"
     },
     {
       "id": "p077",
       "en": "But if you look at things from a different angle, not everything seems up to chance. Lynch was an unruly thinker from his college days and a perfectionist boss who pushed everyone around him to their limits; was it inevitable that he would end up in court eventually, defending his risky decisions? In the same way, the Bayesian’s flaw is the most obvious thing about it. Standing at 72 meters, the aluminum mast was about as tall as the wingspan of a jumbo jet. The physics were baked into the design. Of all the events in Mike Lynch’s improbable life, his death turned on something that was, actually, quite knowable.",
-      "zh": ""
+      "zh": "但如果从另一个角度看，并非一切都只是偶然。林奇年轻时就是个难以驯服的思想者，也是个完美主义的老板，常把身边的人逼到极限；他最终走进法庭，为自己那些高风险决策辩护，似乎就注定了。在同样意义上，这艘名为“Bayesian”的游艇最明显的问题就是它的缺陷。这个铝制桅杆高达72米，几乎与一架大型喷气客机的翼展一样长。物理规律已经在设计之初就被“写进”了它的结构。在林奇这段离奇人生的所有事件里，他的死亡最终归结于一种其实并不神秘、相当可预见的因素。"
     },
     {
       "id": "p078",
       "en": "—With research from Charlie Barlow and Rania Raj",
-      "zh": ""
+      "zh": "——经查理·巴洛和拉尼娅·拉贾采访与资料整理"
     },
     {
       "id": "p079",
       "en": "This article appears in the November/December issue. Subscribe now.",
-      "zh": ""
+      "zh": "本文刊登于11/12月号。立即订阅。"
     },
     {
       "id": "p080",
       "en": "Let us know what you think about this article. Submit a letter to the editor at [email protected].",
-      "zh": ""
+      "zh": "欢迎向我们反馈这篇文章的看法。请将来信发送至 [email protected]。"
     }
-  ]
+  ],
+  "translated_at": "2026-07-22T17:48:03+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
 }

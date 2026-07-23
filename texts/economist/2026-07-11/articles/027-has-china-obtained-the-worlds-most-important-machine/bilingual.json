@@ -1,0 +1,99 @@
+{
+  "id": "027-has-china-obtained-the-worlds-most-important-machine",
+  "source_href": "19f32048-bf11-4f14-bdbc-d472d2968485.html",
+  "publication": "economist",
+  "issue": "2026-07-11",
+  "issue_published_at": "2026-07-11",
+  "article_published_at": "July 9th 2026",
+  "published_at": "July 9th 2026",
+  "published_date_source": "article",
+  "order": 27,
+  "section": "China",
+  "title_en": "Has China obtained the world’s most important machine?",
+  "title_zh": "中国获得了世界上最重要的机器吗？",
+  "rubric_en": "Its Dutch manufacturer is fighting to rebut American claims",
+  "rubric_zh": "荷兰制造商正在努力反驳美国指控",
+  "date": "July 9th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "The Dutch punch above their weight in technology transfers that shaped the modern world. In the 17th century their financial and farming innovations spread to Britain, spurring the Industrial Revolution and the British empire’s expansion. Peter the Great, a Russian tsar, studied Dutch shipbuilding techniques to build the navy that made Russia a maritime power in the 18th century. And in the 1970s a Pakistani scientist, A.Q. Khan, stole blueprints from a Dutch lab to launch his country’s nuclear-weapons programme and seed similar efforts in North Korea, Iran and Libya.",
+      "zh": "荷兰人在技术转移方面一直“力量远超其体量”，并由此深刻塑造了现代世界。17世纪，他们的金融与农业创新传播到英国，推动了工业革命并助推大英帝国的扩张。俄国沙皇彼得大帝学习了荷兰造船技术，建造出使俄罗斯在18世纪成为海上强国的海军。到20世纪70年代，巴基斯坦科学家A.Q.卡恩从一家荷兰实验室窃取了蓝图，启动了本国核武计划，并把类似计划的火种传播到朝鲜、伊朗和利比亚。"
+    },
+    {
+      "id": "p002",
+      "en": "Could Dutch know-how have just tilted the global balance of power again? So the Trump administration alleges. Since 2019 America has blocked the export to China of the extreme-ultraviolet, or EUV, lithography machines (pictured) that make the world’s most advanced semiconductors. These machines, whose creations power the most capable artificial-intelligence models, are made only by ASML, a Dutch firm. In recent weeks, however, America’s commerce secretary, Howard Lutnick, has thrown the company into crisis by sharing with it his concerns that one of these machines may have found its way to China.",
+      "zh": "荷兰的专业知识是否再次扭转了全球权力格局？特朗普政府是这样猜测的。自2019年以来，美国一直禁止向中国出口用于生产世界最先进半导体的极紫外（EUV）光刻机。正是这些“机器”驱动着最强人工智能模型，而其仅由荷兰企业ASML制造。然而近几周，美国商务部长霍华德·拉特尼克向该公司施压，称其中一台设备可能已流入中国，并由此把公司推向危机之中。"
+    },
+    {
+      "id": "p003",
+      "en": "Impossible, says ASML. Europe’s most valuable company has told American officials that it knows the exact location of all 340 EUV machines it has produced, including 26 decommissioned ones. None is in China, it says. What is more, only ASML can transport the highly sensitive machines, which it monitors online, and components that it ships are handled by ASML engineers in customers’ fabs. “ASML has never shipped an EUV machine to China, nor have we shipped to China any component, module or equipment specially designed to be used in an EUV machine,” the company says. Despite repeated requests, ASML has yet to be provided with any evidence to support Mr Lutnick’s allegation.",
+      "zh": "ASML称这是不可能的。欧洲最有价值的公司告诉美国官员，它准确掌握了所生产全部340台EUV机器的所在地，包括26台已报废的机器，其中一台也不在中国，它强调。更重要的是，只有ASML能够运输这些高度敏感的机器，并通过线上监控其运行情况；而其运往客户晶圆厂的零部件都由ASML工程师进行处理和维护。ASML表示：“ASML从未向中国发运过EUV机器，也未向中国运送过任何专门为EUV机器设计的组件、模块或设备。”尽管美国方面多次要求，公司至今尚未收到任何能够支持拉特尼克先生指控的证据。"
+    },
+    {
+      "id": "p004",
+      "en": "The Dutch government, while taking the American claim seriously, is pushing back, too. On a visit to Washington in late June, its trade minister, Sjoerd Sjoerdsma, tried to convince Mr Lutnick, other officials and members of Congress that the Dutch government strictly enforced its export controls, including on EUV technology. Speaking to The Economist on July 2nd, Mr Sjoerdsma declined to provide details of conversations about Mr Lutnick’s claim. But he says the Dutch government is not, at present, investigating the American allegation. “If there were things to be investigated or perhaps even to be prosecuted, then obviously we would do so,” he says.",
+      "zh": "荷兰政府在严肃看待美国说法的同时，也在反驳。6月下旬出访华盛顿期间，其贸易部长斯约尔德·斯约尔德斯马试图说服拉特尼克、其他官员以及国会议员，强调荷兰政府严格执行出口管制，尤其是对EUV技术的管控。6月2日（美报语境中的“7月2日”）接受《经济学人》采访时，斯约尔德斯马拒绝披露他与拉特尼克会谈中的细节。不过他表示，荷兰政府目前并未对美国的指控展开调查。“如果有需要调查、甚至起诉的内容，我们当然会进行处理。”"
+    },
+    {
+      "id": "p005",
+      "en": "The dispute hinges on whether there is any basis for Mr Lutnick’s allegation. Although no information supporting it has been made public, some people briefed on it describe it as “unverified” yet “not unfounded”. Many industry experts consider it highly unlikely that an entire EUV machine from ASML was shipped to China. But some believe that related components could have been, perhaps via ASML’s own suppliers or other third parties. Others think the issue is more likely to be ASML’s export to China of its older deep-ultraviolet, or DUV, lithography tools and related parts and services, most of which are not covered by export controls. ASML’s DUV-related exports to China accounted for about a third of its revenues in 2025.",
+      "zh": "这场争议的核心在于卢特尼克先生的指控是否有任何依据。尽管没有公开任何能够支持该说法的信息，但知情人士称其“尚未得到核实”，同时也“并非毫无根据”。许多行业专家认为，一整台来自 ASML 的 EUV 设备被运往中国的可能性非常小。但也有人认为，相关部件可能已经被运往中国，可能通过 ASML 自己的供应商或其他第三方实现。也有人认为，更可能的是 ASML 将其较旧的深紫外（DUV）光刻机及相关零部件和服务出口到中国，其中多数并不受出口管制。ASML 向中国出口与 DUV 相关产品和服务在 2025 年约占其收入的三分之一。"
+    },
+    {
+      "id": "p006",
+      "en": "Behind this controversy, however, lie much deeper differences over China’s technological progress and how Western governments should respond. It also highlights the recent friction between the Trump administration and many American allies. Some American officials see Europe as weak on China. Many European governments fear the Trump administration is undermining their economic and security interests while trying to strike its own preferential deals with China. Some European officials and executives also worry that the Trump administration is trying to strong-arm ASML and related companies into shifting more of their business to America to help develop the chip industry there.",
+      "zh": "然而，在这场争议背后，隐藏着对中国技术进步程度及西方政府应如何应对中国更深层次的分歧。它也突显了特朗普政府与许多美国盟友之间近期的摩擦。一些美国官员认为欧洲在对华问题上不够强硬。许多欧洲政府担心，特朗普政府在试图与中国达成有利于自己的特殊协议时，正在侵蚀他们的经济和安全利益。一些欧洲官员和企业高管也担心，特朗普政府正在强迫 ASML 及相关公司把更多业务转向美国，以帮助发展那里的芯片产业。"
+    },
+    {
+      "id": "p007",
+      "en": "One pivotal question is how far China has progressed in building its own EUV machine. Reuters, a news agency, reported in December that a team of former ASML engineers in China had completed a prototype EUV machine in 2025 and were testing it at a high-security lab in Shenzhen. ASML said it cannot control where former employees work, but they are bound by confidentiality agreements and in some cases the company has successfully taken legal action in response to theft of trade secrets.",
+      "zh": "一个关键问题是中国在自建 EUV 机器方面进展到什么程度。路透社曾在十二月报道称，一支由中国前 ASML 工程师组成的团队已在 2025 年完成了 EUV 机器的样机，并正在深圳一个高度保密的实验室中进行测试。ASML 表示，它无法控制前雇员的去向，但他们受有保密协议约束，在某些情况下公司已就商业秘密被盗成功提起法律诉讼。"
+    },
+    {
+      "id": "p008",
+      "en": "The prototype had not yet created any working chips but the Chinese government had set a goal for it to produce functional ones by 2028, Reuters reported. Most experts think that unrealistic, and that it could be a decade before China has a working EUV machine. Still, they concede China is making faster progress than expected on EUVs, and some alternative technology.",
+      "zh": "该样机当时还未生产出任何可工作的芯片，但路透社报道，中国政府已为其设定目标，要求到 2028 年前生产出可运行芯片。多数专家认为这一目标不现实，并且认为中国要拥有可用 EUV 机器可能还需要十年时间。不过，他们也承认，中国在 EUV 以及一些替代技术上的进展比预期更快。"
+    },
+    {
+      "id": "p009",
+      "en": "The other big American concern is China’s innovative use of DUV technology. Chinese chip firms such as SMIC and Huawei have pushed the limits of a technique known as “multi-patterning”, allowing them to use DUV technology to make logic chips of less than seven nanometres, near the industry’s cutting edge. Those were previously only made by EUV machines. While that technique brings higher costs and more errors than EUV tools, some American experts believe it could allow China to produce millions of the advanced chips it needs to catch up with America in the race for AI supremacy. Many in Europe believe such risks must be balanced with the need to protect and expand the revenues of ASML and the ecosystem around it, while avoiding retaliation from China.",
+      "zh": "另一个令美国担忧的问题是中国对深紫外光（DUV）技术的创新性应用。中芯国际和华为等中国芯片企业正在推动“多重图案化（multi-patterning）”技术的上限，让它们能够用DUV技术制造小于七纳米的逻辑芯片，接近行业技术前沿。此前这类芯片只由极紫外光（EUV）设备制造。虽然这项工艺在成本和良率上都高于EUV工具，并且更容易出现误差，但一些美国专家认为，它可能使中国生产上百上千万颗先进芯片，从而在AI霸主地位竞争中赶上美国。欧洲不少人士认为，这类风险必须与维护和扩大ASML及其产业生态系统收入的需要相平衡，同时避免激起中国报复。"
+    },
+    {
+      "id": "p010",
+      "en": "One pillar of America’s response is a new alliance of countries involved in Western AI supply chains. Known as Pax Silica, it aims to encourage partnership and common regulations in areas ranging ​from energy and critical minerals to advanced manufacturing and AI models. It has so far won support from 24 signatories, including the European Union and the Netherlands, which signed up in June during its trade minister’s visit. That could make it easier to share cutting-edge technology among like-minded countries and to unify export controls relating to EUV systems.",
+      "zh": "美国回应中的一个支柱是建立一个由参与西方AI供应链国家组成的新联盟，名为Pax Silica，旨在推动伙伴关系并在从能源与关键矿产到先进制造和AI模型等多个领域实现监管协同。到目前为止，它已获得24个签署方的支持，包括欧盟和荷兰，后者在6月荷兰贸易部长访问期间加入。该框架可能使志同道合国家之间更容易共享前沿技术，并统一涉及EUV系统的出口管制。"
+    },
+    {
+      "id": "p011",
+      "en": "The more divisive American initiative is the MATCH Act, legislation that was introduced in April with bipartisan support. It would not just block sales of DUV machines to China, but also restrict ASML’s provision of servicing, spare parts and software support for the hundreds of DUV machines already there. And it would give the Dutch and others 150 days to align their controls with America’s or face action under the Foreign Direct Product Rule. That applies American export controls to foreign products whose manufacture involves technology that originated in America and, in ASML’s case, would oblige it to comply or face hefty fines and other penalties. Backers say such measures are necessary, given the national-security stakes. “I don’t support asking the companies nicely not to do this. I support making it illegal to do this,” says Gregory Allen, a former director of strategy at the Pentagon’s Joint AI Centre who now runs an advisory firm.",
+      "zh": "更具争议的美国倡议是MATCH法案，该法案于4月推出，并获得了两党支持。它不仅将禁止向中国销售DUV设备，还将限制ASML向已销售到中国的数百台DUV机器提供维修、备件和软件支持。该法案还将给予荷兰等国150天时间，与美国的管制标准对齐，否则将受到美国“外国直接产品规则”的制裁。该规则将美国对外出口管制扩展到那些制造过程中使用了源自美国技术的外国产品；对ASML而言，这意味着其必须遵从该规则，否则将面临高额罚款及其他处罚。支持者认为，考虑到国家安全风险，这些措施是必要的。前任五角大楼联合人工智能中心战略主任、现任咨询公司的格雷戈里·艾伦（Gregory Allen）说：“我不支持礼貌地请企业不要这样做。我支持把这件事定为非法。”"
+    },
+    {
+      "id": "p012",
+      "en": "The Dutch, and some others, disagree. The MATCH Act is “really unfortunate from our perspective,” says Mr Sjoerdsma. He expresses particular concern about the threat to apply American law extraterritorially to Dutch and allied firms. “We believe that every country can best decide for itself what technology should be developed by its companies and what security risks this might or might not entail,” he says. Further grounds for his government’s scepticism is the contradiction between the demand to restrict exports of older DUV tools and the Trump administration’s agreement to allow the export to China of Nvidia’s h200 AI chips. They can only be made by some of the latest EUV machines.",
+      "zh": "荷兰及其他一些国家持不同观点。斯乔尔德斯玛先生表示，MATCH法案“从我们的立场来看，确实非常不幸”。他特别担心美国试图将其法律域外适用于荷兰及盟国企业。“我们认为每个国家都应当自己决定本国企业应该发展哪些技术，以及这些技术可能带来哪些安全风险，或者根本不带来风险。”他表示。该法案受阻的另一个原因，也是其政府疑虑的来源，是一种逻辑矛盾：美国一方面要求限制旧型号DUV设备的出口，另一方面特朗普政府却同意向中国出口英伟达（Nvidia）的H200 AI芯片。因为这些芯片只能由最新一代EUV设备制造。"
+    },
+    {
+      "id": "p013",
+      "en": "Mr Sjoerdsma faced similarly tricky negotiations on a visit to China this week. It has denounced the MATCH Act and introduced regulations authorising it to penalise foreign companies that comply with American sanctions or export controls. The Netherlands is already reeling from the backlash to its decision in September to take control of Nexperia, a Chinese-owned Dutch chipmaker, to stop it from moving operations to China. The Chinese government responded by blocking Nexperia’s exports from China, severely disrupting European and Japanese carmakers.",
+      "zh": "斯约尔茨马先生本周访问中国时也面临了同样棘手的谈判。他谴责了《强制先进技术控制法》（MATCH Act）并推出了授权法规，允许其对遵从美国制裁或出口管制的外国企业进行处罚。荷兰此前在9月决定接管一家中国控股的荷兰芯片制造商Nexperia，以阻止其将业务搬往中国，这一决定已引发持续反响。中国政府随即回应称停止从中国向外出口Nexperia产品，严重扰乱了欧洲和日本汽车制造商的供应。"
+    },
+    {
+      "id": "p014",
+      "en": "The fracas over Mr Lutnick’s claim may die down, especially if America shares no evidence. But this is just an early salvo in the bigger battle over AI chokeholds. It will not be the last time that ASML and its technology are caught in the crossfire. ■",
+      "zh": "关于卢特尼克先生主张引发的争吵可能会平息下来，尤其是如果美国不提供证据的话。但这只是围绕人工智能“卡脖子”问题更大博弈的一个早期先手。ASML及其技术再次卷入交战漩涡并不会是最后一次。■"
+    },
+    {
+      "id": "p015",
+      "en": "Subscribers can sign up to Drum Tower, our new weekly newsletter, to understand what the world makes of China—and what China makes of the world.",
+      "zh": "订阅者可以报名订阅Drum Tower（我们的新周刊），以了解世界如何看待中国，以及中国如何看待世界。"
+    }
+  ],
+  "translated_at": "2026-07-22T23:09:00+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

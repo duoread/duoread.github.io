@@ -1,0 +1,484 @@
+{
+  "id": "001-arms-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off",
+  "source_href": "feed_0/article_0/index_u29.html",
+  "publication": "wired",
+  "issue": "2026-05-02",
+  "issue_published_at": "2026-05-02",
+  "article_published_at": "Mar 25, 2026 6:00 AM",
+  "published_at": "Mar 25, 2026 6:00 AM",
+  "published_date_source": "article",
+  "order": 1,
+  "section": "Lauren Goode",
+  "title_en": "Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off",
+  "title_zh": "Arm 首席执行官坚持认为市场离不开他的新 CPU，这可能会得罪所有人",
+  "rubric_en": "",
+  "rubric_zh": "",
+  "date": "Mar 25, 2026 6:00 AM",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "Rene Haas is half-prone on a couch in his office in San Jose, California. A basketball rests in his hand, partly obscuring his face. Haas had grimaced when WIRED’s photographer first asked him to assume this position. The headlines came to him immediately: “People are going to say ‘Arm’s CEO sleeps on the job,’” he says.",
+      "zh": "Rene Haas正半躺在他位于加州圣何塞办公室的沙发上，手里拿着一个篮球，几乎挡住了他的脸。WIRED 的摄影师第一次让他摆出这个姿势时，Haas就皱起了眉头。“我马上就想到标题了：‘大家会说 Arm 的 CEO 在工作时睡觉了’，他笑着说。"
+    },
+    {
+      "id": "p002",
+      "en": "Still, Haas obliges. He gives us 46 minutes of his time, then shoos us out so he can hop on a call with Masayoshi Son, the Softbank CEO and chairman of Arm’s board.",
+      "zh": "但Haas还是配合了。他给了我们46分钟时间，随后把我们请了出去，让他可以接入一个与软银首席执行官、也是 Arm 董事会主席的孙正义的电话。"
+    },
+    {
+      "id": "p003",
+      "en": "I’m meeting with Haas just days before the chip firm’s momentous announcement that it’s launching its own silicon. For a company that's made its fortunes licensing its architectures to other chip companies and never fabricating its own, the move is a huge bet. Apple, Tesla, Nvidia, Microsoft, Amazon, Samsung, and Qualcomm all make or sell chips based on Arm, either licensing the chip designs or paying royalties to the firm. It’s been estimated that there are three Arm chips for every human on Earth.",
+      "zh": "我是在芯片公司发布重大消息的前几天见到Haas的，这家公司将推出自有的硅片。对于一家主要靠把自己的架构授权给其他芯片公司、从未自己制造芯片的企业来说，这一步是一次巨大的赌注。Apple、Tesla、Nvidia、Microsoft、Amazon、Samsung 和 Qualcomm 都基于 Arm 的架构生产或销售芯片，要么直接许可芯片设计，要么向该公司支付版权费。人们估计，世界上每个人平均拥有大约三颗 Arm 芯片。"
+    },
+    {
+      "id": "p004",
+      "en": "Seen another way, though, making a chip marks a return to Arm’s roots. The company goes back to the late 1970s, when two computer architects started a company, Acorn Computers, that produced a microprocessor built on an architecture known as RISC. By the early ’90s the company was flailing, and the then CEO pivoted to licensing its designs to other companies. Fast-forward to the mid-2010s, and Arm’s power-efficient mobile chip designs helped make it the most important chip IP company in the world.",
+      "zh": "从另一个角度看，造芯片其实是 Arm 回归其根基。公司可以追溯到20世纪70年代后期，当时有两位计算机架构师创建了 Acorn Computers（松果电脑公司），推出了一款基于 RISC 架构的微处理器。到了1990年代初，这家公司陷入困境，时任 CEO 转向将其设计授权给其他公司。快进到2010年代中期，Arm 的高能效移动芯片设计帮助其成为世界上最重要的芯片知识产权公司。"
+    },
+    {
+      "id": "p005",
+      "en": "Arm’s trajectory hasn’t all been smooth. After Softbank acquired Arm in 2016 and took the publicly traded company private, the smartphone market’s growth slowed. Arm had to make an aggressive push into new lines of business. In 2020 Nvidia tried to scoop it up and regulators blocked the deal. As that deal collapsed, in 2022, Haas stepped into the CEO role. He took Arm public again, with Softbank still owning 90 percent of the company.",
+      "zh": "Arm的发展轨迹并非一帆风顺。2016年，软银收购Arm并将这家上市公司私有化后，智能手机市场增速放缓。Arm不得不大幅推进新的业务线。2020年，英伟达（Nvidia）曾试图收购它，但交易被监管机构叫停。随着这笔交易在2022年宣告破裂，哈斯（Haas）接过首席执行官一职。他让Arm再次上市，而软银仍持有公司90%的股份。"
+    },
+    {
+      "id": "p006",
+      "en": "Haas had joined Arm in 2013 from Nvidia, where he’d led the computing product business unit, and eventually took over Arm’s cash cow, the IP products group. Similar to the way Nvidia CEO Jensen Huang leans on his decades-long perspective of the industry—gather ’round the campfire, kids, while I tell you about the early days of parallel computing—Haas is quick to reference 1980s geopolitical chaos when asked whether current events make him worry about his business. (No.) He’s met with President Donald Trump half a dozen times, he tells me, but he’s not particularly concerned about the US government interfering in his UK company’s affairs. He is tall, though not particularly foreboding, and often wears Saint Laurent boots with little heels, a blazer, and a Panerai watch.",
+      "zh": "哈斯于2013年从英伟达加入Arm，曾负责该公司的计算产品事业部，后来接管了Arm的“摇钱树”——IP产品部门。和英伟达首席执行官黄仁勋依靠其几十年的行业阅历来开讲似乎很自然——比如围着火堆对着孩子们说起并行计算的早期故事——一样，哈斯在被问及当前事件是否让他担心业务时，也会迅速提及20世纪80年代的地缘政治动荡。答案是：不会担心。他告诉我，自己已与唐纳德·特朗普总统见过面近六次，但他并不特别担心美国政府干预其英国公司的事务。他身材高挑，却不算威严，通常穿着带有小跟的圣罗兰（Saint Laurent）靴子、夹克和一块帕内莱（Panerai）手表。"
+    },
+    {
+      "id": "p007",
+      "en": "Chip industry insiders say Haas, 63, is a masterful networker who pals around with the biggest names in tech. The Wall Street Journal once labeled him a “natural-born diplomat.” But with this chip project, one of the most loosely held secrets in the Valley, Arm—and Haas—risk rankling some of the company’s most loyal partners. Can you stay besties with people if, after years of polite dinner parties, you announce you’re buying their house? Haas seems convinced he can.",
+      "zh": "芯片行业内幕人士表示，63岁的哈斯是个社交手腕非常娴熟的人，和硅谷最顶尖的科技大佬都能打成一片。华尔街日报曾称他是“天生的外交官”。但在这项芯片项目上，Arm——以及哈斯本人——却冒着得罪公司最忠诚合作伙伴的风险，而这也是硅谷所谓“最不保密”的事情之一。你能与人长期在礼貌的晚宴上维持友好关系，之后却宣布“我要买下你们的房子”吗？哈斯似乎确信自己可以做到。"
+    },
+    {
+      "id": "p008",
+      "en": "This interview has been condensed and lightly edited for clarity.",
+      "zh": "本次访谈经过压缩并做了轻度编辑，以提高清晰度。"
+    },
+    {
+      "id": "p009",
+      "en": "Lauren Goode: Since you became CEO, people say that there's been a big culture change. Do you agree with that assessment?",
+      "zh": "劳伦·古德：你接任CEO之后，人们都说公司文化发生了很大变化。你认同这种判断吗？"
+    },
+    {
+      "id": "p010",
+      "en": "Rene Haas: The thing that I've learned—I knew this intrinsically when I worked for Jensen, but I certainly internalized it when I took over here—is that the CEO sets the tone for the company.",
+      "zh": "雷内·哈斯：我学到的一件事——我在为詹森工作时就本能地明白了这点，但我在接手这里后更是把它内化为信条——就是CEO会为公司定下基调。"
+    },
+    {
+      "id": "p011",
+      "en": "My training, which ultimately develops who you are as a leader, was really accelerated by moving to Silicon Valley 30 years ago, working with a few startups and then working for Nvidia. And the common theme between all those companies is that I was working for founders. At the time I couldn't tell you, \"Oh, working with founders, that's the kind of environment that I resonate with.\" But looking back, that’s where I think my DNA was shaped and where I found the environment I thrive in.",
+      "zh": "我的成长经历，最终塑造了我作为领导者的样子，确实是在三十年前搬到硅谷、先后在几家创业公司任职，后来在英伟达工作的过程中被快速加速的。所有这些公司的共同点，是我都在为创始人打过工。当时我说不出“哦，在创始人身边工作正是我向往的环境”这样的话；但回想起来，我认为正是在那里塑造了我的职业 DNA，也是在那儿我找到了自己最能 thrive 的环境。"
+    },
+    {
+      "id": "p012",
+      "en": "What kind of environment is that exactly? Taking risks, bold growth, fast markets, making mistakes, but at the same time, being willing to take big bets. So when I took over here, I said, that’s the kind of culture I want.",
+      "zh": "那到底是什么样的环境呢？是敢于冒险、勇于扩张、市场节奏快、允许犯错，同时又愿意下注于重大战略方向。正因为如此，当我在这里接管公司时，我就明确说：这就是我想要的文化。"
+    },
+    {
+      "id": "p013",
+      "en": "Was this Arm silicon project already in the works when you became CEO?",
+      "zh": "你上任首席执行官时，这个 Arm 芯片项目已经在进行中了吗？"
+    },
+    {
+      "id": "p014",
+      "en": "How much of this was your idea, and how much of it was Masa’s?",
+      "zh": "其中有多少是你的想法，有多少是 Masa 的想法？"
+    },
+    {
+      "id": "p015",
+      "en": "Was it his decision? No. I’m the CEO. Was he very aware and involved in the trade-offs and various things we looked at? Hundred percent. But this was more from a brainstorming perspective, as a partner of ideas, as opposed to your boss telling you, “Yes to this, no to this.” He’s not into that level of detail.",
+      "zh": "这是他做的决定吗？不是。我是 CEO。 他是否对我们讨论过的各种权衡和事项非常清楚并且参与其中？百分之百。 但这更像是一次头脑风暴式的合作，像想法上的搭档，而不是你的老板对你说“这个要，那个不要”。他不太会介入到那种细节层面。"
+    },
+    {
+      "id": "p016",
+      "en": "One of the benefits from SoftBank’s 90 percent ownership of ARM is that he's our chairman, and he's our biggest shareholder, and as a result of that he’s someone I talk to all the time. We're pretty close.",
+      "zh": "SoftBank 持有 ARM 90%股份带来的一个好处是他是我们的董事长，也是最大股东，因此他是我几乎每天都在联系的人。我们关系非常密切。"
+    },
+    {
+      "id": "p017",
+      "en": "One analyst told me you talk to Masa 10 to 12 times per day.",
+      "zh": "一位分析师告诉我，你每天会和 Masa 通话 10 到 12 次。"
+    },
+    {
+      "id": "p018",
+      "en": "Some days. He does like to talk on the phone. I am up all hours. He knows my personal schedule very well. He knows when I get up, he knows my workout schedule. He knows when I go to sleep. He's pretty good about all that.",
+      "zh": "有些日子会这样。他确实喜欢打电话。我是全天候在线。他很清楚我的作息安排。他知道我几点起床，知道我的锻炼时间表。他知道我几点睡觉。这些他都很熟悉。"
+    },
+    {
+      "id": "p019",
+      "en": "What made you think this is the time for Arm to do this chip?",
+      "zh": "是什么让你认为现在就是 Arm 推出这颗芯片的时机？"
+    },
+    {
+      "id": "p020",
+      "en": "So somewhere along the way, we morphed from an IP company into a compute platform company. And by that, I mean, when you think about the role the CPU plays in any ecosystem, there's such an interdependency between the hardware of the CPU and the software ecosystem, whether it's running Windows or macOS or iOS or Android or Linux. I don't think we acknowledged it or I don't think we understood its importance, but when I took over, I definitely knew that this was who we were and it was something that we had to advance.",
+      "zh": "所以在这个过程中，我们从一家 IP 公司转变成了一家计算平台公司。我的意思是，当你思考 CPU 在任何生态系统中的作用时，你会发现 CPU 硬件与软件生态之间存在如此强的相互依赖，无论是在 Windows、macOS、iOS、Android 还是 Linux 上运行。我想不需要强调的是，我们并未把这点讲清楚，也许我们以前没有意识到它的重要性；但当我接手时，我非常明确知道这就是我们的身份，也正是我们必须推进的方向。"
+    },
+    {
+      "id": "p021",
+      "en": "So why would we build a chip? When you’re a compute platform company, there are times when the ecosystem benefits from you physically building something. We've seen this in the past, whether it's Microsoft building a Surface laptop that helps the Windows ecosystem, while HP and Dell and Lenovo are still building laptops; or whether it’s Google building a Pixel phone, but meanwhile, Samsung still builds Android phones.",
+      "zh": "那么为什么我们要造一颗芯片？当你是一家计算平台公司时，有些时候，生态系统确实需要你亲自打造一个实物产品。过去我们见过这种情况：无论是微软打造 Surface 笔记本以支持 Windows 生态，还是说谷歌造 Pixel 手机，但同时三星仍在生产 Android 手机，惠普、戴尔、联想也都在造笔记本。"
+    },
+    {
+      "id": "p022",
+      "en": "Those products are still a sliver of their businesses.",
+      "zh": "那些产品仍然只占他们业务的一小部分。"
+    },
+    {
+      "id": "p023",
+      "en": "But it benefits the ecosystem. If you think about Gemini on a Pixel platform, if Gemini is optimized on Android, it helps Samsung. If you think about Microsoft developing tools or applications for Surface that benefit Windows, it will benefit HP, Lenovo, and Dell.",
+      "zh": "但这确实有利于生态系统。如果你考虑 Gemini 在 Pixel 平台上的情况：若 Gemini 在 Android 上被优化，就会帮助三星。再看微软为 Surface 开发工具或应用，这会让 Windows 受益，也会让惠普、联想和戴尔受益。"
+    },
+    {
+      "id": "p024",
+      "en": "That’s the thing that I think people haven't always understood about us. They say, \"Oh, it's an IP company.\" But the IP that we deliver is a compute platform, and ultimately platform companies need to do things to move the ecosystem forward.",
+      "zh": "这正是我认为大家并没有总是理解我们的地方。他们说：\"哦，它只是一家知识产权公司。\"但我们交付的知识产权是一种计算平台，而归根结底，平台公司需要做一些事情来推动生态系统向前发展。"
+    },
+    {
+      "id": "p025",
+      "en": "What’s the new chip called?",
+      "zh": "这块新芯片叫什么？"
+    },
+    {
+      "id": "p026",
+      "en": "It’s the Arm AGI CPU.",
+      "zh": "它就是 Arm AGI CPU。"
+    },
+    {
+      "id": "p027",
+      "en": "AGI as in, artificial general intelligence?",
+      "zh": "AGI 是指“人工通用智能”吗？"
+    },
+    {
+      "id": "p028",
+      "en": "That's right. You like it?",
+      "zh": "没错。你喜欢吗？"
+    },
+    {
+      "id": "p029",
+      "en": "I don’t dislike it. I wonder if AGI is a term that's going to go out of fashion at some point, as the industry collates around some other ideas of super intelligence.",
+      "zh": "我并不反感它。我在想AGI这个词是否会在某个时候退出时尚，因为行业会围绕某些其他超智能的概念重新归并。"
+    },
+    {
+      "id": "p030",
+      "en": "I'm betting it won't.",
+      "zh": "我打赌它不会。"
+    },
+    {
+      "id": "p031",
+      "en": "Who's your target customer for this?",
+      "zh": "这个产品的目标客户是谁？"
+    },
+    {
+      "id": "p032",
+      "en": "The first customer is going to be Meta. But we also have SK Hynix, Cisco, SAP, Cloudflare. We have multiple customers.",
+      "zh": "第一批客户将是Meta。但我们也有SK Hynix、Cisco、SAP和Cloudflare。我们有多个客户。"
+    },
+    {
+      "id": "p033",
+      "en": "And this is a chip designed for data centers.",
+      "zh": "而这是一款为数据中心而设计的芯片。"
+    },
+    {
+      "id": "p034",
+      "en": "What makes this chip special?",
+      "zh": "是什么让这款芯片与众不同？"
+    },
+    {
+      "id": "p035",
+      "en": "There's a number of things, but one is that it's unbelievably power-efficient. This company was born from building chips to run off of batteries or in mobile phones. So we have this mindset around efficiency. And everything that you hear about the growth of AI is how much energy is needed. So anything you can do to deliver the world's most power-efficient server CPU is all goodness. This is going to be the most power-efficient CPU.",
+      "zh": "有好几点原因，其中之一是它的能效惊人。该公司最初是从为电池供电或手机里运行的芯片开始起家的，所以它有着对效率的执着思维。你听到关于人工智能增长时，都会听到一个共同点：这需要消耗多少能源。因此，只要能做出世界上最节能的服务器CPU，这就是一件大好事。这将是最具能效的CPU。"
+    },
+    {
+      "id": "p036",
+      "en": "The other thing that it’s going to be incredibly good at is running agentic AI. One of the myths out there has been that with the rise of AI, the GPU or the accelerator is everything. But when you look at how agents run inside the data center, that's work that only the CPU can do. The GPU doesn't go away, but it needs far more CPUs to run all the agents.",
+      "zh": "另一件它会表现出色的事情是运行“代理式AI”。外界长期流传的一个误解是，随着AI的兴起，GPU或加速器才是全部。但当你看看智能体在数据中心里的实际运行方式时，那是只有CPU才能完成的工作。GPU并不会消失，但要支撑这些智能体的运行，反而需要更多的CPU。"
+    },
+    {
+      "id": "p037",
+      "en": "Meta just struck two pretty big deals with Nvidia and AMD, for both CPUs and GPUs. This includes Nvidia’s new Vera CPUs, which are part of the bigger Vera Rubin superchip.",
+      "zh": "Meta 刚刚与 Nvidia 和 AMD 签下了两笔相当大的交易，涵盖了 CPU 和 GPU 两类芯片。这其中包括 Nvidia 的新一代 Vera CPU，它属于更大的 Vera Rubin 超级芯片方案。"
+    },
+    {
+      "id": "p038",
+      "en": "That's right. Which is Arm.",
+      "zh": "没错，也就是 Arm。"
+    },
+    {
+      "id": "p039",
+      "en": "Pardon my French, but does launching your own CPU piss off a customer like Nvidia?",
+      "zh": "请原谅我直白一点，推出你自家的 CPU 会不会惹恼像 Nvidia 这样的客户？"
+    },
+    {
+      "id": "p040",
+      "en": "Yeah, so, back to the platform discussion … It raises all boats.",
+      "zh": "是啊，所以回到平台讨论……这会让所有人的船都抬高。"
+    },
+    {
+      "id": "p041",
+      "en": "That is a very convenient answer.",
+      "zh": "这是一个非常方便的答案。"
+    },
+    {
+      "id": "p042",
+      "en": "But it's not inaccurate. The more software that's written for Arm, the more optimizations that are done for Arm—all of that helps anybody that builds on Arm. The opportunity is massive. When you look at the amount of dollars associated with the data center and AI growth, it's just really large. To your question, does it piss off Nvidia? I'd imagine it will piss off Intel and AMD more than it pisses off Nvidia.",
+      "zh": "但这并不算不准确。写给 Arm 的软件越多，就会有越多针对 Arm 的优化——这一切都能帮助所有基于 Arm 建设的人。这个机会是巨大的。放到数据中心和 AI 增长相关的资金规模上看，规模实在是非常大。至于你问它会不会惹恼英伟达？我想它更可能会惹恼英特尔和 AMD，而不是英伟达。"
+    },
+    {
+      "id": "p043",
+      "en": "Because it takes market share from them.",
+      "zh": "因为这会从他们那里抢走市场份额。"
+    },
+    {
+      "id": "p044",
+      "en": "You’re referring to the fact that it’s Intel’s x86 architecture versus Arm architecture. So you don't think you’ll piss off your pal, Jensen, but that AMD and Intel may have some response to this.",
+      "zh": "你指的是英特尔的 x86 架构和 Arm 架构之间的差别。也就是说，你不认为这会惹你那位朋友 Jensen 生气，但 AMD 和英特尔可能会对此做出一些回应。"
+    },
+    {
+      "id": "p045",
+      "en": "I use “piss off” as tongue-in-cheek. It's beneficial to the Arm ecosystem and it's beneficial to Jensen that we build a chip. If you've got [Nvidia’s] Vera chip, which is a great product, and you've got Arm AGI CPU, which is a great product, it's not great for Intel and AMD, that's all I know.",
+      "zh": "我把“piss off”当作一种带点俏皮的说法。为 Arm 生态建设芯片对整个生态有利，也对 Jensen 有利。如果你有 Nvidia 的 Vera 芯片，这是个很棒的产品；而你还拥有 Arm AGI CPU，这也是个很棒的产品，那么对 Intel 和 AMD 来说就没那么美好——我能说的只有这些。"
+    },
+    {
+      "id": "p046",
+      "en": "Will Nvidia actually buy your CPU? Amazon execs appeared in a video at your event, vouching for your chip—will Amazon, which already has its own chips, buy yours?",
+      "zh": "Nvidia 到底会买吗？你们活动里有 Amazon 的高管在视频中为你们的芯片背书——会买单吗？毕竟 Amazon 早已有自己的芯片。"
+    },
+    {
+      "id": "p047",
+      "en": "I’d love it if Jensen bought some, but the Vera CPU is already very closely coupled to his own chip, and they have their own networking technology to connect all their chips. And Amazon will probably continue to use their own Graviton chip.",
+      "zh": "如果 Jensen 买些当然再好不过，但 Vera CPU 已经与他自己的芯片紧密耦合，他们也有自己的联网技术来连接所有芯片。而 Amazon 大概会继续使用他们自己的 Graviton 芯片。"
+    },
+    {
+      "id": "p048",
+      "en": "But we didn’t build this for Amazon, we built it because we think the market for Arm CPUs is really huge. It’s basically an underserved market. If you look at some of the early customers we have, like Meta, which is going to be using our chip in an air-cooled rack—they don’t need Nvidia’s NV Link. Or Cloudflare—they can’t buy Amazon’s Graviton chip, and they don’t have the wherewithal to build their own.",
+      "zh": "但我们不是为 Amazon 开发这个产品，我们开发它是因为我们认为 Arm CPU 的市场真的非常大。它本质上是一个长期供需不足的市场。如果你看看我们的一些早期客户，比如 Meta，他们会在风冷机架中使用我们的芯片——他们不需要 Nvidia 的 NV Link。再比如 Cloudflare——他们买不起 Amazon 的 Graviton 芯片，而且也没有能力自己制造。"
+    },
+    {
+      "id": "p049",
+      "en": "Who is fabricating your chip? Co-packaging? Networking?",
+      "zh": "谁在为你制造芯片？是联合封装吗？是网络吗？"
+    },
+    {
+      "id": "p050",
+      "en": "TSMC. All TSMC. We’re also building a reference design of a server. Not “we,” but, we're working with partners like Super Micro and Foxconn. In today's day and age doing a chip by itself isn't enough. So we worked with partners in the ecosystem to deliver a full solution in terms of a server rack.",
+      "zh": "台积电。全部都来自台积电。我们也在打造一套服务器参考设计。不是“我们自己”，而是与超级微电脑（Super Micro）和富士康（Foxconn）等合作伙伴一起合作。放在今天这个时代，单独做一颗芯片是不够的。所以我们与生态系统里的合作伙伴共同努力，以服务器机架的形式交付一个完整方案。"
+    },
+    {
+      "id": "p051",
+      "en": "You are now going to have to answer questions about volume and yield and gross margins.",
+      "zh": "你们现在将不得不回答产量、良率以及毛利率方面的问题。"
+    },
+    {
+      "id": "p052",
+      "en": "Yes. When I joined Arm from Nvidia in 2013, I remember coming here and thinking, \"Wow, there's no scrap, there’s no yield, there’s no RMAs, there’s no forecast. You just hit Send and the royalty report comes in. What a wonderful business.”",
+      "zh": "是的。2013年我从英伟达加入Arm时，我记得当时是这样想的：\"哇，这里没有报废，没有良率问题，没有退货处理（RMA），也没有预测。你只要点击发送，版税报告就会出来。多么美妙的生意啊。\""
+    },
+    {
+      "id": "p053",
+      "en": "So there’s a part of me that says, “Am I crazy for getting back into this?” But yes, all of that is stuff we’ll now have to manage, but I know how to do that. I know what’s required, and we’ve been building a team inside the company from an operations and go-to-market standpoint, everything that’s necessary to support that flow.",
+      "zh": "所以我心里有一部分会想：‘我是不是又要重操旧业了？’没错，这些都将是我们现在需要处理的事务，但我知道如何去做。我知道需要做什么，而且我们已经在公司内部从运营和上市推进的角度组建了一支团队，建立了支持这种流程所需的一切。"
+    },
+    {
+      "id": "p054",
+      "en": "How many employees have you dedicated to this?",
+      "zh": "你们为这项工作投入了多少员工？"
+    },
+    {
+      "id": "p055",
+      "en": "We've added about 2,000 engineers into a group that does backend design, implementation, and subsystem work. They're not all on this chip, but we leverage a lot of the work that we do with our compute subsystems into this kind of work. I don't know if I want to put a number and say it's a 500-person or a 700-person project. It leverages a lot of work that we've already done.",
+      "zh": "我们新增了大约2,000名工程师，负责后端设计、实现和子系统工作。他们并不都在做这颗芯片，但我们把许多已经在计算子系统上完成的工作都用于了这类任务。我不确定要不要报出一个确切数字，说这是一个500人项目还是700人项目，因为它依赖于我们已经完成的许多工作。"
+    },
+    {
+      "id": "p056",
+      "en": "A lot of folks in the industry say that when you first launch a chip, it can take two to three generations before it has the impact that you're hoping it has. Do you agree with that?",
+      "zh": "业内很多人认为，一款芯片刚刚推出时，通常需要两到三个代际，才能产生你所期望的影响。你同意这种看法吗？"
+    },
+    {
+      "id": "p057",
+      "en": "Yeah. So, since I've become the CEO, we’ve been building what we call these compute subsystems. They essentially build all the building blocks of the compute engine that we can hand to customers for them to build their systems-on-chips. In some cases, it's 85 percent of the work [already done for them]. It's a huge amount of work.",
+      "zh": "是的。自从我担任 CEO 以来，我们一直在构建我们称之为“计算子系统”的东西。它本质上是把计算引擎的全部基础模块先搭好，再交给客户，让他们据此构建自己的片上系统（SoC）。在某些场景下，里边大约有 85% 的工作已经替他们完成了。这是非常庞大的工程量。"
+    },
+    {
+      "id": "p058",
+      "en": "The compute subsystem that the Arm AGI CPU is built on has already been shipped in silicon by other partners. So the confidence level that we have that this chip is going to work is extremely high. To your point, yes, it can take a certain number of iterations. That's a bit more if you're getting into a brand-new market and you're trying to build something that's never been built before. It's never been tested. You don't really know how the market's going to accept it.",
+      "zh": "Arm AGI CPU 所基于的这套计算子系统，已经由其他合作伙伴在硅片上量产并交付过了。所以我们对这颗芯片能否正常运作的把握非常高。你说得对，它可能需要经过一定次数的迭代。如果你要进入一个全新的市场，并且尝试做一件前所未有的产品，确实会多一些迭代。它以前从未经过验证，你也很难准确预判市场会如何接受。"
+    },
+    {
+      "id": "p059",
+      "en": "This one, our confidence level that the first one out of the chute is going to be very, very good and be a volume candidate is very, very high.",
+      "zh": "而这一次，我们对“第一颗样品”是否会非常好、是否能成为量产候选芯片的信心，确实高到非常高。"
+    },
+    {
+      "id": "p060",
+      "en": "Lord, give me the confidence of a chip CEO. OK. I'm going to do a little rapid-fire with you. I'm going to say a few words to you and I just want your quick response. Intel.",
+      "zh": "上帝啊，赐我一位芯片 CEO 的信心吧。好，我来问你一个快问快答。我会对你说几个词，你只要给我一个快速反应。英特尔。"
+    },
+    {
+      "id": "p061",
+      "en": "Still nascent? Started in 2014.",
+      "zh": "还算是起步阶段？它诞生于2014年。"
+    },
+    {
+      "id": "p062",
+      "en": "Just giving you one word. Nascent.",
+      "zh": "我只给你一个词：起步阶段。"
+    },
+    {
+      "id": "p063",
+      "en": "I don't know if you happened to read the WIRED article that my colleague wrote last year about the history of RISC and the founding of RISC-V?",
+      "zh": "我不知道你是否碰巧读过我同事去年写的《WIRED》文章，内容是关于RISC的历史以及RISC-V的成立。"
+    },
+    {
+      "id": "p064",
+      "en": "And how some people in that community—I won't use the word, but they weren't very nice about Arm.",
+      "zh": "而且该社区里有些人——我不想直接用那个词——对Arm可不怎么友好。"
+    },
+    {
+      "id": "p065",
+      "en": "They said you guys were assholes.",
+      "zh": "他们说你们这些人是混蛋。"
+    },
+    {
+      "id": "p066",
+      "en": "Him or me? [he gestures at his chief of staff, Saumil Shah.] We could say such things about them.",
+      "zh": "是他呢，还是我？（他朝自己的参谋长萨米尔·沙阿[Saumil Shah]指了指。）我们也可以这样说他们。"
+    },
+    {
+      "id": "p067",
+      "en": "Back to rapid-fire: Sam Altman.",
+      "zh": "回到快问快答：Sam Altman。"
+    },
+    {
+      "id": "p068",
+      "en": "What makes you think he's brilliant?",
+      "zh": "你凭什么认为他很聪明？"
+    },
+    {
+      "id": "p069",
+      "en": "I know him. He is a long, long-game type of guy. He really thinks quite big. He's quite visionary in terms of how he thinks about problems, how he thinks about technology. Yeah, I think he's brilliant.",
+      "zh": "我认识他。他是那种做事会着眼于长期布局的人。的确，他想得非常长远。谈到他如何看待问题、如何看待技术，他都显得很有远见。是的，我认为他很聪明。"
+    },
+    {
+      "id": "p070",
+      "en": "When you look at politics, geopolitics, the macroeconomic climate, and also the memory shortage—it's a crazy time to be launching a chip. How much has that changed your plans as you get ready to put this chip out into the world?",
+      "zh": "当你看政治、地缘政治、宏观经济环境，以及内存短缺——在这样的时刻推出一颗芯片，简直太疯狂了。等你准备把这款芯片推向市场时，这些因素有没有改变你的计划？"
+    },
+    {
+      "id": "p071",
+      "en": "None. Because this is a long journey for us. The Arm AGI CPU is the first product. This is just the beginning.",
+      "zh": "没有改变。因为对我们来说，这是一段漫长的征程。Arm 的 AGI CPU 是我们的第一款产品。现在仅仅是个开始。"
+    },
+    {
+      "id": "p072",
+      "en": "My first job out of college was with Texas Instruments in 1984. It was a boom year for the semiconductor industry. But [the early 1980s] were one of the worst recessions ever. Then in 1985 Reagan took office for the second term, and he cut defense spending, which was a big part of TI's business.",
+      "zh": "我大学毕业后的第一份工作是在1984年于德州仪器（Texas Instruments）。那一年是半导体行业的繁荣年。可是，20世纪80年代初却是有史以来最严重的衰退之一。然后在1985年，里根上台连任后，削减了国防开支，而这曾是TI业务的一大支柱。"
+    },
+    {
+      "id": "p073",
+      "en": "What was the lesson I learned about that? It's never a good time to do anything. Seriously. There's never a good time to do anything. There's never a bad time to do anything. You’ve just got to do it.",
+      "zh": "我从中学到的教训是什么？就是任何事情都没有“最佳时机”。认真说，做任何事都没有一个完美时机；同样也没有什么事情是“永远不该做”的。你只需要去做。"
+    },
+    {
+      "id": "p074",
+      "en": "I read that you’re a big fan of the famed basketball coach Phil Jackson. Why?",
+      "zh": "我听说你很崇拜著名篮球教练菲尔·杰克逊。为什么？"
+    },
+    {
+      "id": "p075",
+      "en": "What I love about Phil Jackson is that he took two great teams that had a lot of talent and turned them into champions. Michael Jordan was not a champion before—",
+      "zh": "我喜欢菲尔·杰克逊的地方在于，他接手了两支很有天赋、实力很强的球队，却把它们打造成了冠军队伍。迈克尔·乔丹在这之前并不是冠军——"
+    },
+    {
+      "id": "p076",
+      "en": "Michael Jordan was a stand-out at North Carolina.",
+      "zh": "迈克尔·乔丹在北卡罗来纳州大学时只是一个脱颖而出的球员。"
+    },
+    {
+      "id": "p077",
+      "en": "He won the title when he was at North Carolina, but he wasn't the best player on the team. And Kobe Bryant was not a champion before Phil Jackson. He turned them into champions.",
+      "zh": "他在北卡罗来纳州赢得了这个头衔，但他并不是球队里最优秀的球员。科比·布莱恩特在菲尔·杰克逊之前也不是一名冠军球员。他把他们变成了冠军。"
+    },
+    {
+      "id": "p078",
+      "en": "Have you met Phil Jackson?",
+      "zh": "你见过菲尔·杰克逊吗？"
+    },
+    {
+      "id": "p079",
+      "en": "How has this not happened?",
+      "zh": "这怎么还没发生呢？"
+    },
+    {
+      "id": "p080",
+      "en": "[nodding toward his chief of staff] Someone doesn't know how to do his job.",
+      "zh": "【朝自己的参谋长点头】有人不会做自己的本职工作。"
+    },
+    {
+      "id": "p081",
+      "en": "What irritates you as a leader? Please don’t say “stupid questions.”",
+      "zh": "作为一名领导者，最让你烦恼的是什么？请不要说“愚蠢的问题”。"
+    },
+    {
+      "id": "p082",
+      "en": "People happy with the status quo.",
+      "zh": "那些对现状感到满意的人。"
+    },
+    {
+      "id": "p083",
+      "en": "What's an example of that?",
+      "zh": "那有什么例子吗？"
+    },
+    {
+      "id": "p084",
+      "en": "“We've always done it this way. Not sure we could do any better. Can't see any other way to improve this.”",
+      "zh": "“我们一直是这样做的。不能确定自己能做得更好。看不出还有别的改进办法。”"
+    },
+    {
+      "id": "p085",
+      "en": "The antithesis of risk. What inspires you as a leader?",
+      "zh": "风险的反面。作为一名领导者，是什么激励着你？"
+    },
+    {
+      "id": "p086",
+      "en": "Making a big difference. Doing things that change the world.",
+      "zh": "做出巨大的影响。去做能够改变世界的事情。"
+    },
+    {
+      "id": "p087",
+      "en": "Everyone says that in Silicon Valley. What does that actually mean?",
+      "zh": "在硅谷，大家都这么说。这到底是什么意思？"
+    },
+    {
+      "id": "p088",
+      "en": "Yeah, what does it actually mean? Well, if I distill it down to Arm, what inspires me is what we're doing with this chip. It's a big, big change for the company.",
+      "zh": "是啊，这到底是什么意思？嗯，如果我把它归结到Arm的话，激励我的，是我们正在用这款芯片做的事。这是对公司来说一次非常、非常重大的变化。"
+    },
+    {
+      "id": "p089",
+      "en": "Is this a bet-the-farm moment?",
+      "zh": "这是“押上公司、孤注一掷”式的一刻吗？"
+    },
+    {
+      "id": "p090",
+      "en": "So even if this chip doesn't work, you're still confident in your IP business?",
+      "zh": "那也就是说，即使这颗芯片失败了，你仍然对自己的知识产权业务充满信心吗？"
+    },
+    {
+      "id": "p091",
+      "en": "Absolutely. And the chip's going to work. It works.",
+      "zh": "当然。并且这颗芯片会成功。它一定会成功。"
+    },
+    {
+      "id": "p092",
+      "en": "Let us know what you think about this article. Submit a letter to the editor at [email protected].",
+      "zh": "欢迎告诉我们你对这篇文章的看法，请写信给编辑部，邮箱是 [email protected]。"
+    }
+  ],
+  "translated_at": "2026-07-23T00:07:44+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

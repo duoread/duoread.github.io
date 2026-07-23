@@ -10,192 +10,195 @@
   "order": 14,
   "section": "Will Knight",
   "title_en": "Your First Humanoid Robot Coworker Will Probably Be Chinese",
-  "title_zh": "",
+  "title_zh": "你遇到的第一位类人机器人同事很可能是中国人",
   "rubric_en": "HANGZHOU",
-  "rubric_zh": "",
+  "rubric_zh": "杭州",
   "date": "Jan 20, 2026 6:00 AM",
   "origin_url": "",
-  "translation_status": "pending",
+  "translation_status": "translated",
   "paragraphs": [
     {
       "id": "p001",
       "en": "The 4-foot-tall humanoid robot that’s in front of me seems, quite honestly, a bit drunk. It leaps from one leg to the other, waving its arms. After 30 seconds or so it abruptly stops, then strides toward me with an arm outstretched.",
-      "zh": ""
+      "zh": "站在我面前的这台高约4英尺的类人机器人，说实话，感觉它有点像喝醉了。它一会儿把重心转到一条腿上，一会儿又换到另一条腿，同时挥动双臂。大约30秒后它会突然停下来，然后伸出一只手臂朝我走来。"
     },
     {
       "id": "p002",
       "en": "The little robot is at the World Artificial Intelligence Conference, on the banks of the Huangpu river in Shanghai. The convention center is teeming with humanoids—dancing ones, box-toting ones, robot dog-walking ones doing circuits around trade show booths. A few lie slumped in a corner as their batteries recharge.",
-      "zh": ""
+      "zh": "这台小机器人位于上海黄浦江畔的世界人工智能大会现场。会场里挤满了各式类人机器人——会跳舞的、背箱子的、牵着“机器人狗”在展位间来回巡逻的。还有一些机器人靠在角落里，正在给电池充电，身体软垂下来。"
     },
     {
       "id": "p003",
       "en": "The robot uses a front-facing depth camera and a 3d lidar scanner that provides a view of both the front and back.",
-      "zh": ""
+      "zh": "这台机器人配备了前置深度摄像头和一台三维激光雷达扫描仪，可同时提供前方和后方的视野。"
     },
     {
       "id": "p004",
       "en": "It’s a balmy day in July, and I’ve come to Shanghai to learn how China’s AI world differs from the Western one I usually cover. I’d immediately noticed the sleek electric cars from BYD, Xiaomi, and Huawei that fill the streets of the city’s fashionable old French Concession. At Manner, a high-end coffee chain, I sampled an avant-garde beverage called a “sparkling citrus iced Americano.” Now that I’m at the convention, I can’t help but picture these dancing robots strolling Shanghai’s streets and perhaps carrying their owner’s shopping bags.",
-      "zh": ""
+      "zh": "现在是七月的暖和天气，我来到上海，是为了了解中国的人工智能世界与我平时熟悉的西方世界有何不同。刚来时，我就已经注意到比亚迪、小米和华为那些流线型电动车，它们填满了这座城市时尚的法租界街道。在“曼德”一家高端咖啡连锁店里，我试喝了一款名为“气泡柑橘冷萃美式咖啡”的前卫饮品。现在站在展会上，我不由得想象这些会跳舞的机器人在上海的街头散步，甚至帮主人提着购物袋。"
     },
     {
       "id": "p005",
       "en": "A group crowds around a small boxing ring, where two humanoids throw punches at each other. One falls down, then gets back on its haunches and straightens up. A young woman offers to let me punch a humanoid. I feel certain that this would make me feel bad, so I decline.",
-      "zh": ""
+      "zh": "一群人围在一个小拳击场周围，两个类人机器人正在互相出拳。一个倒下了，随后撑起身体坐回到后腿上，又站了起来。一个年轻女子提议让我给一个类人机器人一拳。我很确定这样做会让我内疚，所以我拒绝了。"
     },
     {
       "id": "p006",
       "en": "The activity in this convention center is a bit of a mirage, of course. Amid the throngs, you can spot people holding game controllers. They’re giving the robots high-level instructions. The humanoids can control their balance and execute short routines, but it’s humans who tell them which way to walk, whom to shake hands with, or when to backflip. Another limitation: Many humanoids don’t have fingers. Their arms usually end in stumps, meaning that while they can hold and lift boxes (or wear boxing gloves, they can’t grasp anything.",
-      "zh": ""
+      "zh": "在这个展览中心里，这场活动当然有些“假象”意味。人群中你可以看到有人拿着游戏手柄，在给机器人下达高层指令。类人机器人能够控制自己的平衡并执行短时动作，但走哪条路、和谁握手、何时后空翻，都得由人类告诉它们。另一个限制是：许多人形机器人没有手指。它们的手臂通常以短桩结束，也就是说，它们虽然能抱起并举起箱子（或者戴上拳击手套），却无法抓住任何东西。"
     },
     {
       "id": "p007",
       "en": "At the International Robot Exhibition in Tokyo, Unitree G1 robots fight during a kick-boxing demonstration.",
-      "zh": ""
+      "zh": "在东京国际机器人展上，Unitree G1 机器人在踢拳示范中进行对打。"
     },
     {
       "id": "p008",
       "en": "Here are 23 ways China is rewiring the future.",
-      "zh": ""
+      "zh": "以下是中国正在重塑未来的23种方式。"
     },
     {
       "id": "p009",
       "en": "Even so, experts predict that robots will have profound effects on the workforce and the economy. Amazon is testing humanoids from an American startup called Agility and, according to leaked memos, expects to replace a significant number of workers with robots in the next few years. Bank of America analysts predict that by 2035, robot makers will ship 10 million humanoids a year. Morgan Stanley forecasts that by 2050 a billion will be in use, with almost a third of them—302.3 million—in China, compared with 77.7 million in the US.",
-      "zh": ""
+      "zh": "即便如此，专家仍预测，机器人将在劳动力市场和经济上产生深远影响。亚马逊正在测试一家名为 Agility 的美国初创公司生产的类人机器人，并且据泄露的备忘录显示，亚马逊预计将在未来几年内用机器人取代大量员工。美国银行分析师预测，到 2035 年，机器人制造商每年将出货 1000 万台类人机器人。摩根士丹利预测，到 2050 年，全球将有 10 亿台类人机器人在使用，其中近三分之一，即 3.023 亿台，将在中国，而美国为 7770 万台。"
     },
     {
       "id": "p010",
       "en": "Perhaps no humanoid maker has a bigger lead than a Hangzhou-based company called Unitree. While Elon Musk’s Optimus staggers through its demos, Unitree’s robots are doing sprints, kung-fu kicks, and acrobatic backflips. (The conference’s dancing door greeter was a Unitree.) Unitree’s legged robots are also incredibly cheap, costing tens of thousands of dollars or less, a tenth of what a typical humanoid in the US costs. Unitree is China’s most prominent robotics startup, a national champion for its tech industry, and is reportedly targeting a $7 billion IPO listing in Shanghai. And if Unitree fails? A staggering 200-plus other Chinese companies are also developing humanoids, which recently prompted the Chinese government to warn of overcapacity and unnecessary replication. The US has about 16 prominent firms building humanoids.",
-      "zh": ""
+      "zh": "或许没有哪家类人机器人制造商发展得比一家位于杭州的公司 Unitree 更快了。尽管埃隆·马斯克的 Optimus 在演示中动作还有点笨拙，Unitree 的机器人却能跑冲刺、使出功夫踢腿和空翻特技。（此次发布会上的跳舞门迎宾机器人就是 Unitree 的。）Unitree 的足式机器人也非常便宜，售价只有美国典型类人机器人价格的十分之一，约为数万美元或更低。Unitree 是中国最知名的机器人初创公司，也是该国科技产业的一面旗帜，并且据报道其目标是在上海进行 70 亿美元的 IPO 发行。而且，即使 Unitree 出了问题，也有惊人的 200 多家其他中国公司在研发类人机器人，这也促使中国政府近期警告可能出现的产能过剩和无谓重复建设。美国目前大约有 16 家知名企业在研发类人机器人。"
     },
     {
       "id": "p011",
       "en": "With stats like that, one can’t help but suspect that the first country to have a million humanoids will be China.",
-      "zh": ""
+      "zh": "看到这些数字，不禁让人怀疑，全球第一台达到 100 万台类人机器人规模化部署的国家，很可能会是中国。"
     },
     {
       "id": "p012",
       "en": "Unitree’s home city of Hangzhou is about 110 miles from Shanghai. The place is famous for its vast and photogenic West Lake, but it’s also home to Alibaba, the ecommerce giant, Ant Group (one of Alibaba’s affiliates), and several fast-growing AI startups. Besides Unitree, this includes DeepSeek, whose open source AI models enjoy global popularity.",
-      "zh": ""
+      "zh": "Unitree 的家乡杭州距上海约 110 英里。这个地方因其广阔且上镜的西湖而闻名，但它同样是电子商务巨头阿里巴巴、其关联公司蚂蚁集团以及多家快速成长的人工智能初创公司的所在地。除了 Unitree 之外，这里还包括 DeepSeek，其开源 AI 模型在全球都很受欢迎。"
     },
     {
       "id": "p013",
       "en": "I’m hoping to visit Unitree along with a few other companies. Unlike many of its rivals, Unitree sells a wide range of legged robots and is profitable. Unfortunately, I find the company largely off-limits to visitors as it prepares for the IPO. I later hear that the headquarters is battleworn: A set of stairs inside the entrance is battered from legged robots practicing carrying heavy payloads. “It is one of the most run-down places you can imagine,” says Mike Cho, a robotics entrepreneur based in Singapore who has spent time there. “Everywhere there are broken robots, broken parts, and broken concrete.”",
-      "zh": ""
+      "zh": "我计划去参观优必选（Unitree）以及另外几家企业。与许多竞争对手不同，优必选销售的是一系列足式机器人，而且已经实现盈利。不幸的是，在公司准备首次公开募股期间，我发现它对外来访客几乎关闭了大门。后来我听说它的总部看上去很“历经战火”：入口内的一段楼梯被反复踩踏得满是磨损，因为有腿式机器人在里面反复练习搬运重物。“这是你能想象到的最破败的地方之一，”新加坡的一位机器人创业者、在那里待过一段时间的 Mike Cho 说。“到处都是损坏的机器人、损坏的零件和破碎的混凝土。”"
     },
     {
       "id": "p014",
       "en": "Later I connect with Wang Xingxing, Unitree’s CEO, who, citing his poor English, agreed to talk via the messaging app WeChat. Wang is something of a celebrity in China. In February 2025, he was invited to an event hosted by the Chinese premier, Xi Jinping, along with several members of China’s tech royalty (Alibaba’s Jack Ma; Huawei’s founder and CEO, Ren Zhengfei; BYD’s chairman and CEO, Wang Chuanfu; and the CEO of Xiaomi, Lei Jun). At the conference in Shanghai, I’d seen Wang deliver a keynote speech in rapid-fire Mandarin. He told the crowd that he planned to build robots adept at “serving tea, working in factories, or even performing arts.”",
-      "zh": ""
+      "zh": "后来我在微信上联系上了优必选的首席执行官王兴兴。由于英语不太好，他同意通过微信聊天。我说不清他在中国到底有多红，但能算是个半明星人物。2025年2月，他被邀请参加中国总理习近平主持的一场活动，和中国“科技王公”们同台受邀出席，包括阿里的马云、华为的任正非、比亚迪的王传福以及小米的雷军。在上海的那场会议上，我见过他发表过一场节奏很快的普通话主旨演讲。他当时告诉听众，他计划打造能够“端茶、在工厂工作，甚至从事表演艺术”的机器人。"
     },
     {
       "id": "p015",
       "en": "On WeChat, he tells me that he’s been fascinated by robots since he was a kid. During his first year at university, he cobbled together a small, two-legged robot on a budget of 200 RMB ($28). “The moment I saw the robot I designed come to life,” Wang writes, “the sense of achievement from combining technology and creativity made me determined to devote myself to robotics research.”",
-      "zh": ""
+      "zh": "在微信上他告诉我，从小他就对机器人充满兴趣。上大学第一年时，他用200元人民币（约合28美元）拼出了一台小型双足机器人。王写道：“我看到自己设计的机器人‘活’了起来的那一刻，科技与创造力融合带来的成就感让我下定决心，把自己一生都投身于机器人研究。”"
     },
     {
       "id": "p016",
       "en": "As a master’s student at Shanghai University in 2015, he built a small, four-legged robot for less than 20,000 RMB (about $2,800). It became a social media hit; people marveled that a student could build such a sure-footed, low-cost machine. He worked briefly for the drone company DJI before receiving a small amount of seed funding and establishing Unitree in 2016. The company released its first product, a robot dog called Laikago, in 2017.",
-      "zh": ""
+      "zh": "2015年，他在上海大学读硕士期间，用不足2万人民币（约合2800美元）造出一台小型四足机器人。它在社交媒体上迅速走红，人们惊叹于一名学生竟能做出这样一台稳妥、省钱的机器。之后他曾在大疆工作了一段时间，随后获得一小笔天使投资，并于2016年创立了优必选。该公司于2017年推出了第一款产品——一款名为 Laikago 的机器狗。"
     },
     {
       "id": "p017",
       "en": "Wang admits that, early on, Boston Dynamics and its fourlegged robot Spot were an inspiration. Gavin Kenneally, CEO of Ghost Robotics, recalls seeing Laikago at trade shows and conferences. “Their robot really wasn’t very capable,” he tells me. But while Spot sold for $75,000, Laikago cost only $25,000.",
-      "zh": ""
+      "zh": "王承认，最初波士顿动力及其四足机器人 Spot 曾给他带来启发。Ghost Robotics 的首席执行官 Gavin Kenneally 回忆说，他在展会上和会议上看到过 Laikago。“他们的机器人其实并不算特别强大，”他告诉我。但在 Spot 售价 75,000 美元的情况下，Laikago 只要 25,000 美元。"
     },
     {
       "id": "p018",
       "en": "In 2019, a team at MIT developed an electric motor that would allow its quadruped, Mini Cheetah, to run at record speeds. Less than a year later, Unitree unveiled a new fourlegged robot, A-1. “It was basically an exact copy of the MIT Mini Cheetah,” Kenneally says. “It was leaps and bounds ahead of their previous platform.”",
-      "zh": ""
+      "zh": "2019 年，麻省理工学院的一支团队开发出一种电机，让其四足机器人 Mini Cheetah 能以创纪录的速度奔跑。不到一年后，优必选（Unitree）推出了新款四足机器人 A-1。Kenneally 说：“这几乎是 MIT Mini Cheetah 的一字不差的复制品。”他补充道，“它远远超越了他们此前的平台。”"
     },
     {
       "id": "p019",
       "en": "Unitree’s business took off. In 2023 its sales of quadrupeds were 10 times higher than Boston Dynamics’, according to the consulting firm SemiAnalysis. Nearly 24,000 Unitree quadrupeds were sold for use, among other places, on construction sites and oil rigs and in factories. The robots can climb stairs and traverse rubble to conduct inspections or security patrols.",
-      "zh": ""
+      "zh": "优必选的业务开始起飞。咨询公司 SemiAnalysis 的数据表明，2023 年其四足机器人销量是波士顿动力的 10 倍。共售出了约 24,000 台 Unitree 四足机器人，应用于工地、钻井平台和工厂等场景。机器人可攀爬楼梯、穿越碎石和瓦砾，执行巡检或安全巡逻任务。"
     },
     {
       "id": "p020",
       "en": "Disassemble a Unitree robot and you’ll see the incredible advantages of China’s tightly integrated manufacturing, where strong relationships with suppliers can make or break a company. SemiAnalysis looked at one configuration of Unitree’s newest quadrupeds, Go2, priced at about $8,000. All of its core components—the sensors, motors, gearbox, battery, computer—cost only $3,272, the consulting firm found. (Unitree prices other Go2 configurations as low as $1,600.) “What they’ve done is to iterate extremely quickly, using Chinese manufacturing and supply chains,” Kenneally tells me.",
-      "zh": ""
+      "zh": "拆解一台 Unitree 机器人，你就能看到中国制造业高度整合带来的巨大优势——与供应商的紧密关系可能决定一家企业的成败。SemiAnalysis 在分析 Unitree 最新款四足机器人 Go2 的一种配置时发现，其售价约为 8,000 美元。该公司称，其全部核心部件——传感器、电机、齿轮箱、 电池和计算机——总成本仅为 3,272 美元。该咨询公司还发现，Unitree 的其他 Go2 配置最低可低至 1,600 美元。“他们做到这一点的关键，是在中国制造业和供应链体系下，迭代速度极快，”Kenneally 对我说。"
     },
     {
       "id": "p021",
       "en": "Wang wasn’t only interested in robot dogs. Boston Dynamics had been working on a humanoid called Atlas for years. By 2023 Wang was watching Musk whip up enthusiasm for humanoids with his Optimus demos, and Wang started to develop a humanoid of his own. In August of that year, Unitree released its first model, H1. Less than a year after that, Unitree started selling the more capable G1, which costs a little over $13,500 for academic users. This past summer, the company unveiled an even cheaper but less advanced humanoid called R1, which sells for just 39,999 RMB ($5,700).",
-      "zh": ""
+      "zh": "王并不只对机器狗感兴趣。波士顿动力已经研究名为 Atlas 的人形机器人很多年。到 2023 年，王正在看着马斯克通过其 Optimus 演示激起对人形机器人的热情，并开始着手开发自己的人形机器人。那年8月，优必选推出了第一款型号 H1。不到一年后，优必选开始销售能力更强的 G1，面向学术用户的售价稍高于 13,500 美元。就在上个夏天，公司又发布了更便宜但功能稍弱的人形机器人 R1，售价仅为 39,999 人民币（5700 美元）。"
     },
     {
       "id": "p022",
       "en": "During his WAIC speech, Wang had hinted that a revolution in robotic intelligence is on the horizon. “The ‘ChatGPT moment’ for robots will come when a robot can enter an unfamiliar room, take a bottle of water to someone, or tidy up autonomously after a simple command,” he told attendees. “This could happen in one to three years if fast, or three to five years at most.”",
-      "zh": ""
+      "zh": "在 WAIC 的演讲中，王曾暗示机器人智能革命正在临近。“机器人将迎来的‘ChatGPT 时刻’会发生在这样的时刻：一台机器人能走进一个陌生房间，给某人送一瓶水，或者在一个简单指令后自动收拾干净。”他对与会者说。“如果发展快，可能在一到三年内发生；即使慢，也最多三到五年。”"
     },
     {
       "id": "p023",
       "en": "Plenty of roboticists believe they’ll get their “ChatGPT moment” soon enough, though the question, of course, is how that’s defined. I had reason to suspect, though, that Wang leans optimistic. At a recent major robotics conference in Hangzhou, a panel of experts surveyed the room on whether humanoids would take over most human jobs by 2050. Wang was one of the few who thought they would.",
-      "zh": ""
+      "zh": "不少机器人研究者都认为他们很快就会迎来自己的“ChatGPT 时刻”，尽管问题当然是这到底该如何定义。不过我有理由怀疑，王更倾向于乐观。在最近一次在杭州举行的一场大型机器人会议上，一组专家就人形机器人是否会在2050年前接管大多数人类工作进行了现场调查。王是少数认为会的人之一。"
     },
     {
       "id": "p024",
       "en": "I hurry to catch a flight to Beijing to visit another outfit eyeing robots’ ChatGPT moment. The Beijing Academy of Artificial Intelligence is a nonprofit founded in 2018 by the city government to coordinate AI research. From a window in the BAAI’s robotics lab, on an upper floor of a squat office building, I can see the sprawling campuses of Tsinghua University and Peking University, two of China’s most prestigious schools. Despite its academic outlook, the BAAI has attracted the US government’s attention. In May 2025, the US Commerce Department added the institute to its Entity List, barring it from acquiring American technology. The US government accuses the BAAI of “attempting to acquire U.S.-origin items in support of China’s military modernization,” although staff at the BAAI insist it is simply a research lab.",
-      "zh": ""
+      "zh": "我匆忙赶往北京，去拜访另一家也在关注机器人“ChatGPT时刻”的机构。北京人工智能研究院是2018年由市政府成立的非营利研究机构，旨在统筹人工智能研究。站在这家位于矮小办公楼高层的 BAAI 机器人实验室窗口前，我可以看到清华大学和北京大学这两所中国最负盛名高校绵延的校园。尽管它有学术导向，BAAI 仍引起了美国政府的关注。2025年5月，美国商务部将该机构列入实体清单，禁止其获取美国技术。美国政府指控 BAIII“企图获取美国原产设备和技术以支持中国军事现代化”，但 BAIII 的工作人员坚持称自己只是一个研究实验室。"
     },
     {
       "id": "p025",
       "en": "At the academy I meet another dancing Unitree robot. This one assumes a wide stance, then stomps its legs and pumps its fists to a beat. I hadn’t seen these moves before, and for good reason. The humanoid is using an experimental approach, in which an AI model learns by observing human movement—in this case, dance routines from Douyin, China’s version of TikTok.",
-      "zh": ""
+      "zh": "在学院里，我遇到了一台另一台跳舞的宇树机器人。这台机器人先是站成一个很宽的开合姿势，然后随着节拍重重踩腿、用拳头来回挥动。我从没见过这些动作，这并不奇怪。因为这台仿人机器人使用的是一种实验性方法：让一个AI模型通过观察人的动作来学习——在这个案例里，就是学习抖音（中国版TikTok）里的舞蹈动作。"
     },
     {
       "id": "p026",
       "en": "Unitree G1 robots show off their dance moves during a store opening at a mall in Beijing.",
-      "zh": ""
+      "zh": "宇树G1机器人在北京一间商场的开业活动中展示了它们的舞蹈动作。"
     },
     {
       "id": "p027",
       "en": "Zhongyuan Wang, president of the BAAI and head of its robotics work, tells me about the institute’s new open-source robotics model, Robobrain 2.0, which its engineers built to merge a language model’s abilities with spatial reasoning. Robots have yet to take full advantage of language models’ broad capabilities, and the hope is that LLMs will help robots operate in unfamiliar situations and communicate better. In one experiment, BAAI researchers used Robobrain 2.0 to control a pair of robot arms. When the model heard someone say “I’m hungry, make me a burger,” it translated the statement into actions that commanded the robot arms to place lettuce and meat in a bun.",
-      "zh": ""
+      "zh": "中国人工智能研究院（BAAI）主席、其机器人研究负责人王忠远向我介绍了该机构最新的开源机器人模型Robobrain 2.0。该模型由工程师开发，旨在将语言模型能力与空间推理结合起来。机器人迄今还没有充分发挥语言模型那种广泛能力的优势，而希望是大型语言模型能够帮助机器人在陌生环境中更好地行动并提升沟通能力。在一次实验中，BAAI研究人员使用Robobrain 2.0来控制一对机械臂。当模型听到有人说“我饿了，给我做一个汉堡”时，它会把这句话转化为指令，驱动机械臂将生菜和肉放进汉堡包里。"
     },
     {
       "id": "p028",
       "en": "But language models can only do so much, and what robots need most urgently is a new kind of model that understands the physical world the way an LLM understands the written word. And to build that model, engineers need way more data. While walking around BAAI, I see scores of workers behind desks. They’re teleoperating various robot arms and grippers to teach algorithms simple manipulation tasks such as sweeping up beans on a table, pouring liquids from a jug into different cups, and picking items from shelves. A young man wearing a virtual reality headset appears to be making tea as a camera records his every move. The idea is that with enough training data, robots will intuit how to do all sorts of things without specific training.",
-      "zh": ""
+      "zh": "但语言模型能做的仍然有限，而机器人最迫切需要的是一种全新的模型，能够像LLM理解文字那样理解现实世界。要打造这种模型，工程师需要远比现在多得多的数据。走在BAAI的实验区时，我看见很多工作人员坐在办公桌后面。他们在遥操作各种机械臂和抓手，教会算法执行一些基础操作任务，比如把桌上的豆子扫到一边、把液体从壶里倒进不同的杯子，以及从货架上取物。一个戴着虚拟现实头盔的年轻人似乎正在泡茶，而一台摄像机正完整记录他每一个动作。其核心思路是，只要训练数据足够多，机器人就能凭直觉完成各种任务，而不需要针对每项任务单独训练。"
     },
     {
       "id": "p029",
       "en": "The trouble is, nobody quite knows what data is most useful to the robots, let alone how much they need or how best to collect it. And for humanoids to become ubiquitous, people need to invent hardware that better mimics a human hand. For a robot, doing a backflip is a lot easier than flipping a coin.",
-      "zh": ""
+      "zh": "问题在于，没人真正知道哪些数据最有价值，更不用说机器人究竟需要多少数据、或者如何最佳地采集这些数据了。而且，要让类人机器人走向普及，人们还需要发明更好地模拟人类手部动作的硬件。对机器人来说，做一个后空翻要比抛硬币容易得多。"
     },
     {
       "id": "p030",
       "en": "Major joints have permanent magnet synchronous motors that provide high torque and rapid acceleration, allowing it to perform explosive moves.",
-      "zh": ""
+      "zh": "主要关节配备了永磁同步电机，能提供高扭矩和快速加速，使其能够执行爆发式动作。"
     },
     {
       "id": "p031",
       "en": "Still, Tony Zhao, cofounder and CEO of Sunday Robotics, a California-based startup, tells me he worries that companies like his don’t stand much of a chance against Chinese firms, which can bring on more workers, like BAAI’s teleoperators, to train robot models and rapidly roll out new hardware. “The iteration speed, the US is losing there,” he says. “And honestly I don’t know how we can win.”",
-      "zh": ""
+      "zh": "尽管如此，加州初创公司 Sunday Robotics 的联合创始人兼首席执行官 Tony Zhao 告诉我，他担心像他这样的公司很难与中国企业抗衡，因为后者可以调用更多人员，比如 BAAI 的远程操控员，来训练机器人模型并快速推出新硬件。“在迭代速度上，美国在这方面正在落后，”他表示。“说实话，我不知道我们怎么才能赢。”"
     },
     {
       "id": "p032",
       "en": "To try to keep up, Zhao recently recruited an executive from a Chinese robotics company with deep connections and experience tapping into China’s vast and complex supply chain. “The only way we can beat Chinese companies is to build a China team,” he says.",
-      "zh": ""
+      "zh": "为了追赶，赵最近招募了一位来自中国机器人工厂的高管，这位高管在深入挖掘中国庞大而复杂的供应链方面拥有深厚的人脉和经验。“我们击败中国公司的唯一办法就是组建一个中国团队，”他表示。"
     },
     {
       "id": "p033",
       "en": "Some US CEOs, including Demis Hassabis of Google DeepMind and Lachy Groom of Physical Intelligence, both of whom are chasing the robo-ChatGPT moment, have told me they imagine robotics development roughly mirroring that of smartphones, where China makes the hardware and the US makes the brains. (Except that Huawei is now making both.)",
-      "zh": ""
+      "zh": "一些美国首席执行官，包括谷歌 DeepMind 的 Demis Hassabis 和 Physical Intelligence 的 Lachy Groom——他们都在追逐“机器人版 ChatGPT”时刻——都告诉我，他们认为机器人发展大致会像智能手机一样，形成一种格局：硬件由中国制造，大脑由美国提供。（除了华为现在两者都在做。）"
     },
     {
       "id": "p034",
       "en": "The answer might be that the US government needs to get involved, suggests Jonathan Hurst, cofounder and chief robot officer of Agility, which makes humanoids. He’s imagining, among other things, heavy investment in advanced domestic manufacturing, such as tax incentives for firms that use robots in their warehouses and factories, as a way to prop up domestic robotics firms. Such a strategy might start to mimic the Chinese government’s patient capital investment in its industries. “We have to be very smart about automation,” he says. “It is the only way.”",
-      "zh": ""
+      "zh": "美国政府或许需要介入，这一点由 Agility（这家公司制造类人机器人）的联合创始人兼首席机器人官 Jonathan Hurst 提出。他设想的是，其中包括在国内制造方面进行大规模投入，比如对在仓储和工厂中使用机器人的公司提供税收激励，以此来支撑本土机器人企业。这种策略或许会开始模仿中国政府在产业中长期而耐心的资本投入方式。他说：\"我们必须非常聪明地推进自动化，这是唯一的出路。\""
     },
     {
       "id": "p035",
       "en": "My hotel in Beijing, in the high-tech hub of Zhongguancun, didn’t have any of the wheeled robots that routinely deliver items to guests’ rooms at some big-city hotels. Instead, mine had an unfailingly polite human called Stephen. When I needed to get a shirt cleaned, Stephen got the job done in just a few hours. As I flew home at the end of my trip, I reflected on how many hands had washed, pressed, packaged, and transported the garment back at such speed. Even in China, the robots have not yet won.",
-      "zh": ""
+      "zh": "我在北京的酒店，位于中关村这个高科技中心，没有像某些一线城市酒店那样配备会把东西送到客房的轮式机器人。相反，我那里的服务员叫 Stephen，人非常客气且从不出错。每当我需要洗一件衬衫时，Stephen 都能在几小时内完成。行程结束回程飞回家时，我想起这件衣服是经过了多少双手的清洗、熨烫、打包和运输，速度如此之快。即便在中国，机器人也还没赢。"
     },
     {
       "id": "p036",
       "en": "What Say You?Let us know what you think about this article in the comments below. Alternatively, you can submit a letter to the editor at [email protected].",
-      "zh": ""
+      "zh": "你怎么看？请在下方评论区告诉我们你对这篇文章的看法。或者，你也可以给编辑部写信至 [email protected]。"
     }
-  ]
+  ],
+  "translated_at": "2026-07-22T16:56:06+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
 }

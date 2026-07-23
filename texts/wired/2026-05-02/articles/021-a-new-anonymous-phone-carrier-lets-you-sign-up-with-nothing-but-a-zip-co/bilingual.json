@@ -1,0 +1,244 @@
+{
+  "id": "021-a-new-anonymous-phone-carrier-lets-you-sign-up-with-nothing-but-a-zip-co",
+  "source_href": "feed_0/article_20/index_u33.html",
+  "publication": "wired",
+  "issue": "2026-05-02",
+  "issue_published_at": "2026-05-02",
+  "article_published_at": "2025-12-04T12:00:00-05:00",
+  "published_at": "2025-12-04T12:00:00-05:00",
+  "published_date_source": "article",
+  "order": 21,
+  "section": "Andy Greenberg",
+  "title_en": "A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code",
+  "title_zh": "一种新的匿名手机运营商：只需提供邮政编码即可注册",
+  "rubric_en": "Privacy stalwart Nicholas Merrill spent a decade fighting an FBI surveillance order. Now he wants to sell you phone service—without knowing almost anything about you.",
+  "rubric_zh": "隐私斗士尼古拉斯·梅里尔与联邦调查局的监控令斗争了十年。如今他想把电话服务卖给你——却几乎不需要了解你的任何信息。",
+  "date": "2025-12-04T12:00:00-05:00",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "Nicholas Merrill has spent his career fighting government surveillance. But he would really rather you didn’t call what he’s selling now a “burner phone.”",
+      "zh": "尼古拉斯·梅里尔一生都在与政府监控作斗争。但他更希望你现在别把他出售的服务叫作“烟头手机”或“一次性手机”。"
+    },
+    {
+      "id": "p002",
+      "en": "Yes, he dreams of a future where anyone in the US can get a working smartphone—complete with cellular coverage and data—without revealing their identity, even to the phone company. But to call such anonymous phones “burners” suggests that they’re for something illegal, shady, or at least subversive. The term calls to mind drug dealers or deep-throat confidential sources in parking garages.",
+      "zh": "没错，他梦想着一个未来：在美国，任何人都可以拥有一部可正常使用的智能手机——具备蜂窝网络和数据服务——而无需向手机公司透露身份。但把这类匿名手机称作“一次性手机”，很容易让人联想到违法、可疑，或者至少有些颠覆性的用途。这个词会让人想起停车场里交易毒品的交易员，或暗中保护身份的线人。"
+    },
+    {
+      "id": "p003",
+      "en": "With his new startup, Merrill says he instead wants to offer cellular service for your existing phone that makes near-total mobile privacy the permanent, boring default of daily life in the US. “We're not looking to cater to people doing bad things,” says Merrill. “We're trying to help people feel more comfortable living their normal lives, where they're not doing anything wrong, and not feel watched and exploited by giant surveillance and data mining operations. I think it’s not controversial to say the vast majority of people want that.”",
+      "zh": "在他的新创公司中，梅里尔表示，他想提供的是面向你现有手机的蜂窝服务，让近乎完全的移动隐私成为美国日常生活里持续且“无聊”的默认状态。“我们并不想迎合做坏事的人，”梅里尔说。“我们想帮助人们在正常生活中更有安全感——他们并没有做错事，也不必担心被大型监控和数据挖掘机构盯上、被榨取。我要说的是，绝大多数人想要的不过是这一点，这并不是什么有争议的事。”"
+    },
+    {
+      "id": "p004",
+      "en": "That’s the thinking behind Phreeli, the phone carrier startup Merrill launched today, designed to be the most privacy-focused cellular provider available to Americans. Phreeli, as in, “speak freely,” aims to give its user a different sort of privacy from the kind that can be had with end-to-end encrypted texting and calling tools like Signal or WhatsApp. Those apps hide the content of conversations, or even, in Signal’s case, metadata like the identities of who is talking to whom. Phreeli instead wants to offer actual anonymity. It can’t help government agencies or data brokers obtain users’ identifying information because it has almost none to share. The only piece of information the company records about its users when they sign up for a Phreeli phone number is, in fact, a mere ZIP code. That’s the minimum personal data Merrill has determined his company is legally required to keep about its customers for tax purposes.",
+      "zh": "这就是梅里尔今天推出的手机运营商初创公司 Phreeli 背后的思路，目标是成为美国人可用、且最注重隐私的蜂窝网络服务商。Phreeli 的名字来自“speak freely”，意为“自由表达”，它想给用户提供一种不同于 Signal 或 WhatsApp 等端到端加密短信和通话工具的隐私体验。这些应用可以隐藏通话和消息内容，甚至在 Signal 的情况下，还能隐藏一些元数据，例如通话双方身份。Phreeli 则希望提供真正的“匿名”。因为它几乎没有可供政府机构或数据经纪公司拿走的身份信息可用。事实上，公司在用户办理 Phreeli 手机号码时，只记录一项信息：邮政编码（ZIP code）。这就是梅里尔认为其公司为了报税在法律上必须保留的、对客户的最低限度个人数据。"
+    },
+    {
+      "id": "p005",
+      "en": "By asking users for almost no identifiable information, Merrill wants to protect them from one of the most intractable privacy problems in modern technology: Despite whatever surveillance-resistant communications apps you might use, phone carriers will always know which of their customers’ phones are connecting to which cell towers and when. Carriers have frequently handed that information over to data brokers willing to pay for it—or any FBI or ICE agent that demands it with a court order",
+      "zh": "梅洛希望通过向用户索要几乎没有可识别信息的资料，来保护他们免受现代技术中一个最难根治的隐私问题困扰：无论你使用了多么抗监控的通讯应用，手机运营商始终知道自己哪些客户的手机在什么时间连入哪些基站。运营商经常将这些数据交给愿意购买的第三方数据经纪人，或者交给任何拿着法院命令并要求数据的 FBI 或 ICE 探员。"
+    },
+    {
+      "id": "p006",
+      "en": "Merrill has some firsthand experience with those demands. Starting in 2004, he fought a landmark, decade-plus legal battle against the FBI and the Department of Justice. As the owner of an internet service provider in the post-9/11 era, Merrill had received a secret order from the bureau to hand over data on a particular user—and he refused. After that, he spent another 15 years building and managing the Calyx Institute, a nonprofit that offers privacy tools like a snooping-resistant version of Android and a free VPN that collects no logs of its users’ activities. “Nick is somebody who is extremely principled and willing to take a stand for his principles,” says Cindy Cohn, who as executive director of the Electronic Frontier Foundation has led the group’s own decades-long fight against government surveillance. “He's careful and thoughtful, but also, at a certain level, kind of fearless.”",
+      "zh": "梅洛本人也亲身经历过这些要求。2004 年起，他与联邦调查局和司法部展开了一场里程碑式、持续十余年的诉讼。作为 9·11 之后的互联网服务提供商，梅洛曾收到过联邦调查局的一份秘密命令，要求他交出一位特定用户的数据，但他拒绝了。此后，他又花了 15 年时间创办并管理 Calyx Institute，这是一家非营利组织，提供诸如抗窥探版 Android 系统和不记录用户活动日志的免费 VPN 等隐私工具。曾担任电子前沿基金会执行董事、并领导该机构与政府监控作斗争十余年的辛迪·科恩说：“尼克是一个非常有原则的人，愿意为了信念挺身而出。” “他谨慎而深思熟虑，但在某种层面上，也有点无畏。”"
+    },
+    {
+      "id": "p007",
+      "en": "Nicholas Merrill with a copy of the National Security Letter he received from the FBI in 2004, ordering him to give up data on one of his customers. He refused, fought a decade-plus court battle—and won.",
+      "zh": "尼古拉斯·梅洛在他 2004 年收到的联邦调查局国家安全信函上留下副本。这份信函命令他交出其一名客户的数据。他拒绝了，并与法院进行了十余年的拉锯战，最终赢了。"
+    },
+    {
+      "id": "p008",
+      "en": "More recently, Merrill began to realize he had a chance to achieve a win against surveillance at a more fundamental level: by becoming the phone company. “I started to realize that if I controlled the mobile provider, there would be even more opportunities to create privacy for people,” Merrill says. “If we were able to set up our own network of cell towers globally, we can set the privacy policies of what those towers see and collect.”",
+      "zh": "最近，梅洛开始意识到，他有机会在更根本的层面上赢得对监控的胜利：亲自成为一家手机公司。“我渐渐意识到，如果由我来掌控移动服务商，就能有更多机会为人们创造隐私保护。”梅洛说。“如果我们能够在全球建立自己的基站网络，就能设置这些基站所能看到和收集内容的隐私规则。”"
+    },
+    {
+      "id": "p009",
+      "en": "Building or buying cell towers across the US for billions of dollars, of course, was not within the budget of Merrill’s dozen-person startup. So he’s created the next best thing: a so-called mobile virtual network operator, or MVNO, a kind of virtual phone carrier that pays one of the big, established ones—in Phreeli’s case, T-Mobile—to use its infrastructure.",
+      "zh": "在美国投资数十亿美元建设或收购蜂窝基站，当然不在梅里尔这家十来人的初创公司预算范围内。因此他创造了次优方案：一种所谓的移动虚拟网络运营商（MVNO），这是一种虚拟手机运营商，会向一家大型既有运营商——在 Phreeli 的情况下是 T-Mobile——支付费用，以使用其基础设施。"
+    },
+    {
+      "id": "p010",
+      "en": "The result is something like a cellular prophylactic. The towers are T-Mobile’s, but the contracts with users—and the decisions about what private data to require from them—are Phreeli’s. “You can't control the towers. But what can you do?” he says. “You can separate the personally identifiable information of a person from their activities on the phone system.”",
+      "zh": "结果有点像一种“蜂窝防护罩”。基站归 T-Mobile 所有，但与用户签约，以及决定向用户索取哪些个人隐私数据这一环节都由 Phreeli 决定。“你无法控制基站，但能做的还有什么呢？”他问道。“你可以把一个人的可识别身份信息，与其在电话系统中的活动信息分离开。”"
+    },
+    {
+      "id": "p011",
+      "en": "Signing up a customer for phone service without knowing their name is, surprisingly, legal in all 50 states, Merrill says. Anonymously accepting money from users—with payment options other than envelopes of cash—presents more technical challenges. To that end, Phreeli has implemented a new encryption system it calls Double-Blind Armadillo, based on cutting-edge cryptographic protocols known as zero-knowledge proofs. Through a kind of mathematical sleight of hand, those crypto functions are capable of tasks like confirming that a certain phone has had its monthly service paid for, but without keeping any record that links a specific credit card number to that phone. Phreeli users can also pay their bills (or rather, prepay them, since Phreeli has no way to track down anonymous users who owe them money) with tough-to-trace cryptocurrency like Zcash or Monero.",
+      "zh": "梅里尔说，在美国 50 个州，仅凭一个人的姓名都不清楚的情况下为其开通手机服务，居然是合法的。对于匿名收款——不使用信封现金这类方式——会带来更多技术难题。为此，Phreeli 推出了名为“Double-Blind Armadillo”的新加密系统，基于被称为零知识证明的前沿密码学协议。通过一种数学“魔术”，这些加密函数能够完成诸如确认某个手机已按月付费这样的任务，但不会保留任何将某张具体信用卡号与该手机绑定在一起的记录。Phreeli 用户也可以用难以追踪的加密货币，如 Zcash 或 Monero 来缴费（或者更准确地说，是预付费），因为 Phreeli 无法追查欠费但身份匿名的用户。"
+    },
+    {
+      "id": "p012",
+      "en": "Phreeli users can, however, choose to set their own dials for secrecy versus convenience. If they offer an email address at signup, they can more easily recover their account if their phone is lost. To get a SIM card, they can give their mailing address—which Merrill says Phreeli will promptly delete after the SIM ships—or they can download the digital equivalent known as an eSIM, even, if they choose, from a site Phreeli will host on the Tor anonymity network.",
+      "zh": "不过，Phreeli 用户可以自行在“保密性”与“便利性”之间设置偏好。若在注册时提供邮箱地址，用户在手机丢失后可以更容易找回账户。要领取 SIM 卡时，他们可以提供邮寄地址——梅里尔称，Phreeli 会在 SIM 发货后立即删除该地址——或者下载数字版本，即 eSIM，甚至可以从 Phreeli 在 Tor 匿名网络上托管的网站上选择下载。"
+    },
+    {
+      "id": "p013",
+      "en": "Phreeli’s “armadillo” analogy—the animal also serves as the mascot in its logo—is meant to capture this sliding scale of privacy that Phreeli offers its users: Armadillos always have a layer of armor, but they can choose whether to expose their vulnerable underbelly or curl into a fully protected ball.",
+      "zh": "菲瑞利（Phreeli）的“犰狳”比喻——这种动物也是其标志的吉祥物——旨在体现该公司为用户提供的隐私等级：犰狳始终拥有一层装甲，但它们可以选择是否暴露脆弱的腹部，或蜷成一个完全受到保护的球体。"
+    },
+    {
+      "id": "p014",
+      "en": "Even if users choose the less paranoid side of that spectrum of options, Merrill argues, his company will still be significantly less surveillance-friendly than existing phone companies, which have long represented one of the weakest links in the tech world’s privacy protections. All major US cellular carriers comply, for instance, with law enforcement surveillance orders like “tower dumps” that hand over data to the government on every phone that connected to a particular cell tower during a certain time. They’ve also happily, repeatedly handed over your data to corporate interests: Last year the Federal Communications Commission fined AT&T, Verizon, and T-Mobile nearly $200 million for selling users’ personal information, including their locations, to data brokers. (AT&T’s fine was later overturned by an appeals court ruling intended to limit the FCC’s enforcement powers.) Many data brokers in turn sell the information to federal agencies, including ICE and other parts of the DHS, offering an all-too-easy end run around restrictions on those agencies’ domestic spying.",
+      "zh": "梅勒尔指出，即使用户选择了隐私光谱上“没那么偏执”的一端，他的公司仍会比现有的手机公司少得多地配合监控，而那些公司长期以来一直是科技领域隐私保护体系的薄弱环节。美国所有主要蜂窝运营商，例如都会配合执法部门的监控令，包括“基站转储”（tower dumps），向政府交出在特定时间段内连接到某座特定基站的所有手机数据。它们也曾心甘情愿且反复地向商业机构交出你的数据：去年，美国联邦通信委员会对 AT&T、Verizon 和 T-Mobile 处以近2亿美元罚款，原因是它们向数据经纪商出售用户的个人信息，包括位置信息。 （AT&T 的罚款后来被上诉法院判决推翻，该判决旨在限制联邦通信委员会的执法权。）这些数据经纪商又将信息出售给联邦机构，包括移民与海关执法局（ICE）以及国土安全部（DHS）的其他部门，为这些机构在国内间谍活动上的限制提供了过于容易的变相绕行。"
+    },
+    {
+      "id": "p015",
+      "en": "Phreeli doesn’t promise to be a surveillance panacea. Even if your cellular carrier isn’t tying your movements to your identity, the operating system of whatever phone you sign up with might be. Even your mobile apps can track you.",
+      "zh": "菲瑞利并不承诺成为反监控的“万能药”。即使你的蜂窝运营商没有把你的行踪与你的身份绑定，你所注册的手机操作系统可能会这么做。就连你的手机应用程序也能追踪你。"
+    },
+    {
+      "id": "p016",
+      "en": "But for a startup seeking to be the country’s most privacy-focused mobile carrier, the bar is low. “The goal of this phone company I'm starting is to be more private than the three biggest phone carriers in the US. That’s the promise we’re going to massively overdeliver on,” says Merrill. “I don’t think there’s any way we can mess that up.”",
+      "zh": "但对于一家想成为全国最注重隐私的移动运营商初创企业来说，门槛其实不高。“我想要创建的这家手机公司目标是，隐私性要比美国三大手机运营商更好。那正是我们要大幅超越的承诺，”梅勒尔说，“我不认为我们有任何办法会把这事搞砸。”"
+    },
+    {
+      "id": "p017",
+      "en": "Merrill’s not-entirely-voluntary decision to spend the last 20-plus years as a privacy diehard began with three pages of paper that arrived at his office on a February day in New York in 2004. An FBI agent knocked on the door of his small internet service provider firm called Calyx, headquartered in a warehouse space a block from the Holland Tunnel in Manhattan. When Merrill answered, he found an older man with parted white hair, dressed in a trench coat like a comic book G-man, who handed him an envelope.",
+      "zh": "梅雷尔并非完全出于自愿的、历经二十多年才成为隐私铁杆的生活方式，始于2004年2月在纽约送到他办公室的三页纸。那天，一名联邦调查局特工走进了他位于曼哈顿荷兰隧道仅一街之隔的一间仓库式办公楼里的小型互联网服务商Calyx公司。当梅雷尔开门时，迎接他的是一位头发花白并留有分缝的年长男子，他穿着一件像漫画里联邦特工那样的风衣，并递给了他一个信封。"
+    },
+    {
+      "id": "p018",
+      "en": "Merrill opened it and read the letter while the agent waited. The first and second paragraphs told him he was hereby ordered to hand over virtually all information he possessed for one of his customers, identified by their email address, explaining that this demand was authorized by a law he’d later learn was part of the Patriot Act. The third paragraph informed him he couldn’t tell anyone he’d even received this letter—a gag order.",
+      "zh": "梅雷尔拆开发信，在特工等待的情况下看完了信件。第一和第二段写明他被下令向该局交出某一位客户的几乎全部信息——该客户仅以电子邮件地址作识别——并说明此要求有其后他才得知属于《爱国者法案》一部分的法律授权。第三段则告知他不得向任何人透露自己收到了这封信——这是一个“禁言令”。"
+    },
+    {
+      "id": "p019",
+      "en": "Then the agent departed without answering any of Merrill’s questions. He was left to decide what to do, entirely alone.",
+      "zh": "随后，那名特工离开了，未回答梅雷尔提出的任何问题。他被留在原地，必须独自做出决定。"
+    },
+    {
+      "id": "p020",
+      "en": "Merrill was struck immediately by the fact that the letter had no signature from a judge. He had in fact been handed a so-called National Security Letter, or NSL, a rarely seen and highly controversial tool of the Bush administration that allowed the FBI to demand information without a warrant, so long as it was related to “national security.”",
+      "zh": "梅雷尔立刻注意到的一点，是信件上没有法官签名。实际上，他拿到的只是所谓的“国家安全信件”（National Security Letter，NSL），这是一种布什政府时期罕见且颇具争议的工具，允许FBI在无搜查令的情况下索要信息，只要这些信息与“国家安全”有关。"
+    },
+    {
+      "id": "p021",
+      "en": "Calyx’s actual business, since he’d first launched the company in the early ’90s with a bank of modems in the nonfunctional fireplace of a New York apartment, had evolved into hosting the websites of big corporate customers like Mitsubishi and Ikea. But Merrill used that revenue stream to give pro bono or subsidized web hosting to nonprofit clients he supported like the Marijuana Policy Project and Indymedia—and to offer fast internet connections to a few friends and acquaintances like the one named in this surveillance order.",
+      "zh": "自从他在九十年代初在纽约一套公寓里那间不能使用的壁炉旁放了一排调制解调器起步后，Calyx 的真实业务已发展为托管三菱、宜家等大型企业客户的网站。梅雷尔把这笔收入用于为他支持的非营利客户提供公益或补贴的网络托管服务，例如大麻政策项目（Marijuana Policy Project）和 Indymedia，也为少数朋友和熟人提供高速网络连接，其中就包括本次监控令中提到的那位客户。"
+    },
+    {
+      "id": "p022",
+      "en": "Merrill has never publicly revealed the identity of the NSL's target, and he declined to share it with WIRED. But he knew this particular customer, and he certainly didn’t strike Merrill as a national security threat. If he were, Merrill thought, why not just get a warrant? The customer would later tell Merrill he had in fact been pressured by the FBI to become an informant—and had refused. The bureau, he told Merrill, had then retaliated by putting him on the no-fly list and pressuring employers not to hire him. (The FBI didn’t respond to WIRED’s request for comment on the case.)",
+      "zh": "梅雷尔从未公开披露该国安令（NSL）目标的身份，也拒绝与《连线》杂志分享。可他认识这位客户，而且这位客户在梅雷尔看来绝不是什么国家安全威胁。要是他真是威胁，梅雷尔想，为什么不直接去拿搜查令呢？那位客户后来告诉梅雷尔，他确实受到过联邦调查局施压，被要求充当线人，但他拒绝了。那时，联邦调查局据说便报复他，把他列入禁飞名单，并向雇主施压不要录用他。（联邦调查局未回应《连线》就此案提出的置评请求。）"
+    },
+    {
+      "id": "p023",
+      "en": "Merrill immediately decided to risk disobeying the gag order—on pain of what consequences, he had no idea—and called his lawyer, who told him to go to the New York affiliate of the American Civil Liberties Union, which happened to be one of Calyx’s web-hosting clients. After a few minutes in a cab, Merrill was talking to a young attorney named Jameel Jaffer in the ACLU’s Financial District office. “I wish I could say that we reassured him with our expertise on the NSL statute, but that's not how it went down,” Jaffer says. “We had never seen one of these before.”",
+      "zh": "梅雷尔立即决定冒着不服从禁言令的风险——他不知道可能会遭受何种后果——并给律师打了电话。律师建议他去纽约分会的美国公民自由联盟（ACLU）办事处，而该办事处恰好是 Calyx 的一个网站托管客户。坐出租车几分钟后，梅雷尔就在曼哈顿金融区的 ACLU 办公室与一位名叫 Jameel Jaffer 的年轻律师交谈。“我本想说我们会凭借对 NSL 条例的专业知识来给他打打气，但实际上并非如此，”Jaffer 说，“因为我们以前从未见过这种文件。”"
+    },
+    {
+      "id": "p024",
+      "en": "Merrill, meanwhile, knew that every lawyer he showed the letter to might represent another count in his impending prosecution. “I was terrified,” he says. “I kind of assumed someone could just come to my place that night, throw a hood over my head, and drag me away.”",
+      "zh": "与此同时，梅雷尔明白，任何一个看过那封信的律师，都可能在他即将到来的起诉中再加一项指控。“我当时惊恐万分，”他说，“我有种预感，可能某个时候半夜就有人会来我家，把我头套起来，再把我带走。”"
+    },
+    {
+      "id": "p025",
+      "en": "Despite his fears, Merrill never complied with the FBI’s letter. Instead, he decided to fight its constitutionality in court, with the help of pro bono representation from the ACLU and later the Yale Media Freedom and Information Access Clinic. That fight would last 11 years and entirely commandeer his life.",
+      "zh": "尽管心存担忧，梅瑞尔并未照做联邦调查局的来信要求，而是决定在法庭上挑战其合宪性，并在美国公民自由联盟（ACLU）的无偿代理以及后来耶鲁大学媒体自由与信息获取诊所的帮助下进行诉讼。此案持续了11年，几乎完全占据了他的生活。"
+    },
+    {
+      "id": "p026",
+      "en": "Merrill and his lawyers argued that the NSL represented an unconstitutional search and a violation of his free-speech rights—and they won. But Congress only amended the NSL statute, leaving the provision about its gag order intact, and the legal battle dragged out for years longer. Even after the NSL was rescinded altogether, Merrill continued to fight for the right to talk about its existence. “This was a time when so many people in his position were essentially cowering under their desks. But he felt an obligation as a citizen to speak out about surveillance powers that he thought had gone too far,” says Jaffer, who represented Merrill for the first six years of that courtroom war. “He impressed me with his courage.”",
+      "zh": "梅瑞尔和他的律师主张该国家安全信函（NSL）构成违宪搜查，并侵犯了他的言论自由权；他们赢得了官司。但国会只修订了NSL法规，将其中的“沉默令”条款保留不变，法律斗争因此又拖了多年。即使NSL最终被完全撤销，梅瑞尔仍继续为公开谈论其存在的权利而斗争。“那是一个很多处于他这种处境的人几乎都在心照不宣下噤声的时期。但他认为作为公民有责任就那些他认为已经走得太远的监控权力发声，所以挺身而出。”为这场法庭战争前六年代理梅瑞尔的贾弗说。“他以自己的勇气给我留下了深刻印象。”"
+    },
+    {
+      "id": "p027",
+      "en": "Battling the FBI took over Merrill’s life to the degree that he eventually shut down his ISP for lack of time or will to run the business and instead took a series of IT jobs. “I felt too much weight on my shoulders,” he says. “I was just constantly on the phone with lawyers, and I was scared all the time.”",
+      "zh": "与联邦调查局的长期对抗几乎彻底接管了梅瑞尔的生活，最终他因没有足够时间和精力经营而关闭了自己的互联网服务供应商（ISP），改而接连从事一系列IT工作。“我觉得肩上的担子太重了。”他表示，“我几乎一直在和律师打电话，而且一直都很害怕。”"
+    },
+    {
+      "id": "p028",
+      "en": "By 2010, Merrill had won the right to publicly name himself as the NSL’s recipient. By 2015 he’d beaten the gag order entirely and released the full letter with only the target’s name redacted. But Merrill and the ACLU never got the Supreme Court precedent they wanted from the case. Instead, the Patriot Act itself was amended to reign in NSLs’ unconstitutional powers.",
+      "zh": "到2010年，梅瑞尔赢得了公开披露自己是该NSL收件人的权利。到2015年，他完全击败了沉默令，公开发布了完整信件，只是遮蔽了目标人的姓名。然而梅瑞尔与ACLU并未在该案件中获得他们想要的最高法院先例。结果是，爱国者法案本身被修订，以遏制NSL中被认为违宪的权力。"
+    },
+    {
+      "id": "p029",
+      "en": "In the meantime, those years of endless bureaucratic legal struggles had left Merrill disillusioned with judicial or even legislative action as a way to protect privacy. Instead, he decided to try a different approach. “The third way to fight surveillance is with technology,” he says. “That was my big realization.”",
+      "zh": "与此同时，那些年无休止的官僚式法律斗争让梅雷尔对通过司法甚至立法途径来保护隐私感到失望。于是，他决定尝试另一条路。“对抗监控的第三种方式是借助技术，”他说。“这就是我的重大领悟。”"
+    },
+    {
+      "id": "p030",
+      "en": "So, just after Merrill won the legal right to go public with his NSL battle in 2010, he founded the Calyx Institute, a nonprofit that shared a name with his old ISP but was instead focused on building free privacy tools and services. The privacy-focused version of Google’s Android OS it would develop, designed to strip out data-tracking tools and use Signal by default for calls and texts, would eventually have close to 100,000 users. It ran servers for anonymous, encrypted instant messaging over the chat protocol XMPP with around 300,000 users. The institute also offered a VPN service and ran servers that comprised part of the volunteer-based Tor anonymity network, tools that Merrill estimates were used by millions.",
+      "zh": "就在梅雷尔于2010年赢得公开披露其NSL诉讼的法律权利之后，他创立了Calyx Institute（卡利克斯研究所），这是一个非营利机构，与他之前的ISP同名，但转向专注于构建免费的隐私工具和服务。该机构后来开发了一个以隐私为核心的谷歌Android操作系统版本，旨在去除数据追踪工具，并将通话和短信默认改用Signal，最终吸引了接近100,000名用户。它还运营了基于XMPP聊天协议的匿名加密即时通讯服务器，约有300,000名用户。该研究所也提供VPN服务，并运维了由志愿者构建的Tor匿名网络的一部分服务器，据梅雷尔估计，这些工具被数百万人使用。"
+    },
+    {
+      "id": "p031",
+      "en": "As he became a cause célèbre and then a standout activist in the digital privacy world over those years, Merrill says he started to become aware of the growing problem of untrustworthy cellular providers in an increasingly phone-dependent world. He’d sometimes come across anti-surveillance hard-liners determined to avoid giving any personal information to cellular carriers, who bought SIM cards with cash and signed up for prepaid plans with false names. Some even avoided cell service altogether, using phones they connected only to Wi-Fi. “Eventually those people never got invites to any parties,” Merrill says.",
+      "zh": "在那些年里，当他先后成为“公共人物”又成为数字隐私领域的突出现代活动人士时，梅雷尔说他开始意识到，在这个日益依赖手机的世界里，不可信赖的移动运营商问题正在加剧。他有时会遇到反监控的“硬核”人士，这些人决心不给移动运营商提供任何个人信息，于是用现金购买SIM卡，并用假名办理预付费套餐。甚至有人彻底不办手机服务，只用手机通过Wi-Fi联网。“结果这些人最终也不再被邀请参加任何派对，”梅雷尔说。"
+    },
+    {
+      "id": "p032",
+      "en": "All these schemes, he knew, were legal enough. So why not a phone company that only collects minimal personal information—or none—from its normal, non-extremist customers? As early as 2019, he had already consulted with lawyers and incorporated Phreeli as a company. He decided on the for-profit startup route after learning that the 501c3 statute can’t apply to a telecom firm. Only last year, he finally raised $5 million, mostly from one angel investor. (Merrill declined to name the person. Naturally, they value their privacy.)",
+      "zh": "他知道，所有这些方案从法律上说都算合规。那为什么不做一家公司呢，让它对普通、非极端用户只收集极少量，甚至不收集任何个人信息呢？早在2019年，他就已经咨询律师并将Phreeli注册为公司。得知501(c)(3)法规不能适用于电信公司后，他决定走营利性初创企业的路线。就在去年，他终于从一位天使投资人那里筹得500万美元（占比最高）。（梅雷尔拒绝透露该人士姓名。理所当然，他们同样看重隐私。）"
+    },
+    {
+      "id": "p033",
+      "en": "Building a system that could function like a normal phone company—and accept users’ payments like one—without storing virtually any identifying information on those customers presented a distinct challenge. To solve it, Merrill consulted with Zooko Wilcox, one of the creators of Zcash, perhaps the closest thing in the world to actual anonymous cryptocurrency. The Z in Zcash stands for “zero-knowledge proofs,” a relatively new form of crypto system that has allowed Zcash’s users to prove things (like who has paid whom) while keeping all information (like their identities, or even the amount of payments) fully encrypted.",
+      "zh": "建立一个能够像普通电话公司一样运转、并像普通电话公司那样收取用户费用、同时几乎不在用户侧存储任何可识别身份信息的系统，本身就是一项独特的挑战。为了解决这个问题，梅雷尔与 Zcash 的创始人之一 Zooko Wilcox 进行了咨询。Zcash 被视为世界上最接近真正匿名加密货币的技术之一。“Zcash”中的“Z”代表“零知识证明”，这是一种相对较新的加密体系，使 Zcash 用户可以在保持全部信息（包括身份，甚至付款金额）完全加密的情况下，证明某些事实（比如谁给了谁付款）。"
+    },
+    {
+      "id": "p034",
+      "en": "For Phreeli, Wilcox suggested a related but slightly different system: so-called “zero-knowledge access passes.” Wilcox compares the system to people showing their driver’s license at the door of a club. “You’ve got to give your home address to the bouncer,” Wilcox says incredulously. The magical properties of zero knowledge proofs, he says, would allow you to generate an unforgeable crypto credential that proves you’re over 21 and then show that to the doorman without revealing your name, address, or even your age. “A process that previously required identification gets replaced by something that only requires authorization,” Wilcox says. “See the difference?”",
+      "zh": "对 Phreeli 来说，Wilcox 提出了一个相关但略有不同的系统：所谓“零知识访问凭证”。Wilcox 将其比作进俱乐部时出示驾照的情形。“你得把家庭住址告诉门卫。”Wilcox 半开玩笑地说。零知识证明的神奇之处在于，它可以让你生成一种无法伪造的加密凭证，证明你已经年满 21 岁，并把它展示给门卫，却不需要透露你的姓名、住址，甚至你的年龄。Wilcox 说：“一个过去必须出示身份信息的流程，转而变成只需要出示授权凭证的流程。看出区别了吗？”"
+    },
+    {
+      "id": "p035",
+      "en": "The same trick will now let Phreeli users prove they’ve prepaid their phone bill without connecting their name, address, or any payment information to their phone records—even if they pay with a credit card. The result, Merrill says, will be a user experience for most customers that’s not very different from their existing phone carrier, but with a radically different level of data collection.",
+      "zh": "同样的技巧如今将让 Phreeli 用户能够证明自己已预付电话账单，而不必把姓名、住址或任何付款信息与自己的通话记录绑定——即使他们使用信用卡付款也是如此。梅雷尔表示，结果将是：对大多数用户来说，使用体验与现有手机运营商并无太大差别，但后台的数据采集逻辑将完全不同，具有革命性的变化。"
+    },
+    {
+      "id": "p036",
+      "en": "As for Wilcox, he’s long been one of that small group of privacy zealots who buys his SIM cards in cash with a fake name. But he hopes Phreeli will offer an easier path—not just for people like him, but for normies too.",
+      "zh": "至于 Wilcox，他早就属于那群隐私极客中的一员——他们会用现金、用假名购买 SIM 卡。但他希望 Phreeli 能为更多人提供一条更容易的路径，不仅是像他这样的人，也包括普通用户。"
+    },
+    {
+      "id": "p037",
+      "en": "“I don't know of anybody who's ever offered this credibly before,” says Wilcox. “Not the usual telecom-strip-mining-your-data phone, not a black-hoodie hacker phone, but a privacy-is-normal phone.”",
+      "zh": "“我不知道以前有没有人真正把这件事做得这么像样，” Wilcox 说。“不是普通那种把你数据挖个精光的电信手机，也不是黑衣黑客手机，而是一部把隐私当作常态的手机。”"
+    },
+    {
+      "id": "p038",
+      "en": "Even so, enough tech companies have pitched privacy as a feature for their commercial product that jaded consumers may not buy into a for-profit telecom like Phreeli purporting to offer anonymity. But the EFF’s Cohn says that Merrill’s track record shows he’s not just using the fight against surveillance as a marketing gimmick to sell something. “Having watched Nick for a long time, it's all a means to an end for him,” she says. “And the end is privacy for everyone.”",
+      "zh": "尽管如此，足够多的科技公司已经把隐私当作其商业产品的卖点来推销，惯性很重的消费者可能不会相信像 Phreeli 这样一个营利性电信公司真的能提供匿名服务。EFF 的 Cohn 说，Merrill 的个人履历证明他并不只是把反监控斗争当作营销噱头来售卖产品。“我一直观察着 Nick，很清楚这对他来说只是达成目的的手段，”她说。“而且他的目的就是让每个人都拥有隐私。”"
+    },
+    {
+      "id": "p039",
+      "en": "Merrill may not like the implications of describing Phreeli as a cellular carrier where every phone is a burner phone. But there’s little doubt that some of the company’s customers will use its privacy protections for crime—just as with every surveillance-resistant tool, from Signal to Tor to briefcases of cash.",
+      "zh": "Merrill 可能不喜欢将 Phreeli 描述为一个每部手机都是一次性手机的蜂窝运营商所带来的含义。但毫无疑问，该公司的部分用户会把其隐私保护用于犯罪——就像从 Signal 到 Tor 到现金公文包等所有抗监控工具一样。"
+    },
+    {
+      "id": "p040",
+      "en": "Phreeli won’t, at least, offer a platform for spammers and robocallers, Merrill says. Even without knowing users’ identities, he says the company will block that kind of bad behavior by limiting how many calls and texts users are allowed, and banning users who appear to be gaming the system. “If people think this is going to be a safe haven for abusing the phone network, that’s not going to work,” Merrill says.",
+      "zh": "至少在这一点上，Phreeli 不会为垃圾信息发送者和机器人电话营销者提供平台，Merrill 说。即便在不掌握用户身份的情况下，他表示公司也会通过限制用户可打的通话和发送短信数量，以及封禁那些看起来在系统内钻空子的用户，来阻止这类不当行为。Merrill 说：“如果人们以为这里会成为滥用电话网络的避风港，那就别想了。”"
+    },
+    {
+      "id": "p041",
+      "en": "But some customers of his phone company will, to Merrill’s regret, do bad things, he says—just as they sometimes used to with pay phones, that anonymous, cash-based phone service that once existed on every block of American cities. “You put a quarter in, you didn’t need to identify yourself, and you could call whoever you wanted,” he reminisces. “And 99.9 percent of the time, people weren't doing bad stuff.” The small minority who were, he argues, didn’t justify the involuntary societal slide into the cellular panopticon we all live in today, where a phone call not tied to freely traded data on the caller’s identity is a rare phenomenon.",
+      "zh": "但梅勒尔说，他的这家电话公司也有一些用户会干坏事——就像过去在美国城市街头随处可见的匿名现金付费电话一样。那种“投币电话”不需要你亮明身份，你只要投进25美分就能给任何人打电话，”他追忆道。“而且在99.9%的情况下，人们并没有做坏事。”他认为，少数确实会做坏事的人，并不足以证明我们如今都被推向了“全体监控”的社会监狱式环境；在这种环境里，一个来电与来电者身份之间没有被随意买卖、绑定的数据，已经变成了罕见现象。"
+    },
+    {
+      "id": "p042",
+      "en": "“The pendulum has swung so far in favor of total information awareness,” says Merrill, using an intelligence term of the Bush administration whose surveillance order set him on this path 21 years ago. “Things that we used to be able to take for granted have slipped through our fingers.”",
+      "zh": "“天平已经被拉向‘全民情报感知’一边太远了，”梅勒尔说，他用了布什政府时期流行的“情报圈”术语，而这份联邦调查局的监控命令是在21年前把他引向这条道路的。“我们曾经认为理所当然的一些权利，现在已经从我们手中悄悄溜走了。”"
+    },
+    {
+      "id": "p043",
+      "en": "“Other phone companies are selling an apartment that comes with no curtains—where the windows are incompatible with curtains,” Merrill says. “We’re trying to say, no, curtains are normal. Privacy is normal.”",
+      "zh": "“其他电话公司出售的是一个没有窗帘的‘公寓’，窗户根本不适合装窗帘，”梅勒尔说，“而我们想表达的是，不要这样，窗帘是正常的，隐私也是正常的。”"
+    },
+    {
+      "id": "p044",
+      "en": "Let us know what you think about this article. Submit a letter to the editor at [email protected].",
+      "zh": "欢迎告诉我们你对这篇文章的看法。请将来信发给编辑部：[email protected]。"
+    }
+  ],
+  "translated_at": "2026-07-23T00:33:25+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

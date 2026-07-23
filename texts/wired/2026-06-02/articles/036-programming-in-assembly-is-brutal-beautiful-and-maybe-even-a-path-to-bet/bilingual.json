@@ -10,82 +10,85 @@
   "order": 36,
   "section": "Gregory Barber",
   "title_en": "Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI",
-  "title_zh": "",
+  "title_zh": "汇编语言编程既残酷又优雅，甚至可能是走向更强人工智能的一条道路",
   "rubric_en": "Whether your chip is running a vintage computer game or the latest DeepSeek model, it’ll reward you for speaking its native language.",
-  "rubric_zh": "",
+  "rubric_zh": "无论你的芯片在运行一款复古电脑游戏，还是最新的 DeepSeek 模型，它都愿意回报你——只要你用它的母语来“说话”。",
   "date": "2025-10-13T07:00:00-04:00",
   "origin_url": "",
-  "translation_status": "pending",
+  "translation_status": "translated",
   "paragraphs": [
     {
       "id": "p001",
       "en": "Rollercoaster Tycoon wasn’t the most fashionable computer game out there in 1999. But if you took a look beneath the pixels—the rickety rides, the crowds of hungry, thirsty, barfing people (and the janitors mopping in their wake)—deep down at the level of the code, you saw craftsmanship so obsessive that it bordered on insane. Chris Sawyer, the game’s sole developer, wrote the whole thing in assembly.",
-      "zh": ""
+      "zh": "《过山车大亨》在1999年并不是最时髦的电脑游戏，但如果你往像素背后看看——那些摇摇欲坠的游乐设施、饥渴交加、呕吐连连的人群，以及随行拖着水渍印记的清洁工——深入到代码层面，你会发现那种近乎偏执的工艺匠心，几乎到了疯狂的程度。游戏的唯一开发者克里斯·索耶（Chris Sawyer）把整部作品都写在了汇编语言里。"
     },
     {
       "id": "p002",
       "en": "Certain programming languages, like Python or Go or C++, are called “high-level” because they work sort of like human language, written in commands and idioms that might fit in at a poetry slam. Generally speaking, a piece of software like a compiler transforms this into what the machine really reads: blocks of 1s and 0s (or maybe hex) that tell actual transistors how to behave. Assembly, the lowest of the “low-level” languages, has a near one-to-one correspondence with the machine’s native tongue. It’s coding straight to metal. To build a complex computer game from assembly is like weaving a tapestry from shedded cat fur.",
-      "zh": ""
+      "zh": "某些编程语言，比如 Python、Go 或 C++，被称为“高级语言”，因为它们写成的指令和习惯用法，或许还能像一场诗歌朗诵那样让人读懂。通常，像编译器这样的软件会把这些内容转换成机器真正读取的内容：由1和0（或许还有十六进制）组成的代码块，用来告诉晶体管如何行动。汇编语言作为“低级语言”中的最底层，几乎与机器的本地语言一一对应。它是直接对金属编程。用汇编去构建一款复杂的电脑游戏，就像用猫毛梳成线、再去编织一幅挂毯。"
     },
     {
       "id": "p003",
       "en": "Why would anyone do this? I recently asked Sawyer, who lives in his native Scotland. He told me that efficiency was one reason. In the 1990s, the tools for high-level programming weren’t all there. Compilers were terribly slow. Debuggers sucked. Sawyer could avoid them by doing his own thing in x86 assembly, the lingua franca of Intel chips.",
-      "zh": ""
+      "zh": "为什么有人愿意这么做呢？我最近在他位于苏格兰家乡的家中采访了索耶。他告诉我，效率是其中一个原因。在20世纪90年代，成熟的高级语言工具链还不完整。编译器极慢。调试器也很糟糕。索耶可以通过自己直接用 x86 汇编来规避这些问题——这也是英特尔芯片的通用语。"
     },
     {
       "id": "p004",
       "en": "We both knew that wasn’t the real reason, though. The real reason was love. Before turning to roller coasters, Sawyer had written another game in assembly, Transport Tycoon. It puts players in charge of a city’s roads, rail stations, runways, and ports. I imagined Sawyer as a model-train hobbyist—laying each stretch of track, hand-sewing artificial turf, each detail a choice and a chore. To move these carefully crafted pixels from bitmaps to display, Sawyer had to coax out the chip’s full potential. “RollerCoaster Tycoon only came about because I was familiar with the limits of what was possible,” he told me.",
-      "zh": ""
+      "zh": "但我们都知道这并不是真正的原因。真正的原因是热爱。在转向过山车系列之前，索耶已经用汇编写过另一款游戏《运输大亨》。那款游戏让玩家管理一座城市的公路、铁路站点、跑道和港口。我曾把索耶想象成一个模型火车爱好者：一节一节铺设轨道，手工铺设人造草坪，每一个细节都是选择，也是琐事。为了让这些精心打磨的像素从位图里准确呈现在屏幕上，索耶必须把芯片的全部潜力都榨出来。“《过山车大亨》之所以会诞生，是因为我清楚自己能做到什么极限。”他说。"
     },
     {
       "id": "p005",
       "en": "Working within the limits? A foreign idea, perhaps, in this age of digital abundance, when calling a single function in an AI training algorithm can engage a million GPUs. With assembly, you get one thing and one thing only, and it is the thing you ask for—even, as many a coder has learned the hard way, if it is wrong. Assembly is brutal and beautiful that way. It requires you to say exactly what you mean.",
-      "zh": ""
+      "zh": "在数字资源丰富的今天，所谓“受限之内编程”听起来像是个外来概念。毕竟，在人工智能训练算法里一次函数调用就可能调用上百万块 GPU。汇编语言只给你一件事，而且只做你要求的那件事；如果你要求错了，它也会一字不差地按你的要求去做——这也是不少程序员吃过的苦。汇编就是这样既残酷又优美。它要求你把意思表达得非常准确。"
     },
     {
       "id": "p006",
       "en": "I’ve done assembly’s creators a disservice. They wanted things to be easier, not harder. I imagine they were tired of loading up punchcards and flipping switches on their steampunk leviathans. Perhaps they dreamed of a world like ours, where computers can do so much with such minimal guidance.",
-      "zh": ""
+      "zh": "我对汇编语言的创造者有些亏欠。他们本想让事情变得更容易，而不是更难。我想，他们可能已经厌倦了反复打孔纸带、在那些蒸汽朋克般的巨兽机器上拨动开关。也许他们曾梦想拥有一个像我们这样的世界：计算机只要很少的指令就能完成很多事。"
     },
     {
       "id": "p007",
       "en": "The first assembly language, created in the 1940s by Kathleen Booth (though she has not always gotten her due, surprise surprise), hardly resembled language. Codes stood in for codes. To tell the machine to perform an operation—say, “0,0111” in machine code—you’d instead employ a series of letters and symbols, which a new piece of software, called an assembler, would translate into binary. Soon, the commands got human-friendlier mnemonics like “MOV.”",
-      "zh": ""
+      "zh": "20 世纪 40 年代，由 Kathleen Booth 发明的第一代汇编语言（尽管她长期没有得到应有的认可，这并不令人意外）几乎看起来不像语言。代码用来代表代码。要让机器执行一个操作，比如机器码中的“0,0111”，你会改用一串字母和符号来表达；这些内容再由一套新软件——汇编器——翻译成二进制。很快，指令便有了更贴近人类的助记符，例如“MOV”。"
     },
     {
       "id": "p008",
       "en": "To know assembly was to know the CPU itself—what it could do and, even more, what it couldn’t. A chip’s physical design, how the circuits connecting the logic gates of AND and XOR are actually laid, defines how it works. Its functions are pretty basic, breaking down instructions into elementary steps: Fetch something from memory and put it in a temporary cubby, known as a register. Decode it there. Perform some operations, like comparing two values, or adding them. Ship it back off the memory.",
-      "zh": ""
+      "zh": "懂得汇编，就是懂得 CPU 本身：它能做什么，更重要的是它不能做什么。一块芯片的物理设计，即 AND、XOR 等逻辑门之间电路的实际连线方式，决定了它的行为。它的功能本质上非常基础，将一条指令分解为最基本的步骤：从内存中取出数据并放入一个叫做寄存器的临时存储位；在其中进行解码；执行一些操作，比如比较两个值，或把它们相加；再把结果写回内存。"
     },
     {
       "id": "p009",
       "en": "As chips advanced, new dialects of assembly evolved. The code that landed the first human on the moon was assembly—designed for only one chip, the Apollo 11 Guidance Computer. If you want to read the leaked source code of the Furby, you’ll need fluency in 6502. To hack your Ti-83 calculator, you’ll need z80. Learning the language of one chip—say, Intel’s x86—and then moving to Arm is like studying Arabic in Beirut and then trying to get by in Tunis or Khartoum. Good luck.",
-      "zh": ""
+      "zh": "随着芯片的发展，汇编语言也进化出了新的方言。把人类第一次送上月球的那段代码就是汇编，专为一款芯片——阿波罗 11 号导航计算机——而设计。若你想阅读 Furby 泄露的源代码，你就需要精通 6502。要改装 Ti-83 计算器，你则需要 z80。先学习某个芯片的语言——比如 Intel 的 x86——然后再转向 Arm，就像在贝鲁特学习阿拉伯语，结果去突尼斯或喀土穆还能勉强应对。祝你好运。"
     },
     {
       "id": "p010",
       "en": "I learned x86 assembly in college as a refugee from math. Where my classmates seemed to enjoy the drab incantations of Java, I loved the logic game that was assembly. It was easy to fail, but to fail in ways that were explainable if you looked at the circuits and registers. How masterful I felt coding in the simple commands of this not-quite-language; how fragile I knew that mastery to be. To say, put these bytes there—no, there, at that register, in those capacitors. Remember this. Forget that. To grind away, painting each figurine, one by one.",
-      "zh": ""
+      "zh": "我在大学时是以逃离数学的身份学会了 x86 汇编。我的同学似乎都在享受 Java 那些平淡乏味的咒语般语法，而我却喜欢汇编那种逻辑游戏。它很容易失败，但只要你观察电路和寄存器，就能解释清楚为什么会失败。回想那种用这门不太像语言的简明指令编程时的得心应手；也明白这份“精通”有多脆弱。你只需要说：把这些字节放在那儿——不，是那里——放到那个寄存器里的电容里。记住这个。忘掉那个。就这样重复锤炼，一件一件地雕刻每个小“雕像”。"
     },
     {
       "id": "p011",
       "en": "It’s true that there’s no longer much point in using assembly in the day-to-day work of coding. High-level languages are so efficient that their abstraction is almost always preferable. Even assembly’s inventor moved on to other ventures; one of Booth’s final papers, in the 1990s, used neural networks to match seals with their barks. Sawyer switched over too. He’s been dabbling in home automation recently—lights, temperature sensors, sound systems, and the like, coded on Raspberry Pis using Python, which he initially found “quite off-putting,” he told me. But even on that tiny processor, it gets the job done just fine.",
-      "zh": ""
+      "zh": "确实，汇编在日常编码工作中已经没剩多少价值了。高级语言的效率如此之高，它们的抽象通常几乎总是更可取。连汇编的发明者后来也转向了其他领域；Booth 在1990年代的最后一篇论文之一，用神经网络把印章和它们的吠声对应起来。Sawyer 也同样转向了别的方向。最近他参与了家庭自动化——灯光、温度传感器、音响系统等——在 Raspberry Pi 上用 Python 编写，他最初告诉我时觉得“相当不顺手”。但即便是那颗小小的处理器，用它也完全能把工作做好。"
     },
     {
       "id": "p012",
       "en": "Then along comes something like DeepSeek to remind you that humans can still communicate better with our hardware. Earlier this year, the Chinese company that made these incredibly efficient AI models upended the narrative that AI advancement can come only from more chips and more energy. Assembly was one surprising reason. DeepSeek’s engineers reached into the subfloor of Nvidia’s chips, commanding each individual machine to compress data from 32 bits to 8 bits—sacrificing precision for efficiency—at precisely the right moments. Observers were stunned. You could do that? The DeepSeek engineers had tapped an art most others had forgotten.",
-      "zh": ""
+      "zh": "然后，像 DeepSeek 这样的系统又一次提醒我们：人类仍然能与硬件沟通得更好。就在今年年初，这家制造出这些极其高效 AI 模型的中国公司颠覆了“AI 的进步只能靠更多芯片和更多算力”这一叙事。汇编就是一个令人意想不到的原因。DeepSeek 的工程师深入 Nvidia 芯片的底层，精确到在恰当时刻命令每一颗机器将数据从 32 位压缩到 8 位，以牺牲精度换取效率。观察者们都震惊了。你真能做到吗？这些工程师找回了许多人早已遗忘的那门艺术。"
     },
     {
       "id": "p013",
       "en": "I was similarly taken when, in 2023, researchers at DeepMind taught a machine x86 assembly, then asked it to improve on the long-standing sort() function in C. The AI made strange, unintuitive choices, performing odd jumps between registers, and in the end cut precisely one step. A fraction of a millisecond saved, perhaps. But happening countless times a day, now that the new algorithm has been officially adopted.",
-      "zh": ""
+      "zh": "我在 2023 年也有过同样的感受：DeepMind 的研究人员教会一台机器学习 x86 汇编指令，然后让它改进 C 语言中长期沿用的 sort() 函数。该 AI 做出了看似怪异、违背直觉的选择，在寄存器之间做了奇怪的跳转，最终精确地减少了一个步骤。也许只是节省了几分之一毫秒而已。但由于这套新算法已被正式采用，它每天会无数次重复发生这一优化。"
     },
     {
       "id": "p014",
       "en": "To me, it was a reminder that we humans created these machines, and even as they appear to spiral into complexity beyond our comprehension, they remain under our command. We can always make them work better. It was like what Sawyer said when he recounted his recent Raspberry Pi–enabled home coding experiment. It was probably just his imagination, but the display had been a little laggy, he thought. He’d redo the code if he could, he said. But alas, Sawyer and the machine did not speak the same assembly language.",
-      "zh": ""
+      "zh": "在我看来，这让我想起了这样一个道理：这些机器由我们人类创造出来，即便它们看起来正螺旋般走向超出我们理解范围的复杂度，它们仍然仍在我们的指挥之下。我们总能让它们运行得更好。那就像 Sawyer 叙述他最近一次使用树莓派进行的家庭编程实验时说过的那样。也许那只是他的想象，但他觉得显示画面有点卡顿。他说，如果可以，他会重写那段代码。可惜，Sawyer 与那台机器并不使用同一种汇编语言。"
     }
-  ]
+  ],
+  "translated_at": "2026-07-22T17:29:30+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
 }

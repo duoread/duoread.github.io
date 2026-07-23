@@ -1,0 +1,104 @@
+{
+  "id": "051-beware-the-top-heavy-economy",
+  "source_href": "f7fe440f-e4e0-47b9-9318-be8a61e80c24.html",
+  "publication": "economist",
+  "issue": "2026-07-11",
+  "issue_published_at": "2026-07-11",
+  "article_published_at": "July 9th 2026",
+  "published_at": "July 9th 2026",
+  "published_date_source": "article",
+  "order": 51,
+  "section": "Business",
+  "title_en": "Beware the top-heavy economy",
+  "title_zh": "警惕资本“头重脚轻”",
+  "rubric_en": "Supersize capital flows are reshaping business—and building risk",
+  "rubric_zh": "超大规模资本流正在重塑商业格局，也在积累风险",
+  "date": "July 9th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "Nowadays it is easy to get desensitised to big numbers. Every week stonking deals are announced. Only four days after SpaceX, Elon Musk’s rocket-maker, raised $86bn in the largest ever public listing on June 12th, it said it would buy Cursor, an artificial-intelligence coding startup, for $60bn. The same day DeepSeek, a Chinese AI lab, said it had raised $7bn in the fourth-biggest venture-capital (VC) round ever in the country.",
+      "zh": "如今，人们很容易对巨大数字失去敏感度。每周都有“天价交易”传出消息。2026年6月12日，仅过了四天，造火箭公司、埃隆·马斯克旗下的SpaceX便宣布斥资860亿美元收购Cursor——这是一家人工智能编程创业公司，规模为600亿美元。就在同一天，中国一家AI实验室DeepSeek宣布其完成70亿美元融资，这是该国历史上第四大风险投资（VC）轮次。"
+    },
+    {
+      "id": "p002",
+      "en": "So far this year mega-mergers worth over $10bn have accounted for 48% of total deal value, the highest level on record, according to Dealogic, a data provider (see chart 1). Bets on startups are also concentrating: investment rounds larger than $1bn have accounted for 61% of total VC funding this year, with four-fifths of those rounds involving a corporate investor, according to PitchBook, another data provider (see chart 2).",
+      "zh": "今年到目前为止，超过100亿美元的超级并购已占到总交易金额的48%，创下历史最高水平（见图1），根据数据提供商Dealogic的统计。对初创企业的投资也在集中：今年规模超过10亿美元的投资轮次占全部VC资金的61%，其中有四分之五的这类轮次都包含了公司投资者，另一家数据提供商PitchBook也有同样的数据（见图2）。"
+    },
+    {
+      "id": "p003",
+      "en": "The trend towards supersize capital flows is visible everywhere you look. Greenfield foreign direct investment (FDI) projects worth over $1bn have made up 42% of the total since the start of 2024, up from 28% from 2016-18, reckons fDi Markets, which tracks projects (see chart 3).",
+      "zh": "这种超大规模资本流向在你眼前的各个领域都能看到。fDi Markets追踪的数据显示，自2024年初以来，单个价值超过10亿美元的绿地外商直接投资（FDI）项目占全部项目的42%，高于2016年至2018年的28%（见图3）。"
+    },
+    {
+      "id": "p004",
+      "en": "Much of this activity centres on America. Last year the country was the largest destination and source of greenfield FDI projects worth over $1bn. It is also home to 14 of the 15 startups that have received the biggest cheques since the start of 2024. For the 71 mega-mergers since the start of 2025, 44 of the buyers come from America.",
+      "zh": "大量活动都集中在美国。去年，美国既是单个价值超过10亿美元的绿地FDI项目的最大目的地，也是最大的资金来源国。同时，美国也是自2024年初以来拿到最大单笔投资（“最大支票”）的15家初创企业中有14家所在国。自2025年初以来的71起超大并购中，44位买方来自美国。"
+    },
+    {
+      "id": "p005",
+      "en": "But the pattern has also spread to other regions. Last year Taiwan was the second-biggest source of jumbo FDI deals, followed by the UAE and China. Large VC deals are being struck outside America too. DayOne, a Singapore-based data-centre operator, raised $4.5bn in June; Nscale, a British rival, received $2bn in March.",
+      "zh": "但这种模式也已扩散到其他地区。去年，台湾成为第二大“巨型”外国直接投资（FDI）交易来源，其后是阿联酋和中国。大型风险投资交易也在美国之外达成。新加坡的数据中心运营商DayOne在六月筹集了45亿美元；英国对手Nscale则在三月获得了20亿美元。"
+    },
+    {
+      "id": "p006",
+      "en": "Big transactions come and go in waves. Yet it is rare for these cycles to be so synchronised, and so dependent on a small number of giant firms. That brings dangers.",
+      "zh": "大宗交易总是一波一波出现。然而，这些周期如此高度同步、并且如此依赖少数几家巨头企业的情况却并不常见。这带来了危险。"
+    },
+    {
+      "id": "p007",
+      "en": "The trend towards supersize investments is the result of a combination of various undercurrents in global business. First is the availability of capital, despite interest rates having risen from unusually low levels. The cash holdings of companies in America’s S&P 500 index have reached $2.2trn. These firms are also earning more than ever. In America corporate profits are near an all-time high when compared with GDP. That, in turn, has helped push market values to record levels, which gives firms yet more scope to perform takeovers and raise additional debt or equity. On June 1st Alphabet said it would sell $80bn-worth of stock—a rounding error for a company whose market value has soared to $4.4trn.",
+      "zh": "超大规模投资浪潮是全球商业中多种潜流共同作用的结果。第一是资本充裕，尽管利率从异常低位走高。美国标普500指数成分公司的现金储备已达到2.2万亿美元。这些公司也在创造前所未有的利润。与国内生产总值相比，美国企业利润已接近历史最高水平。反过来，这推动市场估值达到历史新高，进而为企业提供了更多空间去进行并购，并再融资更多债务或股权。6月1日，Alphabet宣布将出售价值800亿美元的股票——对于一家市值已飙升至4.4万亿美元的公司来说，这只是一个区区小数。"
+    },
+    {
+      "id": "p008",
+      "en": "Much of this cash is being used to fund the AI boom—the second factor behind the trend. Five hyperscalers—Alphabet, Amazon, Meta, Microsoft and Oracle—are expected to shell out perhaps $800bn in capital expenditure this year as they race to erect data centres around the world. At the same time, they are among the biggest financial backers of AI startups. The AI boom has also encouraged a number of big corporate tie-ups, including the merger of Dominion and NextEra, a pair of American power utilities, and the acquisition of CyberArk, a cyber-security company, by Palo Alto Networks, the market leader.",
+      "zh": "大量现金正被用于为AI热潮供资，这也是推动这一趋势的第二个因素。五大超大规模算力公司——Alphabet、Amazon、Meta、Microsoft和Oracle——预计今年在全球建造数据中心的竞争中将支出约8000亿美元资本开支。与此同时，它们也是AI初创公司的主要金融支持者。AI浪潮也促成了多起大型企业并购，包括美国两家公用事业公司Dominion与NextEra的合并，以及市场领导者Palo Alto Networks收购网络安全公司CyberArk。"
+    },
+    {
+      "id": "p009",
+      "en": "The third factor behind the wave of giant capital flows is politics. In America, the current administration has proved far more relaxed than its predecessor about big mergers. The European Union, fearing that its corporate champions will be left behind, has also recently revised its merger guidelines to make tie-ups easier.",
+      "zh": "在这场巨型资本流动浪潮背后，第三个因素是政治。美国方面，现任政府在大型并购问题上比前任当局明显更为宽松。欧洲联盟担心其大型企业“冠军”会被甩在后面，也在近期修订了并购准则，使得企业合并变得更容易。"
+    },
+    {
+      "id": "p010",
+      "en": "Meanwhile, protectionist governments are pressing companies to reshore manufacturing with tariffs and subsidies. As a result, many big firms are spending huge sums on additional facilities overseas, such as the chip plants in Arizona constructed by TSMC, a Taiwanese semiconductor giant, or the new car factory in Hungary for BYD, a Chinese electric-vehicle colossus.",
+      "zh": "与此同时，采取保护主义政策的各国政府正通过关税和补贴，向企业施压，要求其把制造业“回流”到本国。结果，许多大公司正在海外投入巨额资金建设额外的设施，比如台积电在亚利桑那州建设的芯片工厂，或中国新能源汽车巨头比亚迪在匈牙利的新建汽车工厂。"
+    },
+    {
+      "id": "p011",
+      "en": "Technological change and political meddling have resulted in a more uncertain business environment, and bosses are increasingly concluding that greater scale will offer greater safety—a fourth factor behind the investment frenzy. “In a lot of boardrooms I have heard that it is better to be bigger,” says Jake Henry of McKinsey, a consultancy. Investors appear to agree. The Economist looked at non-financial American firms in the Russell 3000 index and split them into quintiles by market value. In 2019 the median price-to-earnings ratio (a measure of how highly investors value a company’s profits) for the largest quintile was 18, compared with 14 for the lowest. Today those figures are 26 and 15, suggesting that the market is valuing the profits of big firms more richly than in the past (see chart 4). The overall result is unchanged when technology firms are excluded.",
+      "zh": "技术变革与政治干预共同造成了更加不确定的商业环境，企业高层越来越倾向于得出结论：规模更大意味着更安全——这也构成了投资狂热背后的第四个因素。麦肯锡顾问杰克·亨利表示：“在很多董事会里，我都听到‘变大更好’这句话。”投资者似乎也持同样看法。《经济学人》将罗素3000指数中美国非金融企业按市值分为五分位后进行比较。2019年，最大五分位的公司市盈率中位数为18，而最低五分位为14；如今这两个数字分别是26和15，显示市场对大公司利润的估值比过去更高（见图表4）。即使剔除科技公司，整体结果也没有变化。"
+    },
+    {
+      "id": "p012",
+      "en": "Companies’ race to scale also poses risks, however. Academics reckon that the chance of a big merger paying off is no different from that of a smaller one (that is, roughly 50-50). Yet the consequences can be catastrophic when things go wrong. Bain, another consultancy, calculates that in almost half of mega-mergers last year the target’s value was over 50% of the buyer’s market capitalisation. Vast amounts of debt are often required.",
+      "zh": "然而，企业追求规模的竞赛同样带来风险。学界认为，大型并购成功的概率与小型并购并无明显差异（也就是大约五五开）。但一旦出现失误，后果可能是灾难性的。另一家咨询公司贝恩公司计算显示，去年几乎一半的“特大型并购”中，被并购方的市值超过收购方市值的50%。此类交易往往需要动用大量债务。"
+    },
+    {
+      "id": "p013",
+      "en": "It is not only mega-mergers that are a cause for concern. Until recently the huge data-centre outlays by America’s hyperscalers were mostly paid for with cash generated by their other businesses. Now they are borrowing heavily, causing a surge in the ratio of their debt to their annual free cashflow. Amazon’s ratio has fallen from below that of the S&P 500 average in 2019 to more than four times the average today.",
+      "zh": "值得担忧的并不只是超级并购。直到最近，美国超级大型云服务企业（hyperscalers）的大规模数据中心投入支出大多仍由其其他业务产生的现金支付。现在它们开始大量举债，导致债务与年度自由现金流的比率大幅上升。亚马逊的这一比率从2019年时低于标普500指数的平均水平，已升至如今高出该平均值四倍以上。"
+    },
+    {
+      "id": "p014",
+      "en": "All this has ramifications for the wider economy. The top decile of listed firms by value now account for over three-quarters of total market capitalisation in America, the highest share in a century, according to Deutsche Bank. An increasingly top-heavy structure means that the failure of just one debt-laden corporate giant could cause significant disruption to financial markets.",
+      "zh": "这一切对更广泛的经济也有深远影响。德意志银行的数据显示，美国按市值排序的前10%上市公司，目前已经占据了全体市值的超过四分之三份额，创下百年来最高比例。结构越来越“头重脚轻”，意味着只要其中一家负债沉重的企业巨头倒下，就可能对金融市场造成显著冲击。"
+    },
+    {
+      "id": "p015",
+      "en": "Growing corporate concentration may also prove malign in other ways. Consumers, employees and small suppliers could be squeezed and governments unduly swayed by the many lobbyists employed by corporate colossi. That could further fuel the rise of populists on both sides of the political spectrum. According to Gallup, a pollster, the share of Americans who say they trust big business has fallen roughly by half since 2000, to 15%. Scale may confer many advantages, but public adoration will not be one of them. ■",
+      "zh": "日益集中的企业格局可能还会在其他方面带来负面影响。消费者、员工和小型供应商可能被挤压，而政府也可能在大公司雇佣的大量说客影响下偏离正常轨道。这样一来，可能进一步推动政治光谱两端民粹主义的上升。根据民调机构盖洛普的数据，自2000年以来，表示“信任大企业”的美国人比例大致已经下降了一半，降到15%。规模带来的确实有许多优势，但赢得公众崇拜绝不是其中之一。■"
+    },
+    {
+      "id": "p016",
+      "en": "To track the trends shaping commerce, industry and technology, sign up to “The Bottom Line”, our weekly subscriber-only newsletter on global business.",
+      "zh": "如果你想跟踪塑造商业、工业与技术的趋势，请订阅《The Bottom Line》——我们每周仅限订阅者阅读的全球商业通讯。"
+    }
+  ],
+  "translated_at": "2026-07-22T23:21:08+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "045-is-ai-writing-taking-over-westminster",
+  "source_href": "e978fe6b-cf43-46d4-87de-e33937f473fb.html",
+  "publication": "economist",
+  "issue": "2026-07-11",
+  "issue_published_at": "2026-07-11",
+  "article_published_at": "July 9th 2026",
+  "published_at": "July 9th 2026",
+  "published_date_source": "article",
+  "order": 45,
+  "section": "Britain",
+  "title_en": "Is AI writing taking over Westminster?",
+  "title_zh": "人工智能写作是否正在接管威斯敏斯特？",
+  "rubric_en": "Several influential policy papers are failing AI detectors",
+  "rubric_zh": "多份有影响力的政策文件未能通过AI检测",
+  "date": "July 9th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "What comes to mind, reading these sentences? “The challenge is not technical but political, requiring careful sequencing, clear communication, and sustained commitment.” Or: “Private ownership is not rewarding innovation but collecting a toll on Victorian infrastructure while deferring the investment required to keep it functional. The technology has not changed. The ownership has—and the ownership is the problem.”",
+      "zh": "读到这些句子，你首先会想到什么？“挑战不是技术问题，而是政治问题，需要谨慎排期、清晰沟通和持续投入。”或者：“私人所有权并没有激励创新，而是在掠取维多利亚时期基础设施上的“过路费”，同时推迟保持其运转所必需的投资。技术没有改变，所有权改变了——而问题就在所有权本身。”"
+    },
+    {
+      "id": "p002",
+      "en": "Boredom first, probably. Policy writing can be sandpaper-dry. But something else might stand out too, at least to anyone who often interacts with artificial-intelligence models like ChatGPT or Claude. Prose produced by those AI tools has a distinctive smell. One telltale whiff is a love of contrasts: “not technical but political”; “The technology has not changed. The ownership has”. Another is tricolons. Humans have long appreciated groups of three (Cicero studded his speeches with them), but AI’s enthusiasm is superhuman: “careful sequencing, clear communication, and sustained commitment”. And then there are the em-dashes—everywhere.",
+      "zh": "也许首先是“无聊”。政策文本本就常常像砂纸一样干涩。但也可能有别的地方引人注意，至少对经常接触ChatGPT、Claude等人工智能模型的人来说如此。这些AI工具生成的散文有一种独特的“气味”。一个明显特征就是偏爱三分对照：“不是技术问题而是政治问题”；“技术没有改变。所有权改变了”。另一个是三段式并列：人类长期以来都欣赏“三位一体式”表达（恺撒也常在演讲中使用），但AI的热情近乎超人：“谨慎排期、清晰沟通和持续投入”。然后还有那到处都是的破折号。"
+    },
+    {
+      "id": "p003",
+      "en": "Readers today can do better than guesswork and amateur stylometry, though. Over the past few years, AI detection technology has improved dramatically. These tools use similar machine-learning techniques to AI models. Pangram, a market leader, boasts of a 0.01% false-positive rate. A study by researchers at the University of Chicago found it had a “near-zero” error rate on longer texts.",
+      "zh": "如今读者比起猜测和业余风格鉴定可以做得更好。过去几年里，AI检测技术已显著进步。这些工具使用与AI模型相似的机器学习技术。市场领导者Pangram自诩其误报率仅为0.01%。芝加哥大学的研究人员在一项研究中发现，它在较长文本上的错误率“几乎为零”。"
+    },
+    {
+      "id": "p004",
+      "en": "Pangram flags each of the policy papers those quotes came from as being mostly written by AI. One was by Louise Haigh, an MP and close adviser to Andy Burnham, Britain’s prime-minister-in-waiting. The other was “The Productive State”, a manifesto of nearly 70 pages published by Mainstream, a Labour group linked to Mr Burnham; it offers a “Framework for Manchesterism”, Mr Burnham’s still-loosely-defined economic programme. Ms Haigh said, in a statement to the Telegraph, that AI was used for “version control”. Mainstream told The Economist that one co-author used Claude to “expose line-level differences and unify the voice of both authors’ independently drafted sections through copy editing”.",
+      "zh": "Pangram将那两段引文所在的两份政策文件都标记为“主要由AI撰写”。其中一份来自Louise Haigh，这位英国议员同时也是安迪·伯恩汉的亲密顾问，后者是备受瞩目的“总理待选人”。另一份是《高效国家》（The Productive State），这是一份由Mainstream发布的近70页宣言，Mainstream是与伯恩汉先生相关的工党团体；它提出了一个“曼彻斯特主义框架”，即伯恩汉尚未完全定稿的经济纲领。Haigh在给《每日电讯报》的声明中表示，AI仅用于“版本控制”。Mainstream则告诉《经济学人》，一位共同作者使用Claude“对逐行差异进行标注，并通过校对把两位作者各自起草的段落声音统一起来”。"
+    },
+    {
+      "id": "p005",
+      "en": "That raises two questions. Is this AI writing a problem? And why the links to Mr Burnham? Start with the first. Politics is full of prose not written by the apparent author: politicians have speechwriters, intellectuals employ research assistants. Perhaps AI is no different, even if the prose is clunkier. But people setting out ideas in politics are asking for something quite audacious: to reshape how a country is governed around what they think. Any writer knows how much putting words on a page can tighten one’s arguments. Even subcontracting that to an aide beats skipping the (sometimes painful) process entirely. AI certainly produces sloppy prose, but it also papers over sloppy thinking.",
+      "zh": "这引出了两个问题：AI 写作是个问题吗？为什么要提到伯纳姆先生？先从第一个问题说起。政治领域充满了并非由署名作者本人撰写的散文：政客有演讲稿撰稿人，知识分子雇有研究助理。也许 AI 也不例外，即使其文字更生硬。政治中的立场表达者其实是在做一件相当大胆的事：要围绕他们的理念重塑一个国家的治理方式。任何作家都知道，把想法写在纸上会让论点更清晰、更紧密。即便把这一步外包给助理，也比完全跳过（有时十分痛苦的）写作过程要好。AI 确实会产出粗糙的文字，但它也能掩盖粗糙的思考。"
+    },
+    {
+      "id": "p006",
+      "en": "Maybe that matters less if, as Ms Haigh and the “Productive State” authors say, AI is used only for a late polish. The trouble is that readers can detect whether AI wrote the final product, but not how authors used it. And when AI’s involvement is disclosed only after the press come knocking, trust takes some earning back.",
+      "zh": "也许正如海厄（Ms Haigh）和《高效国家》作者所说，如果 AI 仅用于最后的润色，那么这就不那么成问题了。问题在于，读者可以判断最终成文是否是 AI 写出来的，却无法判断作者实际如何使用了它。当 AI 的介入是在媒体上门追问之后才被公开时，公众信任就需要一段时间重新赢回。"
+    },
+    {
+      "id": "p007",
+      "en": "What about the potential Burnham factor? Mr Burnham’s coup was plotted slowly, but executed quickly. From the moment he won the Makerfield by-election, he was all but guaranteed to end up in Number 10. Yet he is still vague on many of the big questions facing Britain. That mismatch offers political entrepreneurs a chance to try to shape the wet clay of Burnhamism around their own priorities. The currency of ideas in Westminster is PDFs, ideally long ones. And when you need one quickly, who better to turn to than Claude?■",
+      "zh": "那伯纳姆因素的潜在影响又如何？伯纳姆先生的这次“政变”策划得很慢，却执行得很快。从他赢得迈克菲尔德补选那一刻起，他几乎注定会进驻10号公馆。然而在英国面临的诸多重大议题上，他仍然表达得含糊不清。这种错位让政治投机者有机会围绕自己的优先议题去塑造尚在成形中的“伯纳姆主义”。威斯敏斯特流通的思想货币是 PDF，理想状态下通常是篇幅较长的 PDF。当你需要一份文件很快完成时，还有谁比克劳德（Claude）更合适呢？■"
+    },
+    {
+      "id": "p008",
+      "en": "For more expert analysis of the biggest stories in Britain, sign up to Blighty, our weekly subscriber-only newsletter.",
+      "zh": "想获取更多关于英国重大事件的专家解析，请订阅《Blighty》——我们的每周付费订阅通讯。"
+    }
+  ],
+  "translated_at": "2026-07-22T23:15:31+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

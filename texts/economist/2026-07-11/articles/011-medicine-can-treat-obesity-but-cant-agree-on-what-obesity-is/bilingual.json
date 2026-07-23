@@ -1,0 +1,94 @@
+{
+  "id": "011-medicine-can-treat-obesity-but-cant-agree-on-what-obesity-is",
+  "source_href": "2316a4af-44c9-4b90-9216-bc3c30cad0b9.html",
+  "publication": "economist",
+  "issue": "2026-07-11",
+  "issue_published_at": "2026-07-11",
+  "article_published_at": "July 9th 2026",
+  "published_at": "July 9th 2026",
+  "published_date_source": "article",
+  "order": 11,
+  "section": "By Invitation",
+  "title_en": "Medicine can treat obesity, but can’t agree on what obesity is",
+  "title_zh": "医学可以治疗肥胖，但无法就“什么是肥胖”达成一致",
+  "rubric_en": "Labelling it a disease means millions will get treatment they may not need, writes Francesco Rubino",
+  "rubric_zh": "弗朗切斯科·鲁比诺指出，将肥胖贴上疾病标签，意味着数百万人会接受他们可能并不需要的治疗",
+  "date": "July 9th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "IN THE SPACE of less than a decade, medicine acquired a means of doing what millennia of diets and exhortation could not. A new class of drugs, GLP-1 receptor agonists, can strip a fifth or more from a patient’s body weight. This week Britain became the second large market, after America, to make one such treatment, Novo Nordisk’s Wegovy, available in tablet form as an alternative to injecting it.",
+      "zh": "不到十年间，医学终于获得了几千年饮食控制和劝诫都做不到的能力。一类新的药物——GLP-1 受体激动剂，能够让患者减掉五分之一甚至更多的体重。就在本周，英国成为美国之后的第二大市场，批准了诺和诺德的 Wegovy（沃格维）以片剂形式上市，作为注射给药的替代方案。"
+    },
+    {
+      "id": "p002",
+      "en": "This pharmacological leap builds on the proven safety and durability of metabolic surgery, expanding a therapeutic arsenal that can now reach millions. And yet, as it deploys these extraordinary tools, medicine cannot answer a more fundamental question: what, exactly, is it treating? Astonishingly, obesity still lacks a universally accepted clinical definition.",
+      "zh": "这种药物突破是在代谢外科已被证明安全且持久效果的基础上发展而来的，医学可用的治疗手段因此扩展到可以覆盖更多人群。然而，在运用这些非凡工具的同时，医学却无法回答一个更根本的问题：到底在治疗的是什么？令人震惊的是，肥胖至今仍缺乏一个被普遍接受的临床定义。"
+    },
+    {
+      "id": "p003",
+      "en": "A growing view is that obesity should be defined as a chronic, progressive, relapsing disease. But not all of the one billion people living with obesity are ill, and distinguishing those who are sick because of obesity from those who are not is precisely what medicine’s definitions and diagnoses are meant to do.",
+      "zh": "越来越多的观点认为，肥胖应被定义为一种慢性、进行性并伴有复发的疾病。但并非所有十亿名肥胖者都患病，如何区分“因肥胖而生病”与“并未因此生病”的人，正是医学定义和诊断本应完成的任务。"
+    },
+    {
+      "id": "p004",
+      "en": "Medicine leans on body-mass index (BMI), a number that reflects little beyond body size and population-level risk, while saying nothing about whether the patient is actually ill. Without a clinically meaningful definition, therapies cannot be deployed rationally. Doses, durations and intensities cannot be matched to need; financial cost cannot be matched to medical benefit. Health systems already straining under demand are being asked to fund treatment for up to a third of all adults in some countries, with no reliable basis for deciding who truly requires it, and at what cost.",
+      "zh": "医学目前依赖体重指数（BMI）作为依据，但它几乎只反映体型和人群层面的风险，并不说明患者是否真正患病。没有一个有临床意义的定义，治疗就无法被理性地应用。剂量、疗程和治疗强度无法按需匹配；财政支出也无法与真正的医疗获益对应。那些已在供需压力下紧张的医疗体系，被要求为部分国家中多达三分之一的成年人提供治疗，却没有可靠的依据判断谁真正需要治疗、又该付出多少代价。"
+    },
+    {
+      "id": "p005",
+      "en": "The roots of the muddle lie in the fact that obesity has never yielded a clean clinical identity, like diabetes or cancer. That is because at the bedside it has never behaved as a single thing. Even Hippocrates viewed it as a spectrum—a warning of future illness in some, an active malady in others. Because obesity lacked a consistent pattern, for most of medical history doctors sensibly declined to characterise it as a uniform condition.",
+      "zh": "这一混乱的根源在于，肥胖从未像糖尿病或癌症那样形成一个清晰的临床身份。这是因为在临床第一线，它从未表现为单一事物。即使是希波克拉底，也把它看作是一种连续谱：对有些人而言是未来疾病的预警，对另一些人而言则是一种正在发生的疾病。正因为肥胖缺乏一致的模式，在医学史上绝大多数时候医生理所当然地拒绝将其定义为一种统一的疾病。"
+    },
+    {
+      "id": "p006",
+      "en": "That intuition was discarded in the 20th century—and, tellingly, not by doctors. Armed with actuarial tables linking weight to early death, the life-insurance industry recast all obesity as a risk state. BMI, a 19th-century measure of people’s average size never meant for clinical use, was pressed into service to quantify that risk, and became the very definition of the condition.",
+      "zh": "这种直觉在20世纪被抛弃，而且值得注意的是，这一转变并非由医生推动。生命保险业带着基于体重与早亡风险之间关系的精算表，将所有肥胖都重新界定为一种风险状态。体质指数（BMI）——这一19世纪用来衡量人群平均体型、从未用于临床的指标——被拿来量化这种风险，并因此成为了该状态的直接定义。"
+    },
+    {
+      "id": "p007",
+      "en": "Obesity came to be defined not by its direct toll—starving the lungs, straining the heart, wearing the joints—but by the other diseases it keeps company with. Yet in medicine a disease is defined by the damage it actually causes, not its statistical associations. This inversion of medical logic has had practical consequences. For decades, people whose excess weight was itself choking their breathing, burdening their hearts or crippling their mobility were refused treatment if they lacked the “right” comorbidity, because obesity was conceived as a risk, not a disease. No diabetes, no therapy. Active disease went unseen because the diagnostic apparatus could not see it.",
+      "zh": "肥胖后来被定义的不是它本身的直接危害——比如窒息肺部、加重心脏负担、磨损关节——而是它通常伴随的其他疾病。然而在医学上，疾病是按其实际造成的损害来定义的，而不是按统计关联来定义。医学逻辑的这种倒置产生了实际后果。数十年来，那些因过重而本身使呼吸受阻、心脏负担过重或活动能力受损的人，若缺乏“正确”的并存疾病，就会被拒绝治疗，因为肥胖被当作一种风险而非一种疾病。没有糖尿病，就没有治疗。真正处于活动性病变中的患者被忽视了，因为诊断体系看不见它。"
+    },
+    {
+      "id": "p008",
+      "en": "The current push to call obesity a disease is largely an effort to right this wrong. But the pendulum now threatens to swing to the opposite, equally implausible extreme. Population-level risks of obesity apply unevenly across individuals: many never develop adverse outcomes, even over decades. Declare obesity always a risk, as we did for much of the 20th century, and the genuinely sick are abandoned. Declare it always a disease, as a growing narrative now implies, and millions are marked ill for conditions they do not have and exposed to treatments they may not need.",
+      "zh": "当下将肥胖定性为疾病的推动，主要是在纠正这一错误。但摆锤又可能向另一个同样站不住脚的极端摆过去。肥胖的群体层面风险在个体间分布并不均匀：许多人即便在几十年里也始终没有出现不良结局。若像20世纪大部分时期那样始终把肥胖当作风险，会让真正患病的人被抛下；而若像如今不断扩大的叙事那样始终把它当作疾病，则会把数百万人标记为患病，尽管他们并未出现相应病况，并暴露于可能并不需要的治疗之下。"
+    },
+    {
+      "id": "p009",
+      "en": "GLP-1 drugs are strikingly safe, yet carry side-effects such as muscle loss and, rarely, pancreatitis; metabolic surgery’s mortality can be as low as 0.1%, with serious complications in only 1-4% of patients. Even risks this small are disproportionate when the patient has little to gain.",
+      "zh": "GLP-1 类药物的安全性非常高，但仍有副作用，如肌肉流失，而且偶有胰腺炎；代谢手术的死亡率低至0.1%，仅有1%到4%的患者出现严重并发症。即便风险如此之小，一旦患者几乎没有可获益空间，这些风险也就显得明显不成比例。"
+    },
+    {
+      "id": "p010",
+      "en": "Last year, a Lancet commission of 56 experts, which I chaired, proposed a way out. It distinguished clinical obesity, a disease state where excess fat directly causes demonstrable organ dysfunction or impairs daily life, from pre-clinical obesity, a risk state in which organ function is preserved. This is how the rest of medicine works. A polyp is not cancer; prediabetes is not diabetes; high blood pressure is not heart disease. Such boundaries exist not to ration care but to make it proportionate: clinical obesity warrants disease-level treatment; pre-clinical obesity still warrants attention—lifestyle change, drugs, sometimes surgery—but at a dose and intensity calibrated to a risk, not to an established illness.",
+      "zh": "去年，我主持的一项由56名专家组成的《柳叶刀》委员会提出了一种解决方案。该方案区分了“临床性肥胖”与“前临床性肥胖”：前者是疾病状态，过量脂肪直接导致可证实的器官功能障碍或损害日常生活；后者是风险状态，器官功能尚未受损。其他领域的医学正是这样运作的。息肉不是癌症；前糖尿病不是糖尿病；高血压不是心脏病。这样划线的目的不是为了限制治疗，而是为了使治疗更具比例性：临床性肥胖需要病理级别的治疗；前临床性肥胖同样需要关注——包括生活方式干预、药物，有时还包括手术——但治疗剂量与强度应按“风险”来校准，而不是按既定疾病来确定。"
+    },
+    {
+      "id": "p011",
+      "en": "The framework now carries the endorsement of 76 medical organisations, but also its share of criticism. The fear is that defining pre-clinical obesity as a risk state will hand insurers an excuse to withhold cover. The concern rests on a false premise: that medicine and insurance treat only disease and ignore risk. They do no such thing. Statins for high cholesterol, drugs for high blood pressure and pre-emptive surgery for inherited cancer risk are all routinely funded.",
+      "zh": "这一框架现已得到76个医疗机构的认可，但也面临不少批评。人们担心，将前临床性肥胖界定为风险状态，会让保险公司以此为借口拒绝报销。这个担忧基于一个错误前提：认为医学和保险只治疗“疾病”而忽视“风险”。事实并非如此。降胆固醇用他汀类药物、降血压药物、以及针对遗传性癌症风险进行的预防性手术，都是常规有保障的。"
+    },
+    {
+      "id": "p012",
+      "en": "Even drugmakers, who may be assumed to favour the broadest possible definition, stand to lose from a uniform-disease label. Developing metabolic therapies takes vast capital and precise, defensible indications. A world in which all obesity is a disease, yet many patients will never suffer the harms the drugs are designed to avert, is one in which the cost-effectiveness case collapses. Separating clinical from pre-clinical obesity lets dose, duration and price track the patient’s actual state—the only basis on which such investment earns sustainable returns, clinical and commercial alike.",
+      "zh": "即使是被认为会支持最宽泛定义的制药公司，也会因统一的“肥胖即疾病”标签而受损。代谢治疗的开发需要巨额资本和准确、可辩护的适应证。在这样一个世界里，所有肥胖都被视作疾病，但许多患者实际上永远不会遭受这些药物意在预防的危害，那么其成本效益论证就会崩溃。将临床性与前临床性肥胖分开，才能让剂量、疗程和定价与患者的实际状态匹配——这也是这种投入无论在临床上还是商业上都能持续获得合理回报的唯一基础。"
+    },
+    {
+      "id": "p013",
+      "en": "To those who spent decades fighting merely to have obesity taken seriously, a framework that declines to call every case a disease can feel like retreat. It is the opposite: the diagnostic discipline that aligns obesity, at last, with the rest of medicine. ■",
+      "zh": "对于那些花了几十年才让社会认真对待肥胖问题的人来说，那种拒绝把每一种情况都称为“疾病”的框架，可能会被视为一种退却。恰恰相反，这是一种将肥胖最终与医学其他领域接轨的诊断规范。■"
+    },
+    {
+      "id": "p014",
+      "en": "Francesco Rubino is a professor of metabolic surgery at King’s College London. He chaired a Lancet commission on clinical obesity.",
+      "zh": "弗朗切斯科·鲁比诺（Francesco Rubino）是伦敦国王学院的代谢外科教授，曾主持《柳叶刀》的一项临床肥胖委员会。"
+    }
+  ],
+  "translated_at": "2026-07-22T23:03:00+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

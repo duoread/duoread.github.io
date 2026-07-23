@@ -1,0 +1,33 @@
+# The real value of the Bayeux tapestry
+
+Section: Culture
+Date: July 9th 2026
+Rubric: The precious work, insured for $1bn, is bound for Britain. It’s more famous there than in France
+
+In the dark of night in July, under police escort, a specially fitted lorry carrying a thousand-year-old tapestry will leave the town of Bayeux in Normandy. The fragile linen fabric depicting the Norman conquest of England in 1066 will be gently folded into a tailor-made and climate-regulated aluminium crate. That crate will then be suspended inside a metal cage, protected from vibration by 12 steel shock-absorbers. The convoy and its precious cargo—which was embroidered in England but has been in France ever since—will travel by road to the Channel Tunnel, and on to the British Museum in London.
+
+The loan of the Bayeux tapestry, for an exhibition opening in September, is a gesture rich in cross-Channel symbolism. In the past London museums have tried but failed to host the work. In 1953, for instance, the V&A asked to display the tapestry to mark the coronation of Queen Elizabeth II, only to be told that the French authorities had changed their minds. The News Chronicle in London reported that the French embassy could not give a reason: “I am sorry, monsieur. We are lost. First it is yes, no, then yes, then no…and now we are in the dark.”
+
+This time the French government, which owns the tapestry, proposed the idea. At a Franco-British summit in 2018 President Emmanuel Macron announced the loan, declaring that the tapestry “embodies the link between our two countries”. It was two years after the Brexit vote, and the two nations were drifting apart; the point, says a presidential aide, was to try to bind them through culture.
+
+That was easier said than done. The bilateral discussions “took more years” than Brexit, joked Mr Macron. British ministers, officials and even the king lobbied the French hard. Mr Macron, says one official involved, was “instrumental” in taking on his country’s conservation lobby—who worried about damage to the tapestry—a formidable force even for a powerful French president. New climate-control and anti-vibration technology, and the fact that the museum in Bayeux was closing for renovations anyway, also helped.
+
+By last year the deal was done. In private, he describes the loan as “very special” to him. “President Macron’s key intuition”, says Peter Ricketts, the British envoy to the loan project, “was the differential impact: the tapestry is far more iconic in the UK than in France, and he knew that the exhibition would be a sensation.”
+
+The Bayeux tapestry is central to Britain’s national story. Most schoolchildren can recite the date 1066, just as French ones can 1789. The Battle of Hastings, when William of Normandy defeated Harold II, the last Anglo-Saxon king of England, and seized the throne, was a founding moment for Britain, remaking its governance, monarchy, legal system, language, architecture and much more. British tourists (along with North Americans) have long topped the list of foreign visitors to the Bayeux Museum, where the tapestry has been displayed since 1983.
+
+The Norman conquest does not feature strongly in most French people’s minds. William’s glorious triumph over Harold scarcely gets a mention in school textbooks. Almost no university department studies him besides the University of Caen in Normandy, not far from Bayeux.
+
+“He’s a Norman hero, not a French one,” explains Véronique Gazeau, a medieval historian at the university. Although as a young duke William was a vassal of the French king, his belligerent adventures later brought him into conflict with the Capetian dynasty centred in Paris. In this sense, William was not a French conqueror but a Norman one.
+
+At times, though, imperialists sought to use William’s exploits to support their expansionist ambitions. In 1803 Napoleon had the tapestry transported to the Louvre for public display when he was preparing his troops to invade England. During the second world war the Germans asked after it, though the French had already hurried it into safekeeping. (It was rolled onto two cylinders, stored in the cellar of the Bayeux municipal library, and later transported to the French National Museums repository at the Château de Sourches, near Le Mans.) Jacques Dupont, inspector general of historic monuments, observed in 1941 that the Germans “frequently asked…to see the tapestry that represents the conquest of England”.
+
+Top of mind for the French or not, the prospect of loaning it has nonetheless prompted some pushback. In 2018 Antoine Verney, the chief curator at the Bayeux Museum, called it “unthinkable” to move the tapestry far from its home. Last year over 70,000 people signed a petition against the loan. Critics have suggested that moving it may cause micro-tears to the fabric and snags to the embroidery and stitching; in the worst case the fabric could rip and more holes could develop. (There are already many.)
+
+Since then experts in the transport, storage and display of fragile art from both sides of the Channel have worked on optimum protection. Two dry runs to London have taken place with a dummy. But some critical voices in France remain unconvinced. “They are doing their best to ensure that everything goes smoothly, but there is no guarantee,” says Didier Rykner, founder of La Tribune de l’Art, a magazine. “I’ve got nothing against the English, but they could just come to Bayeux.”
+
+“Zero risk does not exist,” acknowledges Delphine Christophe, head of heritage and architecture at the Ministry of Culture, “but we are now extremely confident.” Tests show that the custom-made casing for transport will absorb 96% of the force of shocks, a level she describes as “excellent”. The tapestry, which will be displayed flat at the British Museum to limit the pressure on the fabric, is insured for a staggering £800m ($1bn) under the British government’s indemnity scheme. “It’s the best guarantee that we will look after it,” says Lord Ricketts.
+
+As the tapestry wends its way to the land that William conquered, some will call it a cheeky nod to defeat and humiliation by the French, with whom the British have a long and rivalrous history. But the ambition may also be about winning the hearts and minds of people in France. “When the French see how hugely valued it is over there,” says an official in Paris, “it will give it a huge boost when it returns home.” Yet another victory. ■
+
+For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist, our weekly subscriber-only newsletter

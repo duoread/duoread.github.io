@@ -1,0 +1,64 @@
+{
+  "id": "066-a-statisticians-guide-to-wimbledon",
+  "source_href": "02e7a02a-90c6-4710-8d2a-a06ec1f80b5f.html",
+  "publication": "economist",
+  "issue": "2026-07-11",
+  "issue_published_at": "2026-07-11",
+  "article_published_at": "July 9th 2026",
+  "published_at": "July 9th 2026",
+  "published_date_source": "article",
+  "order": 66,
+  "section": "Science & technology",
+  "title_en": "A statistician’s guide to Wimbledon",
+  "title_zh": "一位统计学家眼中的温网",
+  "rubric_en": "How to turn a tiny advantage into sporting glory",
+  "rubric_zh": "如何把微小优势转化为体育荣耀",
+  "date": "July 9th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "ROGER FEDERER won 20 major tournaments during his career. Wimbledon, which started this year on June 29th, was his happiest hunting ground: he won eight times, a men’s record. Yet as Mr Federer himself has noted, he won only slightly more than half of the thousands of points he played during his career.",
+      "zh": "罗杰·费德勒在职业生涯中赢得了20个大满贯赛事。温网今年于6月29日开赛，是他最有利可图的赛场之一：他共赢得了八次冠军，创造了男子纪录。然而，正如费德勒先生本人所说，在他职业生涯中，他赢得的分数仅比失败多一点点——仅略高于一半。"
+    },
+    {
+      "id": "p002",
+      "en": "This year Mr Federer, who retired in 2022, has been watching Wimbledon from the crowd. But those less familiar with the game than he is may wonder how he—or the current crop of top players—manage to convert such a narrow advantage into a winning record.",
+      "zh": "今年，已于2022年退役的费德勒先生正在看台上观看温网。但对于不如他熟悉这项运动的人来说，可能会好奇，他本人，或者当前这一批顶级球员，究竟如何能把如此微小的优势转化为持续的胜率优势。"
+    },
+    {
+      "id": "p003",
+      "en": "Much of the answer lies in tennis’s scoring system. Stringing points into games, games into sets, and sets into a match gives plenty of time for a small advantage to compound into a convincing win. Analysis by The Economist of data from major tournaments between 2014 and 2025 shows that, in the men’s game, a player that is just 1% more likely to win the average point is 12.5% more likely to win the match. For women, the figure is about 10.5%.",
+      "zh": "答案很大一部分在于网球的计分制度。分数串联成局（game）、局串联成盘（set）、盘串联成比赛，这种结构为小小的优势提供了足够多的阶段去累积，最终形成一场看似压倒性的胜利。《经济学人》对2014年至2025年大满贯赛事数据的分析显示，在男子比赛中，一个球员若平均每分有1%的额外获胜概率，其赢得整场比赛的概率要高12.5%。而在女子比赛中，这一数字约为10.5%。"
+    },
+    {
+      "id": "p004",
+      "en": "But there are quirks. One is the serve: a player is more likely to win a point when serving. Wimbledon’s fast grass courts enhance the advantage, reducing the returns to non-serve skills by around 2.5% compared with other surfaces. Another oddity arises from the fact that men play up to five sets, while a women’s match is capped at three. Our analysis suggests this reduces the returns to skill in the women’s game by 25% compared to the men’s—which makes Martina Navratilova’s nine Wimbledon trophies look even more impressive.",
+      "zh": "但也有一些怪异之处。一是发球：在发球一方，球员更可能赢下这一分。温网快速草地球场进一步放大了这种优势，使得对接发球之外技巧的回报相比其他场地下降约2.5%。另一种怪异来自于比赛场次的差异：男子比赛可打满五盘，而女子比赛最多三盘。我们的分析显示，这使得女子比赛中对技术能力的回报相比男子比赛下降了25%，也让玛蒂娜·纳芙拉蒂洛娃（Martina Navratilova）的九次温网冠军看起来更为惊人。"
+    },
+    {
+      "id": "p005",
+      "en": "Tennis enthusiasts have suggested more efficient ways of doing things. In 1992, Graham Pollard, a statistician then at the University of Canberra, suggested replacing the current game-set-match structure with what would be essentially a pair of tie-breaks. Players would alternate serve until one managed to pull ahead by a certain number of points (in existing tie-breaks a two-point lead is enough to win, but a higher number would reduce the effect of luck). If one player wins both games, he is the victor; if not a new pair is played. Dr Pollard reckoned his scheme could identify the better player in half the time of a typical match.",
+      "zh": "网球爱好者曾提出过更高效的比赛方式。1992年，时任堪培拉大学的统计学家Graham Pollard曾建议，把现在的“局-盘-赛”结构改成实质上由两局抢七组成的形式。球员轮流发球，直到其中一方领先若干分（在现有抢七中，领先2分就能取胜，但提高领先分数可以削弱运气因素）。若一名球员赢得两局，他就成为胜者；若没赢，则再打一对新的抢七。Pollard博士估计，这一方案可在典型比赛时长的一半内判断出更强的球员。"
+    },
+    {
+      "id": "p006",
+      "en": "Since many fans enjoy tennis for its own sake, that might not be a popular selling point (it would also leave broadcasters with a lot of dead air to fill). So how can a player make the most of a slim edge under the current rules?",
+      "zh": "由于许多球迷纯粹因为热爱网球而观看比赛，这个理由未必容易成为吸引人的卖点（而且也会让转播方有大量“空档时间”需要填充）。那么在现行规则下，球员如何才能把一点点优势发挥到极致？"
+    },
+    {
+      "id": "p007",
+      "en": "Being able to rise to the occasion is one important ability. A paper published in 2001 by Franc Klaassen and Jan Magnus, a pair of economists, found that serves at Wimbledon lose some of their power on break points. The serving player is 0.8% less likely than usual to win any break point, and 4.6% less likely when the score is 5-5 in the final set. Some players keep their heads better than others. A 2012 study by Julio González-Díaz, a statistician, and his colleagues found that only about half of the top 25 players by ranking were also in the top 25 for this critical ability. Mr Federer was one. As his fans have always known, part of the recipe for his success was his grace under pressure. ■",
+      "zh": "在关键时刻挺身而出是非常重要的一项能力。2001年，经济学家Franc Klaassen和Jan Magnus发表的一篇论文发现，温网比赛中的发球在破发点时会失去一些威力。发球方在任何破发点上赢球的概率，比平常低0.8%，在决胜盘5比5时则低4.6%。有些球员比其他人更能稳住心态。2012年，统计学家Julio González-Díaz及其同事的一项研究发现，在ATP排行榜前25位球员中，只有大约一半也在这项关键能力的前25位中。费德勒就是其中之一。正如他的球迷早就知道的那样，他成功的秘诀之一，是在压力下的优雅表现。■"
+    },
+    {
+      "id": "p008",
+      "en": "Curious about the world? To enjoy our mind-expanding science coverage, sign up to Simply Science, our weekly subscriber-only newsletter.",
+      "zh": "想了解这个世界的更多内容？要想尽享我们开阔思维的科学报道，请订阅Simply Science——我们每周的会员通讯。"
+    }
+  ],
+  "translated_at": "2026-07-22T23:26:16+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

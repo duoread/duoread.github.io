@@ -1,0 +1,34 @@
+{
+  "id": "028-china-releases-a-prominent-christian-pastor",
+  "source_href": "49ace9bc-a240-4a10-9db3-aa6e0132d552.html",
+  "publication": "economist",
+  "issue": "2026-07-11",
+  "issue_published_at": "2026-07-11",
+  "article_published_at": "July 9th 2026",
+  "published_at": "July 9th 2026",
+  "published_date_source": "article",
+  "order": 28,
+  "section": "China",
+  "title_en": "China releases a prominent Christian pastor",
+  "title_zh": "中国释放一位知名基督教牧师",
+  "rubric_en": "Jin Mingri formerly ran a large house church in Beijing",
+  "rubric_zh": "金明锐曾在北京管理一个大型家庭教会",
+  "date": "July 9th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "One of China’s most influential Christians has been released from detention and has flown to America. Jin Mingri, known as Ezra Jin, was detained in October in a crackdown on religious activity. He was the pastor of Zion church in Beijing, one of China’s biggest house churches. When authorities shut it down in 2018, he moved services online, broadening its reach. Donald Trump raised his case with Xi Jinping in May. He also spoke about Jimmy Lai, a pro-democracy tycoon serving 20 years in a Hong Kong jail for “conspiracy to collude with foreign forces”. Mr Xi reportedly told him that Mr Lai’s case was “a tough one”. Other pastors from Zion church remain locked up. ■",
+      "zh": "中国最具影响力的基督徒之一已从拘留中获释，并已飞往美国。金明日（外文名 Ezra Jin）于今年10月在一次对宗教活动的打压中被拘留。他是北京锡安教会的牧师，这是中国最大的家庭教会之一。2018年当局关闭该教会后，他将聚会搬到了线上，扩大了其覆盖范围。唐纳德·特朗普今年5月在会见习近平时就他的情况提出了诉求，并且还谈到了香港民主派企业家李辉铭在香港监狱服刑20年一事，罪名为“与外国势力勾结的共谋”。据报道，习近平告诉他，李辉铭的案子“很棘手”。锡安教会的其他牧师仍被关押。■"
+    },
+    {
+      "id": "p002",
+      "en": "Subscribers can sign up to Drum Tower, our new weekly newsletter, to understand what the world makes of China—and what China makes of the world.",
+      "zh": "订阅者可注册我们每周新推出的《鼓楼》通讯，了解世界如何看待中国，以及中国如何看待世界。"
+    }
+  ],
+  "translated_at": "2026-07-22T23:09:06+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

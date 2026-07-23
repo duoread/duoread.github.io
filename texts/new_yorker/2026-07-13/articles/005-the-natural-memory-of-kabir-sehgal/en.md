@@ -1,0 +1,25 @@
+# The Natural Memory of Kabir Sehgal
+
+Section: The Talk of the Town
+
+Semiquincentennial Dept.
+
+The Natural Memory of Kabir Sehgal
+
+For his new album, “Stars and Static 2026,” the fourteen-time Grammy winner recorded sounds from across the country. Did it change how he thinks about America?
+
+Illustration by João Fazenda
+
+If Spotify playlists have taught us anything, it’s the utility of lo-fi beats. They’re the perfect companion for studying, focussing, and chilling. But contemplating civics? Kabir Sehgal thinks so. Sehgal is a fourteen-time Grammy-winning producer and jazz musician, whose new album, “Stars and Static 2026,” mixes noodly, restrained takes on patriotic staples with natural sounds recorded in American locales (“yankee newport doodlin’,” “this is my little rock sunset”). “I call it ‘geo-fi,’ ” Sehgal said the other afternoon, at the East Coast Memorial, in Battery Park. “When you name a place, there’s a provenance. I wanted to see if lo-fi could be a place of natural memory, to have that conversation of what it means to be American.”
+
+Sehgal, who is tall and younger-looking than his forty-one years, is less a multi-hyphenate than a vocational run-on—not only a musician and producer but also a former finance executive who is a Navy reservist and an author of books about jazz and currency, and the co-author of celebrities’ books (with John Lewis and Deepak Chopra) and children’s picture books (with his mother, Surishtha). “I call it a ‘portfolio career,’ ” he said. About a decade ago, he would frequent the East Coast Memorial while working at a finance firm. (He later worked at JPMorgan, in whose office he was sworn in to the military. Wynton Marsalis, a mentor, attended.) Sehgal, who wore a jacket and a quarter zip, took in the monument’s massive granite pylons, inscribed with the names and ranks of the more than four thousand Americans who never returned from the Atlantic during the Second World War. Jackhammers carried on nearby.
+
+“This would have been a great place to do a field recording,” Sehgal said. “What better way to say we’re a work in progress?” He gestured southward, noting that there would typically be a beautiful view of the Statue of Liberty. It was blocked by a construction wall, which extended toward a building labelled “U.S. Department of Homeland Security.”
+
+A few years ago, after a long series of musical collaborations, including several guided meditations with Lil Jon and a spoken-word album with the Dalai Lama, Sehgal found himself drawn to the D.I.Y. simplicity of lo-fi experimentation. At the same time, he’d had his eye on America’s Semiquincentennial, and had taken to using a two-pronged Sony field recorder to capture his sonic surroundings during his domestic travels. Pedalling through the South Carolina Lowcountry on his bike became percussion under “Battle Hymn of the Republic.” Chatter at a festival in Atlanta, his home town, formed interstices in “America the Beautiful.” (There was one overseas inclusion: the bustle of Naples, where Sehgal was once stationed at a U.S. naval command, is layered into the Naval Academy fight song, “Anchors Aweigh.”) Sehgal stripped the familiar tunes of key elements, hoping that listeners would fill the negative space. “This entire project is melody by implication,” he explained. He also slowed them considerably, to induce a meditative effect. “These aren’t, like, brisk marches,” he said. “This is less fireworks, more reflecting pools.”
+
+At the memorial, Sehgal walked past a swooping bronze eagle sculpted by the Italian-born medallist Albino Manca and dedicated by President John F. Kennedy six months before his death. Gulls shrieked. Cuban music boomed from a speaker on a bench. “If you were to do a song of downtown New York, what is it?” Sehgal asked. “The rhythm of the song would be clave.” Perhaps, he suggested, it could be peppered with the solicitations of red-jacketed tourist-ferry barkers. “You don’t have to do much more than that,” he said. He strolled toward Bridge Street, where a stars-and-stripes cement mixer whirred and beeped. “Those always remind me of ‘Die Hard,’ ” he said.
+
+Two blocks later, he stopped in at Fraunces Tavern, the former revolutionary hub where a victorious George Washington bid farewell to his officers. Sehgal ordered an iced tea and took a barstool. Aside from indistinct public patter, only one voice is featured on his album: that of John Lewis, the late Georgia congressman. In 2017, Sehgal was part of a group that accompanied Lewis on a trip to Selma. “We were having breakfast in a hotel lobby, and I was, like, ‘Do you think I can record you?’ ” Sehgal said. He set up a wall of ballroom chairs to muffle the nearby kitchen noise and had Lewis read President Barack Obama’s recent remarks at the Edmund Pettus Bridge. For the album, he laid the track over the chord progression of “We Shall Overcome.”
+
+Sehgal sipped his drink. He said he hoped that people would not only “check out the record but, like”—he mimed popping out earbuds—“listen to your surroundings. Wouldn’t that be a lesson for democracy? Listen to people.” ♦

@@ -1,0 +1,124 @@
+# How KPop Demon Hunters Star EJAE Topped the Charts
+
+Section: Manisha Krishnan
+Date: Oct 30, 2025 6:00 AM
+
+EJAE, the voice and the writing talent behind “Golden,” has gone platinum.
+
+The night before our interview, the 33-year-old singer-songwriter found out that record sales from the KPop Demon Hunters soundtrack had surged past a million units. Jimmy Fallon, of all people, delivered the news alongside a glimmering framed record when she was appearing on The Tonight Show with Audrey Nuna and Rei Ami for the first full live performance of “Golden.” Together the trio make up the singing voices of girl group Huntr/x in Netflix’s animated musical turned bona fide phenomenon. If you have a kid, you probably don’t need a refresher, but the movie follows Huntr/x’s Rumi, Mira, and Zoey as they juggle being astronomically famous while moonlighting as demon hunters (EJAE sings as the purple-haired Rumi). Their singing voices double as their weapons, shielding their fans from the soul-sucking minions of underworld ruler Gwi-Ma.
+
+That Fallon appearance, and the Saturday Night Live appearance that predated it, might have been the first times that American audiences actually saw (and heard) the human being behind that inescapable song. The adventure fantasy—the directorial debut of Korean-Canadian filmmaker Maggie Kang, who codirected it with Chris Appelhans—is Netflix’s most popular film of all time, with over 400 million views. When Netflix released a sing-along version in theaters, it brought in nearly $20 million, dominating the box office. The soundtrack is one of the highest charting of the year, with more than 7 billion streams. “Golden,” which EJAE partially came up with on a cab ride to the dentist, was number 1 on Billboard’s Hot 100 for eight weeks (as of this writing, it’s only bested by Taylor Swift but remains in the top 10). The promotional tour for the film, which debuted in June, seems to have never ended.
+
+Five-foot-nine and wearing heels, EJAE towers over me when we meet at Netflix’s Manhattan offices. She’s wearing her hair in three braids, reminiscent of Rumi’s iconic hairstyle. Despite looking every bit the part of a K-pop star, EJAE doesn’t consider herself famous. Nor does she particularly want to be, which is somewhat unexpected, considering she was a trainee at famed K-pop label SM Entertainment for more than a decade.
+
+Not unlike American boy-band-forming talent machines of the ’90s, K-pop trainee programs start teaching future stars as children. Trainees keep intense schedules, where they sing, dance, rap, and manage their physical appearances and personas in the hopes of debuting into a K-pop group and becoming an idol. For EJAE, that moment never came. She was passed over time and time again until she was dropped by the label at 23, which she describes as “grandma age for the K-pop industry.” Her voice and her personality, she felt, were better suited for the behind-the-scenes role of songwriting. A decade on, she’s been thrust into the limelight in perhaps the most meta way imaginable—as the voice of a K-pop star that people can’t seem to get enough of. (She has also just released a single of her own music.) She tells WIRED how she’s navigating her newfound success, what it’s like being in the grueling K-pop machine, and the key to writing an absolute banger.
+
+This interview has been edited and condensed for clarity.
+
+MANISHA KRISHNAN: How’s it going? Were you just doing a photo shoot upstairs?
+
+EJAE: Oh yeah. I’ve been doing a lot. We’ve been up since like 5 am.
+
+You must be so tired.
+
+I’m so tired. Fallon yesterday and SNL.
+
+I was getting my nails done yesterday and “Golden” came on. It’s been on the Billboard Hot 100 for weeks. What’s it like knowing that every kid in America knows the words to your song?
+
+Oh my God, it’s like a dream come true as a songwriter. Kids are so blunt—so the fact that they love it, it’s like, I feel real proud of myself.
+
+The toughest demographic.
+
+It is hard to get kids’ stamp of approval, so I feel like a cool person.
+
+The movie came out in June. It’s become Netflix’s most-watched project. There’s Oscar buzz. You’ve been doing the late-night circuit. What has been the most dramatic part of all of this for you?
+
+They’re all quite dramatic and crazy and so surreal. But yeah, I mean obviously SNL and Fallon were just definitely peak, especially Fallon, because he gave us the plaque, the platinum plaque.
+
+He really surprised us. I was genuinely so stunned. We were all crying.
+
+When you were on SNL, were you nervous to sing?
+
+I’m always nervous to sing. I’m nervous in the studio to sing, so the fact that I’m performing it is a huge jump for me. My comfort zone and usually where I feel the best singing is my own little corner in my house in Brooklyn.
+
+What is your relationship with fame right now? Do you consider yourself famous?
+
+No. I consider the song famous, which I love. Fame is a tricky thing. I was a K-pop trainee myself, and my grandpa’s an actor, so I’ve seen fame from different angles, and it’s very beautiful in the front, but it can get very, very dark. I feel like fame is definitely not for the faint of heart, and so I’m trying to navigate through it.
+
+I was a trainee and then I got dropped and I wasn’t singing. But to be honest, that was an intentional choice. I was like, being an artist and a singer doesn’t fit my personality. I kind of let that go. So suddenly getting all this attention is very new. I can’t quite say it’s natural for me. I love being behind the scenes. But I’m trying to get used to it. I don’t know if I should get used to it, but yeah, it’s very fascinating, and I’m always grateful.
+
+In light of everything that’s going on right now, have you sort of changed your mind about whether or not you want to be a performing artist?
+
+Songwriting has always been my therapy, and it’s kind of where I get away from everything. So I’m like, maybe I can combine that, and maybe being a songwriter is my artistry. As an artist, I don’t really want to have my personal things be in the lyrics. I want the lyrics and the songs to be quite universal for everyone to connect to, like how “Golden” did. So I kind of want my songs to be pop stars, not necessarily me.
+
+Can you tell me a little bit of the story of “Golden,” and did you know it was going to be a hit right off the bat?
+
+I mean, in our little circle, yes, it was a hit but definitely not this caliber at all. The melody came quite instantly. It was on my way to the dentist.
+
+Getting a gold filling, by the way. So the melody came really fast, but when we finished it, I had this session with Mark [Sonnenblick], my cowriter, right after, and Mark was so excited. I was like, “I have this melody.” He heard it and was like, “Oh my God, this is amazing.” So when we finished the whole song and the lyrics, we just looked at ourselves and we’re like, “Wow, I think this is a smash.”
+
+Is there a formula to making a K-pop hit or an algorithm to it, or is it just different every time?
+
+For a K-pop hit, a US hit, and a global hit, it’s all quite different. I think for a K-pop hit, being hooky is definitely important. Global hit, I’ve noticed, is a concept that everyone can say—everyone knows what “Golden” means. Everyone has a feeling of wanting hope in their life, especially right now at this time. In the US that’s also important too. So I think universally, when the concept is really good and it’s easy to say, and when there’s a good melody and a great message, you have a hit.
+
+Do you think the intense political atmosphere right now is part of why this movie and this song have taken off?
+
+I think so. A friend of mine told me that his friend has kids, and KPop Demon Hunters is bringing light to their kid that they can hold onto and just kind of focus on that and kind of ignore the dark times right now. It brings them hope. It has a really beautiful message, makes them want to love all of themselves, all their flaws and all their good parts too.
+
+I want to go back to you being a trainee for SM Entertainment. How old were you when that happened? Can you tell me a little bit about that world?
+
+I had a dream of wanting to become a singer when I was 3, 4, and then I started auditioning around 10 or 11. I got in and started training quite immediately. You learn how to dance, sing, jazz dance, rap, Chinese, Japanese, the whole thing. All day, literally. So if we have school, right after school we go immediately to train. Every couple months there would be a showcase of what you’ve learned. Every Monday, all the trainees would join in one room, and we would go in front of the camera and sing and do our dance moves. It’s like a weekly checkup. So that was quite something, and we would have to weigh ourselves every week too. So it was intense. I’m not going to lie.
+
+What was the criticism like? Was it harsh? How do you cope with that at a young age?
+
+Damn, I don’t think I knew what coping meant at that age. We just take it literally, especially when you’re 11, when you’re going through puberty is when girls are so sensitive. I feel like when we’re teenagers, we are very sensitive to a lot of things. It wasn’t easy. It’s very competitive, and you’re kind of trying to do this job that’s essentially an adult job, you know what I mean? All I could do was work hard and always try to put my best foot forward. I was always craving a compliment, like, “Oh, you did so good today.” I just wanted something.
+
+Did you get those very often?
+
+Not really. Not much. It’s very objective. Looking at it now as an adult, I understand the reason behind certain things when it comes to marketing or something like that, but at a young age it’s not easy to hear. So I’m glad the fame is coming now, not when I was a kid.
+
+Looking at where you are now, does it give you any satisfaction, just thinking back on the people who maybe didn’t believe in you or who didn’t give you an opportunity? You can be petty.
+
+Back then I was not at the level that I am now. I couldn’t sing those high notes back then, so I get where they were coming from. I think everything happens for a reason. But I do feel satisfied in the fact that I didn’t give up and I just kept going. And I think the biggest regret I had when I got dropped was I felt like I let down 11-year-old EJAE, who really wanted to become a singer. So in that respect, I hope I made her proud.
+
+I was listening to an interview with the film’s codirector Maggie Kang and she was saying how it took her years to even be able to pitch this movie. What does it mean to have this breakthrough moment and for that to be an Asian story and a Korean story?
+
+Oh my God, it means the world. It means so much as a Korean American, Asian American woman. And it just feels so cool to be finally portrayed as not the typical portrayal of Asian women—subservient and quiet and passive and always listening. Cause I’m not really like that. I’m quite outspoken, I’m quite blunt. And I just feel like finally there’s a superhero movie about Korean women, and they’re so funny. They’re goofy. They’re not just solely strong and badass, but they eat their food crazy. I do that all the time. We binge on our food.
+
+What do the next few months look like for you? How are you going to leverage what’s happening now? I’ve seen fans say that they want you to go on tour and have holograms of the characters. Would you do that?
+
+Who knows? I mean, I’d be down, but it’s not up to me. But yeah, absolutely. I mean, KPop Demon Hunters fans are amazing. They’re so nice. So nice.
+
+You sound surprised.
+
+No, no. It can be scary, but they’re so welcoming, so understanding, so encouraging. So hell yeah, I would love to meet them too.
+
+I did actually want to ask you about the K-pop fandom, because it seems kind of intimidating.
+
+It’s intimidating, absolutely. I do appreciate their passion. When I was a K-pop trainee there was a boy band called TVXQ. They were huge at that time. And I still remember, there was a third-floor dance practice room, and to walk up from the first floor we had to pass this glass door. Fans were all over that door, and they would try to open it. Once they had a little bit of a crack open, and whenever female trainees would go up, they would throw trash and call us really bad names. I just remember feeling so scared.
+
+What do you think that was about?
+
+It’s tricky when you’re idolizing someone so much. It can get very dark, fast—and toxic. A lot of the fans are teenagers, and I feel like when you’re a teenager, you’re going through puberty, you feel lots of intense emotions.
+
+What is your relationship to ambition right now?
+
+What a cool question. Toxic. I’m kidding.
+
+It can be, right? I swear. That’s like “Golden.” “Golden” is a bittersweet song. Technically it sounds like it’s hopeful. It is. Don’t get me wrong. But in that moment with Rumi and the character, she’s so focused on the honmoon and getting that achievement that she kind of ignores her flaws. Even in the movie, you see her saying “no more hiding” while she’s hiding. That’s a really important part of that song. So as much as it’s great to strive and be ambitious and go, always do it in a healthy way, always keep talking to yourself while you’re doing it. Don’t ignore your health. Don’t ignore your mental health. A great balance, I think, is important.
+
+Are you able to balance that, though? You did say you’ve been up since 5 am.
+
+You got me there. I’m sometimes more ambitious; sometimes I let it go. I think it’s important to be flexible.
+
+What would mean more to you? A Grammy or an Oscar?
+
+Absolutely. It’s just like the team works so hard, and the soundtrack and the movie just works like a synergy in itself. It has to be both.
+
+That’s pretty ambitious.
+
+It is. It’s a dream.
+
+Updated 10/30/25 11:45pm ET. Let us know what you think about this article. Submit a letter to the editor at [email protected].
+
+Styling by Jacquie Trevizo. Styling assistance by Lindsey Trounson. Set design by Marie-Yan Morvan. Hair by Mark Alan Esparza. Makeup by Kevin Cheah. Nails by Taku Okamura. Suit by Sergio Hudson. Shoes by Jimmy Choo. Jewelry by Grace Lee.

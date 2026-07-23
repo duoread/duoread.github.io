@@ -1,0 +1,49 @@
+{
+  "id": "003-cartoon-the-real-threat-to-global-growth",
+  "source_href": "efb06c07-945d-4303-93a4-ef21c15c186d.html",
+  "publication": "economist",
+  "issue": "2026-07-11",
+  "issue_published_at": "2026-07-11",
+  "article_published_at": "July 9th 2026",
+  "published_at": "July 9th 2026",
+  "published_date_source": "article",
+  "order": 3,
+  "section": "The world this week",
+  "title_en": "Cartoon: The real threat to global growth",
+  "title_zh": "漫画：对全球增长的真正威胁",
+  "rubric_en": "A lighter take on the news",
+  "rubric_zh": "轻松解读新闻",
+  "date": "July 9th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "Dig deeper into the subjects of this week’s cartoon:",
+      "zh": "深入了解本周漫画中的这些议题："
+    },
+    {
+      "id": "p002",
+      "en": "Is Donald Trump serious in declaring the ceasefire with Iran over?",
+      "zh": "唐纳德·特朗普关于与伊朗停火的声明到底是认真的吗？"
+    },
+    {
+      "id": "p003",
+      "en": "Three ways the LNG market could crack before winter",
+      "zh": "液化天然气（LNG）市场在冬季到来前可能出现的三种崩塌风险"
+    },
+    {
+      "id": "p004",
+      "en": "Prepare for a world of ad hoc coalitions",
+      "zh": "为一个由临时联盟主导的世界做好准备"
+    },
+    {
+      "id": "p005",
+      "en": "You can see previous ones here.",
+      "zh": "你可以在这里查看之前的（漫画）作品。"
+    }
+  ],
+  "translated_at": "2026-07-22T22:59:30+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

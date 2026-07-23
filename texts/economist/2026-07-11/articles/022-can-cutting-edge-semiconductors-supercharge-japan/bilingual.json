@@ -1,0 +1,79 @@
+{
+  "id": "022-can-cutting-edge-semiconductors-supercharge-japan",
+  "source_href": "a77ae17b-9239-4c9b-b99e-f3dcb7297fa6.html",
+  "publication": "economist",
+  "issue": "2026-07-11",
+  "issue_published_at": "2026-07-11",
+  "article_published_at": "July 9th 2026",
+  "published_at": "July 9th 2026",
+  "published_date_source": "article",
+  "order": 22,
+  "section": "Asia",
+  "title_en": "Can cutting-edge semiconductors supercharge Japan?",
+  "title_zh": "尖端半导体能否“点燃”日本？",
+  "rubric_en": "Visions of a high-tech hub in Hokkaido hinge on a single government-backed firm",
+  "rubric_zh": "北海道成为高科技中心的愿景系于一家受政府支持的公司",
+  "date": "July 9th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "HOKKAIDO HAS long been known for dramatic volcanic peaks, creamy dairy products and powdery snow. These days, Japan’s northernmost major island is being touted by enthusiasts as the country’s next high-tech hub. “Hokkaido is the new Taiwan,” writes James Riney of Coral Capital, a Tokyo-based venture-capital firm. Japanese officials speak, somewhat breathlessly, of “Hokkaido Valley”.",
+      "zh": "北海道长期以来以雄伟的火山峰、浓郁奶香的乳制品和细腻的粉状积雪闻名。如今，这个位于日本最北端的主要岛屿正被业内人士吹捧为日本的下一个高科技中心。东京风险投资公司 Coral Capital 的 James Riney 写道：“北海道是新的台湾。”日本官员在讨论时不无兴奋地称之为“北海道谷（Hokkaido Valley）”。"
+    },
+    {
+      "id": "p002",
+      "en": "The vision hinges on Rapidus, a bold if risky chipmaking effort. Launched in 2022, the company aims to bring Japan back to the frontier of advanced semiconductor manufacturing. Supported by the Japanese government and a consortium of big Japanese companies, Rapidus broke ground on its first fab in September 2023, in a field near the international airport in Chitose, a suburb south of Sapporo, Hokkaido’s capital. Pilot production of 2-nanometre chips, the cutting edge for chipmaking technology, is under way. The ambitious effort is seen as a model for the sort of new-age industrial policy favoured by Japan’s prime minister, Takaichi Sanae.",
+      "zh": "这一愿景依托于 Rapidus——一项大胆但并非没有风险的芯片制造计划。该公司于2022年成立，目标是将日本重新带回先进半导体制造前沿。得到日本政府及由多家大型日本企业组成的财团支持，Rapidus于2023年9月在北海道札幌以南的千岁，靠近国际机场的一片空地上开工建设其第一座晶圆厂。目前，最先进的2纳米芯片试制生产正在进行中。这项雄心勃勃的计划被视为日本首相 Takaichi Sanae 倡导的“新工业政策”模式典范。"
+    },
+    {
+      "id": "p003",
+      "en": "Rapidus could have set up in Kyushu, the southernmost main island. TSMC, a Taiwanese semiconductor giant, has two fabs there, tapping into a strong local supplier network. (Officials there call Kyushu a “Silicon Island”.) But the Rapidus bosses settled on Hokkaido. The island, home to the indigenous Ainu people, was once Japan’s frontier, annexed formally only in the late 19th century. The new frontier spirit is focused on pioneering semiconductors, says Ota Yasuhiko of Hokkaido University.",
+      "zh": "Rapidus 本可以在九州落户——那是日本最南端的主要岛屿。台湾半导体巨头 TSMC 在那里建有两座晶圆厂，并依托了强大的本地供应链网络。（当地官员把九州称为“硅岛”。）但 Rapidus 的负责人还是选定了北海道。该岛是先住民阿伊努人的故乡，曾是日本的边疆，直到19世纪末才正式并入。北海道大学的 Ota Yasuhiko 表示，新边疆精神如今聚焦于开拓半导体。"
+    },
+    {
+      "id": "p004",
+      "en": "Rapidus cites an “abundance of water” in Hokkaido, crucial for semiconductor manufacturing, as a key reason for choosing the region. Besides that, no other prefecture in Japan has as much potential for offshore wind energy: Hokkaido is projected to produce a third of the country’s wind power by 2040. The local governor also agreed late last year to restart the island’s sole nuclear power plant, which will provide a carbon-free, stable baseload for Hokkaido’s electricity grid.",
+      "zh": "Rapidus 选择该地区的一个关键原因是北海道“水资源丰富”，而这对半导体制造至关重要。除此之外，在日本没有哪个县拥有更高的近海风电潜力：预计到2040年，北海道将贡献全国三分之一的风力发电。该州州长去年底还同意重启岛上唯一的一座核电站，这将为北海道电网提供无碳、稳定的基荷（baseload）电源。"
+    },
+    {
+      "id": "p005",
+      "en": "Hokkaido’s geography also brings a number of other advantages. Large and sparsely populated by Japanese standards, the island offers ample space for new production facilities; Rapidus hopes to build several more fabs next to its first. Cooler temperatures make it a desirable location for data centres, which run hot; SoftBank, a Japanese tech giant, recently began building a ¥65bn ($400m) data centre in Tomakomai, south of Chitose. Another largely unspoken benefit is geographic diversification: if a conflict ever broke out around Taiwan, Japan’s south-west islands, including Kyushu, could be at risk; production facilities in Hokkaido, by contrast, would be much farther from any fighting.",
+      "zh": "北海道的地理条件也带来了其他优势。与日本其他地区相比，这座岛屿面积大且人口稀少，可为新的生产设施提供充足的空间；Rapidus 希望在首座晶圆厂旁边再建设几座晶圆厂。较低的气温也使其成为数据中心理想地点，而数据中心会产生大量热量；日本科技巨头 SoftBank 近日在千岁以南的苫小牧开始建设一座 650 亿日元（约 4 亿美元）数据中心。另一个很少被公开提及的好处是地理分散风险：如果未来在台湾周边发生冲突，日本西南部的岛屿（包括九州）可能会受到影响；相比之下，位于北海道的生产设施与任何战事的距离都会更远。"
+    },
+    {
+      "id": "p006",
+      "en": "Hokkaido would gain if there were a chipmaking boom. The semiconductor cluster could add as much as ¥11.2trn to its GDP between 2023 and 2036, according to a study by a regional-development agency. While Hokkaido will not reproduce the dynamism of Silicon Valley’s startup ecosystem or the scale of Taiwan’s chip-manufacturing base any time soon, it has a decent shot at becoming an important node in global semiconductor development and a key part of Japan’s nascent AI ecosystem. A more realistic guide may be Albany, New York, where Rapidus’s main technology partner, IBM, sits at the centre of a thriving tech research-and-development hub. Hokkaido’s governor visited Albany in 2024 to study its model.",
+      "zh": "如果出现芯片制造热潮，北海道将从中受益。根据一家区域发展机构的研究，2023年至2036年间，这个半导体产业集群可能为当地 GDP 增加高达 11.2 万亿日元。虽然北海道短期内不会重现硅谷创业生态的活力，也不会达到台湾芯片制造基地的规模，但它有望成为全球半导体研发中的重要节点，并成为日本新兴 AI 生态的重要组成部分。一个更现实的参照可能是纽约州奥尔巴尼，Rapidus 的主要技术合作伙伴 IBM 就位于该地一个繁荣的技术研发中心。北海道知事于2024年访问了奥尔巴尼，以研究其发展模式。"
+    },
+    {
+      "id": "p007",
+      "en": "Yet despite all the enthusiasm, the Hokkaido Valley plan faces several big obstacles. First is cultivating the third necessary resource for chip manufacturing: human talent. Hokkaido hopes to sell itself as a place where skilled engineers might want to live. True, it is bitterly cold in winter. But the island is home to world-famous ski spots. And local culinary delights, culled from the icy surrounding seas, include tasty scallops and sea urchins as well as enormous crabs.",
+      "zh": "尽管热情高涨，北海道谷计划仍面临若干重大障碍。首先是培育晶片制造的第三个关键资源：人才。北海道希望把自己打造成一个让高技能工程师愿意长期生活的地方。确实，那里冬季寒冷。可岛上也有举世闻名的滑雪胜地。此外，源自周边冰冷海域的本地美食非常诱人，包括鲜美的扇贝和海胆，以及巨大螃蟹。"
+    },
+    {
+      "id": "p008",
+      "en": "Nonetheless, Hokkaido has few international schools for foreign recruits’ children and salaries in Japan lag behind global standards. While the region has plenty of universities and colleges, they have tended to focus on agriculture, fisheries, forestry and service industries. Hokkaido University, the biggest and oldest university, was founded as an agriculture school; it is only now gearing up to train semiconductor engineers. Rapidus has relied heavily on veteran Japanese engineers.",
+      "zh": "尽管如此，北海道国际学校稀少，难以满足外籍人才子女的入学需求，而且日本的薪酬水平也落后于国际标准。虽然该地区拥有大量高校，但这些院校长期以来主要集中在农业、渔业、林业和服务业。北海道大学作为最大且最老的大学，最初创建时就是一所农业学校；它现在才开始着手培养半导体工程师。Rapidus 目前仍大量依赖经验丰富的日本本土工程师。"
+    },
+    {
+      "id": "p009",
+      "en": "The second obstacle is the supplier ecosystem. Manufacturing accounts for less than 10% of Hokkaido’s output, compared with 20% nationally. While dozens of semiconductor-related firms do operate there, the industry is still small. Some of Rapidus’s partners have set up support offices nearby, but so far not big manufacturing bases of their own. Hokkaido Valley insiders acknowledge that it will take at least a decade to cultivate a thriving cluster.",
+      "zh": "第二个障碍是供应链生态系统。与全国约20%相比，北海道制造业仅占全省产值的10%以下。虽然那里确实有几十家与半导体相关的企业，但这个行业仍然规模不大。Rapidus的一些合作伙伴已经在附近设立了支持办公室，但到目前为止还没有建立起自己的大型制造基地。北海道谷地的业内人士都承认，培育一个有活力的产业集群至少还需要十年时间。"
+    },
+    {
+      "id": "p010",
+      "en": "Most important is the success of Rapidus itself. While the firm has made impressive technological advances, its commercial success is far from guaranteed. The true test will come when it begins mass production, which it aims to do next year. TSMC produces standardised chips at large scale; Rapidus, by contrast, plans to offer rapidly made, small batches of bespoke AI chips. Given the dearth of firms able to make cutting-edge semiconductors, and the growing demand for them, the strategy is plausible. But even in the best case, Rapidus will need to rely heavily on public subsidies. The government has already promised more than $15bn in support for the project. It is a big bet on a single firm. The Hokkaido Valley concept depends on it paying off. ■",
+      "zh": "最重要的还是Rapidus本身的成败。尽管该公司在技术上取得了令人瞩目的进展，但其商业成功远未可保证。真正的考验将在其开始量产时到来，而这正是其计划在明年实现的。台积电（TSMC）以大规模生产标准化芯片为主；相比之下，Rapidus计划提供快速制造、少量定制的AI芯片。考虑到能够制造前沿半导体的企业寥寥无几，以及对这类芯片不断增长的需求，这一战略在逻辑上是合理的。但即使在最有利的情况下，Rapidus也将严重依赖公共补贴。政府已经承诺为该项目提供逾150亿美元的支持。它是在押注一家单一企业，这是一场巨额赌注。北海道谷地的模式正取决于这场赌注能否奏效。■"
+    },
+    {
+      "id": "p011",
+      "en": "For exclusive coverage of Asian politics, economics and security, sign up to Asia Bulletin, our weekly subscriber-only newsletter.",
+      "zh": "如需独家获取有关亚洲政治、经济与安全的内容，请订阅我们每周付费通讯《Asia Bulletin》。"
+    }
+  ],
+  "translated_at": "2026-07-22T23:07:33+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

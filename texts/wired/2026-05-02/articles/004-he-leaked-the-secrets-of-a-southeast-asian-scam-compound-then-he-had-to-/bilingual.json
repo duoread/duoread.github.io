@@ -1,0 +1,894 @@
+{
+  "id": "004-he-leaked-the-secrets-of-a-southeast-asian-scam-compound-then-he-had-to-",
+  "source_href": "feed_0/article_3/index_u12.html",
+  "publication": "wired",
+  "issue": "2026-05-02",
+  "issue_published_at": "2026-05-02",
+  "article_published_at": "2026-01-27T06:00:00-05:00",
+  "published_at": "2026-01-27T06:00:00-05:00",
+  "published_date_source": "article",
+  "order": 4,
+  "section": "Andy Greenberg",
+  "title_en": "He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive",
+  "title_zh": "他揭露了一个东南亚诈骗集团的秘密。然后他必须活着逃出去",
+  "rubric_en": "A source trapped inside an industrial-scale scamming operation contacted me, determined to expose his captors’ crimes—and then escape. This is his story.",
+  "rubric_zh": "一名被困在一个工业化诈骗团伙中的内线联系了我，决心揭露囚禁他者的罪行，并最终逃离出来。这就是他的故事。",
+  "date": "2026-01-27T06:00:00-05:00",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "It was a perfect June evening in New York when I received my first email from the source who would ask me to call him Red Bull. He was writing from hell, 8,000 miles away.",
+      "zh": "那是一个完美的纽约仲夏夜，我收到了这位后来让我称他为红牛（Red Bull）的消息源发来的第一封邮件。他当时写信的地方距离我有8000英里，像是写在地狱里。"
+    },
+    {
+      "id": "p002",
+      "en": "A summer shower had left a rainbow over my Brooklyn neighborhood, and my two children were playing in a kiddie pool on the roof of our apartment building. Now the sun was setting, while I—in typical 21st-century parenting fashion, forgive me—compulsively scrolled through every app on my phone.",
+      "zh": "一场夏日阵雨在我的布鲁克林社区上方留下了彩虹，我的两个孩子正在我们公寓楼的屋顶小泳池里玩耍。此时太阳正在下山，而我——请原谅我21世纪式的家长范儿——正强迫自己把手机里的每一个应用都刷一遍。"
+    },
+    {
+      "id": "p003",
+      "en": "The message had no subject line and came from an address on the encrypted email service Proton Mail: “[email protected].” I opened it.",
+      "zh": "这封邮件没有主题，来自加密邮件服务Proton Mail上的一个地址：“[email protected]”。我打开了它。"
+    },
+    {
+      "id": "p004",
+      "en": "“Hello. I’m currently working inside a major crypto romance scam operation based in the Golden Triangle,” it began. “I am a computer engineer being forced to work here under a contract.”",
+      "zh": "“你好。我目前正在位于金三角地区的一个大型加密货币情感类诈骗行动里工作。”它写道。“我是一名电脑工程师，被迫在这里签约劳动。”"
+    },
+    {
+      "id": "p005",
+      "en": "“I’ve collected internal evidence of how the scam works—step by step,” the message continued. “I am still inside the compound, so I cannot risk direct exposure. But I want to help shut this down.”",
+      "zh": "“我已经收集了该诈骗是如何运作的内部证据——一环扣一环。” 这段消息接着写道。 “我现在还在园区内，不能冒着被识别的风险直接曝光。但我想帮忙把它们整顿掉。”"
+    },
+    {
+      "id": "p006",
+      "en": "I knew only vaguely that the Golden Triangle was a lawless jungle region in Southeast Asia. But as a reporter who has covered cryptocurrency crime for the past decade and a half, I understood that crypto scamming—specifically the version of it that’s come to be known as “pig butchering,” in which victims are lured with promises of romance and lucrative investments, only to be tricked into handing over their life savings—has become the most profitable form of cybercrime in the world, pulling in tens of billions of dollars annually.",
+      "zh": "我只模糊地知道“金三角”是东南亚一个法外之地般的丛林地区。但作为一名过去十多年一直报道加密货币犯罪的记者，我明白，加密货币诈骗——尤其是如今常被称为“杀猪盘”的那种形式：先用恋爱和高收益投资的承诺来引诱受害者，随后骗取其一生积蓄——已经成为全球最赚钱的网络犯罪之一，每年可获利数百亿美元。"
+    },
+    {
+      "id": "p007",
+      "en": "This sprawling scam industry is, today, staffed by hundreds of thousands of forced laborers in compounds across Myanmar, Cambodia, and Laos. They’re trafficked there from the poorest regions of Asia and Africa and pressed into the service of Chinese organized crime groups. The result is a self-perpetuating, constantly growing, globe-spanning money funnel that destroys lives on both ends—bankrupting one kind of victim, enslaving another.",
+      "zh": "如今，这个庞大的诈骗产业在缅甸、柬埔寨和老挝的各类园区雇用了数十万名被迫劳工。受害者被从亚洲和非洲最贫困地区贩运来，被迫为华人黑帮集团效力。其结果是一个自我循环、持续扩张、覆盖全球的资金“漏斗”：它在两端吞噬生命——一端让人破产，另一端让人沦为奴隶。"
+    },
+    {
+      "id": "p008",
+      "en": "I had read harrowing reports of scam compounds where laborers are beaten, tortured with electric shock batons, starved, and even murdered by their captors. Those stories have mostly come from the rare survivors who have escaped or been rescued by law enforcement. Never before, though, had I heard of someone currently working within a scam compound offering to act as a whistleblower—an actual source on the inside.",
+      "zh": "我曾读到过一些令人毛骨悚然的报道，里面提到骗子园区内的劳工遭到殴打、用电击警棍折磨、挨饿，甚至被囚禁者杀害。这些报道大多来自极少数成功逃离或被执法机构救出的幸存者。然而，在此之前，我从未听说过有正在园区内工作的人员主动提出做吹哨人——一个真正的内部消息源。"
+    },
+    {
+      "id": "p009",
+      "en": "I had no idea, still, if this purported source was real. But I wrote back anyway, asking them to switch over from email to the encrypted messaging app Signal and turn on disappearing messages to better cover their tracks.",
+      "zh": "起初我仍然不确定这个自称消息来源的人是不是真的。尽管如此，我还是回复了他，要求对方改用加密通讯应用 Signal，并开启“阅后即焚”功能，以更好地掩护行踪。"
+    },
+    {
+      "id": "p010",
+      "en": "The source wrote back immediately and told me to expect to hear from them in two hours.",
+      "zh": "那位消息来源立刻回信说，大约两个小时后就会再联系我。"
+    },
+    {
+      "id": "p011",
+      "en": "That night, after my kids were asleep, the Signal messages began to light up my phone. First, the source sent carefully prepared documents: a flowchart and then a written guide that described the scam processes of the compound in northern Laos. (I’d come to learn that the Golden Triangle—once the American nickname for a vast hotbed of opium and heroin production—now mainly refers to a city-size Laotian “special economic zone” bordering Myanmar and Thailand and largely controlled by Chinese business interests.) The two write-ups described every step in the compound’s work: creating fake Facebook and Instagram profiles; using hired models and AI deepfake tools to complete the illusion of a real romantic prospect; tricking victims into “investing” in fake trading platforms they recommended. It even detailed the small gong that would be struck in the office when someone pulled off a successful scam.",
+      "zh": "那天晚上，在孩子们都睡着以后，Signal 消息开始不断亮起。消息来源先后发来精心准备的文件：一份流程图，接着是一份书面说明，里面描写了老挝北部那个诈骗园区的作案流程。（后来我才知道，所谓“金三角”这个词，起初是美国人对一个庞大鸦片和海洛因生产重灾区的叫法；如今它主要指的是位于老挝、缅甸和泰国交界、规模相当于一座城市，并且大体由中国资本控制的“特区”。）这两份材料详细写明了园区里每一个环节：创建虚假的 Facebook 和 Instagram 账号；雇佣模特并结合 AI 深度伪造技术，营造出“对方是真实恋爱对象”的错觉；诱导受害者去他们推荐的虚假交易平台“投资”。其中甚至写到了当某次诈骗得手时，办公室里会敲响的一面小锣。"
+    },
+    {
+      "id": "p012",
+      "en": "I had barely had time to skim these detailed descriptions—this was not how I’d planned to spend a Saturday evening with my wife—when my phone rang, just after midnight.",
+      "zh": "我几乎没来得及细读这些详细说明——本来星期六晚上我本想和妻子一起度过的，却才刚开始看完——手机就在午夜过后响了。"
+    },
+    {
+      "id": "p013",
+      "en": "I picked up the Signal call. A polite Indian-accented voice said, “Hello.”",
+      "zh": "我接起了 Signal 电话。一个带着印度口音的礼貌男声说了句：“你好。”"
+    },
+    {
+      "id": "p014",
+      "en": "“What do I call you?” I asked.",
+      "zh": "“我该怎么叫你？”我问。"
+    },
+    {
+      "id": "p015",
+      "en": "“You can call me any name, brother, no matter,” the voice said with a shy laugh.",
+      "zh": "那声音有些羞涩地笑着说：“你随便叫我什么都行，兄弟，没关系。”"
+    },
+    {
+      "id": "p016",
+      "en": "I insisted that I’d need a name for him, even if he just wanted to make one up on the spot.",
+      "zh": "我坚持说，无论他要不要即兴起名，我都需要一个名字来称呼他。"
+    },
+    {
+      "id": "p017",
+      "en": "“You can call me Red Bull,” he said. Months later, he would tell me that he’d been looking at an empty can of the energy drink as we spoke.",
+      "zh": "“你可以叫我红牛。”他对我说。几个月后，他告诉我，在我们通话时，他一直在看一罐空空的那种能量饮料罐。"
+    },
+    {
+      "id": "p018",
+      "en": "Red Bull explained that he’d tried reaching out to US and Indian law enforcement agencies and Interpol, as well as the tip lines for a few news outlets, but no one had responded other than me. He asked me to tell him more about myself—and then cut me off as soon as I’d said two sentences about my work covering crypto crime.",
+      "zh": "红牛解释说，他曾试图联系美国和印度的执法机构以及国际刑警组织，还向几家媒体的爆料热线寻求帮助，但除了我之外没有人回应。他让我先多介绍一点自己——当我说了两句关于我在报道加密犯罪方面的工作后，他立刻打断了我。"
+    },
+    {
+      "id": "p019",
+      "en": "“So you are the person I share everything with,” he said hurriedly. “And you will help me to expose this, right?”",
+      "zh": "“所以你就是那个我可以无所保留的人，”他匆忙说，“而且你会帮我把这件事揭露出来，对吧？”"
+    },
+    {
+      "id": "p020",
+      "en": "Thrown off, I told him he’d have to first tell me who he was.",
+      "zh": "被他这个举动弄得有点乱，我告诉他，他得先把自己的身份告诉我。"
+    },
+    {
+      "id": "p021",
+      "en": "For the next few minutes, Red Bull warily answered my questions. He didn’t tell me his real name but said he was from India—that most of the compound’s forced laborers were from India, Pakistan, or Ethiopia.",
+      "zh": "接下来的几分钟里，Red Bull谨慎地回答了我的问题。他没有告诉我真名，只说自己来自印度——而该园区中大多数被迫劳动者都来自印度、巴基斯坦或埃塞俄比亚。"
+    },
+    {
+      "id": "p022",
+      "en": "He was in his early twenties and had a diploma in computer engineering, he said. Like most of his coworkers, Red Bull had been tricked by a fake job offer—in his case, to work as an IT manager for an office in Laos. Then his passport had been taken from him by his Chinese bosses. He was forced to sleep in a dormitory room with five other men and work 15 hours at a time on a nocturnal schedule designed to sync with the daytime of the Indian Americans they targeted for scamming. (That system—matching scammers with victims of their own ethnicity to build rapport and avoid language issues—is common, I’d later learn.)",
+      "zh": "他说自己二十岁出头，拿过计算机工程文凭。像他的多数同事一样，Red Bull也是被一个假冒的工作机会骗来的——在他的案例中，是被许诺去老挝某办公室担任IT经理。随后，他的中国老板没收了他的护照。他被迫与其他五名男子挤在一间宿舍房间里睡觉，并实行夜班制，一次工作15小时，以便与他们针对的受害人——美国印裔——白天作息同步。（后来我了解到，这种安排——让诈骗人员与同族裔受害者配对，以建立信任并避免语言障碍——是很常见的。）"
+    },
+    {
+      "id": "p023",
+      "en": "Red Bull’s situation was not precisely the brutal modern slavery I had read about elsewhere. It was more like a grotesque parody of a corporate sales floor. In theory, the staffers were incentivized with commissions designed to create the illusion that they could get rich from hard work. In reality, they were kept in perpetual debt and servitude. Red Bull told me he was paid a base salary of 3,500 Chinese yuan a month, close to $500, but the money was almost entirely taken from him by daily fines for various infractions, most often not meeting his quota of initial conversations with victims. The result was that he had virtually no income and subsisted off the food in the cafeteria, mostly rice and vegetables that he said tasted of strange chemicals.",
+      "zh": "Red Bull的处境并不完全是我在其他地方读到过的那种残酷现代奴隶制。它更像一场对企业销售车间的怪诞翻版。理论上，工作人员会按提成激励，看似可以通过努力工作致富；但现实中，他们却被长期困在债务和奴役之中。Red Bull告诉我，他每月只有3500元人民币的基本工资，约合500美元，但这笔钱几乎全部被各种日常罚款扣走，常见原因是没完成对受害人的初始对话配额。结果是他几乎没有任何收入，只能靠食堂里提供的饭菜维生，大多是米饭和蔬菜，他说那股味道像奇怪的化学品。"
+    },
+    {
+      "id": "p024",
+      "en": "He was bound into this system by a one-year contract, and believed when that time was over—in about six more months—he’d be allowed to leave. So far, he told me, he hadn’t successfully scammed anyone, only skated by with the minimum number of plausible attempts. That meant he was still essentially captive unless he escaped, served out his time, or paid off his contract with thousands of dollars he didn’t have.",
+      "zh": "他被一份为期一年的合同套牢，并且以为当那段时间结束——大约还有六个月——就会被允许离开。到目前为止，他告诉我自己还没有成功诈骗到任何人，只是以最低限度、看似可行的尝试“勉强过线”。这意味着除非他逃走、熬满合同期，或者拿着他根本拿不出的几千美元还清合同费用，否则他基本上仍处于被困状态。"
+    },
+    {
+      "id": "p025",
+      "en": "Red Bull told me he’d heard of people who were beaten and electrocuted for breaking rules, a female staffer who he believes was sold into sexual slavery, and other coworkers who mysteriously disappeared. “If they knew I was talking to you or doing something wrong to them, they would directly kill me,” he said. “But I promised myself that whether I stay alive or not, I will stop this scam.”",
+      "zh": "Red Bull告诉我，他听说有人因违反规定而被殴打并电击；一名他认为被卖作性奴的女性工作人员；以及其他几位同事神秘失踪。红牛说：“如果他们知道我在和你说话，或者我对他们做了什么，他们会直接杀了我。\" \"但我已下定决心，无论活着回来还是不行，我都要让这场骗局停止。”"
+    },
+    {
+      "id": "p026",
+      "en": "Then Red Bull launched into the immediate purpose of his call: There was a scam in progress he knew about, targeting an Indian American man who had already been scammed at least once, but remained in the thrall of one of Red Bull’s colleagues. The man’s crypto wallet service appeared to have frozen his account on the suspicion that he was being defrauded. So for the next payment, a courier was being sent to pick up a six-figure sum in cash.",
+      "zh": "接着，Red Bull开始说他这通电话的直接目的：他知道正在进行中的一宗骗局，目标是一名已经至少被骗过一次的美籍印度裔男子，但仍被Red Bull一位同事牢牢控制着。那位男子的加密钱包服务似乎因为怀疑他遭到诈骗而冻结了他的账户。因此，在下一笔付款时，将派一名快递员去提取一笔六位数的现金。"
+    },
+    {
+      "id": "p027",
+      "en": "The pickup was set to happen in three or four days. The victim lived just a few hours away from me. If I acted quickly, Red Bull explained, I could alert law enforcement and help set up a sting operation to capture the courier. Beyond this tip, he wanted me to find him an FBI agent to be his handler going forward, while continuing to work with me as a source. We’d spoken for just over 10 minutes.",
+      "zh": "这次取款安排在三到四天后。受害人离我只有几个小时的路程。Red Bull解释说，如果我行动够快，就能提醒执法部门，帮助布设一次抓捕快递员的诱捕行动。除了这个线索外，他还想让我帮他找一名FBI探员，作为今后与他接触的联络人，同时他仍可继续作为消息源与我合作。我们刚通话了十分钟多一点。"
+    },
+    {
+      "id": "p028",
+      "en": "Red Bull impatiently said that he’d write me the details on Signal and hung up. Within seconds, he was sending screenshots of the compound’s internal chat logs, his colleagues’ conversations with victims, and more details on the sting operation he wanted me to arrange.",
+      "zh": "Red Bull有些不耐烦地说他会在Signal上把细节发给我，然后就挂了电话。挂断后几秒钟，他就开始发来该据点内部聊天记录的截图、同事与受害者的对话内容，以及更多他希望我安排的诱捕行动细节。"
+    },
+    {
+      "id": "p029",
+      "en": "With my mind reeling, I paused for a moment. Then I called Red Bull back on Signal without warning—with video enabled. I wanted to see who I was talking to.",
+      "zh": "我脑子转了一圈，先停顿了片刻。然后我没有提前打招呼，就在 Signal 上又给 Red Bull 回了个电话，并开了视频。我想看看我到底在和谁说话。"
+    },
+    {
+      "id": "p030",
+      "en": "The view from the hotel room where Red Bull first spoke to WIRED, as seen over a Signal video call.",
+      "zh": "Red Bull 首次向 WIRED 讲述时所在酒店房间的画面，如在 Signal 视频通话中所见。"
+    },
+    {
+      "id": "p031",
+      "en": "Red Bull picked up. He was slim and handsome, with slightly shaggy hair and a trim beard. He gave me a half smile, seemingly unconcerned about revealing his face. I asked him to show me his surroundings, and he flipped the video to display a bare hotel room—he explained that he’d risked booking a room in the hotel next to his office to have somewhere to talk to me—and the view out the window of ugly concrete buildings and parking lots, construction sites, and a few palm trees. At my request, he walked outside and showed me the Chinese-language sign on the front of the building. I didn’t know much about the Golden Triangle, but this appeared to be it.",
+      "zh": "Red Bull 接起了电话。他身形消瘦、相貌不错，头发有点蓬，胡须修剪得很整齐。他给了我一个浅浅的微笑，似乎并不在意露出自己的脸。我让他给我展示一下周围环境，他把摄像头转向后，给我看了一个空荡荡的酒店房间——他解释说，为了有地方和我交谈，他冒险在离办公室旁边的酒店里订了一个房间——还拍出了窗外的景象：几幢丑陋的混凝土楼房、停车场、工地，以及几棵椰枣? 不是，几棵棕榈树。按我的要求，他走到外面给我看了大楼正门上的中文招牌。我对“金三角”了解不多，但这看起来确实是那里。"
+    },
+    {
+      "id": "p032",
+      "en": "Finally, Red Bull showed me his work ID, with a Chinese name the compound had given him: Machao. (None of the workers in the office, he explained, knew each other’s real name.)",
+      "zh": "最后，Red Bull 给我看了他的工牌，上面是这个“compound”给他起的中文名字：Machao。（他解释说，办公室里的任何工人都不知道彼此的真名。）"
+    },
+    {
+      "id": "p033",
+      "en": "I began to believe Red Bull was what he said: a real whistleblower in a Laos scam compound. I told him I’d consider everything he’d asked for, but that I wanted to work with him patiently and carefully to minimize his risk.",
+      "zh": "我开始相信Red Bull所说的了：他真的是一个在老挝诈骗园区内的举报人。我告诉他，我会认真考虑他提出的所有要求，但我希望在合作时一步步来，尽量把他的风险降到最低。"
+    },
+    {
+      "id": "p034",
+      "en": "“I am with you and whatever I do, I do under your guidance,” he wrote back at 1:33 am. “Have a nice night ahead.”",
+      "zh": "他凌晨1:33回信说：“我与你在一起，至于我做的任何事，都在你的指导下进行。祝你今晚睡个好觉。”"
+    },
+    {
+      "id": "p035",
+      "en": "At 4 am, I was still lying awake in bed, considering what to do with the eager new source who seemed determined to put his life in my hands.",
+      "zh": "凌晨4点，我仍躺在床上辗转反侧，思考该如何处理这个急切的新线人——他似乎已决心把性命托付给我。"
+    },
+    {
+      "id": "p036",
+      "en": "After a few hours’ sleep, I texted Erin West, a California prosecutor—or, as I would learn in our phone call later that day, a former prosecutor. Toward the end of 2024, West became so fed up with the US government’s failure to do anything about the pig butchering epidemic that she’d retired early from her position as a deputy district attorney and was now focused full-time on running her own anti-scam organization, called Operation Shamrock.",
+      "zh": "睡了几个小时后，我给艾琳·韦斯特（Erin West）发了短信。那天稍后我们通话时我才得知，她是一位加州检察官，后来是前检察官。到2024年底，韦斯特对美国政府对“杀猪盘”猖獗现象的无作为越来越愤怒，于是提前从副地方检察官一职退休，开始全职运营她自己的反诈骗组织——“夏莫罗克行动”（Operation Shamrock）。"
+    },
+    {
+      "id": "p037",
+      "en": "I asked West for advice about who in law enforcement could help arrange the sting that Red Bull had requested. West, to my surprise, was far more excited about the story that Red Bull wanted me to write. “This is a major, major deal,” West said. “Here’s someone on the inside who’s willing to share this information and tell us everything about how this whole operation runs.”",
+      "zh": "我向West请教，究竟该找执法部门谁来帮助安排Red Bull所要求的这场埋伏。没想到West对Red Bull想让我写的故事更是兴奋得不得了。West说：“这是个大得很的单。”她说：“有个内线愿意提供这些信息，告诉我们这个整个运作到底是怎么走的。”"
+    },
+    {
+      "id": "p038",
+      "en": "But she quickly shot down the idea of a sting. No time to arrange it, she said. Nor did she think that arresting a lowly money mule would be the major win that Red Bull believed it to be. Most couriers of this kind, she said, were freelancers even further down the hierarchy of a scam operation than Red Bull himself and would know nothing of value.",
+      "zh": "但她很快否定了布置埋伏的想法。她说，没时间去安排。她也不认为抓捕一个低层“送钱人”会是Red Bull所认为的那种重大胜利。她说，这种快递员大多是自由职业者，层级还比Red Bull本人更低，几乎不可能知道任何有价值的信息。"
+    },
+    {
+      "id": "p039",
+      "en": "More important, a sting—or any effort to warn the victim myself by asking Red Bull for his contact and reaching out—could also create suspicion of a leak inside the scam compound that might be traced to Red Bull and put his life in jeopardy. Preventing one case of fraud, or taking down one courier, hardly seemed worth that risk of exposure.",
+      "zh": "更重要的是，布置埋伏——或者我自己去通知受害者，比如向Red Bull要联系方式后联系对方——也可能引起对诈骗窝点内部“泄密”的怀疑，这种怀疑很可能被追溯到Red Bull并让他的生命陷入危险。为了阻止一起诈骗，或抓获一名信使，这样高的暴露风险几乎不值得。"
+    },
+    {
+      "id": "p040",
+      "en": "I had been talking to Red Bull for less than 24 hours. Already I was making the decision to stand by as a potential six-figure scam took place, as a cost of protecting him.",
+      "zh": "我才跟Red Bull交谈不足24小时。到那时，我已经决定，在一桩可能涉入数十万美金的骗局发生时保持观望，把它当作保护他的代价。"
+    },
+    {
+      "id": "p041",
+      "en": "Beyond this question of a sting, West told me, she wasn’t sure that handing Red Bull over to the FBI was the right approach. If he were to become a law enforcement source, she said, the FBI or Interpol would almost certainly tell him to stop talking to me or any other journalist. And the result of whatever he shared with the feds would likely fall far short of his expectations: criminal charges, in absentia, for low-level bosses at best. “If he thinks that the FBI and Interpol are going to march into Laos and take this place down, that’s never going to happen. The cavalry is not coming.”",
+      "zh": "谈到这次抓捕行动时，West告诉我，她并不确定把Red Bull交给FBI是否是正确做法。她说，如果他成为执法部门的线人，FBI或国际刑警几乎肯定会要求他停止与我或其他任何记者接触。而他与联邦机构共享的信息最终产生的结果，很可能远远低于他的预期：充其量只会对该犯罪链条中的低级“头目”以缺席方式提起起诉。“如果他以为FBI和国际刑警会带队进军老挝，把这个地方一并捣毁，那永远不会发生。骑兵不会来。”"
+    },
+    {
+      "id": "p042",
+      "en": "Far more valuable than building a case against this single operation, she argued, would be to use whatever Red Bull could share to tell the larger story: the high-resolution reality of pig butchering compounds, their operational details, the scale of their work. Some of this had been described before by survivors of the compounds, but never, to West’s knowledge, by an insider source leaking documents and evidence in real time.",
+      "zh": "West认为，与其围绕这单独的作案点去建立案件，不如更有价值的是利用Red Bull可以提供的一切，讲清更宏大的故事：揭示“杀猪盘”园区的真实运作、具体流程、以及规模到底有多大。此前这些内容中有一部分由逃出生还者讲过，但在West所知范围内，尚未曾有过来自内部线人实时泄露文件和证据的报道。"
+    },
+    {
+      "id": "p043",
+      "en": "The role of human trafficking in scam compounds’ operations has only become harder to measure, West told me, with the Trump administration’s destruction of USAID, which funded humanitarian organizations in the region. “The Trump presidency has taken away any of the eyes on the ground that we had,” West said.",
+      "zh": "West告诉我，特朗普政府对美国国际开发署（USAID）的削弱，实际上使得评估人贩运在诈骗园区运作中所占比例越来越困难，USAID曾为该地区的人道主义机构提供资金。“特朗普执政时期把我们在当地的现场观察力量几乎都拿走了，”West说。"
+    },
+    {
+      "id": "p044",
+      "en": "All of that has enabled Chinese-origin gangs to continue stealing “a generation’s worth of our wealth” through a system of slavery that’s increasingly come to control an entire region of the world, as West described it. “The story here is how we allowed these criminals to embed themselves in Southeast Asia like a festering cancer,” West said. “And how it’s disrupting our ability to trust people.”",
+      "zh": "这一切都使得以中国为源头的犯罪团伙，能够继续通过一种日益扩张、几乎控制整片世界区域的奴役体系，窃取“足以相当于一代人财富”的金额，正如West所说。“这里的故事，是我们如何让这些犯罪分子在东南亚深深扎根，像一个持续化脓的癌症一样蔓延，”West说。“也让我们如何逐渐丧失了对他人的信任能力。”"
+    },
+    {
+      "id": "p045",
+      "en": "I told Red Bull that we couldn’t arrange a sting operation without risking his life. I also made the case that if he wanted to be a source for me, he’d likely have to wait to talk to law enforcement. He accepted all this with surprising decisiveness. “OK, done,” he said.",
+      "zh": "我告诉Red Bull，我们不能组织一次钓鱼取证行动，因为那会危及他的生命。我还向他说明，如果他愿意成为我的消息源，接下来很可能得先等着去和执法机构接触。他出乎意料地果断地接受了这一点：“行，算你赢。”"
+    },
+    {
+      "id": "p046",
+      "en": "Red Bull and I soon settled into a routine of speaking on Signal every morning New York time, around 10 pm in Laos, as he walked around outside his dormitory in the half hour after he woke up and before he went into the cafeteria for a meal. (This “dinner” preceded his approximately 15-hour workday, which included two breaks to eat.)",
+      "zh": "Red Bull和我很快形成了一个惯例：每天纽约时间早上，按照老挝时间晚上10点左右，通过Signal通话。那时他从起床后到去食堂吃饭前有半小时会在宿舍外走动。（这顿“晚饭”在他大约15小时的工作日之前，工作日里他有两次休息时间用来用餐。）"
+    },
+    {
+      "id": "p047",
+      "en": "He spent much of our first conversations pitching a series of increasingly high-risk evidence-gathering methods: He wanted to wear a hidden camera or microphone. He suggested setting up remote desktop software so I could see in real time everything on his screen. He offered to install spyware on the computer of his team leader, another Indian worker with aviator glasses and a short beard who went by the name “Amani.” He even proposed to hack into the laptop of Amani’s supervisor, 50k, a short Chinese man with a paunch, tight pants, and a tattoo on his chest that Red Bull could never quite make out. Maybe that spyware would help us gather intel on 50k’s communications with his own boss, “Alang,” whom Red Bull never saw in person.",
+      "zh": "在最初的几次谈话里，他主要提出了一系列越来越高风险的取证办法：他想戴一台隐藏式摄像头或麦克风。他提议装远程桌面软件，让我能实时看到他屏幕上的一切。他主动提出在团队长的电脑上安装间谍软件。那位团队长是另一名印度籍工人，留着飞行员墨镜、短胡子，名叫“Amani”。他甚至建议我入侵Amani上司，50k的笔记本电脑。50k 是个个子不高、肚子有点鼓、穿得很紧的中国男人，胸口有个纹身，Red Bull始终没完全看清。也许有了那种间谍软件，我们就能获取关于50k与他自己老板“Alang”之间通讯内容的情报，而Red Bull从未见过这位Alang本人。"
+    },
+    {
+      "id": "p048",
+      "en": "For every one of these brazen ideas, I consulted with colleagues and experts who told me, one after another, how hidden-camera evidence-gathering required training, how the software Red Bull wanted to install on the office computers left behind detectable artifacts—why, in other words, all these ideas were likely to get him caught and killed.",
+      "zh": "对于他这些大胆的想法，每一个我都咨询了同事和专家。大家陆续告诉我：秘密摄像头取证需要专业训练；Red Bull想安装在办公室电脑上的软件会留下可检测的数字痕迹。换言之，这些方案几乎都很可能让他被识破，最终丧命。"
+    },
+    {
+      "id": "p049",
+      "en": "We settled on a far simpler approach: He would use Signal on his work computer to send me messages and materials throughout his work hours, using Signal’s disappearing messages feature set to a five-minute countdown timer to cover his tracks. At times he started calling me “Uncle” to bolster the cover story that he was just speaking to a relative, in case he was caught.",
+      "zh": "我们最终采用了一种更简单的方法：他在工作时间里用工作电脑上的 Signal 给我发送消息和材料，并把 Signal 的“阅后即焚”功能设为五分钟倒计时，以掩盖自己的痕迹。有时他会改口叫我“Uncle”，以加固他的伪装故事——好像他只是在和亲戚聊天，以防万一被人发现。"
+    },
+    {
+      "id": "p050",
+      "en": "We adopted a protocol in which one of us would start a conversation by saying “Red.” The other would respond “Bull.” This exchange would verify no one had taken over his account. It was Red Bull’s idea to change the name and icon of the Signal app on his computer to make it look like a desktop shortcut for its hard drive.",
+      "zh": "我们约定了一套对话校验规则：我们中的一方先发“Red”，另一方回复“Bull”。这种交接用来核验没有人冒充他登录了账户。这也是 Red Bull 提出的主意：他把电脑里 Signal 的名字和图标改掉，让它看起来像桌面上一个指向硬盘的快捷方式。"
+    },
+    {
+      "id": "p051",
+      "en": "He began to send me a steady stream of pictures, screenshots, and videos: a spreadsheet and photos of a whiteboard on which his team’s work was tracked, with scam totals in the thousands of dollars next to many of the group’s nicknames. A photo of a Chinese ceremonial drum on a stand that stood in the office, ready to be struck to celebrate big wins of $100,000 or more. Pages and pages of chat logs, posted to the office WhatsApp group, documented the scamming wins of Red Bull’s colleagues and the tragic responses from victims: “Always had a dream of having a girlfriend then wife like you” … “U stopped talking to me” … “I will continue praying for your Mom” … “Please help me withdraw my money OK?” … “??????” … “😭” One video showed a victim crying in his car after losing a six-figure sum; the mark had sent the clip to his scammer to elicit guilt, perhaps, but it was instead being passed around the office for laughs.",
+      "zh": "他开始持续给我发来大量图片、截图和视频：一份电子表格，以及白板照片，白板上列出了团队的工作进度，许多成员的绰号旁边都写着以千美元计的诈骗金额。还有一张办公室里立着的中国礼堂鼓照片，随时待敲响，用来庆祝 10 万美元或更多的重大收益。大量聊天记录被发布到办公室的 WhatsApp 群里，记录着 Red Bull 同事的诈骗得手，以及受害者的悲痛回应：“一直梦想有一个像你这样的女友然后妻子”……“你不再和我说话了”……“我会继续为你妈妈祈祷”……“能不能帮我把钱提出来？”……“??????”……“😭” 一段视频里，一名受害者在车里哭得很伤心，原因是他失去了六位数金额；那个人把这段画面发给骗子，或许是想触发对方的内疚，但视频却在办公室里被当作笑料转来转去。"
+    },
+    {
+      "id": "p052",
+      "en": "Every member of the team was required to post daily updates—how many “first chats” they’d started, how many “deep chats” they’d had, the kind that might lead to successful scams. Their group chat used euphemisms like “opening a new customer,” for hooking a new mark, and “recharges,” for repeat victims. Each team had a quota, typically around a million dollars a month. If they met it, they’d be rewarded with weekends off, the freedom to have snacks in the office, even parties at a nearby club. (Their bosses, Red Bull said, would spend those parties in a private room separated by a curtain.) Miss the target, and they’d be berated, fined, and forced to work seven nights a week.",
+      "zh": "团队里的每个成员都必须每天汇报更新：他们开了多少个“首次聊天”、进行了多少次“深度聊天”，也就是可能发展为成功诈骗的对话。群聊里把“接到新客户”叫作“opening a new customer”，把老客户再次上钩叫作“recharges”。每个小组都有配额，通常每月约一百万美元。完成目标就能得到奖励，比如周末休息、在办公室自由吃零食，甚至是附近夜店的聚会。（Red Bull 说，他们的主管会在有幕布隔开的包间里独自狂欢。）如果没达标，就会被训斥、罚款，并被迫每周工作七晚。"
+    },
+    {
+      "id": "p053",
+      "en": "A whiteboard in the office tracked scam successes, listed alongside workers’ pseudonyms and team names.",
+      "zh": "办公室里的白板记录着诈骗进展，并列出每位工作人员的化名和小组名称。"
+    },
+    {
+      "id": "p054",
+      "en": "Every worker also posted a mandatory daily schedule—not of their own nocturnal life sitting at a desk in a fluorescent-lit office and sending Facebook and Instagram messages, but the schedule of the rich, single woman they were pretending to be: 7 am “peaceful yoga and meditation,” 9:30 am “self-care and vacation planning,” 2:30 pm “dentist visit,” 6 pm “dinner and talking with mother.”",
+      "zh": "每个工作人员还必须贴出一份每日行程表——不是他们自己在荧光灯办公室里熬夜坐在桌前发送 Facebook 和 Instagram 消息的生活，而是他们假扮的那位富有单身女性的行程：上午7点“平和的瑜伽与冥想”、上午9:30“自我护理与度假计划”、下午2:30“看牙医”、晚上6点“晚餐并与母亲聊天”。"
+    },
+    {
+      "id": "p055",
+      "en": "Sometimes during our voice calls, Red Bull would tell me to enable video and record my screen. Then he would walk into the cafeteria and surreptitiously film his surroundings while pretending to talk to his “uncle.” I got a tour through the bright lights of the building’s lobby and stairwells, the lines of depressed-looking South Asian and African men lining up for food. Once he even showed me the inside of the office, a large, beige room where I could see clusters of desks with red, yellow, and green flags on them that connoted each team’s scamming performance.",
+      "zh": "有时在我们的语音通话中，Red Bull 会让我开启视频并录制屏幕。之后他会走进食堂，假装在和“叔叔”聊天，同时偷偷拍下周围环境。我跟着看见了大楼大厅和楼梯间的明亮灯光、以及一排排面色沮丧的南亚裔和非洲裔男子在排队取餐。有一次，他甚至让我看到了办公室内部：一个宽敞的米色房间，里面有成簇的办公桌，每张桌上都插着红、黄、绿三色旗，象征着各个小组的诈骗表现。"
+    },
+    {
+      "id": "p056",
+      "en": "A video surreptitiously recorded via a Signal call shows the inside of the Boshang scam compound’s office.",
+      "zh": "一段通过 Signal 通话悄悄录下的视频展示了 Boshang 诈骗园区办公室的内部。"
+    },
+    {
+      "id": "p057",
+      "en": "After a few days, Red Bull and I tried upgrading our cover story, and I became a secret girlfriend he was texting with—a better explanation for his use of Signal should it be detected. We peppered our conversation with heart emojis, referred to each other as “dear,” and signed off with “miss you,” until our chat logs started to look almost like the fraud romances his team carried on daily. But we soon found the pretense too embarrassing and gave it up.",
+      "zh": "过了几天后，红牛和我又改进了掩护故事，我成了他在短信里“秘密交往”的女友——这样一来，万一他的 Signal 聊天行为被察觉，就有个更合理的解释。我们在对话里夹杂着爱心表情，互称“亲爱的”，再用“想你了”来结束聊天，直到我们的聊天记录几乎看起来和他们团队每天进行的诈骗“甜言蜜语”一样真实。后来我们很快觉得这个借口太尴尬了，于是放弃了。"
+    },
+    {
+      "id": "p058",
+      "en": "On another occasion, as I was heading to sleep, Red Bull wrote a surprisingly sensitive farewell message: “Good night! 🌙 Rest easy—you’ve done enough for today. Let your mind reset, and let tomorrow come with fresh clarity and quiet strength.”",
+      "zh": "另一次，当我正要睡觉时，红牛发来一条出乎意料体贴的告别短信：“晚安！🌙 放松一下，你今天已经做得足够了。让大脑休整一下，明天要带着更清晰的头脑和更平静的力量继续。”"
+    },
+    {
+      "id": "p059",
+      "en": "As stilted as the language felt, I admit to being moved by the unusually thoughtful note—I had, in fact, gotten very little sleep over the several stressful days since we’d first started communicating.",
+      "zh": "尽管那段话的措辞有些生硬，我承认那句异常贴心的话让我很受触动——实际上，在我们刚开始交流的这几天里，我因持续紧张，几乎没怎么睡过几个好觉。"
+    },
+    {
+      "id": "p060",
+      "en": "Then, during our call the following morning, Red Bull began explaining to me the role that AI chat tools like ChatGPT and DeepSeek play in the compound’s work: how they’re trained to use them to clean up their language, find just the right sentiment, never run out of inviting turns of phrase.",
+      "zh": "次日早晨通话时，红牛开始向我讲解像 ChatGPT 和 DeepSeek 这类 AI 聊天工具在园区里如何发挥作用：他们如何被训练去用这些工具润色语言、找出最合适的语气与情绪，而且始终不会说不出合适的邀请性说辞。"
+    },
+    {
+      "id": "p061",
+      "en": "His goodnight message the previous evening, he told me without hesitation, had been copied directly from ChatGPT. “Everyone does this here; they teach us this,” he said.",
+      "zh": "在前一个晚上发给我的晚安消息里，他毫不犹豫地告诉我，那条消息是直接从 ChatGPT 复制来的。“这里每个人都这么做，大家都被这样教的。”他说。"
+    },
+    {
+      "id": "p062",
+      "en": "Funny, I thought, how easy it is to be taken in by a bit of sympathetic text sent by a new acquaintance on the other side of the world.",
+      "zh": "我心想，这真是可笑，一个来自世界另一端的新熟人发来一点“善意”文字，就能轻易迷惑人。"
+    },
+    {
+      "id": "p063",
+      "en": "In the few minutes I had with Red Bull every day between the dormitory and the office, amid our other conversations about his safety and evidence-gathering tactics, I asked how he’d come to be trapped in the compound and why he had become so singularly motivated to expose it. In answering, in hurried snippets of conversation and then later in longer texts, he told me the 23-year story of his life.",
+      "zh": "在我每天在宿舍和办公室之间与 Red Bull 见面的几分钟里，我们谈了很多关于他安全和取证策略的内容。每次我都问他如何被困进这个作案据点，以及是什么让他如此坚定地想要揭露这一切。回答时，他先是匆忙地说了几段片段内容，后来又在更长的文字里，把他二十三年的生活故事讲了出来。"
+    },
+    {
+      "id": "p064",
+      "en": "Red Bull grew up, he told me, as one of eight children in a Muslim family in a mountainous village in Jammu and Kashmir, a disputed territory on the India–Pakistan border. His father was a schoolteacher but also sometimes worked as a construction laborer and, along with Red Bull’s mother, raised dairy cattle and sold ghee—clarified butter—to survive.",
+      "zh": "Red Bull 告诉我，他出生并长大在查谟和克什米尔一个位于印度与巴基斯坦边境争议地区的山区村庄，那里他是穆斯林家庭中的第八个孩子。父亲是老师，但也时常去做建筑工，同时他的母亲和父亲一起养奶牛、卖酥油（澄清黄油 ghee）来维持生计。"
+    },
+    {
+      "id": "p065",
+      "en": "When Red Bull was a young child in the mid-2000s, the family would often leave their village for areas in northern Kashmir to escape the intermittent conflicts between the Indian Army and Pakistani-supported guerrillas. Muslim men in the region had sometimes been conscripted to fight or carry supplies for Pakistani-backed forces, then branded as terrorists and killed by India’s military.",
+      "zh": "2000年代中期，红牛还是个小孩时，他的家人常常带着他离开村子，去克什米尔北部的一些地区避难，以躲开印巴支持的武装分子与印度军队之间断断续续的冲突。该地区的穆斯林男性有时会被征召去参战，或给巴基斯坦支持的武装部队运送补给；后来又常被印度军队贴上恐怖分子标签并被杀害。"
+    },
+    {
+      "id": "p066",
+      "en": "When the conflict died down, Red Bull’s parents sent him to live with his grandparents in the city of Rajouri, a four-hour bus ride away, where they hoped their unusually bright and inquisitive child could get a better education. His grandparents were harsh guardians, he told me. They forced him to chop wood and fetch water when he wasn’t studying, and his school was a 6-mile walk away. He wore out his shoes, blistered his feet, and attended classes with a rope tied around his pants for a belt.",
+      "zh": "战争缓解后，红牛的父母把他送去和住在拉贾乌里的祖父母一起生活，那里离村子乘大巴要四个小时，他们希望这个异常聪明、好奇心强的孩子能接受更好的教育。他告诉我，祖父母是严厉的监护人。他们在他不上学时会逼他砍柴和挑水，他的学校要走六英里路。他穿着旧掉了鞋底、脚上起了水泡，还穿着用绳子打了个结套在裤腰上当腰带去上课。"
+    },
+    {
+      "id": "p067",
+      "en": "Even then, he says, he maintained a kind of defiant optimism. “I kept thinking: If not today then tomorrow things will get better,” he wrote to me.",
+      "zh": "即便如此，他说自己仍然保持着一种逆来顺受中带着倔强的乐观。“我一直在想：今天不行，那明天就会更好，”他写信告诉我。"
+    },
+    {
+      "id": "p068",
+      "en": "When he was 15, Red Bull’s grandparents sent him to live with the family of a pair of his teachers, who made him work as a servant in exchange for paying his school fees. He would wake up early every morning to clean the house before breakfast, then wash the dishes before going to school—including the separate set they required him to use.",
+      "zh": "红牛15岁那年，祖父母又把他送到一对老师家里住，条件是他要当仆人干活，以换取学费。每天清晨，他都得在吃早饭前先打扫房子，随后洗碗，然后再去上学——包括他们要求他使用的一套单独的餐具。"
+    },
+    {
+      "id": "p069",
+      "en": "One day in that house, he remembers watching, entranced, as the family’s eldest son played the latest FIFA game on his PC, the first time Red Bull had ever seen a computer. He was told to get back to work. This became the beginning of his computer fixation. “I felt ashamed and disrespected because I was not even allowed to touch it,” Red Bull wrote. “I told myself that one day I would become the master of this machine.”",
+      "zh": "有一天在那栋房子里，他记得自己着迷地看着这家人的长子在电脑上玩最新的 FIFA 游戏，那是红牛第一次见到电脑。他被告知要回去继续干活。这成了他对电脑沉迷的开始。“我感到羞耻和被轻视，因为我甚至不被允许碰它，”红牛写道。“我在心里对自己说，总有一天我会成为这台机器的主人。”"
+    },
+    {
+      "id": "p070",
+      "en": "After a particularly humiliating scolding, Red Bull decided to run away. He left the next morning before the family was awake and traveled to the city, where he found odd jobs cleaning houses, doing construction work, cutting rice. For a time he went door-to-door selling Ayurvedic medicines. At night he would study alone in the room he rented. In 2021, he was accepted into the computer science program at Kashmir Government Polytechnic College in Srinagar, the region’s biggest city.",
+      "zh": "在一次特别羞辱性的训斥后，红牛决定逃跑。第二天早上在全家醒来前离开，去了城市，在那里找到了各种零工：打扫房子、做建筑活、砍米。曾经有一段时间，他还挨家挨户地卖阿育吠陀草药。晚上他会在租来的房间里独自学习。2021 年，他被斯利那加的克什米尔政府理工学院计算机科学专业录取了——那是该地区最大的城市。"
+    },
+    {
+      "id": "p071",
+      "en": "At the university, he slept in a room without proper bedding through the freezing Kashmiri winters, and often went hungry. A friend taught him how to make Facebook pages for businesses, or buy and sell them like a real estate developer flipping properties. Working on the school’s PCs, he soon made the equivalent of $200, enough to buy his own used Dell laptop—a prized, life-changing possession.",
+      "zh": "在大学里，他在没有合适被褥的房间里度过了严寒的克什米尔冬天，常常挨饿。一个朋友教他如何为企业做 Facebook 页面，或者像房地产开发商一样买卖这些页面。利用学校的电脑，他很快赚到了约 200 美元，相当于可以买一台二手戴尔笔记本电脑——这是他人生中最珍贵、改变命运的东西。"
+    },
+    {
+      "id": "p072",
+      "en": "After three years of studying, working, and sending money home to his family, he graduated with a diploma in computer engineering—the first time, he says, that anyone from his village had ever attained that level of technical education. He’d also developed a stubborn, even angry determination to chart his own path through the world.",
+      "zh": "在学习、工作并不断向家里汇钱三年后，他毕业获得了计算机工程文凭——他自己说，这是他村里第一次有人成为拥有这么高水平技术教育的人。那时，他也培养出一种顽固甚至带着愤怒的决心，要自己开辟通往世界的道路。"
+    },
+    {
+      "id": "p073",
+      "en": "“My mom and dad always advised me to have patience and to stay strong, and their advice gave me some inner strength, but the fight itself I always carried alone,” he wrote. “It is very hard for anyone to truly understand me, but I never stopped fighting my circumstances.”",
+      "zh": "“我父母总是劝我要有耐心、要坚强，他们的教导给了我一些内在的力量，但真正的斗争我一直是一个人扛着，”他写道。“别人很难真正理解我，但我从未停止过同境遇作斗争。”"
+    },
+    {
+      "id": "p074",
+      "en": "Not long after Red Bull graduated, he was making a livable wage creating Facebook pages and websites, earning as much as a thousand dollars a month. But he had bigger ambitions. He dreamed of working in artificial intelligence, in the biomedical field, or in cybersecurity as a whitehat hacker. (The TV show Mr. Robot had long been one of his favorites.) He wanted to study abroad but couldn’t afford it, and was rejected when he sought student loans.",
+      "zh": "红牛毕业后不久，就能靠制作 Facebook 页面和网站赚到可维持生计的工资，月入高达一千美元。但他有更大的理想。他梦想在人工智能、 生物医学领域工作，或成为一名白帽黑客做网络安全工作。（电视剧《黑客军团》一直是他最喜欢的节目之一。）他想出国学习，但负担不起学费，申请学生贷款也被拒了。"
+    },
+    {
+      "id": "p075",
+      "en": "He resigned himself to working for a year or two to save money. A friend from college told him of someone in Laos who seemed to be able to find people good work. Red Bull began talking to that thirdhand contact, called Ajaz, who said he knew an agent who could get him hired as an office IT manager making around $1,700 a month. For Red Bull, that alluring salary would mean he might only have to work for a single year before returning to school.",
+      "zh": "于是他打算先工作一两年攒钱。一次有个大学同学告诉他，老家乡有人在老挝似乎能帮人找到不错的工作。红牛开始与这位通过熟人介绍认识的人聊了起来，这人叫阿贾兹，他说自己认识一位中介，可以让红牛以每月约 1,700 美元的薪水被聘为办公室 IT 经理。对红牛来说，这样的薪水很有吸引力，意味着他或许只用工作一年就能再回到学校。"
+    },
+    {
+      "id": "p076",
+      "en": "Ajaz told Red Bull to fly to Bangkok and then call the recruiting agent from the airport. He boarded the plane without even knowing what industry his employer might be in—only that he would help manage its computers. He remembers the excitement of traveling abroad for the first time, dreaming of his future throughout the red-eye flight across the Indian Ocean.",
+      "zh": "阿贾兹让红牛先飞到曼谷，然后在机场给招聘中介打电话。他登上飞机时连雇主可能从事什么行业都不知道——只知道自己将负责帮助管理那里的电脑。他仍清楚记得第一次出国的兴奋，在跨越印度洋的红眼航班上，他满脑子都是对未来的想象。"
+    },
+    {
+      "id": "p077",
+      "en": "The next morning in Bangkok, he called the agent, an East African man who summarily told him to take a 12-hour bus ride to Chiang Mai, and then a taxi to the border with Laos. When Red Bull arrived there, he was to take a selfie showing that he was outside the immigration office, and text it to the agent. A few minutes after Red Bull did as instructed, an immigration official came outside, flashed the selfie he’d evidently received from the agent, and demanded 500 Thai baht—about $15. Red Bull paid, the official stamped his passport, and he was sent down to a boat waiting on the Mekong River below. The ferry crossed the river just south of the point where the three borders of Thailand, Laos, and Myanmar meet in a single nexus: the Golden Triangle.",
+      "zh": "第二天早上，在曼谷，他给那位东非人介绍人打了电话，那人直接命令他乘坐12小时巴士前往清迈，然后再打车到老挝边境。到达红牛后，他要先拍一张证明自己在出入境办公室外的自拍，并把照片发给介绍人。红牛按指示做完后几分钟，一名移民局官员走了出来，拿出那张他显然已经收到的自拍照，要求他支付500泰铢，约合15美元。红牛付了钱，官员给他的护照盖了章，然后把他带到湄公河下游一条正在等候的船上。渡船穿过河流，正好在泰国、老挝和缅甸三国边界汇聚成“一个汇合点”——金三角——的正南方。"
+    },
+    {
+      "id": "p078",
+      "en": "After the boat had crossed into Laos, a young Chinese man waiting on the opposite river bank showed Red Bull the same selfie. He took Red Bull’s passport without explanation and gave it to immigration officials along with some Chinese currency. It came back with a visa.",
+      "zh": "船抵达老挝后，一名年轻的中国男子在对岸等候，他拿出与红牛同样的自拍照给红牛看。该男子没有解释，就拿走了红牛的护照，并同几张人民币一起交给移民官员。随后，护照上拿回了签证。"
+    },
+    {
+      "id": "p079",
+      "en": "The Chinese man pocketed the passport and told Red Bull to wait for the East African agent. Then he left, taking Red Bull’s passport with him.",
+      "zh": "那名中国男子将护照放进口袋里，对红牛说等他去找东非人。然后他就离开了，并把红牛的护照带走。"
+    },
+    {
+      "id": "p080",
+      "en": "An hour later, the agent arrived and drove him in a white van to a hotel in northern Laos, where he would spend the night. Lying in the bed of that bare hotel room, he remained entirely focused on the anxiety and excitement of his first real job interview, scheduled for the next day. He still suspected nothing.",
+      "zh": "一个小时后，介绍人到了，将他带进一辆白色面包车，前往老挝北部的一家酒店，在那里过夜。那晚躺在这个简陋酒店房间的床上，他始终把注意力放在隔天第一次真正的面试所带来的焦虑和兴奋上。此时他仍然毫无怀疑。"
+    },
+    {
+      "id": "p081",
+      "en": "The next morning, he was brought to an office, a gray tower of concrete surrounded by other drab buildings amid the lush green mountains of northern Laos. Red Bull sat nervously at a desk as a Chinese man and a translator administered a typing test and an English language test, both of which he breezed through. They told him he’d passed, and they began asking him about his familiarity with social networks like Facebook, Instagram, and LinkedIn.",
+      "zh": "第二天早上，他被带到一栋办公楼——一座灰色的混凝土塔楼，周围是北老挝郁郁葱葱群山中的几栋枯黄的低矮建筑。红牛紧张地坐在桌边，面对一名中国人和一名翻译，两人给他安排了打字测试和英语测试，他都轻松通过。随后他们告诉他已经通过，并开始询问他是否熟悉 Facebook、Instagram 和 LinkedIn 等社交平台。"
+    },
+    {
+      "id": "p082",
+      "en": "Red Bull eagerly answered their questions. Finally they asked him whether he understood the job he’d be starting. “As an IT manager?” he asked. No, they said, for once speaking without euphemism: He would be a “scammer.”",
+      "zh": "红牛急切地回答着他们的问题。最后，他们问他是否理解即将开始的工作内容。“做 IT 经理吗？”他问道。没有，他们说，这次不再委婉：他将被当作一名“诈骗犯”。"
+    },
+    {
+      "id": "p083",
+      "en": "As the reality of his situation finally became clear, Red Bull spiraled into panic. The Chinese boss told him he’d be starting immediately. Trying to buy time, he begged to instead return to the hotel to rest for one night before beginning work. The boss agreed.",
+      "zh": "当这一现实终于清晰地落在他身上时，红牛陷入了恐慌。中国老板告诉他要立刻上岗。为了争取时间，他恳求能先回酒店休息一晚再开始。老板同意了。"
+    },
+    {
+      "id": "p084",
+      "en": "That night in the hotel room, Red Bull frantically searched the internet for information about scam operations in the Golden Triangle. Only then did he see the dimensions of the trap that had sprung around him: Too late, he read about the thousands of Indians deceived and ensnared just as he had been, with no passport or means of escape. In the midst of this sickening epiphany, his parents video-called him to ask if he’d gotten the IT manager job. Burying his shame and regret, he said he had, smiled, and accepted their congratulations.",
+      "zh": "那晚在酒店里，红牛在网上疯狂搜索有关“金三角”地区诈骗行动的信息。直到那时，他才看清自己被困入的陷阱规模：太晚了——他读到数以千计的印度人和他一样被骗进来，落入罗网，失去护照并失去逃生手段。在这令人作呕的顿悟中，他的父母给他打来视频电话，询问他是否拿到了 IT 经理的工作。他把羞耻与后悔压下去，说自己已经拿到，并笑着接受了父母的祝贺。"
+    },
+    {
+      "id": "p085",
+      "en": "The colored flags in each team’s work area indicate whether it’s been meeting scam revenue quotas.",
+      "zh": "各小组的工作区都悬挂着彩色旗帜，用来表示该小组是否完成了诈骗营收配额。"
+    },
+    {
+      "id": "p086",
+      "en": "A Chinese ceremonial drum stands ready to be struck by any worker who achieves a scam of $100,000 or more.",
+      "zh": "一面中国的仪式鼓随时准备好让任何单笔诈骗金额达到10万美元或以上的员工敲响。"
+    },
+    {
+      "id": "p087",
+      "en": "Over the next days, with little in the way of orientation, he was pulled into the machinery of the scamming organization he’d come to know as the Boshang compound: He was trained to create fake profiles, given scam scripts, and then set to work on a nocturnal schedule, manually spamming out hundreds of introductory messages every night to lure new victims. At the end of his shifts, he would return to the top bunk of his six-man dorm room—little bigger than the hotel room he’d occupied those first nights—with a toilet in the corner.",
+      "zh": "在接下来几天里，在几乎没有任何入职培训的情况下，他被拉进了这家他后来称作博尚园区的诈骗组织运作体系：他被训练如何创建虚假个人资料，被发放诈骗话术，然后进入夜班工作，每晚手动发送数百条陌生开场信息，以吸引新受害者。每次下班后，他会回到六人宿舍间的上铺——那间房几乎和他最初几晚住的酒店房间一样小，在角落里还塞着一个厕所。"
+    },
+    {
+      "id": "p088",
+      "en": "Yet from the very beginning, he says, he was determined to again defy his circumstances. It struck him that he knew more about computers than most of his coworkers, or even his bosses, who seemed to understand only how to use social media, AI tools, and cryptocurrency. Within days, he began daydreaming of using his technical skills to quietly gather information on the compound and, somehow, expose it.",
+      "zh": "但他表示，从一开始他就决定要再次反抗自己的处境。他意识到自己比大多数同事，甚至老板都更懂电脑，而他们似乎只懂得使用社交媒体、人工智能工具和加密货币。几天之内，他开始幻想用自己的技术能力悄悄搜集园区信息，并以某种方式把这些信息公开。"
+    },
+    {
+      "id": "p089",
+      "en": "There was, Red Bull came to believe, little to prevent him from leaking the compound’s secrets. Team leaders took employees’ personal phones and put them in a box when they began their shifts, and they were strictly prohibited from taking work devices out of the office. But otherwise, the surveillance of staffers and their own phones seemed surprisingly loose.",
+      "zh": "在红牛看来，几乎没有什么能真正阻止他把这个“作案地”的内幕泄露出去。管理者会在班前收走员工的私人手机并放进一个箱子里，也严禁把办公设备带出办公室。但是除此之外，工作人员和他们手机上的监控似乎都出奇地松散。"
+    },
+    {
+      "id": "p090",
+      "en": "Bosses seemed to depend largely on the fear and despair of Red Bull’s fellow trafficking victims—most of whom had, it seemed to him, lost all hope of resistance. “They tell themselves survival is the only goal, and they shut down anything that feels human,” Red Bull wrote to me. “Empathy, guilt, even memories of who they were before.”",
+      "zh": "上层似乎主要依靠红牛的同伴这些被拐卖受害者的恐惧和绝望来控制他们——在他看来，这些人中的大多数都已经对反抗失去了所有希望。“他们告诉自己，活下来是唯一目标，于是把任何仍然显得有人性的东西都关上了大门，”红牛这样对我说，“同理心、内疚，甚至是他们曾是怎样的自己。”"
+    },
+    {
+      "id": "p091",
+      "en": "He kept his own hope alive in part with a sense that he was different. “Most people don’t have the skills, or the tools, or even the mental strength to fight from the inside,” he wrote. “I can move through the system. I can observe. I can gather evidence, names, scripts, patterns, connections.”",
+      "zh": "他之所以仍能保住自己的希望，部分原因是他觉得自己与别人不同。“大多数人没有能力、没有工具，甚至没有心理韧性可以在里面去对抗，”他写道。“我可以在体系里活动。我可以观察。我可以搜集证据、名字、脚本、模式、联系。”"
+    },
+    {
+      "id": "p092",
+      "en": "At times, though, I still struggled to understand what had given Red Bull the conviction to reach out to me, to risk his life rather than merely serve out his time. “Maybe it’s justice, or maybe it’s conscience,” he responded. “If there’s a God, I hope he sees what I’m doing. If there isn’t, then at least I’ll know I stayed human in a place that tries to turn people into monsters.”",
+      "zh": "不过有时，我仍然很难理解是什么让红牛下定决心去找我，冒着性命危险，而不是把时间硬撑过去。“也许是正义，也许是良知，”他回答道。“如果有上帝，我希望他能看见我现在在做的事。要是没有那样的存在，那起码我能在一个努力把人都变成怪物的地方里，守住自己的人性。”"
+    },
+    {
+      "id": "p093",
+      "en": "As time passed and the collection of materials Red Bull sent to me mounted, I was also getting the sense that the walls were closing in on him. One day, Red Bull told me, his team leader Amani asked him with menacing calm why he was spending so much time outside—referring, most likely, to the walks when Red Bull would talk to me on Signal—and generating so few new “clients.” Maybe, Amani suggested, a beating or some electric shocks would increase his productivity.",
+      "zh": "随着时间推移，我收到的红牛提供的材料越来越多，我也越来越感觉到他正被困得越发紧。一天，红牛告诉我，他的组长阿曼尼冷静而带着威胁地问他，为什么他在外面花了这么多时间——他很可能指的是红牛在 Signal 上与我通话时那段段散步时间——并且新“客户”接触数量也太少。阿曼尼可能建议说，也许可以通过殴打或一些电击来提高他的产量。"
+    },
+    {
+      "id": "p094",
+      "en": "Around the same time, Red Bull told me that new surveillance cameras had been installed in the office, including on the ceiling both behind and in front of his desk. I told him he should immediately stop communicating with me from the office—it was now far too risky. My editors came to a more severe conclusion: I should shut down my reporting with Red Bull altogether until he was free.",
+      "zh": "差不多在同一时间，红牛告诉我，办公室里安装了新的监控摄像头，包括他桌子前后天花板上的位置。我告诉他应当立即停止在办公室里和我联络——现在风险太高了。我的编辑们得出更严肃的结论：我应该在他获得自由之前，彻底暂停与红牛的采访报道。"
+    },
+    {
+      "id": "p095",
+      "en": "Red Bull had, by this point, sent me a collection of 25 scam scripts and guides in English and Chinese. The documents displayed the anatomy of scamming at a level of resolution I’d never seen before: lists of conversation starters; tutorials on what to do when a target asks for a video call and how to delay until a deepfake model is ready to speak with them; tips on how to complain about overcautious financial institutions so victims don’t get spooked by their own bank’s warnings.",
+      "zh": "到这时，红牛已经给我发来了25份英文和中文的诈骗话术与培训资料。这些文件展示了诈骗的运作方式，细节清晰到我以前从未见过：有开场白清单；有关于目标要求视频通话时该怎么应对，以及如何拖延对方，直到深度伪造模型准备好与他们通话的教程；有如何抱怨过于谨慎的金融机构，以免受害人被自家银行的预警吓到不敢继续受骗的技巧。"
+    },
+    {
+      "id": "p096",
+      "en": "Maybe what he’d given me was already enough. Following my editors’ lead, I told Red Bull that it was time to stop. “OK, done,” he said, with his usual quick pivot.",
+      "zh": "也许，他已经给我的材料已经足够了。按我的编辑意见，我告诉红牛，是时候停下来了。“行，明白。”他用他惯有的那种迅速转换话题的方式回答。"
+    },
+    {
+      "id": "p097",
+      "en": "A video secretly recorded over a Signal call shows the inside of the Boshang compound’s cafeteria. Red Bull says the food tasted of strange chemicals. Access to the cafeteria was frequently denied to workers for violations as basic as showing up late to a shift or not being in their dorm rooms at check-in time.",
+      "zh": "一段通过 Signal 通话秘密录制的视频展示了波尚园区食堂的内部场景。Red Bull 说那里的食物闻起来带有奇怪的化学味。工人们经常被禁止进入食堂，理由只是一些最基本的违规，比如上班迟到，或者在报到时不在宿舍。"
+    },
+    {
+      "id": "p098",
+      "en": "Now, I told him, he should focus on completing the remaining six months of his contract as safely as possible, and we’d talk again when he was free. But Red Bull, once again, was already several thoughts ahead. If our reporting process was finished, he told me, he wanted to leave now.",
+      "zh": "我当时告诉他，先把剩下六个月的合同期尽量安全地过完，等他自由之后我们再继续谈；但 Red Bull 又一次想得更远。如果我们的采访流程结束了，他说他想立刻离开。"
+    },
+    {
+      "id": "p099",
+      "en": "He told me about a plan he’d been concocting to get home: He’d forge an Indian police letter stating that he was under investigation back in Jammu and Kashmir. If he didn’t go back, he’d tell his supervisor, it would cause serious trouble for him, his family, and ultimately the compound. He would plead to take a two-week trip home, deal with the situation, and return. Maybe, he said, his bosses would buy this story and let him leave.",
+      "zh": "他告诉我自己在筹划的一条回家的方案：他会伪造一份印度警方的函件，声称他在查谍后被调查。如果他不回去，他会告诉主管，这会给他本人、他的家人，甚至最终整个园区带来严重麻烦。然后他想申请请两周假回家处理这件事，再回来报道。也许，他说，主管会信以为真，让他离开。"
+    },
+    {
+      "id": "p100",
+      "en": "I didn’t think it would work, and I told him as much: I warned that his overseers might detect the forgery and punish him. But after all the risky schemes I had already talked Red Bull out of, he seemed more stubbornly intent on this one. I asked him to please wait, and I told him I’d try to find him someone in the region who was more familiar with scam compound escape tactics. I was in touch, for instance, with a Southeast Asian activist who asked to be identified only as “W,” who had experience helping political refugees escape from the region.",
+      "zh": "我觉得这办法不太可能奏效，也明确告诉了他：我警告他说，管理者可能会发现伪造痕迹并惩罚他。但是在我已经劝阻过他所有高风险计划之后，他似乎更加固执地坚持这一个。我请他先等等，并说我会尽量帮他找一个更熟悉诈骗园区逃离策略的当地人士。比如说，我曾联系过一位东南亚的活动人士，要求匿名，只称自己是“W”，他有过帮助政治难民从该地区逃离的经验。"
+    },
+    {
+      "id": "p101",
+      "en": "Red Bull suddenly switched into cover story mode as he entered the office lobby. “No problem uncle, you stay relaxed,” he said as he walked by the security guard. “Things will be better soon, OK?” Then he ended the call.",
+      "zh": "他一走进办公室大堂，红牛（Red Bull）突然切换成了掩护身份模式。“叔叔没事的，你先放松，”他边走过保安边说，“很快情况会好起来的，好吗？”然后他结束了通话。"
+    },
+    {
+      "id": "p102",
+      "en": "At another point in those daily conversations, Red Bull brought up another potential path to freedom: If only he could pay the equivalent of $3,400, he could buy out his contract and go home. He just needed to get the money somehow.",
+      "zh": "在那段每日对话中的另一个时刻，红牛提到了另一条可能的自由之路：只要他能凑齐相当于3400美元的金额，就可以买断合约然后回家。他只需要想办法弄到那笔钱。"
+    },
+    {
+      "id": "p103",
+      "en": "In a matter of seconds, a fleet of thoughts ran through my mind. First, a flash of hope for Red Bull and a desire to pay off his debt. Then the realization that, of course, WIRED couldn’t possibly give money to a source in this way, much less reward an organized crime group for human trafficking. The idea violated journalistic ethics—payments to sources are generally considered a corrupting conflict of interest—and would set an unforgivable precedent. I said as much to Red Bull, and he quickly responded that he understood “completely” and that he had never asked me or WIRED to pay.",
+      "zh": "我脑中一瞬间掠过一连串念头。先是对红牛的一线希望，以及想替他还清债务的冲动。接着我意识到，当然，《WIRED》不可能这样给消息源送钱，更不可能因此向一个有组织犯罪团伙——他们涉足人口贩运——付款。这个想法违背了新闻伦理：向消息源付款通常会被视为有腐化性的利益冲突，也会树立一个不可原谅的先例。我把这些都如实告诉了红牛，他很快回应说他“完全理解”，并且他说他从未要求我或《WIRED》付款。"
+    },
+    {
+      "id": "p104",
+      "en": "Even so, the mere mention of that payment option also planted in my mind a different, darker thought that I now couldn’t shake: What if Red Bull was scamming me? I had set aside my initial skepticism of Red Bull once I’d seen enough proof that he was who he said he was: a real person trapped in a grim compound in Laos. Now, almost two weeks into our relationship, the troubling possibility nagged at me: What if he truly was a scam compound insider, but this had been the scam all along? The mere thought felt like a betrayal of all the trust he seemed to have placed in me.",
+      "zh": "即便如此，仅仅是那个“付款”选项的提及，也在我脑中种下了一个更阴暗的念头，而我现在无法摆脱：会不会红牛在骗我？我最初对红牛的怀疑已在我看到足够证据后放下——那是一名真实的人，困在老挝一个阴冷的园区里。现在，我们认识快三周了，这个令人不安的可能性又开始纠缠我：他真的只是一个诈骗园区的内部人，而这一切从头到尾都是骗局吗？这个念头让我感觉像是在背叛他似乎已完全托付给我的那份信任。"
+    },
+    {
+      "id": "p105",
+      "en": "I decided to compartmentalize my suspicions, keeping the possibility of an ulterior motive in my mind next to the more likely probability that his intentions were genuine.",
+      "zh": "我决定把自己的怀疑分开处理，一边把他可能有隐秘动机的可能性放在心里，一边把他动机真诚的更高概率也同时保留在脑中。"
+    },
+    {
+      "id": "p106",
+      "en": "A couple of days later, meanwhile, he mentioned his forged document idea again, and I again suggested he wait for help from someone like W and not risk the scheme. But with every day, I could tell that he was increasingly set on his plan. “I have no other options,” he said. “Let’s see what happens.”",
+      "zh": "与此同时，过了几天，他又提起了伪造文件的想法，我也再次建议他等着像W那样的人来帮忙，不要冒险实施这个方案。但我越听越能感觉到，他对自己的计划越来越坚定。“我别无选择，”他说。“试试看结果会怎样。”"
+    },
+    {
+      "id": "p107",
+      "en": "Just a few days later, on a Saturday afternoon, I was surprised to get an email from the same Proton Mail account that Red Bull had first reached out from but hadn’t used since we’d switched to Signal. Just like that first email, it had no subject line.",
+      "zh": "再过几天，周六下午，我收到一封电子邮件，出乎意料地来自同一个Proton Mail账户——这就是Red Bull最初联系我的那个地址，但在我们转到Signal后他再也没用过。像那封第一封邮件一样，这封邮件也没有主题行。"
+    },
+    {
+      "id": "p108",
+      "en": "I opened the message and my mind instantly went blank with dread.",
+      "zh": "我打开这封邮件，瞬间心里一片空白，充满了恐惧。"
+    },
+    {
+      "id": "p109",
+      "en": "“they people cath me and now they get my phone everything,” it read. “they beaten me andn ow may be they kill me”",
+      "zh": "“他们抓住了我，现在把我的手机全拿走了，”信息写道，“他们打了我，也许他们会杀了我。”"
+    },
+    {
+      "id": "p110",
+      "en": "Red Bull had tried his forged-police-document deception. Now, it seemed, the worst possible outcome had come to pass.",
+      "zh": "Red Bull 曾经用伪造的警察证件来骗过人。现在，最糟糕的结果似乎终于降临。"
+    },
+    {
+      "id": "p111",
+      "en": "I suppressed panic as my mind spun through options. I texted my editors and W, in the hopes they might have some idea of how to help. Fifteen minutes after that first email came another, more coherent message from Red Bull: “I’m trapped. I have no way to get out. They have my personal phone and my ID card,” this one read. “If there’s anything you can do, please help me.”",
+      "zh": "我在思绪飞速旋转中压下了恐慌，给编辑和W发了短信，希望他们或许知道该怎么帮忙。第一次发邮件后的15分钟后，又收到Red Bull发来一条更完整的消息：“我被困住了，没法出去。他们拿走了我的个人手机和身份证，”他写道，“如果你们能做些什么，请帮帮我。”"
+    },
+    {
+      "id": "p112",
+      "en": "In the meantime, W responded to me on Signal. Over the phone, we hurriedly talked through what we could possibly do to increase Red Bull’s chances of survival. I didn’t know how Red Bull was emailing me, but W cautioned that it would be dangerous to respond. His bosses knew he’d lied to them to try to escape. It still seemed they didn’t know he was talking to a journalist and leaking their secrets.",
+      "zh": "与此同时，W在Signal上回复了我。我们通电话时匆忙讨论了能做的一切，以提高Red Bull的生存机会。我不知道Red Bull是怎么给我发邮件的，但W提醒我，回复会很危险。他的上级已经知道他为了逃脱而对他们撒了谎。看起来他们还不知道他正在与一名记者对话并泄露他们的秘密。"
+    },
+    {
+      "id": "p113",
+      "en": "If they found out, there was little doubt they would kill him. “Brutally,” W said. “There’s no way he’d get out of this area alive.” He advised that I wait to hear more from Red Bull about his situation and how to safely communicate.",
+      "zh": "如果他们发现了他，几乎可以肯定会把他杀了。W说：“会很残忍。”“他不可能从这个地区活着离开。”他建议我先等着，看看Red Bull关于他处境以及如何安全联系更多的消息。"
+    },
+    {
+      "id": "p114",
+      "en": "Twenty-four excruciating hours passed before I received another email from Red Bull—a long, stream-of-consciousness block of frantic text.",
+      "zh": "二十四个煎熬的小时过去了，我才收到Red Bull的下一封邮件——一大段意识流般急促的文字。"
+    },
+    {
+      "id": "p115",
+      "en": "“Last night those people beat me I am still hungry I have not eaten anything they disconnected my card my personal phone and everything today they will decide what to do with me the Indian team leader and everyone sat in front of me and said do you know who we are and they beat me again and then made me sit back in the office today I have to accept that whatever I did was fake and I have to accept my mistake I cannot run away from here I have no money and I cannot even go outside the gate I am contacting you from the system PC if you have any way then send me an email I will check it and tell W to talk to me on my email and those people are telling me to give them 20k yuan they said if I give it they will leave me without doing anything more please tell W to reply to my email whenever they torture me and bring me back to the office I am only on the system PC have a nice evening ahead”",
+      "zh": "“昨晚那帮人打了我，我还在饿着，今天我什么都没吃。他们断掉了我的卡、我的私人手机和所有东西。今天他们会决定对我怎么处理。印度队长和所有人都坐在我面前，说‘你知道我们是谁吗？’，然后又打了我一顿。接着让我回到办公室。今天我要承认我所做的一切都是假的，我得承认我的错误。我从这里跑不掉，我没有钱，也连门外都去不了了。我是从系统电脑上联系你的，如果你有任何办法，就发邮件给我，我会查收并告诉W让他通过邮箱和我联系。那群人还让我给他们两万人民币，说如果我给他们钱，他们就会放我走，不再对我做更多事。请你告诉W，随时回复我的邮件——每次他们折磨我、把我带回办公室，我都会在系统电脑上回邮件。今晚你过得愉快。”"
+    },
+    {
+      "id": "p116",
+      "en": "Before I could respond to this email, I got a Signal message: “Red.”",
+      "zh": "在我来得及回复这封邮件之前，我收到了一条Signal消息：“Red。”"
+    },
+    {
+      "id": "p117",
+      "en": "“Bull,” I wrote back.",
+      "zh": "“Bull，”我回了他。"
+    },
+    {
+      "id": "p118",
+      "en": "He wrote quickly, this time with the short version: He’d been put in a room and told again to find someone to pay 20,000 yuan for his release, the equivalent of around $2,800.",
+      "zh": "他很快又发来消息，这一次只给出了简短版本：他被关进一个房间，再次被告知要找人出示20,000元人民币才能让他获释，约合2,800美元。"
+    },
+    {
+      "id": "p119",
+      "en": "In the midst of this life-or-death crisis, I couldn’t help but think that this might just as easily be the endgame of the scam I’d suspected in the back of my mind: Hook a journalist’s attention, lure him in, give him responsibility for a source’s safety, and now require a payment to save his life.",
+      "zh": "在这场生死危机中，我忍不住想到，这也许正是我心里早已怀疑的骗局的最后一幕：先吸引一名记者的注意，再把他拖进来，让他负责某个消息源的安全，随后又要求支付一笔钱来救这条人的命。"
+    },
+    {
+      "id": "p120",
+      "en": "Regardless, my editors had made clear to me that neither WIRED nor I could pay Red Bull or his captors. They were, in fact, warier than ever that he might be scamming me. But the more likely truth, I still felt, was that this nightmare was all entirely real.",
+      "zh": "不过，编辑们已经明确告诉我，《WIRED》和我都不可能给Red Bull或他的抓捕者付钱。事实上，他们比以往任何时候都更警惕他是否在对我进行骗局。可是我仍然感觉到，更可能的真相是，这场噩梦都是实实在在发生的。"
+    },
+    {
+      "id": "p121",
+      "en": "Red Bull seemed to have his phone back—likely to allow him to find someone to pay his ransom—but it felt too risky to call him. I texted him, suggesting he instead try to speak to W about who might be able to help him escape. W was far more experienced in these situations—and if Red Bull were monitored, he’d at least be caught speaking to an activist rather than a reporter.",
+      "zh": "红牛似乎拿回了手机——可能是为了让他能找到人替他付赎金——但给他打电话仍然太危险了。我给他发了短信，建议他改去找W商量谁能帮他逃脱。W在这类情况里更有经验，而且就算红牛在被监控，至少也会被发现他是在和一名活动人士说话，而不是和记者说话。"
+    },
+    {
+      "id": "p122",
+      "en": "I also told Red Bull that, as terrible as I felt that he was going through this hell, I wouldn’t be able to pay his ransom, any more than I’d been able to pay out his contract.",
+      "zh": "我还告诉红牛，虽然看到他经历这场炼狱般的折磨让我很痛心，但我同样没能力替他支付赎金，正如我之前也无法替他支付那份合约款一样。"
+    },
+    {
+      "id": "p123",
+      "en": "“Okay,” Red Bull wrote. “I understand.” He asked me to tell W to get in touch, and I told him I would.",
+      "zh": "“好，”红牛写道，“我明白了。”他让我转告W联系他，我答应会告诉W。"
+    },
+    {
+      "id": "p124",
+      "en": "I watched as he set Signal’s disappearing message feature to delete messages after only five seconds, a sign of how closely he feared he was being watched.",
+      "zh": "我看着他把 Signal 的“阅后即焚”功能设为仅五秒后自动删除消息，这反映出他多么害怕自己正被严密监视。"
+    },
+    {
+      "id": "p125",
+      "en": "He posted a thumbs-up emoji. Then it was gone.",
+      "zh": "他发了一个点赞表情。随后它就消失了。"
+    },
+    {
+      "id": "p126",
+      "en": "Over the next few days, I spoke with one person after another who I hoped might be able to help Red Bull, perhaps even by paying his ransom: Erin West, W, W’s boss at the nonprofit he worked for. One by one, each of them backed away—either from concerns about rewarding a scam compound’s human trafficking, suspicion that Red Bull’s story might itself be a scam, or some combination of the two.",
+      "zh": "在接下来的几天里，我先后与好几个人谈过话，我原本希望他们能够帮助 Red Bull，也许还包括支付他的赎金：Erin West，他在一家非营利机构工作的上司W。可他们一个接一个地都退缩了——要么担心会奖励一个诈骗集团的人口贩卖，要么怀疑 Red Bull 的故事本身就是骗局，或者两者兼而有之。"
+    },
+    {
+      "id": "p127",
+      "en": "West, despite her enormous enthusiasm when Red Bull first came forward, now said it sounded like a human trafficking racket she’d heard of elsewhere, in which fake victims solicit fake ransoms. W got as far as speaking to Red Bull on multiple Signal voice calls but was overwhelmed by his panicked energy and thought his desperate pleas for the ransom payment—and promises to pay W back in the future—were dubious. “It sounded like ‘Send me one bitcoin and I’ll send you two,’” W told me afterward.",
+      "zh": "West 尽管当 Red Bull 第一次出现时表现得热情高涨，但后来却说这听起来像她在别处听闻过的人口贩运骗局：假受害者假装被绑架索取虚假赎金。W 曾经与 Red Bull 进行了多次 Signal 语音通话，但他那种惊慌失措的能量让她不堪承受，她认为他为赎金苦苦哀求、并承诺未来还钱的说法都站不住脚。事后，W 对我说：“听起来像是‘你给我一个比特币，我就给你回两个。’”"
+    },
+    {
+      "id": "p128",
+      "en": "But I still felt I owed it to Red Bull to take his situation at face value and—assuming it was all true—do whatever I could within the bounds of journalistic ethics to get him out.",
+      "zh": "但我仍然觉得，我有责任按 Red Bull 的情况字面理解，并且——假设一切都属实——在新闻道德允许的范围内尽我所能帮助他脱困。"
+    },
+    {
+      "id": "p129",
+      "en": "Three days had passed since he was first held ransom. It was becoming clearer that he was no longer being closely monitored, perhaps because his captors were growing bored with him. I decided to risk a call. “Things are not going good,” he told me with typical understatement, speaking softly, close to the phone’s microphone. He told me he had a fever, that he’d been beaten several times, slapped and kicked and made to confess that he’d forged the Indian police document. On one occasion the bosses put a white powder into a cup of water and told him to drink it. He found that it made him unnaturally talkative and confident but then gave him a rash of raised red bumps on his skin. He was sometimes sent back to his dormitory to sleep, he told me, but hadn’t eaten in days and was deprived of water for long stretches.",
+      "zh": "自他第一次被扣押并勒索以来，已经过去三天。看起来他不再被严密监视了，也许是那些绑匪对他失去了兴趣。我决定冒险给他打电话。“事情不太顺利，”他用一贯的低调语气对我说，声音很轻，贴着电话麦克风慢慢开口。他告诉我自己发烧了，之前被打过好几次，被扇耳光、被踢，被迫承认自己伪造了印度警方文件。有一次，几个头目往一杯水里放了白色粉末，让他喝下去。他发现这让他变得不自然地健谈和自信，但随后全身起了许多红色丘疹。他有时会被送回宿舍睡觉，但已经好几天没吃东西，且经常被长期断水。"
+    },
+    {
+      "id": "p130",
+      "en": "He’d written to various Indian embassies and consulates across Southeast Asia, but none had responded. “No one is going to help me. I don’t know why,” he said a few minutes into our call, his voice finally breaking into a muffled sob, the first time I’d ever heard him express self-pity.",
+      "zh": "他曾写信给东南亚各地的印度使馆和领事馆，但都没有回应。我们通话几分钟后，他说：“没人会来帮我。我也不明白为什么。” 他的声音终于压抑着破碎，发出闷哽音，那是我第一次听见他流露出自怜。"
+    },
+    {
+      "id": "p131",
+      "en": "Then he quickly controlled himself with a single breath. “I want to cry,” he said. “But let’s see.”",
+      "zh": "然后他深吸一口气，很快就把情绪压了回去。“我想哭，”他说，“但先等等。”"
+    },
+    {
+      "id": "p132",
+      "en": "Four days after he’d first been caught trying to escape and held for ransom, Red Bull texted me to say that something had changed in the compound. Everything was strangely quiet, and no one had summoned him to the office. When he asked some of his coworkers, they told him there were rumors the Laotian police were planning a raid. Their Chinese bosses had gotten a tip from someone on the inside and were laying low.",
+      "zh": "在他第一次被抓后试图逃跑并被劫持勒索四天后，Red Bull 发短信告诉我：基地里有了变化。一切都异常安静，也没有人去把他叫到办公室。当他向几个同事打听时，他们告诉他有传闻说老挝警方正在准备突袭。那些中国老板从内部某人那里得到了风声，于是暂时按下不动。"
+    },
+    {
+      "id": "p133",
+      "en": "The next day, with rumors of a raid still circulating through the compound, Red Bull got a hopeful message from the Indian embassy in Laos. “Please share your passport copy, company ID,” it read. “Embassy will take necessary action to rescue you.”",
+      "zh": "第二天，在那片园区里仍流传着即将被突袭的传闻后，“红牛”收到了一条来自老挝印度大使馆的令人振奋的信息。信息写着：“请提供你的护照复印件、公司证件。” “大使馆将采取必要措施来营救你。”"
+    },
+    {
+      "id": "p134",
+      "en": "Salvation seemed to be on the horizon. But then more days passed, and—nothing. The embassy stopped responding to Red Bull’s messages. Late one night, I managed to get an Indian embassy official on the phone after several tries. He seemed confused about which person we were talking about, then repeated the government’s vague assurance that it would rescue him, and hung up.",
+      "zh": "拯救似乎就在眼前。然而又过了几天——什么都没有。大使馆停止回复“红牛”的消息。某个深夜，我在多次尝试后终于打通了印度大使馆一位官员电话。他似乎不清楚我们在谈论的是谁，然后又重复了政府含糊的保证：他们会营救他，之后挂断了电话。"
+    },
+    {
+      "id": "p135",
+      "en": "As the days went by—with no more clarity from the Indian government, no police raid, and no one willing to pay for his freedom—Red Bull seemed to be sinking into fatalism. One day I woke up to a series of messages offering up a confession, as if he feared he might die in the room where he was being held and wanted to absolve himself of sin.",
+      "zh": "随着日子一天天过去，印度政府没有进一步说明，没有警方突袭，也没有人愿意出钱换取他的自由，“红牛”似乎正在走向绝望的命运。一天，我醒来时看到一连串消息，他似乎在发表一种“忏悔”，仿佛担心自己会死在囚禁之地，想在死前为自己洗清罪责。"
+    },
+    {
+      "id": "p136",
+      "en": "“I want to say something honestly. When I first talked to you I said I never scammed anyone. That was not fully true,” he wrote. “The truth is the Chinese bosses forced me to bring two people into the scam. I did not do it by choice. I feel guilty about it every day. That is why I want to tell the full truth now.”",
+      "zh": "“我想老老实实地说一件事。你第一次和我谈话时，我说我从没诈骗过任何人。那不完全真实。”他写道。 “事实是，中国的老板逼我把两个人拉进这场骗局。我不是出于自己的选择。我每天都为此感到愧疚。也正因如此，我现在想把全部真相说出来。”"
+    },
+    {
+      "id": "p137",
+      "en": "He later told me more details of those two victims. From one, he’d taken $504. From the other, around $11,000. He gave me both of their names. I tried contacting them but couldn’t find one, and the other never responded. For the larger of those two sums, Red Bull should have received a commission based on the scam compound’s incentive structure. But he says he was never paid any reward beyond his meager base salary.",
+      "zh": "后来他又告诉我那两名受害者的更多细节。一个他骗走了504美元，另一个大约是11,000美元。他把他们两个名字都告诉了我。我试着联系他们，但一个始终联系不上，另一个也始终没有回复。按该诈骗团伙的提成机制算，后一笔更大金额中，红牛应该能拿到一定佣金。但他表示，自己除了那点微薄的基本工资外，从未得到任何额外报酬。"
+    },
+    {
+      "id": "p138",
+      "en": "I’d later look back at the picture of the office whiteboard Red Bull had shared early on. On it I could see, quite clearly, the Chinese name the compound had given him, “Machao,” next to the sum of $504. I had entirely missed this, though he’d made no attempt to hide it.",
+      "zh": "后来我回想起红牛一开始给我看过的一张办公室白板照片。照片上很清楚地写着，团伙给他取的中文名字“Machao”，放在了504美元这个数字旁边。我完全没注意到这一点，尽管他完全没有试图掩盖它。"
+    },
+    {
+      "id": "p139",
+      "en": "“I am trusting you with my real story,” Red Bull concluded his confession. “This is the truth.”",
+      "zh": "“我把我的真实经历都托付给你了，”红牛在他的供述结尾说，“这才是真相。”"
+    },
+    {
+      "id": "p140",
+      "en": "After 10 days in limbo, Red Bull told me that he and his coworkers had been ordered to pack their things. The office computers had been boxed up and stored in the dormitory. The entire staff was moving to a new building a few hundred feet away, and the workers were told they’d have to continue their work from these temporary dorm rooms rather than the office. According to the rumors, a raid was finally coming.",
+      "zh": "拖延了10天后，红牛告诉我，他和同事们接到命令，要整理行李。办公室电脑已经被装箱并存放到宿舍里。整个团队要搬到几百英尺外的新楼里，工作人员被告知今后要在这些临时宿舍里继续工作，而不是在办公室。根据传闻，警方突击行动终于要来了。"
+    },
+    {
+      "id": "p141",
+      "en": "Throughout this time, Red Bull was treated more or less like a dog, as he described it, a pariah set apart from the other workers: He had no bedding; sometimes he slept on the floor and was fed only when someone remembered to give him food, often spoiled leftovers. He lost weight and suffered from body aches, fever, and what felt like the flu.",
+      "zh": "在此期间，Red Bull被几乎当作一条狗对待，正如他所说，像个被驱逐者，与其他工人分得很远：他没有床铺，有时只能睡在地板上，只有在有人想起给他食物时才会被喂饭，而且常常是变质的剩饭。为了生存他不断消瘦，身体酸痛、发热，还出现了类似流感的症状。"
+    },
+    {
+      "id": "p142",
+      "en": "Yet somehow, even then, Red Bull was still motivated to keep digging.",
+      "zh": "然而不知为何，即便在那时，Red Bull仍然坚持继续深入挖掘。"
+    },
+    {
+      "id": "p143",
+      "en": "During this hiatus from the office, work devices were now allowed into the dormitory—a loosening of security that Red Bull realized could offer him an opportunity. One day when one of his roommates was asleep, he found the man’s work phone.",
+      "zh": "在这次脱离办公室的空档里，工作用设备现在可以带进宿舍了——这意味着安全措施松动，Red Bull意识到这给了他一个机会。有一天，当其中一位室友熟睡时，他找到了那个人的工作手机。"
+    },
+    {
+      "id": "p144",
+      "en": "He had seen the man enter his passcode over his shoulder, and now quickly unlocked it. Red Bull then connected his own personal phone to the man’s WhatsApp using the app’s “linked device” feature, allowing him to read the scam compound’s internal messaging. He used that access to make screen recordings, meticulously scrolling through months of the compound’s internal conversations, as well as all the screenshots of chat logs with victims his colleagues had posted.",
+      "zh": "他曾看见那人一边低头一边输入解锁密码，于是很快将其解开。随后，Red Bull用自己的手机通过 WhatsApp 的“已绑定设备”功能把自己连接到那人的帐号，从而读取到诈骗圈内的内部消息。借助这次权限，他录制了屏幕，认真翻阅了几个月来这座诈骗作坊的内部聊天记录，以及同事们发布的与受害者聊天截图。"
+    },
+    {
+      "id": "p145",
+      "en": "Another day, he found his own work phone left unattended in a different dorm room—he hadn’t had access to it since he was first caught trying to escape—and repeated the WhatsApp linking trick so that he could access that device’s messages, too, from his personal phone. Then he made another screen recording of scrolling through its chats. Together, the videos added up to a detailed record of three months of the compound’s day-to-day operations. Red Bull sent me samples of these recordings, but the full videos ran to nearly 10 gigabytes, far more than he could text me from his phone’s data plan.",
+      "zh": "另一天，他发现自己那部工作手机被落在了另一间宿舍里——自从他第一次试图逃跑后就再也没法碰到它——于是又重复了 WhatsApp 互联操作，从而也能用自己的手机查看那台设备里的消息。然后他又录了一段屏幕录像，记录自己浏览聊天记录的过程。把这些视频放在一起，就是这栋园区日常运作三个月的详细记录。Red Bull 把这些录像样本发给了我，但完整视频接近 10GB，远远超过他在手机套餐流量里能发给我的大小。"
+    },
+    {
+      "id": "p146",
+      "en": "A week later, after he and his coworkers had moved to the new building, Red Bull sent me a very different, more dramatic series of short clips: One showed dozens of South Asian men standing outside of a high-rise building, being lined up by what appeared to be Laotian police in khaki and black uniforms. Another showed a similar-looking crowd sitting in rows in a lobby. The raids, Red Bull told me, had arrived, sweeping the scam operations that hadn’t taken the precaution of vacating the old building, as his bosses had. Now these videos were circulating among workers who had only narrowly missed the crackdown.",
+      "zh": "一周后，当他和同事搬到新楼之后，Red Bull 又给我发来一组完全不同、更加戏剧化的短片：其中一段拍到几十名南亚男子站在一栋高楼外，身穿卡其色和黑色制服的疑似老挝警方正在将他们排成一排；另一段则是一个看起来很像的队列在大厅里坐着。Red Bull 告诉我，警方突袭已经到来，清查了那些没有像他老板们那样提前腾空旧楼的诈骗作业点。现在，这些视频正在工人之间流传，那些工人仅仅是躲过了这次打击。"
+    },
+    {
+      "id": "p147",
+      "en": "As the rest of the compound’s operations struggled to adapt to their new makeshift workspace, Red Bull, of course, had already been stuck in purgatory for weeks. He pleaded with his bosses to be released, arguing that he was no use to them. He had no money, and clearly there was no one willing to pay his ransom. He was dead weight, taking up space when they were already crowded into their temporary building.",
+      "zh": "当园区其他业务还在努力适应新的临时工作场所时，Red Bull 当然也早已在这段‘中间状态’里搁置了数周。于是他向老板们恳求释放自己，理由是他已经没用了。对外他没有钱，而且显然没有人愿意出钱给他支付赎金。他成了包袱，尤其是当大家已经挤在那栋临时楼里时，占着地方却不再有价值。"
+    },
+    {
+      "id": "p148",
+      "en": "Shockingly, his bosses agreed. Rather than kill him, they told him he could go.",
+      "zh": "令人震惊的是，老板们同意了。他们没有杀他，而是告诉他可以走。"
+    },
+    {
+      "id": "p149",
+      "en": "To scrape together enough money for a return journey, Red Bull borrowed a few hundred dollars from his brother. Then he wrote to an Indian acquaintance who had a position in a scam compound nearby, telling him that he needed to go home to see his family but would soon return. If the acquaintance could send enough money to buy plane tickets, Red Bull proposed, he’d let the man take the recruitment fee when he returned. Soon he had several hundred more dollars in his account. Red Bull had scammed a scammer, and he’d found a path home.",
+      "zh": "为了凑够回家的旅费，Red Bull向弟弟借了几百美元。随后他给一位印度熟人写信，这人曾在附近的一个诈骗园区担任过职务，他告诉这位熟人自己需要回家看家人，但很快就会回来。如果那位熟人能寄来足够买机票的钱，Red Bull提出等他回来后就把招募费让给对方。没过多久，他的账户里又多了几百美元。Red Bull骗了一个骗子，也找到了一条归途。"
+    },
+    {
+      "id": "p150",
+      "en": "In late July, Red Bull’s team leader, Amani, intercepted him outside the dormitory, handed him his passport, and told him it was time to leave. Red Bull explained that most of his things, including his shoes, were in his room. He was wearing only a pair of flip-flops.",
+      "zh": "7月下旬，Red Bull 的组长Amani在宿舍外拦住了他，递给他护照，并告诉他该走了。Red Bull解释说，他的大多数东西都还在房间里，包括鞋子。他身上只穿了一双人字拖。"
+    },
+    {
+      "id": "p151",
+      "en": "Amani told him he didn’t care. 50k himself was waiting in an Audi to drive Red Bull to the border of the Golden Triangle region. From there, he’d be on his own. He got in the back of the car in his flip-flops and left.",
+      "zh": "Amani对这件事不在意。Amani本人正坐在一辆奥迪车里，等着送 Red Bull 前往金三角地区边界。从那里起，他就得独自一人行动了。他穿着人字拖坐进车后排，然后出发了。"
+    },
+    {
+      "id": "p152",
+      "en": "Later, when Red Bull had finally escaped, he would marvel at this last slight, as if it were somehow worse than all the slaps, kicks, drugging, and starvation he’d endured. “I never expected this from them,” he wrote to me, punctuating his text with crying emojis. “They didn’t even allow me to wear my shoes.”",
+      "zh": "后来，当 Red Bull终于逃脱后，他会对这最后一点羞辱感到震惊，仿佛这比他曾经遭受的所有耳光、踢打、下药和挨饿还要更严重。“我从没想到他们会这样对我，”他给我写道，消息末尾配上了哭泣表情符号。“他们甚至都不让我穿鞋。”"
+    },
+    {
+      "id": "p153",
+      "en": "A few days after that drive to the border, near the end of a journey that involved buses, a train, and a dirt-cheap plane itinerary with no fewer than five layovers, Red Bull was finally back in India. During a stopover on the way to his home village, he began sending me the WhatsApp screen-recording videos he’d smuggled out of the compound on his phone.",
+      "zh": "在那次去边境的行程结束后几天，经过了几次乘坐公共汽车、火车，以及一趟廉价航班（中间至少转机五次）后，“红牛”终于回到了印度。在前往家乡村庄的途中转机时，他开始给我发来他在手机里偷偷带出的诈骗基地里的 WhatsApp 屏幕录屏视频。"
+    },
+    {
+      "id": "p154",
+      "en": "For an analysis of the thousands of pages of materials that Red Bull leaked to WIRED, click here.",
+      "zh": "想要了解红牛向《WIRED》泄露的成千上万页资料的分析，请点击这里。"
+    },
+    {
+      "id": "p155",
+      "en": "These files would turn out to be the most significant and unique material he provided me. A team of reporters at WIRED would later convert them into a 4,200-page PDF of screenshots and share them with scam compound experts. The document, we’d discover, offers a detailed diary of life inside the compound, cataloging every successful scam it achieved during those months and laying out the scale and hierarchy of the operation. It also reveals the mundane minute-by-minute life of the forced laborers carrying out those scams, from their daily schedules to the fines and punishments they received to the Orwellian language their bosses used to manipulate, cajole, and discipline them—some of which is included in the text interspersed throughout this story.",
+      "zh": "这些文件后来被证明是他提供给我最重要、最独特的材料。一支《WIRED》记者团队随后将其整理成了一个 4,200 页的截图 PDF，并与反诈骗营地领域的专家们共享。我们发现，这份文件详细记录了他在营地里生存下来的日常生活，整理了他们在那些月份里实施的每一单成功诈骗，呈现了该行动的规模和层级结构。它还揭示了那些被迫劳动者执行诈骗的平凡又细碎的每一分钟生活：从每日作息，到他们受到的罚款和惩罚，再到上级使用的奥威尔式语言——这些语言被拿来操控、唆使并管教他们，其中部分内容已散见于本文。"
+    },
+    {
+      "id": "p156",
+      "en": "Ultimately, no one had given Red Bull the help he needed to escape—not the human rights groups I tried to connect him with, not the Indian government (which never rescued him as promised), and not WIRED. Red Bull had rescued himself. Now, despite that complete lack of incentive or aid, amid the most desperate circumstances, he had obtained and given me the biggest data prize yet.",
+      "zh": "最终，没有任何人给予“红牛”他逃离所需的帮助——我试图对接的那些人权组织，也没有；从未兑现承诺的印度政府也没有；《WIRED》也没有。他是自救而出的。现在，尽管在最绝望的处境中，没有任何激励、没有任何援助，他却拿到并交给我迄今为止最大的资料奖金。"
+    },
+    {
+      "id": "p157",
+      "en": "Red Bull, back in his home country of India.",
+      "zh": "红牛回到了他的祖国印度。"
+    },
+    {
+      "id": "p158",
+      "en": "Red Bull’s hands weren’t clean. He had admitted to me that, under duress, he’d scammed two innocent people. But despite my fears and those of the others I’d tried to connect him with, his motivation to act as a whistleblower had proven to be pure.",
+      "zh": "红牛的双手并不干净。他向我承认，在胁迫下他曾骗过两名无辜的人。但尽管我担心，尽管我曾试图联系过的其他人也对此表示担忧，他主动做吹哨者的动机仍然纯粹。"
+    },
+    {
+      "id": "p159",
+      "en": "Now there could finally be no doubt: Red Bull was real.",
+      "zh": "现在终于再也没有疑问：红牛是真实存在的人。"
+    },
+    {
+      "id": "p160",
+      "en": "On a quiet backstreet of a city somewhere in India, I wait alone—surrounded by several dozen macaque monkeys lounging, grooming each other, and parkouring off the neighborhood’s balconies and electrical wires. Then the monkey troop disperses into the trees and onto rooftops, and a white SUV emerges around a corner, drives up the street, and stops in front of me.",
+      "zh": "在印度某个城市的一条安静的后街上，我独自等着——周围有几十只食蟹猴闲散地坐着、互相梳理毛发，并在附近的阳台和电线上翻越。随后，猴群散开，爬上树梢和屋顶，一辆白色SUV从一个转角拐出，沿着这条街驶来，在我面前停下。"
+    },
+    {
+      "id": "p161",
+      "en": "A door opens, and out steps Red Bull, displaying the same shy smile he had on his face when he picked up my first Signal video call. He looks smaller than I imagined, very thin, but more put together than he did on my phone screen, with a button-up flannel shirt and a fresh haircut. As he walks toward me, he breaks into a bigger, less restrained grin, and I shake his hand.",
+      "zh": "一扇门打开了，Red Bull走了出来，他露出和我第一次接到他发来的Signal视频电话时同样害羞的笑容。他看起来比我想象的更瘦小，但比他在手机屏幕上给我的印象更整洁些，穿着一件按钮衬衫和一头刚刚修剪的头发。当他朝我走过来时，他绽放出更大、更不拘谨的笑容，我握住了他的手。"
+    },
+    {
+      "id": "p162",
+      "en": "Now that he’s finally free, Red Bull has given me permission to reveal his real name: Mohammad Muzahir.",
+      "zh": "现在他终于获得自由，Red Bull已允许我公开他的真名：Mohammad Muzahir。"
+    },
+    {
+      "id": "p163",
+      "en": "“I’m feeling very, very happy to meet with you. I’ve been waiting a long time to meet with you and share everything, face-to-face,” Muzahir says after we’ve checked him into his hotel and we’re riding in the SUV to mine. “I have no words to express it right now.”",
+      "zh": "“能见到你我非常非常高兴。很久以前我就想和你见面，把一切都当面告诉你。”我们把他送进酒店后，乘着SUV去矿场（Mine）时，Muzahir这样说。“我现在说不出合适的话。”"
+    },
+    {
+      "id": "p164",
+      "en": "The three months between Muzahir’s escape and this in-person meeting have been far from easy. He’s virtually broke, but he can’t bring himself to focus on building websites and Facebook pages as he has done in the past, nor does he even have a laptop. Instead he has worked as a waiter and taken construction jobs to survive. When Muzahir isn’t working or applying to jobs and universities abroad—so far without success—he obsessively researches scam operations on his phone, which is cracked on both front and back, with glitching lines across its damaged screen.",
+      "zh": "从Muzahir逃离到这次当面见面，中间的三个月一点都不容易。他几乎身无分文，但他无法再把精力集中到过去那样建网站、做Facebook页面上，甚至连一台笔记本电脑都没有。相反，他只能靠当服务员和做临时建筑工来维持生计。当Muzahir没有在工作，也没有在申请工作和海外大学（到目前为止都没有成功）时，他会在手机上反复研究诈骗作业。那台手机正反两面都裂了，屏幕上有一条条卡顿、抖动的裂纹。"
+    },
+    {
+      "id": "p165",
+      "en": "In that research, Muzahir has come to believe that almost all of the men rounded up in the raids that displaced his compound were later released back into the Golden Triangle. He assumes the police action was all just for show and barely disrupted the scam operations there. He has also learned that the Boshang operation that indentured him has since relocated to Cambodia, taking many of his former coworkers with it.",
+      "zh": "在那次调查中，Muzahir逐渐确信，他那个园区被突击搜查时抓起来的几乎所有人，后来都被释放回了金三角地区。他认为这次警务行动只是做样子，几乎没有真正扰乱那里的诈骗活动。他也得知，后来将他强行押解、控制其劳动的博尚（Boshang）行动已经搬到了柬埔寨，并带走了他许多前同事。"
+    },
+    {
+      "id": "p166",
+      "en": "Muzahir sleeps as little as three hours a night, he tells me after we sit down in an empty lounge in the basement of my hotel. He’s haunted, he says, by the fact that the scam compound he escaped, and dozens like it, are still operating and even expanding across lawless zones in Southeast Asia, and now other parts of the world. He thinks compulsively about the colleagues he left behind. He feels crushing guilt, too, about the two people he scammed, even while telling himself it was a necessary precursor to his actions as a whistleblower. He dreams of earning enough to somehow pay the two men back. “Honestly this is not a happy ending to the story,” he says.",
+      "zh": "Muzahir告诉我，在我与他在我酒店地下室的一个空荡休息室坐下后，他一晚最多只睡三个小时。他说自己心有余悸，因为他逃出的诈骗园区，以及数十个类似园区，如今仍在运作，并在东南亚法外地带甚至世界其他地区不断扩张。他反复想念被他留在那里的同事。他对自己骗过的那两个人也怀着深深的内疚，尽管他一再告诉自己，那是出于吹哨者身份而采取行动前不得不迈出的前一步。他梦想着赚够钱，总有一天把那两个人的钱还回去。“坦率地说，这个故事并没有一个圆满的结局，”他说。"
+    },
+    {
+      "id": "p167",
+      "en": "After experiencing so many personal betrayals—and working for an operation where industrialized betrayal was, in fact, the business model—Muzahir’s more fundamental problem is that he has trouble putting faith in anyone. He’s reluctant to engage with even the human-rights NGOs and survivor groups I’ve tried to introduce him to. “These people are just wasting time and giving false hope,” he wrote to me at one point. “I’m not trusting too much in people.”",
+      "zh": "经历了如此多次个人背叛之后，再加上在一个把大规模背叛本身当作商业模式的机构里工作，Muzahir更根本的问题是，他很难再对任何人建立信任。他对我试图介绍给他的任何人权 NGO 以及幸存者组织都很抗拒。‘这些人只是在浪费时间，给人虚假的希望，’他曾给我写信说。‘我不敢对任何人寄予太多信任。’"
+    },
+    {
+      "id": "p168",
+      "en": "Somehow I’ve become an exception to that near-universal mistrust. But now that we’re finally meeting in person, I feel compelled to confess to Muzahir that there were times when I didn’t trust him—that even when he most needed my help, I still feared, incorrectly, that he might be scamming me.",
+      "zh": "在这种几乎普遍的猜疑中，我不知怎的成了一个例外。但是当我们终于见面时，我却不得不向 Muzahir 坦白：有些时候我并不信任他——即使在他最需要我帮助的时候，我仍然错误地担心他可能在骗我。"
+    },
+    {
+      "id": "p169",
+      "en": "To my relief, he just grins at this. “You did good,” Muzahir says. If I had paid off his contract or even paid his ransom, he points out, he would have left the compound before he had a chance to record and share the operation’s full WhatsApp conversations.",
+      "zh": "这让我松了口气，他只是笑了笑说：“你做得很好。”穆扎希尔说，如果我已经把他的合约钱付清，甚至支付赎金，他就会在还没来得及把这套运作的完整 WhatsApp 对话记录下来并公开之前，就已经离开那处园区。"
+    },
+    {
+      "id": "p170",
+      "en": "Muzahir is eager now for WIRED to release our full analysis of that data. I’ve pointed out to him that, when we do, the Chinese mafia could find a way to retaliate against him in India, or elsewhere if he follows through on his plan to leave the country. We could obscure his identity, but his team was small enough that it will likely still be immediately clear to his former bosses who the leaker was—even if we didn’t publish this detailed narrative of his experience.",
+      "zh": "穆扎希尔现在非常希望《连线》尽快发布我们对这些数据的完整分析。我曾告诉过他，当我们发布时，华人黑帮可能会设法在印度报复他，或者在他按计划离开这个国家后，于他前往的其他地方报复他。我们可以隐藏他的身份，但他的团队太小了，即使我们没有发布这篇详尽叙述他经历的长文，也很可能会立刻让他的前上司们认出泄密者是谁。"
+    },
+    {
+      "id": "p171",
+      "en": "Muzahir responds that he’s willing to accept that risk to get his story out—including his real identity. After everything he has suffered, Muzahir is still idealistic enough to hope that his experience will serve not only as a warning but as a source of inspiration to others like him.",
+      "zh": "穆扎希尔回应说，他愿意承担这个风险，把真名都说出来，把自己的故事讲出来。经历了这么多苦难之后，他仍然足够理想主义，以至于仍希望自己的经历不仅能作为警示，也能成为像他一样处于困境者的灵感来源。"
+    },
+    {
+      "id": "p172",
+      "en": "As he explains that decision, I can see more clearly than ever before the motivation driving every risk he has taken: He’s speaking not only to me but to every potential resister or whistleblower inside the burgeoning scam compound industry and the global power structures that enable it, to its survivors, to the hundreds of thousands of other voiceless people trapped in its systems of modern slavery.",
+      "zh": "当他解释这个决定时，我前所未有地看得更清楚：正是这个动机推动他承担了每一次风险。也正是它，促使他发声。他不仅在对我说，也是在对所有正在崛起的诈骗产业链内的潜在抵抗者与揭发者、以及支撑这一体系的全球权力结构发声；对那些幸存者说；对无数被困于这套现代奴役系统、却没有发声权的人——数十万之多——说。"
+    },
+    {
+      "id": "p173",
+      "en": "“When someone reads about me, then maybe a lot of Red Bulls will stand up and speak,” Muzahir says with his usual shy smile. “When a lot of Red Bulls speak in this world, it will help to make things better.”",
+      "zh": "“如果有人读到我的故事，也许就会有更多‘红牛’站出来发声，”穆扎希用他一贯害羞的笑容说。“当这个世界上有更多‘红牛’开口时，就能帮人把事情变好。”"
+    },
+    {
+      "id": "p174",
+      "en": "Let us know what you think about this article. Submit a letter to the editor at [email protected].",
+      "zh": "请告诉我们您对这篇文章的看法。请向主编投稿：[email protected]。"
+    }
+  ],
+  "translated_at": "2026-07-23T00:14:53+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

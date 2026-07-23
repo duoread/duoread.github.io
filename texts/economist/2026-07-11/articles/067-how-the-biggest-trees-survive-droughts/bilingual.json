@@ -1,0 +1,74 @@
+{
+  "id": "067-how-the-biggest-trees-survive-droughts",
+  "source_href": "3ccb2067-0ebc-45ac-b94e-81b61c91f3c2.html",
+  "publication": "economist",
+  "issue": "2026-07-11",
+  "issue_published_at": "2026-07-11",
+  "article_published_at": "July 9th 2026",
+  "published_at": "July 9th 2026",
+  "published_date_source": "article",
+  "order": 67,
+  "section": "Science & technology",
+  "title_en": "How the biggest trees survive droughts",
+  "title_zh": "最大的树木如何在干旱中生存",
+  "rubric_en": "Being tall would be a disadvantage, if not for some clever engineering",
+  "rubric_zh": "如果没有巧妙的“工程设计”，高个子反而可能是个劣势",
+  "date": "July 9th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "TOWERING OVER 100 metres above the forest floor, the dipterocarp—named after its winged seeds, which spiral away in the wind—is the tallest tropical tree in the world. For a plant, being tall is an advantage: if your neighbours cannot overshadow you, that leaves you with the lion’s share of the sunlight.",
+      "zh": "这种木兰科树木在森林地面之上可高耸一百多米，因其有螺旋状、带翼的种子而得名，是世界上最高的热带树木。对一株植物来说，长得高有好处：如果你的邻居无法把你遮住，那么你就能获得大部分阳光。"
+    },
+    {
+      "id": "p002",
+      "en": "But trees need water as well as light, and here being tall presents a problem. The physics of moving liquid through thin channels means that the taller a tree gets, the harder it is to pump water from the soil to the leaves in the crown. Scientists had assumed that would leave big trees, like dipterocarps, more vulnerable than their more diminutive competitors when water was scarce. But in a paper published on July 2nd in Science, a team led by Paulo Bittencourt of Cardiff University have shown that, thanks to some clever evolutionary engineering, that is not true.",
+      "zh": "但树木既需要水也需要光，而身高高也带来问题。液体要沿着细小通道上行的物理规律意味着，树越高，就越难把水从土壤输送到树冠中的叶片。科学家曾经认为，这会让像木兰科这样的大树在缺水时比体型更小的竞争者更容易受害。但在《科学》杂志 7 月 2 日发表的一篇论文中，卡迪夫大学的 Paulo Bittencourt 领导的研究团队表明，得益于某些聪明的进化“工程”设计，这种看法并不正确。"
+    },
+    {
+      "id": "p003",
+      "en": "A tree’s trunk contains a network of tubes known as xylem whose job is to ferry water from the roots to leaves. While many animals pump fluid around their bodies with a heart, trees rely on evaporation to keep the liquids flowing. As water in the leaves escapes into the air, it creates suction in the xylem. That draws more water up to fill the space. That process is aided by the properties of water itself. Water molecules tend to cling to their neighbours, so that as one is drawn up, others follow. The molecules also adhere to the walls of the xylem, helping to counteract the downward pull of gravity.",
+      "zh": "树干中有一张管道网络，称为木质部，负责把水从根系运到叶片。许多动物靠心脏把体内液体泵送循环，而树木则依赖蒸发维持液体流动。当叶片中的水分散发到空气中时，会在木质部内形成吸力，进而把更多水分吸上来填补空间。这个过程还得益于水本身的特性。水分子倾向于彼此吸附，于是当一分子被带上去时，其他分子也会跟着上去。水分子还会黏附在木质部壁面上，帮助抵消重力向下的拉力。"
+    },
+    {
+      "id": "p004",
+      "en": "This plumbing system, clever as it is, poses two problems for tall timber. The first is due to gravity. As the height of a tree increases, so does the tension towards the top of its xylem. If that tension gets too high the links between water molecules can break, allowing pockets of air to form and blocking the flow. The second is the length of the tubes themselves. It is harder to sip orange juice through a long straw than a short one. For the same reason—friction between the liquid and the walls, mostly—the greater the distance between a tree’s roots and leaves, the harder it is for water to flow up its xylem.",
+      "zh": "这套输水系统虽然很巧妙，但对高大的木本植物也带来两个问题。第一个问题来自重力。随着树体高度增加，树木顶部木质部中的张力也随之增大。如果张力过高，水分子之间的连接可能会断开，导致形成空气囊，进而阻塞水流。第二个问题是管道本身的长度。通过长吸管吸橙汁比通过短吸管更困难。出于同样的原因——主要是液体与管壁之间的摩擦——树的根和叶之间距离越远，水沿木质部往上流动就越困难。"
+    },
+    {
+      "id": "p005",
+      "en": "These challenges had led to a prediction among dendrologists: giant trees ought to have a harder time getting water up to their leaves, leaving them more at risk of drought. And yet, says Dr Bittencourt, actual data was lacking. That is perhaps not surprising, for collecting it is hard work. The tallest trees can be scaled only by specialist climbers.",
+      "zh": "这些困境促使树木学家曾经作出一种预测：巨大的树木把水输送到树叶会更困难，因此更容易在干旱中受损。尽管如此，Bittencourt 博士说，实际上相关数据一直缺乏。这并不奇怪，因为采集数据很辛苦。最高的树木只能由受过训练的攀树专家登上去。"
+    },
+    {
+      "id": "p006",
+      "en": "Fortunately, some of Dr Bittencourt’s colleagues were experienced tree-climbers. The team chose as test subjects a collection of dipterocarps in a rainforest in north-eastern Borneo. Over the course of three months in 2022, the researchers measured 38 different trees. The team then monitored how fast 27 of those trees grew over 770 days from 2022 to 2024.",
+      "zh": "幸运的是，Bittencourt 博士的一些同事是经验丰富的树木攀登者。团队在婆罗洲东北部的一片雨林中选择了多种红木科树木作为实验对象。研究人员在 2022 年的三个月里对 38 棵不同树木进行了测量。随后，团队持续追踪其中 27 棵树在 2022 年至 2024 年期间 770 天的生长速度。"
+    },
+    {
+      "id": "p007",
+      "en": "“What we found is that [the trees] were adjusting some key parameters so they could be very tall and still keep their leaves hydrated,” says Dr Bittencourt. Each tree’s water-transporting xylem widened as they ran from tip to base, which helps reduce resistance in the parts of the xylem closest to the ground. For the tallest trees, the widening was more pronounced than would be expected if they were simply scaled-up versions of their shorter relatives.",
+      "zh": "“我们发现的是，树木会调整一些关键参数，从而在保持非常高的高度时仍能让叶片保持充足含水，”Bittencourt 博士说。每棵树的导水组织筛管从顶部到基部逐渐变宽，这有助于减少靠近地面的导水组织部分的阻力。对于最高的树木来说，这种加宽程度比它们如果只是短树的放大版所预期的更为明显。"
+    },
+    {
+      "id": "p008",
+      "en": "Gravity meant that the pulling power of leaves declined as trees got taller, as expected. But the dipterocarps had accounted for that too. Their highest leaves sported higher concentrations of osmolytes—chemicals that help cells hold their shape when water is scarce. That meant they were no more susceptible to wilting than those lower down. Thanks to such clever engineering, the researchers found no relation between a tree’s height and a reduction in its growth rate during a six-month drought that began in December 2023.",
+      "zh": "正如预期，重力会使树木越高，叶片的牵引力越弱。但这些红木科树木也把这种影响考虑在内。它们最高的叶片中，渗透调节物（有助于细胞在缺水时保持形状的化学物质）含量更高。这意味着这些叶片并不会比更低处的叶片更容易枯萎。得益于这种巧妙的“工程”设计，研究者发现，在 2023 年 12 月开始、为期六个月的干旱期间，树木高度与生长速率下降之间并不存在关联。"
+    },
+    {
+      "id": "p009",
+      "en": "By virtue of their enormous size, the tallest 1% of trees store over half of the carbon in Earth’s forests. The assumption that these giants will be the most severely affected by droughts is factored into some climate-change models. The dipterocarp’s clever plumbing suggests those models may need pruning. ■",
+      "zh": "凭借其巨大体量，最高的 1% 树木储存了地球森林中超过一半的碳。科学界在一些气候变化模型中已经把这些巨木将最严重受到干旱影响这一假设考虑在内。双翅果树（dipterocarp）巧妙的“输送系统”表明，这些模型可能需要修订。■"
+    },
+    {
+      "id": "p010",
+      "en": "Curious about the world? To enjoy our mind-expanding science coverage, sign up to Simply Science, our weekly subscriber-only newsletter.",
+      "zh": "想拓展你的世界观吗？若想阅读我们开阔思维的科学报道，请订阅《Simply Science》，这是一份每周面向订阅者的通讯。"
+    }
+  ],
+  "translated_at": "2026-07-22T23:26:34+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

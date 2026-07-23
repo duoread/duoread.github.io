@@ -1,0 +1,434 @@
+{
+  "id": "024-openais-fidji-simo-plans-to-make-chatgpt-way-more-usefuland-have-you-pay",
+  "source_href": "feed_0/article_23/index_u47.html",
+  "publication": "wired",
+  "issue": "2026-05-02",
+  "issue_published_at": "2026-05-02",
+  "article_published_at": "Nov 17, 2025 6:00 AM",
+  "published_at": "Nov 17, 2025 6:00 AM",
+  "published_date_source": "article",
+  "order": 24,
+  "section": "Zoë Schiffer",
+  "title_en": "OpenAI's Fidji Simo Plans to Make ChatGPT Way More Useful—and Have You Pay For It",
+  "title_zh": "OpenAI 的 Fidji Simo 计划让 ChatGPT 变得更有用——并让你为此付费",
+  "rubric_en": "",
+  "rubric_zh": "",
+  "date": "Nov 17, 2025 6:00 AM",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "In case OpenAI’s structure couldn’t get any weirder—a nonprofit in charge of a for-profit that’s become a public benefit corporation—it now has two CEOs. There’s Sam Altman, chief executive of the whole company, who manages research and compute. And as of this summer, there’s Fidji Simo, the former CEO of Instacart, who manages everything else.",
+      "zh": "如果说 OpenAI 的组织结构还不够离奇——一家由管理盈利公司的非营利机构，并且这家公司还被改造成了公众利益公司——那么现在它又有了两位 CEO。一个是山姆·奥特曼，负责整个公司的首席执行官，掌管研究与算力；另一个则是今年夏天开始上任的前 Instacart CEO 菲茜·西莫（Fidji Simo），她负责公司其他所有事务。"
+    },
+    {
+      "id": "p002",
+      "en": "Simo hasn’t been seen much at OpenAI’s San Francisco office since she began as CEO of Applications in August. But her presence is felt at every level of the company—not least because she’s heading up ChatGPT and basically every function that might make OpenAI money. Simo is dealing with a relapse of postural orthostatic tachycardia syndrome (POTS) that makes her prone to fainting if she stands for long periods of time. So for now, she’s working from home in Los Angeles, and she’s on Slack. A lot.",
+      "zh": "自从8月担任应用业务 CEO 以来，西莫很少在 OpenAI 位于旧金山的办公室露面。但她的存在却在公司各层面都能明显感受到——尤其因为她正在负责 ChatGPT，以及几乎所有可能为 OpenAI 带来收入的职能。西莫正在与体位性直立性心动过速综合征（POTS）复发作斗争，这会让她在长时间站立时容易晕厥。因此，目前她在洛杉矶远程办公，几乎全都在 Slack 上活动，且非常多。"
+    },
+    {
+      "id": "p003",
+      "en": "“Being present from 8 am to midnight every day, responding within five minutes, people feel like I’m there and that they can reach me immediately, that I jump on the phone within five minutes,” she tells me. Employees confirm that this is true. OpenAI’s famously Slack-driven culture can be overwhelming for new hires. But not, apparently, for Simo. Employees say she is often seen popping into channels and threads, sharing thoughts and asking questions.",
+      "zh": "她告诉我：“我每天都从早上8点待到午夜，每五分钟就回复一次，大家会觉得我就在身边，随时能联系到我，也知道我能在五分钟内接起电话。” 员工们证实这确实如此。OpenAI 以 Slack 为主导的文化对新员工来说常常令人应接不暇，但显然西莫并不例外。员工们说，她经常会进入不同频道和帖子，分享想法并提问。"
+    },
+    {
+      "id": "p004",
+      "en": "Simo joined during a chaotic period for OpenAI, which is expanding in nearly every direction. There are sovereign AI partnerships, new model releases, retail partnerships, multibillion-dollar compute deals, a proprietary chip, a mysterious hardware product—and of course, ChatGPT. “We do not battle for scope,” Simo says. “We battle for less scope.”",
+      "zh": "西莫加入时，OpenAI 正处于一段混乱时期，公司几乎在各个方向都在扩张。这里有国家级主权式 AI 合作、有新的模型发布、有零售合作、数十亿美元级别的算力交易、有专有芯片、还有一款神秘的硬件产品——当然也少不了 ChatGPT。西莫说：“我们不是为了争夺范围而竞争。我们是在为更少的范围而竞争。”"
+    },
+    {
+      "id": "p005",
+      "en": "Outside Silicon Valley, Simo’s hiring came as a surprise. For those in the know, it was less of a shock. A native of Sète, a small fishing town in the south of France, Simo made a name for herself running the Facebook app at Meta before taking the top job at Instacart in 2021. She took the grocery startup public two years later. In the Valley, she’s known as a product visionary with a reputation for scaling consumer apps across the globe.",
+      "zh": "在硅谷之外，西莫的到任让不少人感到意外；而对业内人士来说，这并不算太惊讶。这位来自法国南部小渔村塞特（Sète）的本地人，在接手 Meta 的 Facebook 应用负责人期间闯出名声，随后在 2021 年出任 Instacart 的最高职务，并在两年后将这家生鲜电商公司推向上市。她在硅谷的名声是“产品愿景型人物”，并因擅长将消费类应用规模化到全球市场而广受认可。"
+    },
+    {
+      "id": "p006",
+      "en": "Simo’s role at OpenAI is, in large part, to do the same—turn the company’s research breakthroughs into moneymaking, must-have consumer products. She faces staggering competition from tech giants like Google and Meta, as well as AI startups founded by OpenAI alums, including Thinking Machines Lab, Anthropic, and Periodic Labs. “The thing that keeps me up at night is that the intelligence of our models is well ahead of how much people are using them,” Simo says. “I see my job as closing this gap.”",
+      "zh": "在 OpenAI，西莫的职责在很大程度上与此相似——把公司的研究突破转化为能赚钱、也能成为刚需的消费级产品。她将面对 Google、Meta 等科技巨头，以及包括 Thinking Machines Lab、Anthropic 和 Periodic Labs 在内的 OpenAI 校友创办的 AI 初创公司带来的巨大竞争压力。“让我夜不能寐的，是我们的模型智能远远领先于人们当前的使用方式，”西莫说。“我把自己的工作看作是要把这道鸿沟缩小。”"
+    },
+    {
+      "id": "p007",
+      "en": "Since she arrived, Simo has overseen the launch of Pulse, a product that connects to users’ calendars and gives them personalized information based on their schedule, chat history, and feedback; created a jobs platform to allow people to get AI-certified and look for roles that make use of their skills; and doubled down on improving ChatGPT’s responses to people having acute mental health crises. Eventually, sources say, she’ll be the person deciding how to roll out ads in ChatGPT’s free tier.",
+      "zh": "自她到任以来，西莫主持推出了 Pulse，这是一款可以接入用户日程的产品，会根据用户的日程安排、聊天记录和反馈，提供个性化信息；她还创建了一个就业平台，让人们获得 AI 认证并寻找能发挥自己技能的岗位；并进一步加大了对 ChatGPT 在处理急性心理健康危机求助对话时回应质量的改进。消息人士称，最终由她决定如何在 ChatGPT 的免费版中投放广告。"
+    },
+    {
+      "id": "p008",
+      "en": "We’re sitting in the light-filled modern farmhouse where Simo lives with her husband, Rémy, and their 10-year-old daughter. On the table in front of us sit a pile of pastries and a box of Rémy’s chocolates. A former engineer, he now makes desserts full-time.",
+      "zh": "我们坐在西莫与丈夫雷米（Rémy）和他们 10 岁女儿的阳光充盈的现代化农舍里。我们身前的餐桌上摆着一大盘点心和一盒雷米做的巧克力。雷米曾是工程师，如今全职制作甜点。"
+    },
+    {
+      "id": "p009",
+      "en": "It’s an idyllic backdrop for the person helming what might be the most ambitious startup on earth. If OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity, Simo’s goal is to build and scale the tools that make that possible. The question for her—and for OpenAI—is whether the mission can survive the business model. This interview has been edited and condensed for clarity.",
+      "zh": "这是一副宛如明信片般理想化的背景画面，映衬着一个可能是地球上最雄心勃勃的创业项目的负责人。如果 OpenAI 的使命是让通用人工智能惠及全人类，那么 Simo 的目标就是构建并扩展让这一目标成为可能的工具。对她来说，也对 OpenAI 来说，问题在于：这一使命能否在商业模式下持续下去？为了提高清晰度，这篇采访经过了编辑和删节。"
+    },
+    {
+      "id": "p010",
+      "en": "Zoë Schiffer: You’re the CEO of Applications—and you report to Sam Altman. What has that working relationship been like?",
+      "zh": "Zoë Schiffer：你现在是应用产品线的 CEO，而且向 Sam Altman 汇报。这种上下级关系是怎样的？"
+    },
+    {
+      "id": "p011",
+      "en": "Fidji Simo: What Sam wanted was the ability to focus on research and compute, so I am trying to make sure that he can free up his time. Meanwhile, he realized that this is a company that evolved primarily from a research lab but became a really important product company, and that requires a different muscle. I see my role as making that product company incredibly successful while respecting the culture of the research lab.",
+      "zh": "Fidji Simo：Sam 想要的是专注于研究和算力，所以我正在尽量让他腾出时间。与此同时，他也意识到，这已经是一家从研究实验室发展而来、但最终成为了真正重要的产品公司，这需要完全不同的能力。我认为自己的角色就是让这家产品公司取得惊人的成功，同时尊重实验室文化。"
+    },
+    {
+      "id": "p012",
+      "en": "When you’re coming into a job like that, is someone checking your references?",
+      "zh": "当你进入一份这样的工作时，会有人帮你查背景吗？"
+    },
+    {
+      "id": "p013",
+      "en": "[Laughs.] I think Sam had gotten references on me for like three years. Sam and I worked in the same circle, so he knew about my reputation. I don’t think he literally picked up the phone and was like, “Is she legit?”",
+      "zh": "[笑。]我想 Sam 在这件事上给我的推荐已经有三年了。Sam 和我在同一圈子里工作过，所以他知道我的名声。我不认为他真的是直接打电话过去说“她可靠吗？”"
+    },
+    {
+      "id": "p014",
+      "en": "I was going to ask if Mark Zuckerberg was one of yours …",
+      "zh": "我本来想问的是你是否会向 Mark Zuckerberg 打过招呼……"
+    },
+    {
+      "id": "p015",
+      "en": "Mark has been an incredible supporter throughout my career and has provided references many times. In this particular situation, I don’t think Sam called him.",
+      "zh": "Mark 一直是我职业生涯中的重要支持者，并且多次为我作过推荐。就这次具体情况而言，我不认为 Sam 给他打过电话。"
+    },
+    {
+      "id": "p016",
+      "en": "You’ve talked about how at Meta you took risks and at times put your role and reputation on the line. I’m curious if you’ve identified any risks that you want to push OpenAI to take.",
+      "zh": "你曾谈到在 Meta 时你会承担风险，有时甚至把自己的角色和声誉也押上。我很好奇，你是否已经发现了你想推动 OpenAI 去承担的一些风险。"
+    },
+    {
+      "id": "p017",
+      "en": "Well, taking the job felt pretty risky to me [Laughs]. I would say the thing that I don’t think we did well at Meta is actually anticipating the risks that our products would create in society.",
+      "zh": "嗯，接这份工作对我来说感觉风险挺大（笑）。我想说的是，我们在 Meta 其实没做好的事情，是没有提前预判到我们产品会在社会上造成的风险。"
+    },
+    {
+      "id": "p018",
+      "en": "At OpenAI, these risks are very real. Mental health and jobs were my first two initiatives when I came into the company. I was looking at the landscape and being like, “Yep, immediately, mental health is something that we need to address. Jobs are clearly going to face some disruption, and we have a role to play to help minimize that disruption.”",
+      "zh": "在 OpenAI，这些风险都非常真实。我进入公司后，心理健康和就业就是我首先要推进的两项工作。当时我观察行业局势时就想：‘没错，心理健康是我们必须立刻处理的问题。就业显然会受到一些冲击，而我们有责任在其中发挥作用，尽量把这种冲击减到最小。’"
+    },
+    {
+      "id": "p019",
+      "en": "That’s not going to be easy, because the path is uncharted. So it is a very big responsibility, but it’s one that I feel like we have both the culture and the prioritization to really address up-front.",
+      "zh": "这并不容易，因为这条路还没有人走过。责任非常重大，但我觉得我们既有相应的文化，也有明确的优先级安排，能够在一开始就真正去解决这些问题。"
+    },
+    {
+      "id": "p020",
+      "en": "How do you feel the company is doing on mental health right now?",
+      "zh": "你觉得公司现在在心理健康方面做得怎么样？"
+    },
+    {
+      "id": "p021",
+      "en": "Just in the span of the last few months, we have massively reduced the prevalence of negative mental health responses. We have launched parental controls with leading protections. And we are working on age prediction to protect teens.",
+      "zh": "就在过去几个月里，我们大幅减少了负面心理健康回应的发生率。我们推出了具有领先防护能力的家长监护功能，并且正在研发年龄预测功能，以保护青少年。"
+    },
+    {
+      "id": "p022",
+      "en": "At the same time, when you have 800 million people [per week], when we know the prevalence of mental health illnesses in our society, of course you are going to have people turn to ChatGPT during acute distress moments. And doing the right thing every single time is exceptionally hard. So what we’re trying to do is catch as much as we can of the behaviors that are not ideal and then constantly refine our models.",
+      "zh": "同时，当用户量每周高达 8 亿时，考虑到社会中精神健康问题的普遍存在，当然会有人在急性困境中求助于 ChatGPT。并且每一次都做对并不容易。因此，我们的目标是尽可能多地捕捉不理想的行为，并持续不断地优化我们的模型。"
+    },
+    {
+      "id": "p023",
+      "en": "But if you were to grade where the company is now and where you want it to be, what would you say?",
+      "zh": "但如果要你给公司现在的状态和你希望它达到的状态打个分，你会怎么说？"
+    },
+    {
+      "id": "p024",
+      "en": "It’s not as if we’re ever going to reach that point where we’re done. Every week new behaviors emerge with features that we launch where we’re like, “Oh, that’s another safety challenge to address.” A good example is mania. You look at the transcripts, and sometimes people say, “I feel super great. I haven’t slept in two days, and I feel on top of the world.” A clinical psychologist would understand that that’s not normal—that’s mania. But if you look at the words, it seems fine. So we work with psychologists to detect the signal that this isn’t someone being super excited, this is a sign of mania, and have a strategy to intervene.",
+      "zh": "这并不意味着我们有一天能做到“完美”。每周都会出现新行为模式，伴随我们上线的新功能，也就意味着“啊，还有一个需要解决的安全挑战”。一个很好的例子就是躁狂。你看一看对话记录，有时有人会说：“我感觉特别棒，两天没睡还精神得像在云端。”临床心理学家会马上意识到这不正常——这是一种躁狂。但如果只看文字表面，看起来似乎无可厚非。所以我们与心理学家合作，去识别这种信号：这不是单纯的“非常兴奋”，而是躁狂的迹象，并制定干预策略。"
+    },
+    {
+      "id": "p025",
+      "en": "Getting it wrong is also really annoying. If you’re a normal adult being excited and ChatGPT tells you, “Hey, you might be having a manic episode,” that’s not great. It is a very subtle area, and we’re trying to do it with as much care and as much external input as possible.",
+      "zh": "搞错也同样让人非常恼火。如果你只是一个普通成年人，正兴奋着问问题，结果 ChatGPT 回你“你可能正在经历一场躁狂发作”，那就不太好了。这是一个非常敏感的领域，我们正在尽可能谨慎，并吸收尽可能多的外部意见来处理。"
+    },
+    {
+      "id": "p026",
+      "en": "OpenAI is obviously one of the world’s most valuable startups, if not the most valuable, but it’s also losing billions of dollars every year.",
+      "zh": "OpenAI 显然是世界上最有价值的新创公司之一，甚至可能是最有价值的一家，但它每年也在亏损数十亿美元。"
+    },
+    {
+      "id": "p027",
+      "en": "What opportunities do you see to get it on a path to profitability?",
+      "zh": "你认为我们有哪些机会能把公司引向盈利道路？"
+    },
+    {
+      "id": "p028",
+      "en": "It all comes back to the size of the markets and the value we’re providing in each market. In the past, only the wealthy had access to a team of helpers. With ChatGPT we could give everyone that team—a personal shopper, a travel agent, a financial adviser, a health coach. That is incredibly valuable, and we have barely scratched the surface. If we build that, I assume that people are going to want to pay a lot of money for that, and that revenue is going to come.",
+      "zh": "一切都回到市场规模以及我们在每个市场所提供价值的大小。过去，只有有钱人才有资格请到一支助理团队。借助 ChatGPT，我们可以把这样的团队带给每个人——私人购物顾问、旅行规划师、理财顾问、健康教练。这非常有价值，而且我们只是刚刚触及表面。如果我们把这一点做好，我猜人们会愿意为此支付大量费用，而且这笔收入终将到来。"
+    },
+    {
+      "id": "p029",
+      "en": "Meanwhile, on the enterprise side, we sell an API and ChatGPT Enterprise, which is a great product but a very thin layer compared to all the things that we could be building for enterprise. If you think about building agents for every industry and function, there is so much to build, either by us or by enabling third parties to build on top of our platform.",
+      "zh": "与此同时，在企业端，我们销售 API 和 ChatGPT Enterprise。它确实是一个很好的产品，但与我们本可以为企业构建的所有内容相比，它只是一个很薄的外层而已。如果你考虑到要为每个行业和每个职能构建智能体，我们有大量内容要开发，不是由我们直接建设，就是要让第三方在我们的平台上进行构建。"
+    },
+    {
+      "id": "p030",
+      "en": "So I’m like, OK, the markets are huge. The depth of value is huge. That’s the basic formula for monetizing. Then the real question becomes, will we have the compute to deliver that?",
+      "zh": "所以我想说的是，市场空间很大。价值深度也很大。这就是变现的基本公式。接下来真正的问题变成了：我们能否拥有足够的算力来交付这些能力？"
+    },
+    {
+      "id": "p031",
+      "en": "OpenAI has been doing hundreds of billions of dollars’ worth of deals to build data centers. When people talk about fears around the compute deals, they’re talking not only about the scale but about the deals feeling a little circular. Or the fact that a lot of the US economy seems to hinge on OpenAI and Nvidia at this point.",
+      "zh": "OpenAI 一直在签订价值数千亿美元的交易来建设数据中心。当人们谈到围绕这些算力交易的担忧时，他们讨论的并不仅仅是规模本身，还包括这些交易给人的某种循环感，以及目前看来，美国经济在很大程度上似乎都依赖于 OpenAI 和英伟达这两家公司。"
+    },
+    {
+      "id": "p032",
+      "en": "So first off, a lot of people say, “Whoa, these compute deals are massive,” but when you look at how constrained we are internally and how much more we could do if we had more GPUs, it’s very clearly the right decision. We have a pipeline of products that are going to make massive use of compute. I know these deals look risky on the outside, but on the inside, what’s much riskier would be to not lean into compute.",
+      "zh": "所以起初，很多人会说：“哇，这些算力交易太庞大了。”但当你看到我们内部面临的约束，以及如果拥有更多 GPU 我们能做更多事时，就会非常清楚这是一项正确的决策。我们有一条将大量消耗算力的产品线在即将落地。我知道这些交易从外部看起来很冒险，但从内部来看，更危险的选择反而是没有大力投入到算力。"
+    },
+    {
+      "id": "p033",
+      "en": "The companies that we’re making these deals with are extremely sophisticated. They are providing these kinds of deals and this kind of financing because they are very close partners who know our business very well.",
+      "zh": "我们与这些公司达成合作的企业都非常成熟，也非常专业。之所以能提供这类交易和这种融资安排，是因为他们都是与我们非常紧密、对我们业务非常了解的合作伙伴。"
+    },
+    {
+      "id": "p034",
+      "en": "You take a product like Pulse, which we launched through the Pro tier. I want that to be available to everyone, but because of the compute constraints, we’re not able to do that. I’m giving you one example, but there’s 10 of those.",
+      "zh": "你可以拿我们通过 Pro 套餐推出的 Pulse 产品举例。我希望它能让每个人都能使用，但由于算力限制，我们目前做不到。我给你举的是其中一个例子，而这类情况其实有十个。"
+    },
+    {
+      "id": "p035",
+      "en": "How do you use Pulse?",
+      "zh": "你如何使用 Pulse？"
+    },
+    {
+      "id": "p036",
+      "en": "It’s super helpful for me on both the work front and the health front. On health, Pulse tells me every morning if there’s new studies published about anything related to my condition. Previously I had to research all of that. And instead of going to a medical journal, it’s all summarized in line and very clearly laid out.",
+      "zh": "它在我的工作方面和健康方面都非常有帮助。在健康方面，Pulse 每天早上都会告诉我是否有任何与我的健康状况相关的新研究发布。以前我必须把这些资料都自己去查。并且这些内容不需要我去翻阅医学期刊了，而是会被整理成一目了然、清晰分层的摘要。"
+    },
+    {
+      "id": "p037",
+      "en": "For work, it’s similar. As you know, staying on top of AI news is a challenge. Having Pulse deliver a quick summary of what happened in the AI world is super helpful. My husband is a chocolate maker, and he’s building an advent calendar. Pulse was like, ‘Oh, you should hide a message in all of the different windows.’ He was like, ‘That’s brilliant!’",
+      "zh": "工作时也是一样。正如你所知，跟上 AI 新闻的变化本来就很有挑战性。Pulse 能快速帮我总结 AI 界发生了什么，真的很有帮助。我的丈夫是一名巧克力制作师，他正在做一个降临节日历。Pulse 建议说：“哦，你可以在每个小格子里都藏一条信息。”他听后说：“这个想法太妙了！”"
+    },
+    {
+      "id": "p038",
+      "en": "You’re a very successful person, and you also have a chronic illness. I’m curious what you’ve learned from managing these two things simultaneously?",
+      "zh": "你是一个非常成功的人，同时还要面对一种慢性疾病。我很好奇你是如何把这两件事同时管理好的？"
+    },
+    {
+      "id": "p039",
+      "en": "It’s a good question. I didn’t want my disease to get in the way of my mission. If you are able to give your all to a job, you can come up with a lot of accommodations that make it possible. I recognize that I’m incredibly lucky to have worked at supportive companies, and that’s not the case for everyone. Because people never see someone senior with a chronic illness be public about it, a lot of people assume that that’s just not possible. And when I became public about it, I had a lot of people reach out and be like, “Oh my God, I realize there is a path.”",
+      "zh": "这是个好问题。我不想让疾病妨碍我的使命。如果你愿意把全部精力投入到一份工作中，就能想出很多让自己能够继续前行的安排。我也认识到自己非常幸运，能够在支持度很高的公司工作，但并不是每个人都有这种条件。因为人们几乎从未见过高级管理者公开谈论自己的慢性病，所以很多人默认这根本不可能。当我把自己的情况公开后，很多人都来找我，说：“天啊，我意识到原来有一条路可以走。”"
+    },
+    {
+      "id": "p040",
+      "en": "It’s not easy every day, just to be clear. I would much prefer to be able to do all the things. But it’s a matter of determination and prioritization. In a way, it has also made me more aware of product opportunities that I wouldn’t have been able to see before. My passion for health has allowed me to narrow in on things that we can do to help with health care.",
+      "zh": "先说明一下，这并不代表每天都轻松。我更希望自己能把所有事情都做到最好，但这涉及到决心和优先级的取舍。某种意义上，它也让我更敏锐地看到了以前看不到的产品机会。我的健康热情让我能够更专注于我们可以做些什么来改善医疗健康。"
+    },
+    {
+      "id": "p041",
+      "en": "You got sick when you were at Meta, right? After a pretty difficult pregnancy.",
+      "zh": "你在Meta的时候生病了，对吗？是在一次相当艰难的怀孕之后。"
+    },
+    {
+      "id": "p042",
+      "en": "Yeah. I was on bed rest for five months. I had to have surgery during the pregnancy to avoid [the baby] coming out early. I started having contractions at month four. So I was at a real risk of losing her. I worked the entire time through my pregnancy. In fact, my husband just showed pictures from my 40th birthday of me holding a Zuck review from my bed. It wasn’t cool at the time to work from home. And I was presenting on Facebook Live. I worked through it, and I ended up on the other side of that with POTS. Then I had surgery for endometriosis in 2019, which made the POTS even worse. So since 2019, I haven’t come out of it, basically. I’ve just had ups and downs. But 2019 is really when it started being very, very triggered.",
+      "zh": "是的。我孕期整整卧床休养了五个月。为了避免[宝宝]提前出生，我在怀孕期间做过手术。我在第四个月就开始出现宫缩，所以我有很大几率会早产。我在怀孕全程都在工作。事实上，我丈夫刚刚给我看了我四十岁生日的照片，照片里我躺在床上拿着一份Zuck评审。我当时在家办公并不“酷”。而且我还在Facebook Live上发过言。我硬撑了过去，结果后来出现了POTS。之后我在2019年做了子宫内膜异位症手术，这反而让POTS更严重。所以从2019年开始，我基本上就一直没从中恢复过来。一直是起伏不定的状态。真正开始明显加重，明显被触发，还是2019年。"
+    },
+    {
+      "id": "p043",
+      "en": "You asked what I’ve learned from this. It’s funny because you’d think I’d have thought about that, but so few journalists go there that I haven’t actually answered that question much.",
+      "zh": "你问我从中学到了什么。很有趣，因为你可能会以为我早就想过这个问题，但实际上这么少有记者去问这个方向，所以我其实并没有真正回答过这个问题。"
+    },
+    {
+      "id": "p044",
+      "en": "I care a lot as part of my own mission about everybody realizing their full potential. I want a world where health conditions don’t get in the way. Either because we can cure them or because companies accommodate them. We can have technologies that make it easier.",
+      "zh": "我把“让每个人都发挥全部潜能”当成自己使命中的重要部分。我想要一个这样的世界：健康状况不再成为阻碍。要么因为我们能治好它们，要么因为公司对它们提供适应与支持。我们完全可以拥有让生活更轻松的技术。"
+    },
+    {
+      "id": "p045",
+      "en": "I think if I had gotten sick a lot earlier and we didn’t have norms to be on Zoom, that would’ve been a lot harder. I really feel for all the people who have so much to offer the world, but these things get in the way.",
+      "zh": "我想，如果我更早就开始经常生病，而且我们当时没有形成“在 Zoom 上开会”的惯例，那会困难得多。我真的很同情那些对世界有很多贡献的人，但这些事情会成为他们前进的阻碍。"
+    },
+    {
+      "id": "p046",
+      "en": "Constraints also force you to be more creative. I think these very hard physical constraints have forced me to be very intentional about how I lead.",
+      "zh": "限制也会迫使你更有创造性。我认为这些非常严苛的身体条件，迫使我在领导方式上变得非常有意图和谨慎。"
+    },
+    {
+      "id": "p047",
+      "en": "OpenAI has a famously in-person culture. How do you create trust with a team when you can’t always see them face-to-face?",
+      "zh": "OpenAI向来以“面对面办公文化”闻名。你怎么才能在不能总是与团队成员见面的情况下建立团队信任？"
+    },
+    {
+      "id": "p048",
+      "en": "The thing that really helped is that I was very up-front. On day one, I sent a message to everyone explaining in detail my condition, because there is a real challenge with invisible illnesses. You’d look at me and think I’m fine. And so explaining very transparently like, “Hey, I would really love to be in the office right now more than anything, and there are some days where I’m going to be able to do that, and there are some days where I have to work reclined.” I think that actually created a lot of trust. It created vulnerability up front, and that’s not easy. It’s risky when you arrive in a place to have to say that. I agonized about it for a couple weeks.",
+      "zh": "真正起作用的，是我一开始就非常坦诚。第一天，我给每个人发了一条消息，详细说明了自己的状况，因为隐形疾病确实会带来现实挑战。别人看到我时会觉得我没事。因此，我非常透明地说：‘其实我真的很想现在尽可能多地在办公室工作；有些日子我能做到，而有些日子我只能斜靠着工作。’我想这确实建立了大量的信任。它一开始就显露了脆弱感，而且这并不容易。在你刚进入一个新环境时说出这些会很有风险。我当时纠结了好几个星期。"
+    },
+    {
+      "id": "p049",
+      "en": "The thing that I try to do very well is be very present in other ways. It’s an in-person culture, but it’s also a very Slack-driven culture. I think I’m more accessible than I could be if I was running around in the office. I certainly hope that this relapse ends so that I can be in the office a lot more, but I think [my strategy] has helped so far.",
+      "zh": "我最擅长做的一件事之一，就是用其他方式保持高度在场感。这是一种面对面为主的文化，但同样也是一个高度依赖 Slack 的文化。我想我比起天天在办公室跑来跑去来说，更容易被人接触到。我当然希望这次复工能尽快结束，这样我就能更多地待在办公室，但我认为【我的做法】目前是有效的。"
+    },
+    {
+      "id": "p050",
+      "en": "I have heard from a lot of people that your Slack game is very strong.",
+      "zh": "我听很多人都说，你的 Slack 操作（沟通）特别强。"
+    },
+    {
+      "id": "p051",
+      "en": "[Laughs.] If journalists know about that, I don’t know if that’s good.",
+      "zh": "[笑] 如果记者们知道这个，我也不知道这对你是不是一件好事。"
+    },
+    {
+      "id": "p052",
+      "en": "Part of your mandate is figuring out how ads would work inside ChatGPT. How might that look, and what’s your timeline?",
+      "zh": "你的一项任务之一就是要理清广告如何在 ChatGPT 里落地。那会是什么样子？时间表又是怎样的？"
+    },
+    {
+      "id": "p053",
+      "en": "Advertising as a model works really well when you have a lot of commerce intent. We have a ton of it already, people coming and asking for shopping advice. The important thing before we ever consider ads is making sure that our commerce experience is fantastic and that people come and really explore all the products that they want and get great recommendations.",
+      "zh": "广告作为一种商业模式在你拥有大量购物意向时确实很有效。我们已经有很多这类意向，用户会来这里寻求购物建议。我们要做的、也是在考虑广告之前最重要的一点，是确保我们的购物体验非常出色，让大家真正来这里，充分浏览自己想买的所有商品，并获得很好的推荐。"
+    },
+    {
+      "id": "p054",
+      "en": "So you’re not at the point where if someone asks for shopping advice, they might get recommended a paid product?",
+      "zh": "所以你们还没到这样的阶段，对吧？也就是说，用户一问购物建议，他们可能会被推荐一款付费产品？"
+    },
+    {
+      "id": "p055",
+      "en": "OpenAI has rich user data. It combines peoples’ work life, their most personal thoughts, their habits and product needs. That information is extremely attractive to advertisers. How are you thinking about data privacy as you scale?",
+      "zh": "OpenAI 拥有丰富的用户数据。它整合了人们的工作生活、他们最私密的想法、日常习惯以及产品需求。这些信息对广告商来说极具吸引力。随着规模扩大，你们如何考虑数据隐私问题？"
+    },
+    {
+      "id": "p056",
+      "en": "Whatever we do is going to have to be extremely respectful of that. That’s why we haven’t announced anything on ads, because if we ever were to do anything, it would have to be a very different model than what has been done before.",
+      "zh": "无论我们做什么，都必须对这些信息抱有极高的尊重和保护意识。这也是我们还没有宣布任何广告计划的原因，因为如果我们将来要做任何广告相关的事，其模式必须与以往的做法有很大不同。"
+    },
+    {
+      "id": "p057",
+      "en": "What I’ve learned from building ad platforms is that the thing people don’t like about ads very often is not the ads themselves, it’s the use of the data behind the ads.",
+      "zh": "我从搭建广告平台的经验中学到的一点是，人们真正不喜欢广告的往往不是广告本身，而是广告背后数据的使用方式。"
+    },
+    {
+      "id": "p058",
+      "en": "You were prepared for the ads question.",
+      "zh": "你已经为广告这个问题做好了准备。"
+    },
+    {
+      "id": "p059",
+      "en": "I have been asked that many times now.",
+      "zh": "我现在已经被问过很多次了。"
+    },
+    {
+      "id": "p060",
+      "en": "It seems like OpenAI is expanding in a lot of different directions at once. Do you see a risk in the company trying to do too much?",
+      "zh": "看起来 OpenAI 正在同时向很多方向扩张。你认为这家公司想做得太多会有什么风险吗？"
+    },
+    {
+      "id": "p061",
+      "en": "My role is to minimize that risk. And the way you solve that is simple. You attract the best talent, so instead of one person being across 15 projects, you have the best leader for every single project. I’m very focused on hiring and making sure that we have the best possible talent.",
+      "zh": "我的职责是把这种风险降到最低。解决办法其实很简单：吸引最顶尖的人才，这样就不会让一个人同时分摊到15个项目，而是每个项目都配备最合适的负责人。我非常重视招聘，并确保我们拥有尽可能最好的团队。"
+    },
+    {
+      "id": "p062",
+      "en": "We believe that every category of software is going to be reinvented for AI, and that we have a role to play in making sure that all of the products that we use in the future are AI-enabled, AI-native from the ground up. So it does require having that level of ambition and the capabilities to fulfill that ambition, which is really my job in building out the company.",
+      "zh": "我们相信每一类软件都会为 AI 重新定义，而我们有责任确保未来我们使用的所有产品都从一开始就是 AI 赋能、AI 原生的。因此这需要具备这种远大目标，并拥有实现该目标的能力，这实际上正是我在建设公司时的工作。"
+    },
+    {
+      "id": "p063",
+      "en": "Sora, OpenAI’s video app, launched with a pretty minimal slate of safety features and guardrails. What was the thinking behind that approach?",
+      "zh": "OpenAI 的视频应用 Sora 上线时，安全功能和保护机制非常基础。选择这种做法背后的思路是什么？"
+    },
+    {
+      "id": "p064",
+      "en": "I actually think it launched with a pretty good set of safety features. We rolled out parental controls that let parents control how their kid’s likeness can be used. They can control what hours their kid uses the app. The control that I can have over my likeness is advanced and thoughtful I think, even for adults.",
+      "zh": "我实际上认为它是以相当完善的一套安全功能上线的。我们推出了家长控制，让家长能够管理孩子的肖像可被如何使用。家长也可以控制孩子在什么时间段使用该应用。就我自己而言，我认为对自己肖像的控制是很先进且周到的，甚至对成年人来说也是如此。"
+    },
+    {
+      "id": "p065",
+      "en": "At the same time it’s a completely new form of interaction. So we are learning and refining based on the feedback.",
+      "zh": "同时，这也是一种全新的互动方式，所以我们正在根据反馈不断学习并进行优化。"
+    },
+    {
+      "id": "p066",
+      "en": "I was thinking about the copyright cases, where it felt like you were more reactive.",
+      "zh": "我在想版权案件，那时你会觉得自己更像是在被动反应。"
+    },
+    {
+      "id": "p067",
+      "en": "What we’re hearing from copyright holders is that there is actually a lot of excitement about this new media and how their IP could go in the hands of fans in a way that increases fan engagement. But they want to make sure that the value exchange is well established. And we want that too.",
+      "zh": "我们从版权持有方那里听到的反馈是：他们对这种新媒介确实很兴奋，认为自己的知识产权可以以更能激发粉丝参与的方式交到粉丝手中；但他们希望确保价值交换机制建立得足够稳固，而我们也持同样的看法。"
+    },
+    {
+      "id": "p068",
+      "en": "The app got criticized as being, essentially, AI slop.",
+      "zh": "该应用被批评为本质上就是“AI 垃圾内容”。"
+    },
+    {
+      "id": "p069",
+      "en": "I think every new form of media goes through phases. First, it’s an imitation of what exists. If you look at cinema for example, it started by being just a recording of people on stage before close-ups or different shots were introduced. Here I think we’re in the same world where AI is trying to copy human output, and potentially in places with a worse version. What I’m interested in is when it moves to the next stage of true experimentation with what’s unique about the medium, and we’re starting to see that emerge. Sometimes I go through videos and I’m like, “OK, it’s more of the same,” and then all of a sudden I stop and I’m like, “Who made that?”",
+      "zh": "我认为每一种新媒介都会经历阶段。最初，它往往是在模仿既有形式。比如说电影，起初只是把舞台上的人照录下来，之后才逐步加入特写和不同机位。我认为我们现在正处在同样的阶段：AI 先是尝试复制人类输出，甚至有时还会模仿到一个更差的版本。我要关注的是它什么时候进入下一阶段——真正去探索这种媒介本身独有的可能性，而且我们已经开始看到这种转变。 有时候我会看一些视频，心里想：‘好，这只是老一套。’然后突然停下来看着它，心里冒出一句：‘这是谁做的？’"
+    },
+    {
+      "id": "p070",
+      "en": "I worry a little bit about paternalism around the narrative of slop. For some people, some of this content is really entertaining. I have a friend who has a small business, and the business plan that she gets from ChatGPT, yeah, it’s not Goldman Sachs, but she will never get access to Goldman Sachs. And what she gets from ChatGPT is 10X better than anything she has ever had access to. We need to be looking at this new medium as raising the floor of what could be created before and giving minimum access to people who didn’t have access before.",
+      "zh": "我有点担心围绕“低俗内容”叙事里那种“家长式”姿态。对某些人来说，这类内容其实很有娱乐性。我有一位朋友经营着一家小企业，她从 ChatGPT 得到的商业计划书，确实不是什么高盛标准（Goldman Sachs），但她也不可能拿到高盛的方案；而且 ChatGPT 给她的内容，远远比她过去任何时候能拿到的都要好十倍。我们应该把这种新媒介看作是把创作门槛整体抬高，让之前无法获得这些资源的人也能及早接触到更高质量的内容。"
+    },
+    {
+      "id": "p071",
+      "en": "There’s a lot of worry about AI disrupting jobs. How concerning is that for you?",
+      "zh": "大家都很担心 AI 会冲击就业岗位。你认为这种担忧有多严重？"
+    },
+    {
+      "id": "p072",
+      "en": "I believe that there’s going to be massive job creation, but some job categories are going to be deeply disrupted. That’s why one of my first initiatives was launching OpenAI certifications, where we want to certify 10 million workers to be AI-ready, and a jobs marketplace to connect them with opportunities to apply those skills. We’re doing our part, but I think governments and companies are going to have a big role as well.",
+      "zh": "我相信就业岗位会出现大规模新增，但某些职业类别将遭到深度重塑。也因此我最先推动的一项举措，就是推出 OpenAI 认证，目标是让 1000 万名从业者具备 AI 就绪能力，并建立一个就业市场，把这些人和岗位需求对接起来，帮助他们将这些技能应用于实际工作。我们在尽我们的一份力，但我认为政府和企业也将承担同样重要的作用。"
+    },
+    {
+      "id": "p073",
+      "en": "As AI continues to advance, what do you think of as humans’ edge?",
+      "zh": "随着人工智能不断进步，你认为人类仍然有什么优势？"
+    },
+    {
+      "id": "p074",
+      "en": "Humanity is endlessly creative. AI gives us superpowers to be even more creative. So this notion that humans will just tap out, like, “Oh, we’re done,” doesn’t resonate with me at all.",
+      "zh": "人类具有无尽的创造力。人工智能让我们拥有更强的能力，变得更加富有创造性。所以“人类要退场了，天哪，我们都结束了”这种想法，与我完全不符。"
+    },
+    {
+      "id": "p075",
+      "en": "I’m leaning into this with my daughter. We’re all born creators, but we sometimes forget that as adults. I see her going from idea to creation faster than I could. She’s created three businesses and she’s 10. She’s written a song, she’s written a book, because it’s just so easy.",
+      "zh": "我正在和女儿一起践行这种想法。我们每个人天生都是创造者，但成年后有时会把这点忘了。我看到她从想法到作品的转化速度，远比我更快。她已经创办了三家企业，而她才 10 岁。她写过一首歌，也写过一本书，因为这一切对她来说就是这么轻而易举。"
+    },
+    {
+      "id": "p076",
+      "en": "So your daughter can use ChatGPT?",
+      "zh": "所以你的女儿也可以使用 ChatGPT 吗？"
+    },
+    {
+      "id": "p077",
+      "en": "Oh, she definitely does. It’s not supposed to be for under 13, but under parental supervision, I let her use ChatGPT.",
+      "zh": "她当然会这么做。它本来不该给13岁以下儿童使用，但在父母监督下，我让她使用 ChatGPT。"
+    },
+    {
+      "id": "p078",
+      "en": "There’s a fear circulating that AI is going to wipe out humanity. Do you share that?",
+      "zh": "有一种担忧正在传播：人工智能会把人类消灭。你也有这种担心吗？"
+    },
+    {
+      "id": "p079",
+      "en": "I wasn’t educated in that fear before I began digging into OpenAI. That said, we are doing everything we can to make sure that that doesn’t happen.",
+      "zh": "在我开始深入了解 OpenAI 之前，我并不认为这种担忧有道理。也就是说，我们正在尽一切努力，确保这不会发生。"
+    },
+    {
+      "id": "p080",
+      "en": "Would you ever consider becoming CEO of the whole company?",
+      "zh": "你会考虑过成为整家公司的一把手、首席执行官吗？"
+    },
+    {
+      "id": "p081",
+      "en": "Let’s be very clear: What Sam does, I cannot do. There’s so much to do just on my scope that I think I have a decade or more of things that I can do just right there. And I’m telling you, we need all of us. We need Sam so badly. We need me.",
+      "zh": "必须讲清楚：萨姆能做的事，我做不到。在我自己的职责范围内就有太多工作了，我想我能在这里做十多年都不厌其烦的事情。我想说的是，我们每个人都很重要。我们非常需要萨姆。我们也需要我自己。"
+    },
+    {
+      "id": "p082",
+      "en": "Top, shirt, and shoes by Dior. Blazer by Moschino.Let us know what you think about this article. Submit a letter to the editor at [email protected].",
+      "zh": "上装、衬衫和鞋子由 Dior 提供。西装外套由 Moschino 提供。请告诉我们您对这篇文章的看法，给编辑部写信到 [email protected]。"
+    }
+  ],
+  "translated_at": "2026-07-23T00:37:20+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}
