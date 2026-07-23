@@ -1,0 +1,94 @@
+{
+  "id": "002-business",
+  "source_href": "6e5cd30e-be14-4853-9f8c-1a8e22c47861.html",
+  "publication": "economist",
+  "issue": "2026-07-18",
+  "order": 2,
+  "section": "The world this week",
+  "title_en": "Business",
+  "title_zh": "商业",
+  "rubric_en": "",
+  "rubric_zh": "",
+  "date": "July 16th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "Kevin Warsh gave his first report to Congress as chairman of the Federal Reserve. Mr Warsh said the Fed was committed to “restoring price stability”, which would entail a “regime change in policy” to make the inflation surge of the previous five years “a thing of the past”. Mr Warsh has appointed task forces to assess each of the five areas that are central to the Fed’s policy. The task forces’ members include Lord Mervyn King, a former governor of the Bank of England, and Greg Mankiw, who led George W. Bush’s Council of Economic Advisers.",
+      "zh": "凯文·沃什以美联储主席身份首次向国会提交报告。沃什表示，美联储致力于“恢复价格稳定”，这将需要一场“政策体制转变”，使过去五年的通胀飙升“成为过去”。沃什已任命多个工作组，评估美联储政策核心的五个领域。工作组成员包括英格兰银行前行长默文·金勋爵，以及曾领导乔治·W·布什经济顾问委员会的格雷格·曼昆。"
+    },
+    {
+      "id": "p002",
+      "en": "Mr Warsh gave his testimony as the latest figures on American consumer-price inflation showed the annual rate falling in June to 3.5%, from 4.2% in May. Core inflation, which excludes volatile food and energy prices, also fell, to 2.6%. Energy prices declined by 5.7%, month on month, after rising for three months.",
+      "zh": "沃什作证之际，美国消费者价格通胀的最新数据显示，6月份年通胀率从5月份的4.2%降至3.5%。剔除波动较大的食品和能源价格的核心通胀率也降至2.6%。能源价格在连续三个月上涨后，环比下降5.7%。"
+    },
+    {
+      "id": "p003",
+      "en": "Brisk activity in equities trading during the second quarter led to huge profits at America’s big banks. Net income at JPMorgan Chase was up by 41%, year on year, to $21.2bn. Profits surged by 80% at Goldman Sachs, by 45% at Citigroup and by 27% at Bank of America.",
+      "zh": "第二季度股票交易活跃，推动美国大型银行获得巨额利润。摩根大通净利润同比增长41%，至212亿美元。高盛利润飙升80%，花旗集团增长45%，美国银行增长27%。"
+    },
+    {
+      "id": "p004",
+      "en": "South Korea’s central bank raised interest rates for the first time in three years, lifting its base rate to 2.75%. The boom in exports from the country’s mighty chipmakers is expected to “spill over into domestic demand”, said the bank. Higher oil prices, coupled with a weaker won to pay for energy imports, are also adding to inflationary pressures.",
+      "zh": "韩国央行三年来首次加息，将基准利率上调至2.75%。该行表示，韩国强大芯片制造商的出口繁荣预计将“外溢至国内需求”。油价上涨，加上韩元走弱导致能源进口成本上升，也在增加通胀压力。"
+    },
+    {
+      "id": "p005",
+      "en": "SK Hynix’s debut on the Nasdaq exchange was a success. The South Korean chipmaker raised $26.5bn through a sale of stock in American depositary receipts (allowing American investors to buy its shares). In the days following the flotation the share price fell as investors banked profits from the sale, but it then surged again in another rollercoaster week for the KOSPI, South Korea’s main stock-market index.",
+      "zh": "SK海力士在纳斯达克交易所首秀成功。这家韩国芯片制造商通过出售美国存托凭证股票筹集了265亿美元（美国存托凭证允许美国投资者购买其股票）。上市后的几天里，随着投资者从此次发行中获利了结，股价下跌，但随后又再次飙升，韩国主要股市指数KOSPI又经历了跌宕起伏的一周。"
+    },
+    {
+      "id": "p006",
+      "en": "EasyJet changed its mind about a proposal to be taken private by Castlelake, an American investment firm, and instead accepted an offer from Apollo, a private-equity firm, that values the European airline at £5.7bn ($7.6bn). Castlelake had not finalised its proposal.",
+      "zh": "易捷航空改变了接受美国投资公司Castlelake私有化提议的想法，转而接受私募股权公司Apollo的报价，该报价对这家欧洲航空公司的估值为57亿英镑（76亿美元）。Castlelake尚未敲定其提议。"
+    },
+    {
+      "id": "p007",
+      "en": "Uber agreed to buy Delivery Hero, a German online food-ordering company that operates in 65 countries. The acquisition values Delivery Hero, which will sell its Turkish business and make other divestments, at €13bn ($14.8bn).",
+      "zh": "优步同意收购Delivery Hero，这是一家业务遍及65个国家的德国在线订餐公司。此次收购对Delivery Hero的估值为130亿欧元（148亿美元）；该公司将出售其土耳其业务，并进行其他资产剥离。"
+    },
+    {
+      "id": "p008",
+      "en": "China’s economy grew by 4.3% in the second quarter, year on year. Apart from the pandemic era it was the country’s slowest growth rate since the early 1990s, when its GDP statistics were standardised. The domestic economy has remained subdued during a long slowdown in the property market. Exports are booming, however. Separate figures showed the value of goods sent abroad rising by 27% in June. Shipments of cars were up by 71% to more than 1m for the first time.",
+      "zh": "中国经济第二季度同比增长4.3%。除疫情时期外，这是自20世纪90年代初中国国内生产总值统计标准化以来的最低增速。房地产市场长期放缓，使国内经济一直较为低迷。不过，出口正在蓬勃增长。另一组数据显示，6月份出口商品价值增长27%。汽车出口量首次增长71%，超过100万辆。"
+    },
+    {
+      "id": "p009",
+      "en": "Apple lodged a lawsuit against OpenAI, accusing it and two former employees of stealing trade secrets. The complaint relates to OpenAI’s expansion into consumer devices, the development of which is now “rotten to the core”, according to Apple. OpenAI denies the claims. OpenAI’s first device will be a portable speaker.",
+      "zh": "苹果对OpenAI提起诉讼，指控其以及两名前员工窃取商业机密。起诉内容涉及OpenAI向消费设备领域的扩张；苹果称，这些设备的开发如今已“烂到了根子里”。OpenAI否认这些指控。OpenAI的首款设备将是一款便携式音箱。"
+    },
+    {
+      "id": "p010",
+      "en": "The AI boom powered ASML to another bumper quarter. The Dutch maker of lithography machines used to produce high-end chips recorded a 21% jump in sales, year on year, to €9.3bn ($10.7bn) and raised its annual outlook. TSMC, the world’s biggest contract-manufacturer of chips, reported a 77% rise in net profit and also lifted its revenue projections.",
+      "zh": "人工智能热潮推动ASML又迎来一个表现强劲的季度。这家荷兰公司生产用于制造高端芯片的光刻机，其销售额同比增长21%，至93亿欧元（107亿美元），并上调了全年展望。全球最大的芯片代工制造商台积电报告净利润增长77%，并同样上调了营收预期。"
+    },
+    {
+      "id": "p011",
+      "en": "New York imposed a one-year moratorium on building large AI data centres, the first American state to do so. Residents are objecting to the facilities, claiming, often on dubious evidence, that they use too much water and raise electricity prices.",
+      "zh": "纽约州对大型人工智能数据中心建设实施为期一年的暂停令，成为美国首个这样做的州。居民反对这些设施，声称它们耗水过多并推高电价，尽管这些说法往往证据不足。"
+    },
+    {
+      "id": "p012",
+      "en": "SpaceX’s stock slipped below the $135 it was listed at in its initial public offering on June 12th. More than $1trn has been wiped off the company’s market value since the share price hit a peak in mid-June.",
+      "zh": "SpaceX的股价跌破了6月12日首次公开募股时135美元的发行价。自其股价在6月中旬触及峰值以来，该公司的市值已蒸发超过1万亿美元。"
+    },
+    {
+      "id": "p013",
+      "en": "Speculation that artificial intelligence is causing a market bubble was dismissed as “absurd” by Masayoshi Son, the boss of SoftBank. Mr Son was an early backer of the technology. He indulged in some speculation of his own. By 2040 humans will no longer be the “highest life form”, predicted Mr Son, $5trn a year will be spent on AI, and data centres will be powered by nuclear fusion. In June Mr Son compared worries about an AI bubble to “blasphemy”.",
+      "zh": "软银老板孙正义驳斥了人工智能正在造成市场泡沫的猜测，称这种说法“荒谬”。孙正义是这项技术的早期支持者。他自己也做了一番预测。孙正义预测，到2040年，人类将不再是“最高等的生命形式”；每年将有5万亿美元用于人工智能；数据中心将由核聚变供能。6月，孙正义把对人工智能泡沫的担忧比作“亵渎”。"
+    },
+    {
+      "id": "p014",
+      "en": "Sir Demis Hassabis, the co-founder of Google DeepMind, called for the establishment of a regulatory body to oversee potential threats from the most-advanced AI models to national security. The organisation should be led by America, said Sir Demis, and modelled on the Financial Industry Regulatory Authority, an American non-governmental body that protects investors.",
+      "zh": "Google DeepMind联合创始人德米斯·哈萨比斯爵士呼吁设立一个监管机构，监督最先进人工智能模型可能对国家安全构成的威胁。德米斯爵士表示，该组织应由美国牵头，并仿照美国金融业监管局；后者是一个保护投资者的美国非政府机构。"
+    }
+  ],
+  "translated_at": "2026-07-21T14:26:06+08:00",
+  "translation_provider": "codex",
+  "translation_model": "codex-default",
+  "issue_published_at": "2026-07-18",
+  "article_published_at": "July 16th 2026",
+  "published_at": "July 16th 2026",
+  "published_date_source": "article"
+}

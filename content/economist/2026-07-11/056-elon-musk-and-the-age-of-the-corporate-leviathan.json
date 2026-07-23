@@ -1,0 +1,79 @@
+{
+  "id": "056-elon-musk-and-the-age-of-the-corporate-leviathan",
+  "source_href": "6d474055-099d-42a2-945d-d778c6b618d6.html",
+  "publication": "economist",
+  "issue": "2026-07-11",
+  "issue_published_at": "2026-07-11",
+  "article_published_at": "July 9th 2026",
+  "published_at": "July 9th 2026",
+  "published_date_source": "article",
+  "order": 56,
+  "section": "Business",
+  "title_en": "Elon Musk and the age of the corporate leviathan",
+  "title_zh": "埃隆·马斯克与企业巨兽时代",
+  "rubric_en": "For the world’s largest companies, the normal rules of corporate governance no longer apply",
+  "rubric_zh": "对世界上最大的公司来说，正常的公司治理规则已经不再适用",
+  "date": "July 9th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "In 1989 Francis Fukuyama famously and prematurely wrote that the world was seeing “the total exhaustion of viable systematic alternatives to Western liberalism”. A decade later Henry Hansmann and Reinier Kraakman, two American law professors, made a similar argument about the way companies are run. The world was converging on a superior model of shareholder capitalism, they argued: firms subordinating the interests of capital to managers, workers and states would soon crumble like the Berlin Wall.",
+      "zh": "1989年，弗朗西斯·福山曾著名且过早地写道，世界正在经历“西方自由主义可行的制度性替代方案被彻底耗尽”。十年后，两位美国法学教授亨利·汉斯蒙和赖纳·克拉克曼提出了一个类似论点，关于公司如何运作：世界正朝着更优越的股东资本主义模式收敛，他们认为，将资本的利益让位于经理人、工人和国家的公司最终会像柏林墙一样倒塌。"
+    },
+    {
+      "id": "p002",
+      "en": "Like Mr Fukuyama’s work, “The End of History for Corporate Law” takes a beating every time liberal capitalism fails, as it did in 2008, or its elites announce that firms should serve all of society rather than just their shareholders, as they did most energetically around 2020. Yet the essay’s thesis has by and large proved correct. Governments in Europe and Asia have been endeavouring to make their corporate rules more “shareholder friendly” in the image of America. The ascent of private equity is but a vast exercise in imposing shareholder supremacy.",
+      "zh": "与福山的研究一样，论文《公司法的历史终结》每次自由资本主义失败（如2008年那样）或其精英宣布企业应服务于整个社会而不只是股东（2020年前后尤其高调）时，都遭到严厉批评。然而，这篇文章的核心主张总体上已被证明是正确的。欧洲和亚洲的政府一直在努力使公司规制更“偏向股东”，并模仿美国的做法。私募股权的崛起，本质上正是一次大规模推行股东至上权威的行动。"
+    },
+    {
+      "id": "p003",
+      "en": "Look to the giants of the corporate world, however, and the picture is very different. Above a certain size the ordinary rules of governance apparently cease to apply. Some firms reach a kind of escape velocity where the disciplining force of finance becomes too weak and the stakes for governments too high for ordinary rules. Among their ranks can be spotted not one stable vision of what companies are for, but four warring ones.",
+      "zh": "然而，看看企业界的巨头，图景就完全不同了。到了一定规模，普通的治理规则显然似乎不再适用。一些公司达到了某种“逃逸速度”，在这种情况下，金融体系的纪律约束变得过于薄弱，而对政府而言，所涉利益代价又高得离谱，以至于常规规则失效。在这些公司之中，人们很难看到一个稳定一致的“公司宗旨”共识，反而能看到四种彼此对立的观点。"
+    },
+    {
+      "id": "p004",
+      "en": "Of the 16 listed firms worth more than $1trn, seven are shareholder fundamentalists. None of Nvidia, Apple, Microsoft, Amazon, Broadcom, Eli Lilly or Micron is beholden to a government owner, though they put plenty of effort into staying in Uncle Sam’s good books. With a median age of 50, none bar Nvidia is run by its founder, and Jensen Huang owns only a small stake in the chipmaker. None has an elaborate statement of corporate purpose, since they are mostly content making heaps of money. All are American. Their adventures abroad are often held up as examples of the profit motive pushed too far. Eli Lilly pays much of its tax in Ireland. Apple has helped cement China’s dominance in manufacturing, while Nvidia has helped it remain in the artificial-intelligence race.",
+      "zh": "在市值超过1万亿美元的16家上市公司中，有7家是典型的股东原教旨主义公司。英伟达、苹果、微软、亚马逊、博通（Broadcom）、礼来（Eli Lilly）和美光（Micron）都不受政府股东控制，尽管它们都在尽力保持与山姆大叔（美国政府）关系良好。这16家公司（中位年龄50岁）中，除英伟达外都已不是创始人亲自掌舵，黄仁勋在这家芯片制造商中的持股也只是少数。由于它们基本都在赚得盆满钵满，几乎没有哪家发布过复杂的企业宗旨声明。它们全部是美国公司。它们在海外的经营常被拿来当作“利润动机走得过远”的典型案例。礼来在爱尔兰缴纳了大量税款；苹果在巩固中国制造业主导地位中发挥了关键作用，而英伟达则帮助中国在人工智能赛道中继续保持竞争力。"
+    },
+    {
+      "id": "p005",
+      "en": "Next are the corporate paternalists, who believe that the problem with shareholder democracy is that its voters do not know what is best for them. Berkshire Hathaway’s shareholders submit to Warren Buffett, the conglomerate’s super-voting patriarch, because they believe he is a better judge of how to use (or, more recently, not use) their cash. Google, too, is controlled by largely benign founders. Shareholders of Meta suffer rather than celebrate Mark Zuckerberg’s iron grip on the firm. Little else could explain the vast amounts of cash it wasted on the metaverse, or its creepy camera glasses. (Snap, a much smaller social-media firm, also makes specs, and is controlled by its founders too.)",
+      "zh": "接下来是“企业家长制者”——他们认为，股东民主的问题在于投票者并不知道什么对自己最好。伯克希尔·哈撒韦的股东把投票权交给沃伦·巴菲特，这位拥有超级表决权的财团族长，是因为他们相信他更善于决定如何使用（或者更准确地说，最近应该如何不使用）自己的现金。谷歌同样由大体上善意的创始人控制。Meta 的股东却要忍受而不是庆祝马克·扎克伯格对公司的铁腕控制。否则，很难解释它将巨额现金浪费在元宇宙上，或投入诡异的摄像眼镜上。（Snap 是一家更小的社交媒体公司，也生产类似眼镜，并且也由创始人控制。）"
+    },
+    {
+      "id": "p006",
+      "en": "Meta and Google, which are constrained only by solvency, are competing to out-spend Microsoft and Amazon, which must ultimately appease all shareholders. Much of the capital is flowing to SK Hynix and Samsung, two South Korean chipmakers which recently joined the trillion-dollar club and make up the remaining paternalists. Their sudden and enormous success has led to a sudden and frantic debate about who is owed what. (In America this debate remains theoretical, because the profits mostly are.) Workers have extracted massive concessions, in the form of bonuses, by threatening to go on strike. Politicians have dreamed about what handouts could be funded by the firms’ profits. The domestic scramble to buy shares in the firms, often with borrowed money, has caused something like a moral panic.",
+      "zh": "仅受“能否维持偿付能力”约束的 Meta 和谷歌，正与必须最终安抚所有股东的微软和亚马逊展开超支竞争。大量资本正在流向 SK Hynix 和三星，这两家最近加入万亿美元俱乐部的韩国芯片制造商，也是这一类“家长式”企业的剩余代表。它们的突如其来的巨大成功引发了关于“谁该拿到什么”的激烈争论。（在美国，这场争论仍然偏理论化，因为利润大多还停留在账面上。）工人们通过威胁罢工，已经争取到了可观的奖金，让企业作出了巨大让步。政治人物也在想象这些公司的利润能够资助怎样的“福利发放”。而国内一场以借款为主导的大规模抢购这些公司股票的行动，正引发某种道德性恐慌。"
+    },
+    {
+      "id": "p007",
+      "en": "The South Korean chipmakers also have much in common with TSMC and Saudi Aramco, the national champions that constitute the third corporate tribe. Any firm worth more than $1trn is strategically important. But this pair represent the totality of their home nations’ geopolitical significance. To most world leaders, Taiwan is a chip factory and Saudi Arabia an oilfield.",
+      "zh": "韩国的这两家芯片制造商与台积电和沙特阿美也有许多共同点，而后两者是构成第三类企业部落的国家级冠军。任何市值超过 1 万亿美元的公司都具有战略意义。但这对企业几乎代表了其各自国家在地缘政治上的全部意义。对大多数世界领导人而言，台湾只是一个芯片工厂，沙特阿拉伯则只是一个油田。"
+    },
+    {
+      "id": "p008",
+      "en": "The final pair presents the strongest argument against the end of corporate history. SpaceX and Tesla, the rocket and car businesses run by Elon Musk, are governance inventions of a Hobbesian design: individual shareholders consent to hand over all of their rights to the world’s richest man, who then governs as he sees fit. Its boss sees profit as a means to visiting Mars, instead of a worthy end in itself. SpaceX shareholders’ votes count for nothing. The firm makes it hard for them to sue. And for many it is hard to sell: the early inclusion of SpaceX’s shares in major indices means most investors are passive supporters of Mr Musk’s enterprise, whether they want to be or not.",
+      "zh": "最后这一对企业提出了对“企业史终结”论最强的反驳。由埃隆·马斯克经营的 SpaceX 与特斯拉，是霍布斯式治理构想的产物：个体股东同意把所有权利交给世界首富，由他按自己的意愿统治。它的老板把利润视为实现“登陆火星”的手段，而非值得追求的终极目标。SpaceX 股东的投票几乎没有任何意义。公司还让他们很难提起诉讼。对许多人来说，抛售也很困难：SpaceX 股票早早被纳入主要指数，这意味着大多数投资者不论愿不愿意，都成了马斯克事业的“被动支持者”。"
+    },
+    {
+      "id": "p009",
+      "en": "Almost nothing about Mr Musk’s corporate empire can be understood in the language of shareholder capitalism. That leads to discordant results when the analysts who speak it are required to express a view. This week Wall Street banks released their initial reports on SpaceX. “Not [free cashflow] positive on our forecasts before 2035, requiring, on average, $84bn of external capital needs per year from 2027-2034,” wrote Morgan Stanley, before saying the firm should be worth twice as much as it already is.",
+      "zh": "马斯克先生的企业帝国几乎无法用股东资本主义的语言来理解。于是当那些习惯使用这种语言的分析师被要求表达观点时，结果就会显得格格不入。本周，华尔街各大投行发布了对 SpaceX 的首份报告。摩根士丹利写道：“在我们的预测中，在 2035 年之前公司都不会实现自由现金流为正，预计 2027-2034 年平均每年需要 840 亿美元的外部资本”，随后又补充说该公司的估值应当是当前价值的两倍。"
+    },
+    {
+      "id": "p010",
+      "en": "Soon the ranks of giant public companies will grow. With which tribe are OpenAI and Anthropic likely to identify? Certainly not the fundamentalists. Both have a paternalistic strain and have supported redistribution, which makes the South Korean firms potential models. Yet they have none of their profits. Maybe the pair will become national champions, giving away a stake to the government, as OpenAI has reportedly floated. Or maybe the allure of absolute Hobbesian power will prove too great. ■",
+      "zh": "不久之后，巨型上市公司队伍将继续扩大。OpenAI 和 Anthropic 可能会把自己归入哪一阵营？可以肯定地说，不会是“基本面主义者”。两家公司都带有父权色彩并且支持再分配，这使得韩国公司成为可能的榜样。然而它们并不具备韩国企业那种利润来源。也许这对公司最终会成为国家队企业，把一部分股份让渡给政府，正如外界传闻 OpenAI 曾提出过的方案。或者说，对绝对霍布斯式权力的吸引力可能会更强大。■"
+    },
+    {
+      "id": "p011",
+      "en": "Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.",
+      "zh": "《经济学人》订阅者可以注册我们的观点通讯，里面汇集了我们最出色的社论、专栏、客座文章和读者来信。"
+    }
+  ],
+  "translated_at": "2026-07-22T23:22:41+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

@@ -1,0 +1,269 @@
+{
+  "id": "046-ai-isnt-coming-for-hollywood-its-already-arrived",
+  "source_href": "feed_0/article_45/index_u40.html",
+  "publication": "wired",
+  "issue": "2026-05-02",
+  "issue_published_at": "2026-05-02",
+  "article_published_at": "Aug 20, 2025 6:00 AM",
+  "published_at": "Aug 20, 2025 6:00 AM",
+  "published_date_source": "article",
+  "order": 46,
+  "section": "Zoë Schiffer",
+  "title_en": "AI Isn’t Coming for Hollywood. It's Already Arrived",
+  "title_zh": "人工智能并未要来袭好莱坞，而是已经到来",
+  "rubric_en": "",
+  "rubric_zh": "",
+  "date": "Aug 20, 2025 6:00 AM",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "Lady Gaga probably wasn’t thinking that a coup would unfold in her greenhouse. Then again, she was cohosting a party there with Sean Parker, the billionaire founder of Napster and first president of Facebook.",
+      "zh": "Lady Gaga 可能没想到一场“政变”会在她的温室里发生。再说了，那晚她还和 Sean Parker——Napster 的亿万富翁创始人、Facebook 的首任总裁——一起在那儿主办聚会。"
+    },
+    {
+      "id": "p002",
+      "en": "It was February 2024, and the singer had invited guests to her $22.5 million oceanside estate in Malibu to mark the launch of a skin-care nonprofit. One of the organization’s trustees was her boyfriend, whose day job was running the Parker Foundation. In the candlelit space, beside floor-to-ceiling windows that looked out over the Pacific, Parker’s people mingled with Gaga’s, nibbling focaccia and branzino alla brace to music from a string quartet (Grammy-winning, of course).",
+      "zh": "这是 2024 年 2 月，歌手邀请宾客来到她位于马里布、价值 2250 万美元的海滨庄园，庆祝一个护肤非营利组织的发布。该机构的一位董事会成员是她的男友，他的本职工作是管理 Parker Foundation。在烛光映照的场地里，Parker 的客人与 Gaga 的客人在地到天花板的落地窗前交谈，这些窗户望向太平洋，大家一边咬着 focaccia 面包和烤鲈鱼，一边听着弦乐四重奏的演奏（当然是格莱美获奖的）。"
+    },
+    {
+      "id": "p003",
+      "en": "Prem Akkaraju, one of Parker’s close friends and business partners, arrived in a tailored suit, his thick hair coifed to perfection. The two men had known each other since Parker was at Facebook and Akkaraju was in the music industry. Over the years, they’d tried unsuccessfully to launch a movie streaming platform together and—much more successfully—had taken over a renowned visual effects company. Lately they had been talking about starting an AI venture.",
+      "zh": "Parker 的密友兼商业伙伴之一 Prem Akkaraju 穿着量身定做的西装到场，他的浓密头发被梳理得一丝不乱。这两个人自 Parker 在 Facebook 任职、Akkaraju 还在音乐行业时就相识。多年来，他们曾一起尝试过创建电影流媒体平台，却未能成功；而更成功的一次，是接管了一家著名的视觉特效公司。最近他们一直在谈论要一起创业做 AI。"
+    },
+    {
+      "id": "p004",
+      "en": "That evening at Gaga’s, Akkaraju found himself sitting next to an investor in Stability AI, the company that launched the wildly popular text-to-image generator Stable Diffusion in 2022. Despite its early success, Stability was “circling the drain,” the investor recalls. It was “within days of not having options.” He told Akkaraju: “You should take Stability and make it into the Hollywood-friendly AI model.”",
+      "zh": "那天晚上在 Gaga 的聚会里，Akkaraju 发现自己坐在一位 Stability AI 投资者旁边。该公司在 2022 年推出了风靡一时的文生图生成器 Stable Diffusion。尽管早期很成功，这位投资者回忆道，Stability 当时“快要走到悬崖边上了”。它“离彻底失去选项只差几天”。他对 Akkaraju 说：“你应该把 Stability 接过去，做成一个适合好莱坞使用的 AI 模型。”"
+    },
+    {
+      "id": "p005",
+      "en": "Hollywood did seem to be in need of a friend. Since 2022, the number of films and TV shows made in the United States had dropped by about 40 percent, thanks to ballooning production costs at home, competition from overseas, and long-running labor disputes everywhere. AI promised to bring the numbers back up by speeding production and slashing costs: Let computers automate the grunt work of translating dialog, adding visual effects frame by painstaking frame, and editing boom microphones out of a zillion shots. Maybe one day they could even write scripts and act! Two of the industry’s biggest unions had gone on strike in part to obtain assurances that generative AI wouldn’t replace union jobs in the near term. But every major studio and streaming service was racing to figure out its AI strategy, and a host of startups—Luma, Runway, Asteria—was working on tools to pitch them.",
+      "zh": "好莱坞似乎确实需要一位助手。自2022年以来，美国拍摄的电影和电视剧数量已经下降了约40%，原因是国内制作成本飙升、海外竞争加剧，以及持续不断的劳资争议。AI曾被寄予厚望，认为它能够通过加快制作进度并大幅降低成本来把数字拉回：让电脑自动完成繁重的对话翻译工作、逐帧添加视觉特效，以及从无数镜头中去除爆麦。也许有一天它们甚至还能写剧本和演戏！两个最大的行业工会部分原因就是因此而罢工，要求至少在短期内获得保证：生成式AI不会取代工会成员的岗位。但每一家主要制片厂和流媒体都在竞相摸索AI战略，许多初创公司——如Luma、Runway、Asteria——都在开发可供它们试用的工具。"
+    },
+    {
+      "id": "p006",
+      "en": "Akkaraju saw the opportunity in front of him. Stability AI had the technology. It just needed that Hollywood finish. As far as he could tell, there was only one problem. Didn’t the company already have a CEO?",
+      "zh": "Akkaraju看到了摆在他面前的机会。Stability AI已经拥有技术了，只差把它带到好莱坞。就他观察，似乎只有一个问题：这家公司不早就有首席执行官了吗？"
+    },
+    {
+      "id": "p007",
+      "en": "When Emad Mostaque, a former hedge fund manager, founded Stability in 2020, the company’s mission was to “build systems that make a real difference” in solving society's toughest problems. By 2022, the system Mostaque felt he needed to build was a cloud supercomputer powerful enough to run a generative AI model. OpenAI was gaining traction with its closed-source models, and Mostaque wanted to make an open source alternative—“like Linux to Windows,” he says. He offered up the supercomputer to a group of academic researchers working on an open source system where you could type words to generate an image. The researchers weren’t going to say no. In August of that year, they launched Stable Diffusion in partnership with Mostaque’s company.",
+      "zh": "当前任对冲基金经理的Emad Mostaque于2020年创办了Stability，公司的使命是“打造真正有影响力的系统”，解决社会最棘手的问题。到2022年，Mostaque认为他需要建设的是一台云端超级计算机，足以运行生成式AI模型。当时OpenAI正凭借其闭源模型获得势头，而Mostaque想做一个开源替代方案——“像Linux对Windows一样”，他如此形容。随后他把这台超算交给一群学术研究者，他们正在开发一项开源系统：你可以输入文字来生成图像。这些研究者当然不会拒绝。在那年的8月，他们与Mostaque的公司联合推出了Stable Diffusion。"
+    },
+    {
+      "id": "p008",
+      "en": "The text-to-image generator was a breakout hit, garnering 10 million users in two months. “It was fairly close to state-of-the-art,” says Maneesh Agrawala, a computer science professor at Stanford University. Openness was core to the model’s success. “It allowed researchers to essentially extend the model, fine-tune it, and it spurred a whole community into action in terms of creating enhancements and add-ons,” Agrawala says. By October 2022, Stability AI had only 77 employees, but with thousands of times that many people in the wider Stable Diffusion community, it could compete with its bigger rivals. Mostaque raised $101 million in a seed round from venture capital firms and hedge funds including Coatue and Lightspeed (the final million, he tells me, was for good luck). The company was a unicorn.",
+      "zh": "这款文本生成图像工具一出即成爆款，两个月就吸引了1000万用户。斯坦福大学计算机科学教授Maneesh Agrawala表示，“它与当时的最先进水平相当接近。”他补充道，开源是模型成功的核心所在。“这使研究者能够持续扩展模型、进行微调，并且激活了一个庞大社区，在创建改进版本和附加组件方面全都投入行动。”到2022年10月，Stability AI只有77名员工，但在更广泛的Stable Diffusion社区中有成千上万的人在参与，足以与更大的竞争对手抗衡。Mostaque从包括Coatue和Lightspeed在内的风险投资公司与对冲基金筹得1.01亿美元天使轮融资（他告诉我，最后一百万是为了“吉祥”而来的）。这家公司已经成为了一家独角兽。"
+    },
+    {
+      "id": "p009",
+      "en": "Employees from this period describe Mostaque as a visionary. He spoke eloquently about the need to democratize access to artificial intelligence. In the not-too-distant future, Mostaque told employees, the company would solve complex biomedical problems and generate season eight of Game of Thrones. “It was an incredibly fun and chaotic startup that was throwing a lot of spaghetti at the wall, and some of it stuck really hard,” a former high-ranking employee tells me. (Like others I spoke with, the employee requested anonymity to speak freely about Mostaque and the company.)",
+      "zh": "这段时期的员工把 Mossaque 描述为一位有远见的人。他雄辩地谈到让人工智能获得更广泛可及性的必要性。在不远的将来，Mossaque 告诉员工，公司将解决复杂的生物医学问题，并制作《权力的游戏》第八季。“那是一家极其有趣又混乱的创业公司，大家像往墙上乱扔意大利面条，有些东西居然粘得非常牢固。”一名前高管告诉我。（像我采访的其他人一样，这位员工也要求匿名，以便能自由谈论 Mossaque 和公司。）"
+    },
+    {
+      "id": "p010",
+      "en": "Mostaque was thrilled by the success. But he was also in over his head. “I was brand-new to this,” he says. “With my Aspergers and ADHD, I was like, ‘What's going on?’” Mostaque talks fast, his tone matter-of-fact: “On the research side, we did really good things. The other side I was not so good at, which was the management side.” Two former employees told me that they felt Mostaque didn’t think deeply about building a marketable product. “He just wanted to build models,” one said.",
+      "zh": "Mossaque 对成功感到兴奋，但他也明显有些招架不住。“我当时对这一切都完全新手，”他说。“由于我的阿斯伯格综合征和多动症，我想的是：‘到底发生了什么？’”Mossaque 说话很快，语气平静：“在研究方面，我们确实做了很多很好的东西。另一个方面我就不太擅长，那就是管理方面。”两位前员工告诉我，他们觉得 Mossaque 没有深入思考如何打造一款有市场竞争力的产品。“他只想打造模型，”其中一位说。"
+    },
+    {
+      "id": "p011",
+      "en": "The company’s success brought heightened scrutiny. In January 2023, Getty Images sued Stability AI in London’s High Court for allegedly training its models on 12 million proprietary photographs. The company filed a similar suit in the US weeks later. In the stateside complaint, Getty accused the AI firm of “brazen theft and freeriding.”",
+      "zh": "公司的成功带来了更高的审视。2023 年 1 月，Getty Images 在伦敦高等法院起诉 Stability AI，指控其涉嫌在 1200 万张专有照片上训练模型。几周后，公司在美国也提起了类似诉讼。在美国的起诉书中，Getty 指责这家 AI 公司“肆无忌惮地盗用并搭便车”。"
+    },
+    {
+      "id": "p012",
+      "en": "Then, in June 2023, Forbes published a blockbuster story alleging that Mostaque had inflated his credentials and misrepresented the business in pitch decks to his investors. The article also claimed that Mostaque had received only a bachelor’s degree from Oxford, not a master’s. (Mostaque says that he earned both, but a clerical error on his part was responsible for the mix-up.) What’s more, Stability reportedly owed millions of dollars to Amazon Web Services, which provided the computing power for its model. Though Mostaque had spoken of a partnership, Stability’s spokesperson acknowledged to Forbes that it was in fact a run-of-the-mill cloud services agreement with a standard discount.",
+      "zh": "随后，在 2023 年 6 月，福布斯刊登了一篇重磅报道，指控 Mossaque 在向投资人推介中夸大了自己的资历并歪曲了公司的业务。报道还声称 Mossaque 只从牛津大学获得了本科学位，而非硕士学位。（Mossaque 表示他两者都拿到了，但他自己出现的文书错误导致了这次混淆。）此外，据称 Stability 还欠亚马逊网络服务公司（AWS）数百万美元的账款，而 AWS 为其模型提供了算力。尽管 Mossaque 曾提及双方有合作关系，但 Stability 的发言人承认，这实际上只是与亚马逊达成的一份普通云服务协议，享有标准折扣。"
+    },
+    {
+      "id": "p013",
+      "en": "Mostaque had answers for all of this, but investors lost confidence anyway. Four months after the article came out, VCs from both Coatue and Lightspeed left the board of directors, signaling they no longer had faith in the business. By the end of the year, the company’s head of research, chief operating officer, general counsel, and head of human resources had left as well. Many of Stability’s prominent researchers would follow. Under pressure from investors, Mostaque finally left the company on March 22, 2024—just a few weeks after Lady Gaga’s greenhouse soiree.",
+      "zh": "对于这些问题，Mostaque 都有应对说辞，但投资者仍然失去了信心。文章发布四个月后，Coatue 和 Lightspeed 的风险投资方先后退出董事会，这标志着他们不再对这家企业抱有信心。到年底，公司研究负责人、首席运营官、总法律顾问以及人力资源负责人也都离职。Stability 许多知名研究人员随后也相继离开。在投资者持续施压下，Mostaque 最终于2024年3月22日离开公司——就在 Lady Gaga 的温室晚宴几周后。"
+    },
+    {
+      "id": "p014",
+      "en": "Akkaraju and Parker wasted no time in taking over Stability, installing Akkaraju as CEO and Parker as chairman of the board. They never spoke to Mostaque, although the former CEO says he reached out to offer his support.",
+      "zh": "Akkaraju 和 Parker 接手 Stability 后并没有拖延，迅速完成了权力接管：Akkaraju 出任首席执行官，Parker 出任董事会主席。两人从未与 Mostaque 直接交谈，尽管前任首席执行官说过他曾主动联系，表示愿意提供支持。"
+    },
+    {
+      "id": "p015",
+      "en": "The pair set about trying to remake Stability AI for the moment. Not long after they took over, the competition got fiercer. That September, another startup, Runway, signed the AI industry’s first big deal with a movie studio. Runway would get access to Lionsgate’s proprietary catalog of movies as training data and develop tools for the studio. “The time it takes to go from idea to execution is just shrinking—like a lot,” says Cristóbal Valenzuela, CEO of Runway. “You can do things in just a couple of minutes that used to take two weeks.” In the coming years, he predicts, “you will have teams of two, three, four people making the work that used to require armies and hundreds of millions of dollars.”",
+      "zh": "这对新团队开始着手重塑当下的 Stability。在接管没多久，竞争就变得更加激烈。那年9月，另一家创业公司 Runway 与一家电影制片公司签署了AI行业首个大型合作协议。Runway 将获得 Lionsgate 专有影片目录作为训练数据，并为该片方开发工具。Runway 的首席执行官 Cristóbal Valenzuela 表示：“从构思到执行所需的时间正在快速缩短——短得惊人。你现在能在几分钟内完成，以前可能要花两周。”他预计，在未来几年，“你会看到两三四个人的团队完成过去需要一支军队和数亿美元才能完成的工作。”"
+    },
+    {
+      "id": "p016",
+      "en": "The deal with Lionsgate pushed the AI-fication of Hollywood into overdrive. “I can tell you, last year when I came to Los Angeles versus today, it’s night and day,” says Amit Jain, CEO of Luma, another Stability competitor. “Last year it was ‘Let’s prototype, let’s proof-of-concept’—they were deferring the inevitable. This year it’s a whole different tone.”",
+      "zh": "与 Lionsgate 的这笔交易把好莱坞的 AI 化进程推向了快车道。Luma 的首席执行官 Amit Jain——另一家与 Stability 竞争的公司负责人——说：“我可以告诉你，去年我来洛杉矶和今年相比，简直是天壤之别。去年大家还是‘先做个原型，先做个概念验证’——他们还在拖延那场既定之事。今年的基调完全不同了。”"
+    },
+    {
+      "id": "p017",
+      "en": "Moonvalley, an AI company founded by former Google DeepMind researchers (and the parent company of Asteria, an AI film studio cofounded by the actor Natasha Lyonne), recently told Time magazine that more than a dozen major Hollywood studios are testing its latest model—signaling openness to the technology, if not yet a full embrace.",
+      "zh": "Moonvalley——这家由前谷歌 DeepMind 研究员创立的人工智能公司（也是演员 Natasha Lyonne 共同创办的 AI 电影工作室 Asteria 的母公司）——最近告诉《时代》杂志，已有十几家好莱坞大型制片公司正在测试其最新模型，这表明他们至少在开放试用这项技术，尽管还没有完全全面拥抱。"
+    },
+    {
+      "id": "p018",
+      "en": "“It was really about me and Sean coming in and providing that direction, that leadership, and really taking advantage of what we call the three T’s: timing, team, and technology,” Akkaraju says.",
+      "zh": "Akkaraju 说：“这实际上就是我和 Sean 一起进场、给出方向、提供领导力，并且真正利用我们所说的‘三个 T’：时机（timing）、团队（team）和技术（technology）。”"
+    },
+    {
+      "id": "p019",
+      "en": "I’m sitting not at his TED Talk but in his $20 million mansion near Beverly Hills, on an immaculate overstuffed white couch overlooking a manicured garden. Akkaraju is fit, with a gleaming white smile and a button-up that shows off his biceps. His eye contact and handshake are equally strong.",
+      "zh": "我坐的不是他在 TED 的演讲现场，而是他位于贝弗利山附近的一栋两千万美元豪宅里，客厅里有一张洁白蓬松的沙发，正对着一处修剪整齐的花园。Akkaraju 体格健壮，牙齿洁白闪亮，衬衫下的手臂线条明显。他的目光交流和握手同样有力。"
+    },
+    {
+      "id": "p020",
+      "en": "Early on in his tenure, Akkaraju says, he decided that Stability would no longer compete with OpenAI and Google on building frontier models. Instead, it would create apps that sat on top of those models, freeing the company from enormous computing costs. Akkaraju negotiated a new deal with Stability AI’s cloud computing vendors, wiping away the company’s massive debt. Asked for specifics on how this came about, Akkaraju, through a spokesperson, demurred. Investors, like Coatue, came flocking back.",
+      "zh": "Akkaraju 表示，在他任职初期，就决定不再与 OpenAI 和谷歌在最前沿模型上正面对抗。相反，Stability 将创建建立在这些模型之上的应用层产品，从而把公司从巨大的算力成本中解放出来。他与 Stability AI 的云计算供应商重新谈判了一项新协议，清除了公司巨额债务。当被追问这一转变是如何发生时，Akkaraju 通过发言人推脱了具体细节。像 Coatue 这样的投资者又陆续回流。"
+    },
+    {
+      "id": "p021",
+      "en": "Where Mostaque painted a picture of AI solving the world’s most difficult problems, what Akkaraju is building, in brutally unsexy terms, is a software-as-a-service company for Hollywood. The goal is not to generate films, he says, but to use AI to augment the tools that filmmakers already use. “I really do think that our differentiation is having the creator in the center,” Akkaraju says. “I don't see any other AI company that has James Cameron on its board.”",
+      "zh": "当莫萨克把AI描绘为解决世界最难问题的力量时，阿卡拉朱正在做的则更为“现实”——他在为好莱坞建设一家软件即服务公司。按他的说法，目标不是生成电影，而是用AI增强电影制作人已经在使用的工具。“我真的认为我们的差异化就在于把创作者置于核心位置，”阿卡拉朱说。“我找不到有任何其他AI公司拥有詹姆斯·卡梅隆在其董事会里。”"
+    },
+    {
+      "id": "p022",
+      "en": "Yes, the irony writes itself: The guy who once had a fever dream about murderous machines while “sick and broke” in Rome and proceeded to turn it into The Terminator—the creator of Skynet!—is on the board of an AI company. What’s doubly surprising, though, is that Cameron is on the board of an AI company run by Parker and Akkaraju. A decade ago, Cameron was helping lead Hollywood’s charge against them. He didn’t appreciate the premise of their streaming platform, the Screening Room, which let people watch new releases at home for $50 on the same day they came out in theaters. Cameron reportedly told a crowd at CinemaCon that he was “committed to the theater experience.” In the years that followed, none of the major studios publicly announced deals with the Screening Room, and in 2020 the company rebranded as SR Labs.",
+      "zh": "这种反差几乎是不言自明的：那个曾在罗马“病痛交加、囊中羞涩”时做过关于杀戮机器的癫狂幻想，并将其改编为《终结者》——也就是“天网”的缔造者——现在却在一家AI公司的董事会任职。更讽刺的是，卡梅隆竟坐上了由帕克与阿卡拉朱共同管理的AI公司董事会。十年前，卡梅隆还在帮助带头带领好莱坞反对这类公司。他并不认可他们的流媒体平台“Screening Room”的核心设想：观众可在上映当天以50美元在家观看新片。卡梅隆据称在CinemaCon对观众表示他“致力于电影院观影体验”。在随后几年里，没有主要电影公司公开宣布与Screening Room达成交易，直到2020年，该公司改名为SR Labs。"
+    },
+    {
+      "id": "p023",
+      "en": "That same year, Akkaraju and Parker took over Weta Digital, the visual effects studio behind blockbusters such as Lord of the Rings, Game of Thrones, and Cameron’s Avatar movies. Weta developed virtual cameras that let Cameron see a real-time rendering of the artificial environment through a viewfinder, as if he were filming on location in the fictional world of Pandora.",
+      "zh": "就在同一年，阿卡拉朱与帕克接手了Weta Digital，这家负责《指环王》《冰与火之歌》以及卡梅隆《阿凡达》系列等大片视觉特效的公司。Weta开发了虚拟摄像机，使卡梅隆能够通过取景器实时看到人工环境的渲染画面，仿佛他正在潘多拉虚构世界的实景中拍摄。"
+    },
+    {
+      "id": "p024",
+      "en": "One night, Cameron, Akkaraju, and Parker met for dinner to discuss how technology was changing the film industry. “The tequila was flowing,” Cameron recalls. “A friendship formed.” Any tension that had existed over the Screening Room melted away. (“I never really talked with him about it,” Akkaraju says. “He knew, and I knew. It was very funny.”)",
+      "zh": "有一天晚上，卡梅隆、阿卡拉朱和帕克聚在一起吃晚饭，讨论技术如何正在改变电影产业。卡梅隆回忆说，“龙舌兰酒一直在流淌。” “于是形成了友谊。” 关于Screening Room曾经存在的任何紧张都烟消云散了。（“我从没真正在他面前提起过这事，”阿卡拉朱说。“他知道，我知道。那很有趣。”）"
+    },
+    {
+      "id": "p025",
+      "en": "So Cameron is on the board, but is the “creator in the center,” as Akkaraju said? When I spoke with Parker, he emphasized the importance of using open source models and spoke of “respect for creators and respect for IP.” He added: “That sounds potentially kind of rich, coming from me, given my past association with Napster and early social media. But it is a lesson learned.”",
+      "zh": "所以 Cameron 在董事会中，但他真的是Akkaraju所说的“以创作者为核心”吗？我与Parker交谈时，他强调了使用开源模型的重要性，并提到“对创作者的尊重以及对知识产权的尊重”。他补充道：“从我个人而言，这样说听起来可能有些不协调，因为我过去与Napster和早期社交媒体有关。但这确实是一堂吸取过的教训。”"
+    },
+    {
+      "id": "p026",
+      "en": "In June, the company scored a major win when Getty dropped its copyright infringement claims from a broader lawsuit as the trial neared a close in the UK. The US trial is ongoing. Akkaraju said the company “sources data from publicly available and licensed datasets for training and fine-tuning,” and that when “creating solutions for a client” it “fine-tunes using the dataset provided by the client.” When I asked Akkaraju if the company trained exclusively on free or licensed data, he responded: “Well, that’s the majority of what we’re using, for sure.”",
+      "zh": "6月，随着英国案件临近结案，该公司获得了重大胜利，Getty在一宗更大范围的诉讼中撤回了版权侵权指控。美国诉讼仍在进行中。Akkaraju表示，公司“在训练和微调中使用公开可获得并经过授权的数据集”，并且在“为客户开发方案”时，“会使用客户提供的数据集进行微调”。当我问Akkaraju公司是否只用免费或授权数据训练时，他回答道：“嗯，这当然是我们正在使用的大多数数据。”"
+    },
+    {
+      "id": "p027",
+      "en": "Even those who are bullish on AI admit that, for the most part, the technology isn’t ready for the big screen. Text-to-image generators might work for marketing agencies, but they often lack the quality required for a feature film. “I worked on one film for Netflix and tried to use a single shot,” says a filmmaker who asked to remain anonymous, not wanting to discuss their use of AI publicly. The AI-generated footage got “bounced back” from quality control because it wasn’t 4K resolution, the filmmaker says.",
+      "zh": "即使是那些看好AI的人也承认，在大多数情况下，这项技术还没有准备好用于大银幕。文本生成图像工具也许适合市场营销公司，但它们往往缺乏制作故事片所需的质量。一位要求匿名的电影人说：“我在一部Netflix电影里参与了一个片段，尝试使用一个单独的AI镜头。”这位电影人不想公开谈论自己使用AI的经历。AI生成的画面在质量控制环节被“退回”，因为分辨率不是4K，电影人解释道。"
+    },
+    {
+      "id": "p028",
+      "en": "Then there’s the problem of consistency. Filmmakers need to be able to tweak a scene in minute ways, but that’s not possible with most of the image and video generators on the market. Enter the same prompt into a chatbot 10 times and you will likely get 10 different responses. “That doesn't work at all in a VFX workflow,” Cameron says. “We need higher resolution, we need higher repeatability. We need controllability at levels that aren't quite there yet.”",
+      "zh": "此外，还存在一致性问题。电影人需要能够微调镜头中的细节，但市场上的大多数图像和视频生成工具都做不到这一点。将同一提示词在聊天机器人中输入10次，通常会得到10个不同结果。Cameron说：“这在VFX工作流里根本行不通。我们需要更高的分辨率，需要更高的可重复性。我们需要更高层次的可控性，而这种水平目前还尚未达到。”"
+    },
+    {
+      "id": "p029",
+      "en": "That hasn’t stopped filmmakers from experimenting. Almost every person I spoke with for this story said that AI is already a core part of the “previz” process, where scenes are mapped out before a shoot. The process can create new inefficiencies. “The inefficiency in the old system was really the information gap between what I see and what I imagine I want moving forward,” says Luisa Huang, cofounder of Toonstar, a tech-forward animation company. “With AI, the inefficiency becomes ‘Here's a version, here's another version, here's another version.’”",
+      "zh": "这并没有阻止电影人去做尝试。为了写这篇报道，我采访的几乎每个人都表示，人工智能已经成为“预可视化（previz）”流程的核心环节，这一流程会在开拍前先把场景先规划出来。这个过程会带来新的低效。“以前旧系统里的低效，其实主要是我能看到的内容”和“我想要的样子”之间的信息差，”图形动画公司 Toonstar 的联合创始人、技术导向的 Luisa Huang 说，““有了 AI 之后，低效变成了：‘这是一个版本，这是另一个版本，再来一个版本。’”"
+    },
+    {
+      "id": "p030",
+      "en": "One of the first people in Hollywood to admit to using generative AI in the final frame is Jon Erwin, the director and producer of Amazon’s biblical epic House of David. He became interested in the technology while shooting the first season of the show in Greece. “I noticed that my production designer was able to visualize ideas almost in real time,” he says. “I was like, ‘Tell me exactly how you’re doing what you’re doing. What are you using, magician?’” he recalls.",
+      "zh": "好莱坞最早承认在最终镜头里使用生成式 AI 的人之一，是亚马逊圣经史诗剧《大卫之屋》的导演兼制片人 Jon Erwin。他在希腊拍摄该剧第一季时开始关注这项技术。“我注意到我的美术指导几乎能实时把想法可视化，”他说，“我当时心想，‘你到底是怎么做到的？你到底在用什么，魔术师？’他回忆道。”"
+    },
+    {
+      "id": "p031",
+      "en": "Erwin started playing around with the tools himself. “I felt directly tethered to my imagination,” he says. Eventually, he made a presentation for Amazon outlining how he wanted to use generative AI in his production. The company was supportive.",
+      "zh": "Erwin 之后开始自己试用这些工具。“我感觉自己和想象力直接连在了一起，”他说。最终，他向亚马逊做了一场汇报，讲明了他想在制作中如何使用生成式 AI。公司表示支持。"
+    },
+    {
+      "id": "p032",
+      "en": "“We film everything we can for real—it still takes hundreds of people,” Erwin tells me. “But we’re able to do it at about a third of the budget of some of these bigger shows in our same genre, and we’re able to do it twice as fast.” A burning-forest scene in House of David would have been too expensive to do with practical effects, he says, so AI created what audiences saw.",
+      "zh": "“我们会把能拍摄的内容都拍实景——这仍然要用到数百人，”Erwin 对我说，“但我们能以同类型一些更大型作品大约三分之一的预算完成，而且能快两倍。”他说，在《大卫之屋》里的一场烈火山林场景如果用实景特效拍摄会非常昂贵，于是就由 AI 生成了观众最终看到的画面。"
+    },
+    {
+      "id": "p033",
+      "en": "Erwin says he has spoken with the team at Stability but has “not been able to use their tools successfully on a show at scale.” The comment reflects a theme I found in my reporting: While I was able to identify a number of filmmakers who admitted to toying around with Stability’s text-to-image generators, none used the tools professionally—at least not yet.",
+      "zh": "Erwin 表示，他已经与 Stability 的团队进行了交流，但“尚未能够在一部剧集中大规模成功使用他们的工具”。这与我在报道中发现的一个共同现象相呼应：我曾找到不少承认自己在玩弄 Stability 文生图工具的电影人，但至少目前为止，没人把这些工具用于专业制作。"
+    },
+    {
+      "id": "p034",
+      "en": "Contains AI-generated imagery.",
+      "zh": "其中包含 AI 生成的图像。"
+    },
+    {
+      "id": "p035",
+      "en": "The taboo on studios acknowledging their embrace of AI seems to be softening. In July, Netflix co-CEO Ted Sarandos told investors the company had allowed “gen AI final footage” to appear in one of its original series for the first time. He said the decision sped up production tenfold and dramatically cut costs. “We remain convinced that AI represents an incredible opportunity to help creators make films and series better, not just cheaper,” he said.",
+      "zh": "制片厂公开承认自己采用 AI 的禁忌似乎正在减弱。7 月，Netflix 联合首席执行官 Ted Sarandos 向投资者表示，公司首次允许“生成式 AI 的最终画面”出现在其一部原创剧集中。他说，这一决定将制作效率提升了十倍，并且大幅降低了成本。Sarandos 说：“我们始终相信，AI 为创作者提供了一个令人难以置信的机会，帮助他们把电影和剧集拍得更好，而不只是更便宜。”"
+    },
+    {
+      "id": "p036",
+      "en": "Hanno Basse, Stability’s chief technology officer, is showing me an image of his backyard in Los Angeles: a grassy lawn surrounded by high hedges, rose bushes crowding a bay window, and a tree in the far left-hand corner. Suddenly, the 2D image unfurls into 3D. A generative AI model has filled in the gaps, estimating depth (how far away the hedge is from the rose bush, the tree from the window) and other missing elements to make the scene feel immersive. Basse can replicate camera moves by selecting from a drop-down menu: zoom in or out, pan up or pan down, spiral.",
+      "zh": "Stability 的首席技术官 Hanno Basse 正在向我展示他在洛杉矶后院的一张图片：草地四周是高高的树篱，玫瑰丛挤满了一个飘窗，远左角落有一棵树。突然，这张二维图像展开成了三维场景。一款生成式 AI 模型补全了空白区域，推断出深度信息（树篱离玫瑰丛有多远、树与窗户的相对距离等）以及其他缺失元素，让画面更具沉浸感。Basse 可以通过下拉菜单复现摄影机运镜，包括放大或缩小、向上或向下平移、以及旋转。"
+    },
+    {
+      "id": "p037",
+      "en": "“Instead of spending hours or days or weeks building a virtual environment and rehearsing your shots, the idea here is actually that you can just take a single image and generate a concept,” Basse says.",
+      "zh": "“与其花费数小时、数天甚至数周来搭建虚拟环境并排练你的镜头，不如说这里的想法实际上是：你只需要拍一张图像就能生成一个概念，”巴塞表示。"
+    },
+    {
+      "id": "p038",
+      "en": "Contains AI-generated imagery.",
+      "zh": "包含由人工智能生成的图像。"
+    },
+    {
+      "id": "p039",
+      "en": "Rob Legato, Stability’s chief pipeline architect, seems pleased. A veteran visual effects specialist who worked on Wolf of Wall Street and Avatar, Legato joined the company in March. He was up until 2 am the night before shooting a film and has arrived at this meeting to act as both a company executive and a beta tester.",
+      "zh": "Stability 的首席管线架构师 Rob Legato 似乎颇为满意。这位曾参与《华尔街之狼》和《阿凡达》制作的资深视觉特效专家于 3 月加入了公司。前一天晚上拍电影前他一直忙到凌晨两点，并且此次参加会议兼任公司高管与内测用户。"
+    },
+    {
+      "id": "p040",
+      "en": "The only issue, Legato says, is the drop-down menu. “You probably want to combine them and have a slider,” he says.",
+      "zh": "Legato 表示，唯一的问题是下拉菜单。“你可能会想把它们合并，并设置一个滑块，”他说。"
+    },
+    {
+      "id": "p041",
+      "en": "Contains AI-generated imagery.",
+      "zh": "本文包含 AI 生成的图像。"
+    },
+    {
+      "id": "p042",
+      "en": "Stability AI’s offerings are still in their early days. Even Legato admits the version of the virtual camera tool we are looking at has a ways to go before it could be used by a professional. “Right off the bat my job is unfortunately to be critical,” he says.",
+      "zh": "Stability AI 的产品现在仍处于早期阶段。即使 Legato 也承认，我们现在看到的这款虚拟摄像机工具在达到专业人士可用之前仍有很长的路要走。“一开始我的工作不幸就是要挑毛病，”他说。"
+    },
+    {
+      "id": "p043",
+      "en": "The conversation drifts to rotoscoping. Legato explains that this process, where an artist sketches over a scene frame by frame, used to take hundreds of hours and was reserved for entry-level animators. Now AI can automatically isolate part of an image and add visual effects. “You’d never want your child to work on roto,” he tells me.",
+      "zh": "谈话很快转到描图（roto）上。Legato 解释说，这项让艺术家逐帧在画面上勾勒的流程，以前需要花上数百小时，通常只留给入门级动画师。现在，AI 可以自动分离出图像的一部分并添加视觉效果。“我从不想让你的孩子去做 roto，”他对我说。"
+    },
+    {
+      "id": "p044",
+      "en": "The comment is meant to sound optimistic, but it gets to a looming fear about how AI will impact Hollywood. Namely, that the technology will lead to widespread job losses.",
+      "zh": "这句评论本想听起来更乐观，但它触及了一个挥之不去的担忧：AI 会如何冲击好莱坞，尤其是这种技术可能导致大规模的失业。"
+    },
+    {
+      "id": "p045",
+      "en": "“I hear artists at VFX companies say, ‘Hey, I don't want to get replaced.’ Of course you don't want to get replaced!” says Cameron. “If you guys are going to lose your jobs, you're going to lose your jobs over the work drying up versus getting bumped aside by these gen AI models.” The idea, echoed by Akkaraju and Parker, is that as movies become cheaper to produce, more films will get made and overall employment will rise.",
+      "zh": "“我听到VFX公司里的艺术家们说：‘嘿，我不想被替代。’当然你也不想被替代，”Cameron说。“如果你们要失去工作，不是因为这些生成式AI模型把你们挤走，而是因为可做的工作变少。”Akkaraju和Parker也强调这一点：随着电影制作成本下降，会拍出更多影片，整体就业反而会上升。"
+    },
+    {
+      "id": "p046",
+      "en": "When pressed on this point, Akkaraju reverts to an extended metaphor. “Every major transition or technological invention is always met with apprehension at first, and then acceptance, and then it's obvious,” he says. “When ATMs rolled out in the ’80s, all the tellers were really up in arms. They were like, ‘That’s our job. We give withdrawals, we take deposits, and now you’re having this machine do it.’ What’s happened since then is that there are more teller jobs than ever before, and their average pay is higher, even adjusted for inflation.”",
+      "zh": "在被追问到这一点时，Akkaraju又用了一个延伸的比喻。“每一次重大变革或技术发明，最初都会伴随忧虑，之后是接受，最后变成显而易见，”他这样说。“20世纪80年代ATM普及时，所有柜员都非常反对。他们当时说：‘那是我们的工作。我们负责取款、存款，现在你们却让机器来做。’从那之后，柜员岗位反而比以前更多，平均工资也更高，甚至按通胀调整后仍然更高。”"
+    },
+    {
+      "id": "p047",
+      "en": "Whether the coup that began in Lady Gaga’s greenhouse ultimately saves Stability AI, the AI revolution is here and already transforming Hollywood. That collapsing building, that burning forest, that crowd of people you see when you stream a show or go to the movie theater? One person with a keyboard could’ve made them. The thing about that bank-teller anecdote is that it’s often used by techno-optimists—including Stability AI investor Eric Schmidt. What they don’t mention is that the number of bank tellers peaked around 2015. Since then, it’s been on the decline.",
+      "zh": "无论始于Lady Gaga温室的这场“政变”最终是否会拯救Stability AI，AI革命已经到来并正在改造好莱坞。那栋倒塌的建筑，那片燃烧的森林，你在追剧或进影院时看到的那群人？一个人坐在键盘前就能把它们都做出来。银行柜员的这个例子常常被技术乐观主义者拿出来说事——其中也包括Stability AI的投资人Eric Schmidt。可是他们没有提到的是，银行柜员人数大约在2015年达到顶峰，此后一直在下降。"
+    },
+    {
+      "id": "p048",
+      "en": "Update: 8/20/2025, 4:45 PM EDT: WIRED has corrected the spelling of Jon Erwin's name. WIRED has also clarified details about Stability AI's training data, as well as its investors, and removed a reference to Stable Diffusion 1.5.",
+      "zh": "更新：2025年8月20日，美国东部夏令时下午4:45：WIRED已更正Jon Erwin的姓名拼写。WIRED还澄清了关于Stability AI训练数据以及其投资者的细节，并删除了对Stable Diffusion 1.5的提及。"
+    },
+    {
+      "id": "p049",
+      "en": "Let us know what you think about this article. Submit a letter to the editor at [email protected].",
+      "zh": "请告诉我们您对这篇文章的看法。请给编辑部来信，邮箱地址：[email protected]。"
+    }
+  ],
+  "translated_at": "2026-07-23T01:16:04+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

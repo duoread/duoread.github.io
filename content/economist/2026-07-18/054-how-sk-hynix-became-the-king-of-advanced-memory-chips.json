@@ -1,0 +1,89 @@
+{
+  "id": "054-how-sk-hynix-became-the-king-of-advanced-memory-chips",
+  "source_href": "d213ff2b-b8ba-4d91-b347-fcd41dced7b2.html",
+  "publication": "economist",
+  "issue": "2026-07-18",
+  "order": 54,
+  "section": "Business",
+  "title_en": "How SK Hynix became the king of advanced memory chips",
+  "title_zh": "SK海力士如何成为先进内存芯片的“王者”",
+  "rubric_en": "Its advantages will not protect it if demand falters",
+  "rubric_zh": "其优势在需求放缓时也未必能保住领先地位",
+  "date": "July 16th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "In the early 2000s a sharp downturn in the market for memory chips pushed Hynix Semiconductor, as it was known at the time, to the brink of collapse. Sales fell by half, and the South Korean company’s market capitalisation sank to just above $500m. A decade of brutal restructuring ensued, during which it narrowly survived an effort by Micron, an American competitor, to buy it for parts. In 2012 the floundering chipmaker was acquired by SK Group, a local conglomerate.",
+      "zh": "在2000年代初，内存芯片市场的急剧下滑几乎将当时名为Hynix Semiconductor的海力士推向崩溃边缘。销售额腰斩，韩国公司的市值一度降到仅略高于5亿美元。此后公司经历了十年的“残酷”重组，期间它几乎被美国竞争对手美光（Micron）以剥离资产的方式收购。2012年，这家举步维艰的芯片制造商被本土财团SK集团收购。"
+    },
+    {
+      "id": "p002",
+      "en": "These days things look very different for SK Hynix. In June it briefly dethroned Samsung Electronics as South Korea’s most valuable company. It is now neck-and-neck with its long-time rival in the global market for memory chips, and well ahead in the high-bandwidth memory (HBM) required for artificial intelligence.",
+      "zh": "如今，SK海力士的处境已有天壤之别。6月，它一度超越三星电子，成为韩国市值最高的公司。如今它在全球内存芯片市场与长期竞争对手几乎并驾齐驱，而且在人工智能所需的高带宽内存（HBM）市场中走在更前面。"
+    },
+    {
+      "id": "p003",
+      "en": "The AI boom has fuelled a vertiginous rise in SK Hynix’s market capitalisation, which in May passed $1trn. On July 10th the company listed its shares on America’s Nasdaq exchange, raising $26.5bn in the process, a record for a foreign company. Although its share price slumped on the following trading day, with investors wary of the increasingly lofty valuations of chipmakers, it is still up by around 1,000% since the start of 2025. The money raised in the listing, along with the $50bn of cash its operations generated in the 12 months to March, will fund an ambitious expansion (see chart). “We’re going to double our whole capacity in the next five years,” Chey Tae-won, the chairman of SK Group, pledged last month. Appetite for its chips is voracious: sales in its most recent quarter were triple the level a year earlier.",
+      "zh": "AI热潮推高了SK海力士的市值，5月一度突破1万亿美元，几乎是疯狂的上升。7月10日，公司在美国纳斯达克上市，筹资265亿美元，这是外国公司创纪录的一笔。尽管次日其股价下跌，因为投资者担心芯片制造商持续走高的估值，但自2025年初以来，公司股价仍上涨了约1000%。上市筹集的资金，再加上截至3月的12个月内其经营产生的500亿美元现金，将用于一项雄心勃勃的扩产计划（见图表）。SK集团主席郑泰源上个月表示：“我们将在未来五年将全公司产能翻一倍。”市场对其芯片的需求非常旺盛：其最新一季销售额是上一年的三倍。"
+    },
+    {
+      "id": "p004",
+      "en": "SK Hynix cannot take credit for the AI boom. But its turnaround is remarkable nonetheless. The chipmaking industry’s intense capital requirements and technological sophistication favour incumbents. Underdogs rarely pull ahead. How has SK Hynix done it?",
+      "zh": "SK海力士无法将AI浪潮的红利全部归于自身，但其转型仍然值得称道。芯片制造业高昂的资本投入门槛和复杂的技术要求天然有利于行业 incumbents，后进者很少能反超。SK海力士是如何做到的？"
+    },
+    {
+      "id": "p005",
+      "en": "Part of the explanation lies in its nimbleness. Stuck in the shadow of Samsung, which controlled around 40% of the memory market (against Hynix’s roughly 25%) in the early 2010s, the runner-up started looking for ways to leapfrog the competition. Identifying novel ways to circumvent the physical limits of increasingly tiny chips became a focus, recalls Park Sung-wook, its chief executive in 2013-18. Opportunity struck in 2008 when AMD, an American company that itself played second fiddle to Intel, asked SK Hynix to create a new form of stacked memory chip for a graphics processor. The pair had previously worked together on an earlier graphics-memory chip that had proved a great success. Although the early trial of HBM, launched in 2013, proved too pricey for customers, it demonstrated that stacking memory chips vertically could achieve significantly faster speeds.",
+      "zh": "部分原因在于其反应敏捷。2010年代初，三星在内存市场中占据约40%份额，而Hynix仅约25%，长期受制于三星的阴影，后者才会寻找“超越”竞争对手的路径。其时任首席执行官朴成旭回忆称，识别并突破越来越小芯片的物理极限成为公司的重点方向。2008年，美国AMD向SK海力士发出合作邀请，希望其为一款图形处理器开发一种新型堆叠内存芯片。此前双方曾共同开发过一款早期图形内存芯片，市场反响非常成功。尽管2013年推出的早期HBM试验产品对客户来说过于昂贵，但它证明了通过垂直叠放内存芯片可以实现显著更高的速度。"
+    },
+    {
+      "id": "p006",
+      "en": "Missteps from rivals provided an added boost. In 2019 Samsung downsized its HBM team to invest in other types of chips. Engineers who still believed in the technology fled to SK Hynix. A crop of engineers from Intel, which was struggling with product delays, joined the South Korean memory-maker too.",
+      "zh": "竞争对手的失误也给了SK海力士额外助力。2019年，三星缩减HBM团队规模，转而投入其他类型芯片。仍坚定看好该技术的工程师陆续转投SK海力士。英特尔也在遭遇产品延期困境期间，一批工程师加盟了这家韩国内存制造商。"
+    },
+    {
+      "id": "p007",
+      "en": "Corporate culture has also played an important part. Samsung is known to reward internal competition through a cut-throat meritocracy. SK Hynix, on the other hand, embraces collaboration. Hyun Sun-yeop, its former human-resources chief, argues that company-wide practices such as frequent one-on-ones let employees speak out and share information, in contrast with Samsung’s more hierarchical and siloed environment.",
+      "zh": "企业文化同样发挥了重要作用。三星以严格功利主义式的“内部竞逐”著称；而SK海力士则更强调协作。其前人力资源负责人玄善曳（Hyun Sun-yeop）表示，公司推行的“一对一”沟通等做法，让员工更容易发声和共享信息，这与三星更强调等级制和部门壁垒的环境形成鲜明对比。"
+    },
+    {
+      "id": "p008",
+      "en": "Engineers are also encouraged to tinker, with unsuccessful projects turned into “failure case studies”. That has led to innovations such as “mass reflow-molded underfill”, which packages together stacked chips by filling gaps between them with a moulding liquid, helping to dissipate heat. Such techniques helped SK Hynix beat Samsung to market with HBM3, the fourth generation of the product, in 2022, making it the sole supplier of cutting-edge memory to Nvidia, the king of AI chips.",
+      "zh": "公司也鼓励工程师动手实验，不成功的项目会被转化为“失败案例”。这推动了如“mass reflow-molded underfill（大规模回流模压底填充）”等创新：通过填充两片堆叠芯片之间的空隙，提升散热效果。这些技术帮助SK海力士在2022年先于三星推出HBM3（该产品的第四代），从而成为AI芯片巨头英伟达的唯一前沿内存供应商。"
+    },
+    {
+      "id": "p009",
+      "en": "SK Hynix could still falter. It has never faced such a position, as a market leader during a period of relentless expansion. Samsung and Micron are catching up; both are set to supply some HBM for Nvidia’s upcoming Vera Rubin server rack, and Samsung has been regaining its lead in conventional memory. The three businesses, which together dominate the memory market, have all unveiled dizzying investment plans. Last month the two South Korean giants announced over $2trn of investment up to 2040, including in a “mega-cluster” of chip facilities in Yongin, a city near Seoul.",
+      "zh": "SK海力士仍可能出现波动。公司此前从未在持续扩张阶段以市场领先者身份经受考验。三星和美光正在追赶：双方都将向英伟达即将发布的Vera Rubin服务器机柜供应部分HBM，而三星也在传统内存领域重夺领先。三大主导内存市场的企业都已公布了令人目眩的投资计划。上月，这两家韩国巨头宣布了截至2040年的超过2万亿美元投资承诺，其中包括在首尔附近永仁市建设“超级集群”式芯片园区。"
+    },
+    {
+      "id": "p010",
+      "en": "Soaring demand and fierce competition increase the risk of over-investment, a regular feature of boom periods in the notoriously cyclical memory market. At the peak of the last cycle, in 2018, SK Hynix’s capital expenditure hit $15bn (or 40% of revenue). Then in 2019 a slowing server market led to a halving of memory prices. The firm’s sales fell by 33% the following year, while steep fixed costs meant operating profits collapsed by 87%.",
+      "zh": "旺盛需求与激烈竞争提升了过度投资的风险，这在以周期性著称的内存市场繁荣期是常见现象。上一轮周期高点发生在2018年，当年SK海力士资本支出达到150亿美元（约占收入40%）。而在2019年，服务器市场放缓使内存价格腰斩。次年公司销售下滑33%，而高昂的固定成本导致营业利润下滑87%。"
+    },
+    {
+      "id": "p011",
+      "en": "This time the company has promised to limit capital spending to about a third of revenue (over the past 12 months it has averaged 22%). It also insists that long-term supply agreements, negotiated on more stringent terms than in the past, give it years of visibility on sales. That may help the eventual down-cycle to “not be as violent”, says Jing Jie Yu of Morningstar, a research firm. But even if demand remains high relative to the past, any reduction could arrive just as the new capacity currently being built comes online. Bernstein, a broker, reckons that memory prices, which have risen nearly ten-fold in the past year, will probably peak next year, precipitating a 45% drop in sales at SK Hynix in 2028. Rising Chinese memory-makers such as CXMT and YMTC could add to the excess supply.",
+      "zh": "这一次，SK海力士承诺将资本支出控制在约三分之一收入水平（过去12个月均值为22%）。公司还强调，当前签订的长期供货协议在更严格条款下为其带来了数年的销售可预见性。晨星的研究员余静杰（Jing Jie Yu）认为，这有助于未来下行周期“不至于过于猛烈”。但即便需求仍高于过去，需求回落也可能在新产能陆续投产的阶段出现。伯恩斯坦证券估计，过去一年内存价格几乎上涨十倍，明年或见顶，进而推高2028年SK海力士销售额下降45%。如长江存储（YMTC）和长鑫存储（CXMT）这类中国厂商的崛起，可能进一步推高供应过剩。"
+    },
+    {
+      "id": "p012",
+      "en": "SK Hynix also faces growing demands from politicians. It is under pressure from Lee Jae Myung, South Korea’s president, to expand capacity in the country’s less-developed south-west, where SK Hynix recently announced over $260bn-worth of investments to create another chipmaking cluster. Although the region is abundant in water and power, executives are wary of moving too much capacity away from Seoul, where talent and industrial networks concentrate. America, too, is prodding. Howard Lutnick, its commerce secretary, is reportedly in talks with the chipmaker to build more in America. The firm has already committed to a $4bn facility in Indiana. SK Hynix is discovering that success brings challenges of its own. ■",
+      "zh": "SK海力士也面临政治层面的增长压力。韩国总统李在明要求公司在国内西南部欠发达地区扩产，最近SK海力士刚宣布将投资逾2600亿美元，建设另一个芯片制造集群。尽管该地区水电资源充足，管理层仍担心把过多产能外移离开首尔，因为那里集中了人才与产业网络。美国方面也在施压。美国商务部长霍华德·卢特尼克（Howard Lutnick）据报道正在与该公司讨论进一步在美扩产。公司此前已承诺在印第安纳州建设一座40亿美元工厂。SK海力士正逐步体会到：成功也会带来新的挑战。■"
+    },
+    {
+      "id": "p013",
+      "en": "To track the trends shaping commerce, industry and technology, sign up to “The Bottom Line”, our weekly subscriber-only newsletter on global business.",
+      "zh": "想追踪塑造商业、产业与技术格局的趋势，请订阅《底线》（The Bottom Line）——我们的每周会员专属全球商业通讯。"
+    }
+  ],
+  "translated_at": "2026-07-21T17:05:28+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low",
+  "issue_published_at": "2026-07-18",
+  "article_published_at": "July 16th 2026",
+  "published_at": "July 16th 2026",
+  "published_date_source": "article"
+}

@@ -1,0 +1,314 @@
+{
+  "id": "018-trump-declared-a-space-race-with-china-the-us-is-losing",
+  "source_href": "feed_0/article_17/index_u20.html",
+  "publication": "wired",
+  "issue": "2026-05-02",
+  "issue_published_at": "2026-05-02",
+  "article_published_at": "Jan 13, 2026 6:00 AM",
+  "published_at": "Jan 13, 2026 6:00 AM",
+  "published_date_source": "article",
+  "order": 18,
+  "section": "Noah Shachtman",
+  "title_en": "Trump Declared a Space Race With China. The US Is Losing",
+  "title_zh": "特朗普宣称要与中国展开太空竞赛。美国正在输掉这场比赛",
+  "rubric_en": "",
+  "rubric_zh": "",
+  "date": "Jan 13, 2026 6:00 AM",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "The senator wanted a promise. A solemn vow. For the last six years—or maybe the last decade or quarter century, depending on how you count it—the United States and China had been locked in a space race, a contest to see which nation could put its people on the moon. Senator Ted Cruz wanted President Donald Trump’s nominee to run NASA, Jared Isaacman, to pledge that the US would not lose.",
+      "zh": "这位参议员要的是一个承诺。一个郑重的誓言。过去六年——或者说按另一种算法，也许是过去十年、甚至四分之一个世纪——美国与中国一直在进行一场太空竞赛，谁能让更多人登上月球，谁就能赢。参议员特德·克鲁兹希望总统唐纳德·特朗普提名担任NASA局长的杰瑞德·艾萨克曼，承诺美国不会输掉这场竞赛。"
+    },
+    {
+      "id": "p002",
+      "en": "Cruz brought a little surprise to Isaacman’s confirmation hearing last April. It was a poster of the moon. On one side stood three astronauts and a giant Chinese flag. On the other were two more figures in space suits, with the tiniest Stars and Stripes planted in the lunar soil. Cruz apologized for the imbalance. “My team used ChatGPT,” explained the senator, who chairs the committee that oversees NASA.",
+      "zh": "4月在艾萨克曼的确认听证会上，克鲁兹给他带来了一点“小小惊喜”。那是一幅月球海报。海报一侧站着三名宇航员和一面巨大的中国国旗。另一侧则是两个人穿着宇航服，脚下埋着一面微小的星条旗。克鲁兹向媒体道歉说这幅画面有些失衡。“我的团队用了ChatGPT，”他解释道，这位掌控NASA监督委员会的参议员说。"
+    },
+    {
+      "id": "p003",
+      "en": "Then Cruz, with a bit more seriousness, asked Isaacman, “Do we have your commitment that you will not allow the scenario on the right of this poster to happen? That China will not beat us to the moon?”",
+      "zh": "随后，克鲁兹语气稍显严肃地问艾萨克曼：“你能否承诺，不会让这幅海报右侧的情景发生？也就是说，中国不会抢在我们前面到达月球吗？”"
+    },
+    {
+      "id": "p004",
+      "en": "Isaacman, a billionaire entrepreneur who had paid for his own missions to space, replied, “Senator, I only see the left-hand portion of that poster.”",
+      "zh": "艾萨克曼是一位在太空任务上自掏腰包的亿万富翁，他回答说：“参议员，我只看到这张海报左边的部分。”"
+    },
+    {
+      "id": "p005",
+      "en": "It was a red-meat, fuck-yeah, pitch-perfect response. And Isaacman may have meant it. But by the time of his testimony, the Trump administration had started a process that would lay waste to NASA, pushing nearly 4,000 agency employees to quit. Then the White House proposed a massive, 24 percent cut to NASA’s budget. Then Trump yanked Isaacman’s nomination and named a new part-time acting chief, a fellow who boasted in his official NASA biography that he is one-half of “America’s first and longest-married reality TV couple.” Then that guy picked a fight with Elon Musk, who’s building NASA’s moon lander. And Isaacman was back in the running. In December, Trump capped off the year with an executive order pushing Americans to get back to the moon by 2028.",
+      "zh": "这段回应煽动性十足、令人振奋，且非常精准。艾萨克曼可能确实是这么想的。但到他作证时，特朗普政府已启动一项流程，几乎摧毁了 NASA，导致近 4,000 名机构员工辞职。之后，白宫提议对 NASA 的预算进行高达 24% 的大幅削减。接着，特朗普撤销了艾萨克曼的提名，改任命一位新任兼职代理局长，这位人选在 NASA 的官方传记中曾自夸自己是“美国第一对、也是结婚时间最长的真人秀搭档”之一。之后，这个人又与埃隆·马斯克发生了冲突，而马斯克正在为 NASA 建造月球着陆器。结果艾萨克曼重新回到竞争名单。12 月，特朗普用一项行政命令收束了这一年，要求美国人在 2028 年前重返月球。"
+    },
+    {
+      "id": "p006",
+      "en": "If all of this sounds suboptimal to you, welcome to the club, space ranger. That dysfunction is one of many reasons why the vast majority of the two dozen sources I interviewed for this story believe that China will put people on the moon first. I spoke with nine former NASA officials who served at the highest rungs of the space agency under presidents Trump and Biden; none of them were optimistic about America’s chances. “We did the worst of all worlds,” one of the nine tells me. “We positioned it as a race without planning to win.”",
+      "zh": "如果你也觉得这一切都很不理想，欢迎你加入“星际巡逻兵”俱乐部。正是这种失序是我采访的二十多位消息源普遍认为中国会先把人送上月球的众多原因之一。我采访了九位在特朗普和拜登总统任内曾在 NASA 高位任职的前官员；他们都对美国的成功前景不抱乐观态度。那九人中有一位告诉我：\"我们做的是最糟糕的安排之一。我们把它包装成一场竞赛，却没有赢的规划。\""
+    },
+    {
+      "id": "p007",
+      "en": "Here are 23 ways China is rewiring the future.",
+      "zh": "以下是中国重塑未来的 23 种方式。"
+    },
+    {
+      "id": "p008",
+      "en": "The original space program was the ultimate symbol of America at its screaming-eagle apex. Rocket scientist was shorthand for brilliant, and many of them were working in Huntsville, Alabama, aka Rocket City. The word astronaut was synonymous with grit, and you could find the gutsiest of them in Houston. Moonshot was (and is) code for something borderline impossible. Space races have helped spur the development of everything from the integrated circuit to the solar panel to 5G. But that was before America decided to stab itself in the brain.",
+      "zh": "最初的太空计划曾是美国在最强盛时期最具象征性的成就。\"火箭科学家\"几乎就等同于天才，这其中许多人在阿拉巴马州亨茨维尔，也就是“火箭城”工作。\"宇航员\"一词与坚韧不拔几乎同义，最胆大、最硬核的一批人可以在休斯顿找到。\"登月\"一直（如今依然）是几乎不可能完成任务的代名词。太空竞赛曾推动了从集成电路到太阳能板再到 5G 的各类技术发展。但那是在美国决定“自我开刀”之前。"
+    },
+    {
+      "id": "p009",
+      "en": "Today, much of the world drives Chinese electric cars, powers their homes with Chinese solar panels, and stays in touch with made-in-China phones. Chinese scientists have eclipsed their American counterparts in the production of high-quality research, and the White House has responded by gutting American science funding and charging $100,000 to let in highly skilled immigrants. So if Chinese astronauts step down from their lander and livestream the results in 4K—and to be clear, it’s still an “if” at this point—it’ll be more than a point of national pride for Beijing. It’ll be a declaration that the American Century is officially over.",
+      "zh": "如今，世界上许多地区的人都在开中国制造的电动汽车，用中国的太阳能电池板为家庭供电，并使用中国制造的手机保持联系。中国科学家在高质量研究成果产出上已经超越了美国同行，白宫对此的回应是削减美国科研经费，并向高技能移民收取10万美元的入境费用。于是，如果中国宇航员从着陆器走出，并用4K画质直播结果——需要说明的是，这目前仍是“如果”，那么这对北京来说就不仅仅是一个国家荣誉点。它将意味着“美国世纪”正式结束的宣言。"
+    },
+    {
+      "id": "p010",
+      "en": "About 18 months ago and some 3,000 miles above the Earth, the Chinese robotic spacecraft Chang’e-6 released its reentry capsule, which skipped in and out of the atmosphere before parachuting into the grasslands of China’s Inner Mongolia. Inside were about 4 pounds of moon rocks and soil. It was the first sample return from the far side in human history.",
+      "zh": "大约18个月前，在距地球约3,000英里的高空，中国无人航天器“嫦娥六号”释放了返回舱，返回舱在大气层中反复掠入又掠出，最终降落在中国内蒙古的草原上。里面装着约4磅月球岩石和土壤。这是人类历史上首次从月球背面带回样本。"
+    },
+    {
+      "id": "p011",
+      "en": "Putting people on the moon might seem like a so-what sequel, coming 50-plus years after Apollo. But there’s a reason no one’s been back to the moon in half a century. It is maddeningly difficult to put anything down there, even little unmanned landers. A handful of soft-landing missions have succeeded, most of them Chinese. More numerous are the flops of the Japanese, Russian, Israeli, American, and Indian space programs.",
+      "zh": "把人送上月球似乎只是阿波罗之后五十多年里一个无关紧要的续作。但过去半个多世纪没有人再回到月球是有原因的。原因在于，即使是降落小型无人探测器，在那里放下任何东西都异常困难。少数几次软着陆任务成功了，其中大多数都是中国的。更常见的是日本、俄罗斯、以色列、美国和印度航天计划的失败。"
+    },
+    {
+      "id": "p012",
+      "en": "The reasons for failure are many—light gravity and uneven terrain make it easy for a lander to tip over; no atmosphere means firing rockets to brake; that firing kicks up clouds of dust that can limit visibility. “Once you start slowing down, within a matter of single-digit seconds, you are on an intercept course with the moon, and you don’t have enough propellant to go back to lunar orbit and try again,” says Will Coogan, a chief engineer at Firefly Aerospace, the only company to pull off a fully successful robotic moon landing, ever.",
+      "zh": "失败的原因很多——低重力和不平整地形会让着陆器很容易倾倒；没有大气层意味着必须用火箭减速；而点火又会扬起尘埃云，降低能见度。火箭航天工程师兼Firefly Aerospace首席工程师Will Coogan表示：“一旦你开始减速，就在几秒内进入与月球的截获轨道，你将没有足够的推进剂返回月球轨道并重试。”他指出，Firefly Aerospace是迄今为止唯一完成过一次完全成功无人月球着陆的公司。"
+    },
+    {
+      "id": "p013",
+      "en": "Operations around the lunar poles are an “order of magnitude” tougher, a person who oversaw NASA’s lunar program tells me. Getting into the proper orbital plane requires more maneuvering. For consistent communication with ground control, you need to position a relay satellite around the moon. (As China did, about six weeks before landing Chang’e-6.) Once you’re there, be careful. Miles-deep craters are shadowed in near-eternal night, which means no solar power and temperatures that can drop below –200 degrees Celsius.",
+      "zh": "围绕月球两极的作业要困难上“一个数量级”，一位曾负责 NASA 月球项目的人告诉我。要进入正确的轨道平面，需要进行更多机动。为了与地面控制保持稳定通信，你需要在月球周围部署一颗中继卫星。（正如中国在嫦娥六号着陆前约六周所做的那样。）一旦抵达那里就必须十分谨慎。深达数英里的陨坑长期处于阴影中，几乎是永久黑夜，这意味着没有太阳能，并且温度会降到零下 200 摄氏度以下。"
+    },
+    {
+      "id": "p014",
+      "en": "Yet that’s exactly where China’s heading. Scientists believe the poles have enormous pockets of ice—and potentially helium-3, an isotope that’s extremely scarce on Earth. Helium-3 could unlock quantum computing and possibly nuclear fusion, many experts believe. “Let’s say on the lunar surface, helium-3 becomes a new source of fusion power,” as Isaacman told Cruz at that April confirmation hearing. “It could shift the balance of power here on Earth. I don’t think we can afford to find that out the hard way.”",
+      "zh": "然而这正是中国正在前往的方向。科学家认为两极可能蕴藏着巨大的冰体储量——并可能存在氦-3，这是一种在地球上极为稀缺的同位素。许多专家认为，氦-3有望推动量子计算技术的发展，并可能用于核聚变。“比如说在月球表面，氦-3可能成为一种新的聚变动力来源，”艾萨克曼在四月的确认听证会上对克鲁兹这样说。“它可能会改变地球上的力量平衡。我认为，我们不能等到以最艰难的方式才发现这一点。”"
+    },
+    {
+      "id": "p015",
+      "en": "Both the US and China have dreamed of building a base at the south pole, and both would like to claim the prime landing sites. The upcoming Chang’e-7 mission aims to be the first to extract water from the moon. One desirable landing site is a spot high on the ridge of the Shackleton Crater, near the lunar south pole, at a location that’s almost always light. Chang’e-7 will carry instruments from Russia and several American allies—Italy, Switzerland, Thailand, Egypt, and Bahrain.",
+      "zh": "美国和中国都梦想在南极建立一个基地，而且双方都想争夺最理想的着陆区。即将进行的嫦娥七号任务旨在成为第一艘从月球提取水的任务。一个理想的着陆点位于沙克尔顿陨坑高耸的山脊上，靠近月球南极，位于一个几乎始终有阳光照射的位置。嫦娥七号将搭载来自俄罗斯和几个美国盟友的仪器——意大利、瑞士、泰国、埃及和巴林。"
+    },
+    {
+      "id": "p016",
+      "en": "The Chinese National Space Administration says the launch should happen in August. “When they say they’re going to do something by x, they tend to do it,” says Dean Cheng, a senior fellow at the Potomac Institute for Policy Studies who’s been tracking the progress.",
+      "zh": "中国国家航天局表示发射预计在八月进行。“他们一旦说要在某个时间点完成某事，通常都会做到，”这位长期跟踪进展的政策研究所波托马克高级研究员、董承（Dean Cheng）说。"
+    },
+    {
+      "id": "p017",
+      "en": "China’s space efforts aren’t as sophisticated as America’s; Beijing is only now testing reusable rockets. And every space program faces mishaps. In November, three Chinese astronauts were stranded aboard their space station for nine days after a piece of orbiting junk damaged their return capsule. But China’s crewed lunar effort, for now, seems to be more or less on target. The idea is that a pair of rockets—one carrying the crew and service capsules, the other a lander—will head to the moon. They’ll rendezvous in lunar orbit, and a pair of astronauts will set foot on the surface. Exactly where they’ll land hasn’t been confirmed. But testing for all of the components is well under way. A spokesperson for the China Manned Space Agency has said the mission will launch “before 2030.”",
+      "zh": "中国的太空计划并不如美国成熟；北京如今才刚开始测试可重复使用火箭。任何太空计划都会出现事故。2025年11月，三名中国宇航员在轨道碎片损坏了返回舱后，被迫在自己的空间站上滞留了九天。不过，中国的载人登月计划目前看起来大致按计划推进。设想是两枚火箭同时前往月球：一枚搭载乘员和服务舱，另一枚搭载着陆器。它们将在月球轨道会合，然后两名宇航员登上月面。目前尚未确认他们究竟降落在哪里。但所有部件的测试都已在紧锣密鼓地进行。中国载人航天机构的一位发言人表示，这次任务“将在2030年前发射”。"
+    },
+    {
+      "id": "p018",
+      "en": "When will American astronauts get there? That’s a bit more complicated.",
+      "zh": "美国宇航员什么时候能到达？这就复杂得多了。"
+    },
+    {
+      "id": "p019",
+      "en": "Warning: the recent history of the US program to return astronauts to the moon is so contradictory, so politicized, so frustrating, it’s going to make your head hurt. As Jim Bridenstine, who served as Trump’s first NASA administrator, recently told Congress, “This is an architecture that no NASA administrator that I’m aware of would have selected.”",
+      "zh": "警示：美国在让宇航员重返月球的计划最近几年经历的历史，矛盾重重、政治化严重、令人十分沮丧，简直令人头疼。正如曾任特朗普第一任NASA局长的吉姆·布里登斯坦（Jim Bridenstine）最近在国会所说：“这是一种我所知任何NASA局长都不会会选的方案。”"
+    },
+    {
+      "id": "p020",
+      "en": "“No way to run a program, in my opinion,” says the NASA official who helped oversee the lunar initiative. “You can’t make this shit up. Really can’t. It’s really crazy.”",
+      "zh": "“在我看来，这样根本没法运行一个计划，”那位帮助推进登月方案的NASA官员说。“这简直难以置信，真的难以置信。整个过程太疯狂了。”"
+    },
+    {
+      "id": "p021",
+      "en": "The original Apollo program was insanely ambitious, but there was a clarity to the mission. One giant rocket, carrying one tiny crew capsule and one even tinier landing module. The capsule would orbit the moon, and the lander would ferry astronauts to and from the surface. That was all. The new US moon program—Artemis, named after Apollo’s twin sister—isn’t nearly so neat.",
+      "zh": "最初的阿波罗计划是极其雄心勃勃的，但任务本身却异常清晰：一枚巨大的火箭，搭载一个很小的载人舱和一个更小的登月舱。载人舱会绕月球运行，登月舱则负责将宇航员往返月面。仅此而已。如今的美国登月计划——阿尔忒弥斯（Artemis），这个取自阿波罗“孪生姊妹”之名——远没有那么简洁。"
+    },
+    {
+      "id": "p022",
+      "en": "For starters: The main rocket and capsule are made up of leftovers. Back in 2010, the Senate ordered NASA to build a rocket with old engines from the space shuttle program and repurpose a capsule from a Bush-era deep-space project. The rocket, known as the Space Launch System, would lift off carrying astronauts in a capsule named Orion. The combination of SLS and Orion has cost taxpayers tens of billions of dollars. It has flown exactly once. A second flight is slotted for February.",
+      "zh": "首先，主火箭和乘员舱都由“旧部件”拼凑而成。早在2010年，参议院要求NASA使用航天飞机计划中的旧发动机，并复用一项“布什时代”深空任务中的舱段来建造新型火箭与舱体。那枚被称为“太空发射系统”（SLS）的火箭将携带名为猎户座（Orion）的乘员舱升空。SLS与Orion的组合已让纳税人花费了数百亿美元。它迄今仅飞行过一次，而第二次飞行已排在二月。"
+    },
+    {
+      "id": "p023",
+      "en": "The Orion capsule was built on the heavy side, to give astronauts extra protection against radiation and other risks. But the capsule’s propulsion was under-powered to reach a tight lunar orbit. (The European Space Agency, which provided the thing, said it couldn’t afford to supply more.)",
+      "zh": "猎户座乘员舱设计得较重，以便给宇航员提供更强的辐射防护和其他风险防护。然而这座舱体的推进系统又偏弱，无法进入更紧凑的月球近圆轨道。（提供该舱体的欧洲航天局曾表示，由于预算限制，它无法负担提供更强动力系统。）"
+    },
+    {
+      "id": "p024",
+      "en": "NASA engineers figured out, however, that the capsule could reach a farther-out, super-elliptical orbit, and that orbit would still allow for landings on the lunar poles. The drawback: At that orbit, completing a circuit of the moon takes nearly a week. Once you drop astronauts off, they’re stuck on the surface for days and days. A tear in a spacesuit or a malfunction in the lander’s life support system might turn into a nightmare.",
+      "zh": "NASA工程师最终算出，原来该舱体其实可以进入更远、超椭圆的轨道，并且在该轨道上仍可支持前往月球极地的着陆任务。缺点也很明显：在这样的轨道上绕月一圈几乎需要将近一周时间。宇航员一旦落到月面，就会被迫在那里待上几天又几天。宇航服若出现破损，或着陆器的生命支持系统发生故障，可能立刻演变成一场噩梦。"
+    },
+    {
+      "id": "p025",
+      "en": "NASA also concluded that it needed to put a miniature space station in orbit around the moon. I must’ve heard a half-dozen rationales for this space station. It wouldn’t necessarily help with rescue efforts, but it could communicate with astronauts on the ground. And during later, longer-duration missions, it would give astronauts a more hospitable place to work and rest. Maybe.",
+      "zh": "美国国家航空航天局还得出结论，认为必须在月球轨道上部署一个微型空间站。我想我至少听过六种这样的理由。它并不一定能直接帮助救援行动，但可以与地面上的宇航员通信。在后续更长时间的任务中，它还能让宇航员有一个更舒适的工作和休息场所。也许吧。"
+    },
+    {
+      "id": "p026",
+      "en": "Some at NASA view the so-called lunar “Gateway” as a kind of insurance policy. As one former official told me, “There’s the belief that if you have these pieces pre-positioned in space, we’ll have a long-term program that Congress is less willing to walk away from.” All of this was meant to take a decade or so to come together—like, 2028 or 2029. Until Mike Pence stepped up to the mic.",
+      "zh": "NASA 内部一些人将所谓的“月球门户”看作一种保险政策。正如一位前官员告诉我的那样：“人们认为，如果把这些关键设施先预先部署到太空，我们就会拥有一个长期的计划，而国会也会不太愿意随意放弃它。”所有这些计划原本被设想为大约十年内逐步落实——比如到 2028 年或 2029 年。直到迈克·彭斯走上麦克风。"
+    },
+    {
+      "id": "p027",
+      "en": "The American flag behind the vice president was large, almost comically so. Also behind him was an original space capsule from the Apollo days. Pence was exuding confidence that day in the spring of 2019. He proclaimed to the crowd at the Marshall Space Flight Center in Huntsville that “the first woman and the next man on the moon will both be American astronauts, launched by American rockets, from American soil.” He also announced out of nowhere that the schedule was cut in half. It would all be done in five years, by 2024. The end of what the administration hoped would be a second Trump term.",
+      "zh": "副总统背后那面美国国旗又大又醒目，几乎有些夸张。那面旗帜后面，还有一枚阿波罗时代的原型航天舱。2019 年春天的那一天，彭斯显得异常自信。他在亨茨维尔的马歇尔航天中心对人群宣布，“第一个登上月球的女性和下一个登月的男性都将是美国宇航员，由美国火箭发射，从美国本土起飞。”他还突然宣布，把日程压缩了一半：一切都将在五年内完成，也就是到 2024 年。也就是这届政府希望实现的目标，也是特朗普可能连任后的终点。"
+    },
+    {
+      "id": "p028",
+      "en": "People in the room—and around the space agency—were stunned. As a former top NASA official recalls, “Everyone knew from the moment Pence said that, that it was pretty much bullshit.”",
+      "zh": "现场的人们——以及整个太空机构周围的人——都被震惊了。正如一位前 NASA 高官回忆的那样：“彭斯一说出那番话，屋子里每个人都知道，这基本上就是一派胡言。”"
+    },
+    {
+      "id": "p029",
+      "en": "Reporters quizzed NASA’s leaders on the new deadline. “I do not like being—I will not lie,” a second former NASA official tells me. “So I said, ‘I think it’s a great goal, but like, this is going to be hard.’ And Jim [Bridenstine] told me later, he goes, ‘The one thing you need to start learning to say is: We will be on the moon in 2024.’”",
+      "zh": "记者们就新截止日期向NASA负责人发起了询问。“我不喜欢被——我不会说谎，”一位二号前NASA官员对我说。“所以我当时说：‘我认为这是个很好的目标，但这会很难做到。’后来吉姆（Bridenstine）跟我说，他是这样讲的：‘你们最需要开始学会说的一句话就是：我们将在2024年上月球。’"
+    },
+    {
+      "id": "p030",
+      "en": "It was a ridiculous commitment. Much of the gear to get back to the moon was still on the literal drawing board: NASA hadn’t even handed out contracts for the lunar landers yet. The space agency’s bureaucracy had a well-earned reputation for taking the maximum number of people and the maximum amount of time to get things done. “You know, 20 layers of boards and councils to get to a decision, or 480 people on a call. Do we really need that?” wonders a third former senior official.",
+      "zh": "这是一个荒谬的承诺。许多回到月球所需的装备仍停留在字面上的“设计图纸”阶段：NASA甚至还没有把登月器的合同发出去。这个航天机构的官僚体系早已名声在外，以动用尽可能多的人手和耗费尽可能长的时间来办事而著称。“你看，要做出一个决定要经过二十层委员会和理事会，或者在一个电话会议上有四百八十个人。我们真需要这样吗？”一位三号前高级官员不无疑问地说。"
+    },
+    {
+      "id": "p031",
+      "en": "The space program, once the avatar of American success, was becoming emblematic of American drift. Contractors complained about NASA’s endless requirements and safety checks; NASA officials complained about contractors’ empty factory floors and bankers’ hours; they both complained about the White House’s budget office micromanaging their launch dates; and absolutely everyone complained about the Senate force-feeding them tech they didn’t want.",
+      "zh": "这个曾经是美国成功象征的航天项目，正在变成美国式停滞的代表。承包商抱怨NASA无休止的要求清单和安全检查；NASA官员抱怨承包商空置的工厂车间和银行家的计时方式；双方都抱怨白宫预算办公室在管控他们的发射日期；而且几乎所有人都抱怨参议院把他们不需要的技术“强塞”给他们。"
+    },
+    {
+      "id": "p032",
+      "en": "Still, there were folks at NASA who were glad to have the 2024 deadline. After years of being lost in space, it was at least some sort of direction. Eight missions were sketched out for the Artemis program over the next decade. The pieces were already in place for the first two, an unmanned test of SLS and Orion that would orbit the moon and a manned lunar flyby. By the end of the first Trump administration, one last major component remained for Artemis III, the big one, the return of astronauts to the lunar surface. NASA had to award a contract to a company to design, build, and test the lander to bring astronauts down to the moon.",
+      "zh": "不过，NASA内部仍有人对2024年的截止时间感到欣喜。经过多年在太空中迷失方向后，至少总算有了某种航向。阿尔忒弥斯（Artemis）计划在未来十年内拟定了八次任务。前两次任务的准备已经到位：一次对SLS和猎户座（Orion）的无人试飞，绕月运行；以及一次载人月球飞越。到特朗普第一任政府末期，阿尔忒弥斯III号——也就是最关键的一项——还差最后一个核心环节：将宇航员送回月球表面的关键部件。NASA必须把一份合同交给某家公司，要求其设计、建造并测试登陆器，以把宇航员送到月球。"
+    },
+    {
+      "id": "p033",
+      "en": "Jeff Bezos’ Blue Origin tried positioning itself as a major contender. But, as journalist Christian Davenport recounts in his book Rocket Dreams, Pence’s top aide told a Blue Origin exec he had a “Washington Post problem”—as in, the paper dared to criticize his boss’s big space speech. Joe Biden’s win in 2020 made that problem go away temporarily. But there was another issue: The bid Blue Origin submitted for the lander cost twice as much as Musk’s. (NASA and Blue Origin declined to comment on this story; SpaceX did not respond.)",
+      "zh": "杰夫·贝索斯的蓝色起源试图把自己定位为一支主要竞争者。然而，正如记者克里斯蒂安·达文波特在《Rocket Dreams》一书中所记载的，彭斯的高级助理对一位蓝色起源高管说，他遇到了一个“《华盛顿邮报》问题”——也就是该报敢于批评其老板那篇重大航天演讲。2020年乔·拜登当选后，这个问题暂时消失了。但还有另一个问题：蓝色起源提交的月球着陆器方案预算是马斯克方案的两倍。（NASA 与蓝色起源都拒绝就此置评；SpaceX未作回应。）"
+    },
+    {
+      "id": "p034",
+      "en": "SpaceX’s bid was in a class of its own. Its proposed lander was actually the second stage of its giganto, still-in-development rocket. The lander’s interior volume would be 150 times that of the Apollo lunar module, according to one SpaceX veteran, and more than that of the International Space Station. It was ludicrously big. “Like rowing across the Atlantic Ocean in a row boat and then taking a luxury cruise liner into the harbor,” is how a second SpaceX veteran put it. A “planet-colonizer,” is what Musk called it—his ride to his preferred destination, Mars. That’s why his bid was so much lower than Blue Origin’s; he wanted to build it anyway.",
+      "zh": "SpaceX 的投标超越了同类对手。它提出的着陆器实际上是其“giganTO”——仍在研制中的大型火箭——的第二级。根据一位 SpaceX 资深人士的说法，这个着陆器的舱内体积将是阿波罗登月舱的150倍，甚至超过国际空间站。它巨大得离谱。一位另一位 SpaceX 资深人士形容道：“就像在划艇横渡大西洋后，再把一艘豪华邮轮开进港湾。”马斯克把它称作“星际移民者”——通往他心仪目的地火星的飞船。这也是为什么他的投标价远低于蓝色起源的：他想把它建出来。"
+    },
+    {
+      "id": "p035",
+      "en": "In between agency administrators, in 2021, NASA’s leaders gave Musk $3 billion for the lander. In some ways, they didn’t have a choice. The agency’s budget was impossibly tight. And if his design worked, it would supercharge human spaceflight for decades to come. But competitors grumbled; Blue Origin sued. The criticism grew louder when, years later, one of the NASA officials behind the decision took a job with Musk.",
+      "zh": "在中间换了机构管理层之后，2021 年，NASA 领导层给了马斯克这台着陆器30亿美元。某种意义上，他们别无选择。该机构预算紧得几乎不可能；而且如果他的设计可行，将在未来几十年推动载人航天的发展。可竞争对手不满，蓝色起源提起了诉讼。几年后，其中一位参与决策的 NASA 官员去马斯克公司任职后，这种批评声变得更响亮。"
+    },
+    {
+      "id": "p036",
+      "en": "By then, Musk’s reputation for overpromising had been cemented. It was clear the space agency hadn’t fully understood the risks involved in Musk’s bid. That information gap would set the US lunar program back years.",
+      "zh": "到那时，马斯克“过度许诺”的名声已经固定。很明显，美国航天局并未完全弄清马斯克方案中的风险。这一信息差会让美国月球计划倒退几年。"
+    },
+    {
+      "id": "p037",
+      "en": "You might ask yourself at this point why we should care about getting people on the moon or who gets there first. Truth be told, NASA and its contractors have had a hard time producing a consistent answer themselves.",
+      "zh": "你现在可能会问：我们为什么要在乎把人送上月球，或者谁先登月？说实话，NASA 和其承包商自己都很难给出一个始终如一的答案。"
+    },
+    {
+      "id": "p038",
+      "en": "Some will tell you there’s a whole lunar economy waiting to be unleashed. Some will say that cislunar orbit is a great place to spy on (and even attack) your rival’s satellites. Some will tell you that exploration is a goal in and of itself. Some will ask you if you’ve seen one (1) science fiction movie in your life. Because then you’ve had the feeling, however fleeting, that absolutely nothing could be cooler than setting foot on an alien moon.",
+      "zh": "有些人会告诉你，月球上有一整个正在等待被释放的月球经济。有些人会说，月球轨道是监视（甚至攻击）对手卫星的绝佳位置。还有人会说，探索本身就是目标本身。有些人会问你，你一生中是不是看过一部（1）科幻电影。因为只要看过，你就会有那么一瞬间的感觉：在外星月球上落脚，真的没有什么比这更酷的事了。"
+    },
+    {
+      "id": "p039",
+      "en": "The mix of rationales helps explain why the Artemis program looks the way it does, a mismatched collection of leftovers and imports from the future, a blend of realpolitik and revolutionary. It’s a forced marriage between government contractor graybeards and billionaires with stars in their eyes. On the one hand, you’ve got a rocket and a capsule that can feel like unwieldy remakes of the Apollo program; on the other, an interplanetary “colonizer” and a freakin’ lunar space station. The collection is meant to support what an extremely understated former NASA official calls a “portfolio” approach to mission success. If Artemis hits any one of these many goals (jazzy lunar businesses, the next GPS-scale invention), the logic goes, the whole thing will have been worth it.",
+      "zh": "这些理由的混合，解释了阿耳忒弥斯计划为何会变成现在这副样子：一堆拼凑出来的旧零件和未来技术的拼盘，既有现实主义又有革命性的杂糅。它更像是政府承包商老派技术官僚与目光炯炯的亿万富翁之间的“包办式联姻”。一方面，你看到的是一枚火箭和一艘舱体，几乎像是阿波罗计划笨重的翻版；另一方面，又有一艘“星际殖民者”号飞船和一个令人发指的月球空间站。这个组合旨在支撑一位退任 NASA 的前高官所说的“投资组合式”任务成功路线。如果阿耳忒弥斯实现了这些众多目标中的任何一个（比如炫酷的月球产业、下一代 GPS 级别的发明），那么逻辑上看，整个计划就都值回票价了。"
+    },
+    {
+      "id": "p040",
+      "en": "Maybe this makes sense to you, maybe it doesn’t. But here’s what everyone agrees on: The US and China are in a multifront contest for global influence. Beijing clearly has the momentum; now imagine its velocity after a moon landing. “If you’re trying to choose, who do I want to partner with? Whose team do I want to be on?” asks the American Enterprise Institute’s Todd Harrison, one of Washington’s sharper analysts of defense and space policy. “Do you want to be on the team that’s a bunch of has-beens? Or do you want to be on the team that is rapidly developing and has leapfrogged ahead of the United States?”",
+      "zh": "也许你会觉得这有道理，也许不会。但是有一点大家都达成共识：美国和中国正在进行一场多维度的全球影响力博弈。北京显然已经拿着主动权；你再想象它在月球着陆之后的动能会是什么样。美国企业研究所的托德·哈里森——华盛顿一位更敏锐的国防和航天政策分析师——问道：“如果你要做选择，我想和谁合作？我想加入哪一支队伍？” “你愿意站在一群已经过气的人那一边吗？还是加入那支正在高速发展、并且已经在多个方面超越美国的团队？”"
+    },
+    {
+      "id": "p041",
+      "en": "In September, Bridenstine testified before Cruz’s Senate committee, warning that the US plan was in real danger. He focused his remarks on Starship, the massive SpaceX craft that’s supposed to bring astronauts to the lunar surface. It’s “important for the country, and it’s transformational,” Bridenstine said. If and when it starts to work, that is. In the short term, it makes Artemis way more complicated. Starship is behind schedule, with a number of rather public explosions. But even if it were working perfectly, Starship offers a profoundly complicated ride to the moon. NASA officials didn’t realize how complicated until after they gave SpaceX billions to build their lander.",
+      "zh": "9月，布里登斯坦在克鲁兹的参议院委员会作证，警告美国的计划正面临真正的危险。他在证词中聚焦于星舰——这艘巨大的 SpaceX 飞船原本应该把宇航员送上月球表面。“这对国家非常重要，而且具有变革性，”布里登斯坦说。前提是它真的运行起来。一旦从短期看，阿耳忒弥斯任务会变得更加复杂。星舰一直在拖延，且爆炸事故也已有多次公开曝光。但即便它运行得很完美，星舰前往月球的飞行方式也异常复杂。NASA 官员直到给 SpaceX 付出数十亿美元建设月面着陆器后，才意识到这有多复杂。"
+    },
+    {
+      "id": "p042",
+      "en": "A fully loaded, moon-bound Starship expends almost all of its fuel to get to low Earth orbit. So that Starship needs to refill its tank before it heads to the moon, requiring the launch of more and more refueling Starships.",
+      "zh": "一枚满载、准备登月的星舰几乎要消耗掉全部燃料才能抵达低地球轨道。因此，星舰在启程前往月球前需要补充燃料，这就要求发射越来越多的加注星舰。"
+    },
+    {
+      "id": "p043",
+      "en": "Starship runs on liquid oxygen and methane. They have to be kept ultracool, at –161 degrees Celsius or below. But direct exposure to the sun heats Starship up, evaporating some of that fuel. That could mean even more refueling missions to make up the difference. If things go really badly, the fuel might evaporate more quickly than SpaceX can get refueling rockets into space. “That whole in-space refueling thing has never been tested,” Bridenstine added. “We’re talking about cryogenic liquid oxygen, cryogenic liquid methane being transferred in space—never been done before, and we’re going to do it dozens of times.”",
+      "zh": "星舰使用液态氧和甲烷作为燃料。它们必须保持超低温，在零下 161 摄氏度或更低温度下储存。但太阳的直接照射会使星舰升温，导致部分燃料蒸发。这可能意味着需要更多补给任务来弥补差额。如果情况恶化，燃料蒸发速度可能超过 SpaceX 将加注火箭送入太空的速度。“整套在轨加油从未经过测试，”布里登斯坦补充道，“我们正在讨论的是在太空中转移低温液氧和低温液甲烷——这在以前从未做过，而且我们要做几十次。”"
+    },
+    {
+      "id": "p044",
+      "en": "Engineers at NASA’s Johnson Space Center recently calculated that one lunar mission could require more than 40 Starship launches. Refueling tests that were originally supposed to begin in 2023 are now “targeted to take place in 2026,” SpaceX says. As a reminder, China’s lunar mission will require two rockets.",
+      "zh": "NASA约翰逊航天中心的工程师最近测算，一次登月任务可能需要超过40次星舰发射。SpaceX 表示，原本计划于 2023 年开始的补油测试现在“预定在2026年进行”。提醒一下，中国的登月任务只需要两枚火箭。"
+    },
+    {
+      "id": "p045",
+      "en": "This could’ve been a moment when the US changed course and declared that it doesn’t matter who repeats the Apollo landing first. Sean Duffy—the former reality star and secretary of transportation serving as acting NASA chief—took the opposite approach. He doubled down on beating China, and he blamed Starship for imperiling the lunar race. In October, Duffy said he’d formally ask other companies if they could build a lander faster than Musk. “We’re not going to wait for one company,” Duffy told CNBC. “We’re going to push this forward and win the second space race against the Chinese. Get back to the moon, set up a camp, a base.” He also gave SpaceX 10 days to submit a proposal for speeding up its lander effort.",
+      "zh": "这本该是美国改变方向、宣布“先后登陆阿波罗登月不再重要”的一刻。现任担任代理NASA局长的前真人秀明星、西安·达菲（Sean Duffy）却采取了相反做法。他加大了对赢过中国的赌注，并指责星际飞船（Starship）让登月竞赛陷入危险。10月，达菲说他将正式询问其他公司，看它们是否能比马斯克更快地建造着陆器。“我们不会只等一家公司，”达菲在CNBC上说，“我们将加快节奏，并赢得对中国的第二轮太空竞赛。回到月球，建立营地，建立基地。”他还给SpaceX留了10天时间提交加速其着陆器进度的提案。"
+    },
+    {
+      "id": "p046",
+      "en": "Musk responded with his usual maturity. He called the NASA chief “Sean Dummy” in a post on X. In another, Musk tweeted a meme at Duffy, saying, “Why are you gae?”",
+      "zh": "马斯克一如既往地“成熟”地回应了。他在X上把NASA局长称作“Sean Dummy”。在另一条中，马斯克还在X上发了一个梗图给达菲，配文是：“Why are you gae?”"
+    },
+    {
+      "id": "p047",
+      "en": "SpaceX wasn’t used to this kind of treatment. (“Here’s the way NASA works with SpaceX: They’ve learned to say, ‘You just keep blowing things up until you’ve got something that works a few times in a row. Then we’ll swoop in,’” one of the former NASA officials tells me.) But it was clear SpaceX was listening. A week after Musk’s mean tweets, the company said it was working on “a simplified mission architecture and concept of operations.”",
+      "zh": "SpaceX也不习惯受到这种对待。一位前NASA官员告诉我：“NASA与SpaceX合作的方式是这样的：他们已经学会说，‘你就继续把东西搞爆炸，直到你有几次连续成功。然后我们再介入。’”但很明显，SpaceX听进去了。马斯克那些刻薄推文发布一周后，公司表示正在研究“更简化的任务架构和作业概念”。"
+    },
+    {
+      "id": "p048",
+      "en": "Bezos’ company reacted quickly, too. During the Biden years, NASA had also given Blue Origin a contract for lunar landers. Blue Moon Mark 1 was a robotic model, meant for cargo missions. Blue Moon Mark 2 was bigger (though nowhere near Starship’s size) and meant to eventually carry astronauts. Team Bezos reportedly pitched Frankensteining them together into a sort of Mark 1.5, creating a human-ready version of Mark 1 with elements gleaned from Mark 2. Then the company announced a bigger version of its rocket that could carry more weight to lunar orbit.",
+      "zh": "贝索斯的公司也反应很快。在拜登执政期间，NASA也给蓝色起源（Blue Origin）签发过月球着陆器合同。蓝月（Blue Moon）1号是自动化模型，面向货运任务；蓝月2号更大（虽然远不及Starship那样巨大），并计划最终运送宇航员。据称，贝索斯团队试图把这两者拼接成一种类似1.5版的方案，把2号机的部分元素移植到1号机中，形成一款可载人使用的1号机。随后，公司又宣布了其火箭的更大版本，可以运送更多载荷到月球轨道。"
+    },
+    {
+      "id": "p049",
+      "en": "A bunch of other aerospace companies are looking to join the race, as NASA evaluates SpaceX’s and Blue Origin’s accelerated proposals. Isaacman hasn’t said definitively whether he’ll continue Duffy’s push for a new lander contract. Actually building the thing would still take years.",
+      "zh": "随着NASA评估SpaceX和Blue Origin提交的加速方案，许多其他航天公司也在寻求加入这场竞赛。Isaacman尚未明确表示他是否会继续支持Duffy推动新的月球着陆器合同。毕竟，真的把这种着陆器造出来仍然需要数年的时间。"
+    },
+    {
+      "id": "p050",
+      "en": "Maybe a whole new lander will be able to beat China. The word is that it won’t—that SpaceX or Blue Origin present the only realistic, if unlikely, shots. Even if a new lander does somehow work, there’s fear in and around NASA that such a dash will sap the political will for long-term moon missions with potentially bigger payoffs. And this will be another case of planting flags in the lunar dust.",
+      "zh": "也许一款全新的着陆器能够战胜中国。有人传言不会如此——因为只有SpaceX或Blue Origin才是唯一现实、虽不大可能却仍有机会的竞争者。即便新的着陆器不知怎么地成功了，美国航空航天局内部也担心，这种短兵相接的竞赛会消耗支持更长期月球任务的政治意愿，而这些任务才可能带来更大的回报。这很可能只是又一次在月球尘土上插旗子。"
+    },
+    {
+      "id": "p051",
+      "en": "It certainly won’t paper over Artemis’ many uncertainties. By some estimates, each launch of the SLS rocket could cost as much as $4 billion, and then there are all the accompanying Starship launches. The rationale for the Gateway space station continues to get harder to parse. One space policy official tried to justify it to me by saying Gateway could be flown out to Mars if the moon thing doesn’t work out.",
+      "zh": "这无疑也无法掩盖Artemis计划的诸多不确定性。根据一些估算，每次发射SLS火箭的成本可能高达40亿美元，随后还会有所有相关的Starship发射。对Gateway空间站的合理性辩护也越来越难以说清。一位航天政策官员曾对我解释说，如果月球方案行不通，Gateway可以被部署到火星去。"
+    },
+    {
+      "id": "p052",
+      "en": "And while NASA rushes to figure all of this out, the space agency is in turmoil.",
+      "zh": "而与此同时，NASA在匆忙梳理这些问题时，机构内部正陷于动荡之中。"
+    },
+    {
+      "id": "p053",
+      "en": "In November, with drama mounting around Artemis, Isaacman was suddenly renominated for the space job.",
+      "zh": "11月，在阿尔忒弥斯计划周边戏剧性事件不断升级之际，艾萨克曼突然被重新提名担当太空职位。"
+    },
+    {
+      "id": "p054",
+      "en": "No explanation was provided. Isaacman’s return was almost universally heralded in the space community; this is a guy famous for commanding the first all-civilian spaceflight, not for starring in The Real World: Boston. But it’s not clear how much of NASA will be left for him given the nearly 4,000 employees who accepted the Trump administration’s buyouts. Many top performers are gone. Hundreds more employees and contractors have been laid off. Project 2025 guru Russ Vought, who serves as the head of the White House’s Office of Management and Budget, has very specific ideas about space. His initial budget proposal to Congress slashed NASA’s funding by a quarter. One Trump administration official compared him to a vicious Civil War general: “He’s General Sherman on his march to the sea, burning down the government as he goes.”",
+      "zh": "未给出任何解释。艾萨克曼的回归几乎得到了航天界的普遍欢迎；这位因指挥首个全平民太空飞行而闻名的人，并不是因为主演过《真实世界：波士顿》而被记住的。然而，考虑到已有近4,000名员工接受了特朗普政府提出的遣散方案，不清楚NASA还能为他留下多少岗位。许多顶尖员工已经离去。数百名其他员工和承包商也被解雇。项目2025的核心人物、白宫预算管理局局长罗斯·沃特拥有关于太空的非常具体的想法。他提交给国会的初步预算提案将NASA经费削减了四分之一。一名特朗普政府官员把他比作一位凶狠的南北战争将领：“他就像雪曼将军向海进军，在路上把政府一处处烧掉。”"
+    },
+    {
+      "id": "p055",
+      "en": "Cruz swooped in to insert into a budget bill a combined $7 billion for SLS, Orion, and Gateway. The logic, at least for Orion and SLS, is that they’re already built, proven, and rated for human flight. But if you want a microcosm of the political psychosis gripping Washington, you could do worse. The Senate is foisting rockets that neither Duffy nor Isaacman wants long-term, all while planning to cut the agency to the bone. Is NASA a bloated bureaucracy? For sure. Is carpet-bombing it the best option? Unlikely.",
+      "zh": "克鲁兹插手把一项预算法案改写为为SLS、猎户座飞船和“门户”项目合并追加70亿美元。就猎户座和SLS而言，这种逻辑至少表面上成立：它们已经建成、经过验证，并且具备载人飞行资质。但如果你想寻找一幅华盛顿当前政治疯狂状态的缩影，很难做得更糟。参议院正在强推达菲和艾萨克曼都不愿长期支持的火箭，同时又打算把该机构“砍到见骨头”。NASA是个臃肿官僚机构吗？当然是这样的。对其进行“地毯式轰炸”是最佳方案吗？几乎可以断定不是。"
+    },
+    {
+      "id": "p056",
+      "en": "But it is of a piece. Under Trump, the US has declared China a geopolitical competitor—and tried to sabotage what competitive edges remain. Meanwhile, China is presenting itself as a logical inheritor of the Apollo program. Those early astronauts wanted us to think of Earth as our one, shared home. Today, that kind of language is considered too “woke” for Washington; the US’s space billionaires talk more about escaping this hellhole. It’s China that’s touting technologies to make Earth sustainable and positioning itself as the world’s stable trading partner. It’s luring scientists and engineers that the US is actively turning away with its immigration policies—a darkly ironic turn, given how much the original space race was run by immigrants.",
+      "zh": "但这两者是一致的。就在特朗普上台后，美国已将中国界定为地缘政治竞争对手，并试图破坏中国仍然拥有的竞争优势。与此同时，中国则把自己塑造成阿波罗计划的自然承继者。那些早期宇航员希望我们把地球视为共同的家园。如今，这种表述在华盛顿被认为过于“觉醒”；美国的太空亿万富豪谈论的更多是从这个地狱般的世界中逃离。正是中国在宣传能够让地球更可持续的技术，并将自己定位为世界可靠的贸易伙伴。它正在吸引科学家和工程师，那些因为美国移民政策而被美国主动逐出的人才——这形成了黑色幽默般的反讽，因为最初的太空竞赛很大程度上正是由移民推动的。"
+    },
+    {
+      "id": "p057",
+      "en": "It’ll take a shock to turn that around. But there are some who think that maybe it’d be OK for Beijing to have its Sputnik (or Apollo 11) moment. Maybe America needs to be surprised and shamed before it’ll get its act together. “There are definitely people in the space industry,” says one industry executive, “that see the Chinese landing on the moon before us as probably a net positive.” Maybe then Musk would really focus on building rockets, instead of spending so much of his time being a racist agitator online. Maybe Bezos’ rocket company will become a more serious competitor. Maybe then the United States will care about slipping to second-rate.",
+      "zh": "要扭转这种局面，需要一场震撼性的冲击。但也有人认为，也许北京出现自己的“斯普特尼克（或阿波罗11号）时刻”其实也未必是坏事。也许美国只有先被震惊并蒙羞，才会真正把事情做好。正如一位行业高管所说：“在航天界，确实有人认为，中国人在月球上先于我们登陆，可能是一个净利好。”也许那样马斯克就会真正把重点放在造火箭上，而不是把太多时间花在网上当种族主义煽动者了。也许贝索斯的火箭公司会变成一个更有分量的竞争对手。也许到时候，美国才会开始在乎自己是否滑向二流。"
+    },
+    {
+      "id": "p058",
+      "en": "What Say You?Let us know what you think about this article in the comments below. Alternatively, you can submit a letter to the editor at [email protected].",
+      "zh": "你怎么看？请在下方评论区告诉我们你对这篇文章的看法。或者，你也可以给编辑写信，邮箱 [email protected]。"
+    }
+  ],
+  "translated_at": "2026-07-23T00:28:44+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

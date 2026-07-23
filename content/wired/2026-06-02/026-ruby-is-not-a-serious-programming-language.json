@@ -1,0 +1,109 @@
+{
+  "id": "026-ruby-is-not-a-serious-programming-language",
+  "source_href": "feed_0/article_25/index_u15.html",
+  "publication": "wired",
+  "issue": "2026-06-02",
+  "issue_published_at": "2026-06-02",
+  "article_published_at": "2025-12-01T07:00:00-05:00",
+  "published_at": "2025-12-01T07:00:00-05:00",
+  "published_date_source": "article",
+  "order": 26,
+  "section": "Sheon Han",
+  "title_en": "Ruby Is Not a Serious Programming Language",
+  "title_zh": "Ruby 不是一门严肃的编程语言",
+  "rubric_en": "Ruby survives on affection, not utility. Let's move on.",
+  "rubric_zh": "Ruby 靠的是人们的喜欢，而不是实用性。先不谈这个。",
+  "date": "2025-12-01T07:00:00-05:00",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "My little theory is that the concept of “imprinting” in psychology can just as easily be applied to programming: Much as a baby goose decides that the first moving life-form it encounters is its parent, embryonic programmers form ineradicable attachments to the patterns and quiddities of their first formative language.",
+      "zh": "我的一个小理论是，心理学里的“印刻”概念同样可以应用到编程中：就像一只小雏鹅会把它看到的第一个活动生命体认定为母亲一样，初学者程序员也会对第一门成型语言中的模式和特质产生根深蒂固的依附。"
+    },
+    {
+      "id": "p002",
+      "en": "For many people, that language is Ruby. It’s often credited with making programming “click”; imprintees speak of it with a certain indebtedness and affection. I get that. I wrote my first “Hello world” in an awful thing called Java, but programming only began to feel intuitive when I learned JavaScript (I know, I know) and OCaml—both of which fundamentally shaped my tastes.",
+      "zh": "对很多人来说，那门语言就是 Ruby。它常常被认为是让人“顿悟”编程的语言，经历过“印刻”的人谈起它时都带着某种感激与喜爱。这个我能理解。我写下第一行“Hello world”时用的是一种叫 Java 的糟糕东西，但真正让我开始有直觉式编程体验的是后来学习了 JavaScript（我知道，我知道）和 OCaml——这两门语言从根本上塑造了我的口味。"
+    },
+    {
+      "id": "p003",
+      "en": "I arrived somewhat late to Ruby. It wasn’t until my fourth job that I found myself on a team that mainly used it. By then, I’d heard enough paeans to its elegance that I was full of anticipation, ready to be charmed, to experience the kind of professional satori its adherents described. My dislike for it was immediate.",
+      "zh": "我接触 Ruby 的时间算是偏晚。直到我的第四份工作，我才发现自己加入了一个主要使用它的团队。到那时，我已经听到足够多对它优雅性的赞美，心里充满了期待，准备被它吸引，体验它的追随者们口中的那种职业禅悟。结果我对它的反感来得很快。"
+    },
+    {
+      "id": "p004",
+      "en": "To arrive at a language late is to see it without the forgiving haze of sentimentality that comes with imprinting—the fond willingness to overlook a flaw as a quirk. What I saw wasn’t a bejeweled tool but a poor little thing that hadn’t quite gotten the news that the world of programming had moved on.",
+      "zh": "迟到才接触一门语言，就能看清它，而不再被“印刻”带来的那层宽容雾气蒙住眼——那种出于喜爱而把缺陷当成怪癖去忽略的心态。我看到的不是一件镶满珠光宝气的工具，而是一个可怜的小玩意儿，似乎还没听说编程世界早已发展了好一阵子。"
+    },
+    {
+      "id": "p005",
+      "en": "Ruby was created in 1995 by the Japanese programmer Yukihiro Matsumoto, affectionately called “Matz.” Aside from creating the only major programming language to have originated outside the West, this Osaka-born practicing Mormon is also known for being exceptionally nice, so much so that the Ruby community adopted the motto MINASWAN, for “Matz Is Nice And So We Are Nice.”",
+      "zh": "Ruby 由日本程序员松本行弘（Yukihiro Matsumoto）于 1995 年创建，他因人称“Matz”而广受喜爱。除了一人创建了唯一一门主要起源于非西方世界的编程语言外，这位出生于大阪、虔诚的摩门教信徒，也以异常友善而闻名，因此 Ruby 社区采纳了口号 MINASWAN，意为“\"Matz Is Nice And So We Are Nice\"（Matz 很好，我们也都很友好）。"
+    },
+    {
+      "id": "p006",
+      "en": "Befitting this, as well as its pretty name, Ruby is easy on the eyes. Its syntax is simple, free of semicolons or brackets. More so even than Python—a language known for its readability—Ruby reads almost like plain English.",
+      "zh": "与此相称，也与它优美的名字相称，Ruby 读起来很顺眼。它的语法很简单，没有分号和括号。比起 Python——一门以可读性著称的语言——Ruby 更像是直接在读普通英文。"
+    },
+    {
+      "id": "p007",
+      "en": "Programming languages are generally divided into two camps: statically typed and dynamically typed. A static-type system resembles a set of Legos in which pieces interlock only with others of the right shape and size, making certain mistakes physically impossible. With dynamic typing, you can jam pieces together however you want. While this is theoretically more flexible on a small scale, that freedom backfires when you’re building large structures—certain types of errors are caught only when the program is running. The moment you put weight on your Lego footbridge, in other words, it slumps into a useless heap.",
+      "zh": "编程语言通常被分为两大阵营：静态类型和动态类型。静态类型系统有点像一套乐高积木，只有形状和尺寸合适的积木块才能拼在一起，这使得某些错误在物理上就不可能发生。动态类型则允许你想怎么拼就怎么拼。虽然在小规模场景下这种方式在理论上更灵活，但当你要搭建更大的结构时，这种自由会适得其反——某些类型错误只会在程序运行时才会被发现。换句话说，一旦你把体重压在乐高人行桥上，它就会塌成一堆没用的残骸。"
+    },
+    {
+      "id": "p008",
+      "en": "Ruby, you might’ve guessed, is dynamically typed. Python and JavaScript are too, but over the years, those communities have developed sophisticated tools to make them behave more responsibly. None of Ruby’s current solutions are on par with those. It’s far too conducive to what programmers call “footguns,” features that make it all too easy to shoot yourself in the foot.",
+      "zh": "Ruby，你也许已经猜到了，是动态类型语言。Python 和 JavaScript 也是如此，但这些社区多年来已经开发出复杂的工具，让它们的行为更可控、更负责任。Ruby 目前的这些方案都远远达不到同一水平。它太容易让程序员掉入所谓的“坑”——那些让人不小心就会“误伤自己”的设计陷阱。"
+    },
+    {
+      "id": "p009",
+      "en": "Critically, Ruby’s performance profile consistently ranks near the bottom (read: slowest) among major languages. You may remember Twitter’s infamous “fail whale,” the error screen with a whale lifted by birds that appeared whenever the service went down. You could say that Ruby was largely to blame. Twitter’s collapse during the 2010 World Cup served as a wake-up call, and the company resolved to migrate its backend to Scala, a more robust language.",
+      "zh": "关键在于，Ruby 的性能表现一向在主流语言中长期处于底部（也就是最慢的那一档）。你可能还记得 Twitter 那个臭名昭著的“失败海豚”错误页：服务宕机时出现一只被海鸥托起的鲸鱼。可以说，这其中很大一部分责任在 Ruby。2010 年世界杯期间 Twitter 的系统崩溃成为一次惊醒人们的警钟，公司随后决定将后端迁移到 Scala，这是一种更稳健的语言。"
+    },
+    {
+      "id": "p010",
+      "en": "The move paid off: By the 2014 World Cup, Twitter handled a record 32 million tweets during the final match without an outage. Its new Scala-based backend could process up to 100 times faster than Ruby. In the 2010s, a wave of companies replaced much of their Ruby infrastructure, and when legacy Ruby code remained, new services were written in higher-performance languages.",
+      "zh": "这次调整成了实打实的回报：到 2014 年世界杯时，Twitter 在决赛中处理了高达 3200 万条推文，且没有出现服务中断。其基于 Scala 的新后端处理速度最高可达 Ruby 的 100 倍。到 2010 年代，一波公司开始淘汰其大部分 Ruby 基础设施，当旧有的 Ruby 代码还保留下来时，新服务则改用性能更高的语言来开发。"
+    },
+    {
+      "id": "p011",
+      "en": "What’s more, everything Ruby does, another language now does better, leaving it without a distinct niche. For quick scripting and automation, Python, JavaScript, and Perl were strong competitors. Python, though also a slow language, carved out a dominant niche in scientific computing and became the de facto language of AI. JavaScript came to dominate the web. And Perl, well, is dying—which I’m not sorry to see. Ruby now finds itself in an awkward middle ground.",
+      "zh": "更重要的是，Ruby 能做的事情，现在几乎都能被其他语言做得更好，于是它失去了独特的“生存空间”。在快速脚本和自动化方面，Python、JavaScript 和 Perl 都是强有力的竞争者。Python 虽然也不算快，却在科学计算领域占据了主导地位，并成了人工智能领域的事实标准语言。JavaScript 则发展成了 Web 的主导语言。至于 Perl，它正走向衰落——我并不觉得可惜。Ruby 现在处在一个很尴尬的中间地带。"
+    },
+    {
+      "id": "p012",
+      "en": "You may wonder why people are still using Ruby in 2025. It survives because of its parasitic relationship with Ruby on Rails, the web framework that enabled Ruby’s widespread adoption and continues to anchor its relevance.",
+      "zh": "你可能会想，为什么到 2025 年人们还在使用 Ruby。它能够存活，是因为它与 Ruby on Rails 有一种“寄生式”的关系；正是这个 Web 框架推动了 Ruby 的广泛采纳，并且至今仍是 Ruby 维持相关性的重要依托。"
+    },
+    {
+      "id": "p013",
+      "en": "When Danish developer David Heinemeier Hansson, aka DHH, released Rails in 2004, Ruby ceased to be the province of nice Japanese programmers. DHH is a kind of photographic negative of Matz, a handsome firebrand with equal parts charisma and dogma—so much for MINASWAN—who likes to win public Twitter feuds and race car championships in his spare time.",
+      "zh": "当丹麦开发者 David Heinemeier Hansson（又名 DHH）在 2004 年发布 Rails 时，Ruby 不再是“友善日本程序员”才会用的语言。DHH 就像是 Matz 的一张“底片负片”：既有魅力又带点教条，一向不乏争议与坚持；以至于他在公共平台上喜欢发动 Twitter 言辞对决，还在业余时间参加赛车锦标赛。"
+    },
+    {
+      "id": "p014",
+      "en": "In that prelapsarian era between the rise of Web 2.0 and the Facebook IPO—when Silicon Valley was awash in the jubilation of TechCrunch Disrupt and blissfully unaware of the impending techlash—Rails was the framework of choice for a new generation of startups. The main code bases of Airbnb, GitHub, Twitter, Shopify, and Stripe were built on it.",
+      "zh": "在 Web 2.0 崛起到 Facebook 公开募股（IPO）之间的前互联网乌托邦时期，硅谷正沉浸在 TechCrunch Disrupt 的狂欢中，尚且没有意识到即将到来的“techlash”。当时 Rails 是新一代初创公司的首选框架。Airbnb、GitHub、Twitter、Shopify 和 Stripe 的核心代码库都是基于它构建的。"
+    },
+    {
+      "id": "p015",
+      "en": "In the early 2000s, when building web applications was cumbersome, Rails offered a one-stop shop for developers. Instead of manually wiring together a database, a frontend, and a backend, Rails provided a packaged solution that simply worked. It was one of total integration—like a compact Usonian house by Frank Lloyd Wright where every detail is designed to fit into a single, unified vision.",
+      "zh": "在 2000 年代早期，网站应用开发仍然很繁琐，Rails 为开发者提供了一个“店中有店”式的一站式方案：你不再需要手工把数据库、前端和后端一个个拼接起来，而是有了一个打包好的、能直接用的体系。它是典型的“高度一体化”产物——就像弗兰克·劳埃德·赖特的 Usonian 小宅那样，所有细节都按单一且统一的设计理念来配合。"
+    },
+    {
+      "id": "p016",
+      "en": "Yet this was also an era that underestimated just how enormous the web would become. Try to remodel the kitchen or add a second story to a Usonian house and the unity becomes a liability. The house, initially designed to host a few well-behaved dinner guests, was now expected to function more like a convention center accommodating millions of unruly visitors.",
+      "zh": "然而，那也是一个严重低估了网络未来规模的时代。试着改造 Usonian 房屋的厨房，或者加建第二层，原本的统一性反而会变成缺陷。这个房子最初只是为了容纳几位守规矩的晚宴来客而设计，如今却被要求像会议中心一样，承载数以百万计喧闹而难以约束的访客。"
+    },
+    {
+      "id": "p017",
+      "en": "I’m not the only person who’s bearish on Ruby. On Stack Overflow’s annual developer survey, it’s been slipping in popularity for years, going from a top-10 technology in 2013 to 18th this year—behind even Assembly. Among newer developers, Python and JavaScript rank much higher. Ruby persists, for now, as a kind of professional comfort object, sustained by the inertia of legacy code bases and the loyalty of those who first imprinted upon it. But nostalgia and a pretty name won’t cut it.",
+      "zh": "我并不是唯一一个看衰 Ruby 的人。在 Stack Overflow 的年度开发者调查中，它多年来一直在走下坡路：从2013年的前十技术之一跌到今年的第18位，甚至被汇编语言还要靠后。对于新入行的开发者来说，Python 和 JavaScript 的排名要高得多。Ruby 目前仍然存在，暂时像是一种职业情结的“安全垫”，主要依赖于遗留代码库的惯性，以及那些最早接触并留下深刻印象的人们的忠诚。但怀旧情绪和一个好听的名字并不能解决问题。"
+    }
+  ],
+  "translated_at": "2026-07-22T17:09:36+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

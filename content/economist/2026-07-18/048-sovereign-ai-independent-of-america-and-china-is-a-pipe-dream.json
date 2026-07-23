@@ -1,0 +1,169 @@
+{
+  "id": "048-sovereign-ai-independent-of-america-and-china-is-a-pipe-dream",
+  "source_href": "30858997-0bd2-4535-a3fb-a59ecca9f7cf.html",
+  "publication": "economist",
+  "issue": "2026-07-18",
+  "order": 48,
+  "section": "International",
+  "title_en": "Sovereign AI, independent of America and China, is a pipe dream",
+  "title_zh": "独立于美国和中国的“主权AI”仍是幻想",
+  "rubric_en": "But a degree of protection from coercion remains possible",
+  "rubric_zh": "但一定程度上摆脱胁迫仍有可能",
+  "date": "July 16th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "WHEN THE leaders of the biggest Western economies gathered last month in the French Alps for the G7 summit, it was not just presidents and prime ministers in attendance. The bosses of America’s leading artificial-intelligence firms—Sam Altman of OpenAI, Sir Demis Hassabis of Google DeepMind and Dario Amodei of Anthropic—were seated alongside the political bigwigs. Even the stewards of the mightiest economies, it turns out, are buttering up the potentates of AI.",
+      "zh": "上个月，西方主要经济体领导人齐聚法国阿尔卑斯山参加七国集团峰会时，到场的不仅是总统和首相。美国头部人工智能公司的掌门人也坐在他们身边：OpenAI 的萨姆·奥特曼、Google DeepMind 的戴米斯·哈萨比斯爵士，以及 Anthropic 的达里奥·阿莫代伊。事实证明，即便是最强大的经济体掌舵者，也在讨好 AI 这群“新权贵”。"
+    },
+    {
+      "id": "p002",
+      "en": "Days before the summit, America’s government had barred Anthropic from making its most advanced model available to foreigners. OpenAI soon imposed similar restrictions on some of its frontier systems. The move turned a simmering concern into a burning one: might countries without their own, home-grown AI firms end up excluded from the world-changing technology? Emmanuel Macron, France’s president, warned that no one would buy American AI if it could “turn off the switch” at will. The American AI labs’ Chinese rivals offer only faint reassurance. On July 7th Reuters reported that Chinese officials, too, were considering restricting foreigners’ access to leading AI models.",
+      "zh": "峰会前几天，美国政府已禁止 Anthropic 将其最先进的模型提供给外国机构。OpenAI 随后也对其部分前沿系统施加了类似限制。这一举动将长期存在的担忧推向焦点：没有自有 AI 企业的国家，是否会被排除在改变世界的技术之外？法国总统埃马纽埃尔·马克龙警告说，如果美国可以随时“关闭开关”，就没人会购买美国的 AI。美国 AI 机构的中国竞争者也只能提供微弱安慰。7月7日，路透社报道，中国官员也在考虑限制外国人获取领先 AI 模型。"
+    },
+    {
+      "id": "p003",
+      "en": "Caught between the world’s two AI superpowers, governments are increasingly pinning their hopes on “sovereign AI”: the idea that countries should limit their dependence on foreign providers of AI by actively developing domestic AI firms and infrastructure. Announcements of such initiatives are proliferating. The European Union has unveiled a technology-sovereignty package encompassing semiconductors, AI and cloud computing. Canada has launched its own plan to reduce reliance on American technology providers. India, Japan and Singapore are backing domestic AI infrastructure and models. The Centre for a New American Security (CNAS), a think-tank in Washington, estimates that the number of state-backed AI projects outside America and China grew fivefold over the course of 2024 and 2025 (see chart 1). Governments have announced investments of $70bn-plus in such initiatives, according to CNAS’s tally.",
+      "zh": "处于世界两大 AI 强权之间，政府越来越多地把希望寄托在“主权 AI”上：即通过积极发展本国 AI 企业和基础设施，减少对外部供应商的依赖。这类倡议的声明正不断增加。欧盟推出了一个技术主权方案包，涵盖半导体、人工智能与云计算。加拿大也推出了降低对美国技术供应商依赖的计划。印度、日本和新加坡都在支持本土 AI 基础设施和模型。华盛顿智库“美国新安全中心”（CNAS）估计，2024年至2025年间，美中之外由国家支持的 AI 项目数量增长了五倍（见图表 1）。CNAS 的统计显示，政府已宣布在此类倡议上投资逾 700 亿美元。"
+    },
+    {
+      "id": "p004",
+      "en": "Yet turning these ambitions into reality will be extremely difficult. No matter what, most countries will still rely on American chips, Chinese open-source models or both to build their AI systems. Even then, most governments will find it prohibitively expensive to achieve anything remotely resembling AI sovereignty.",
+      "zh": "然而，把这些愿景变为现实会异常困难。无论如何，大多数国家仍将需要依赖美国芯片、中国开源模型，或两者兼用来构建 AI 系统。即便如此，大多数政府要想实现接近“AI 主权”的状态，也会发现成本高得几乎无法承受。"
+    },
+    {
+      "id": "p005",
+      "en": "The incentive to seek it, however, is clear and compelling. Pablo Chavez of CNAS puts the restrictions on Anthropic in a “long line of events” demonstrating America’s willingness to use its technological dominion as a weapon. In the dying days of Joe Biden’s presidency in 2025, America proposed sweeping export controls that would have rationed access to advanced chips through a complex licensing regime. When Donald Trump became president a few weeks later he dropped the plan. But he has not hesitated to use America’s lead in AI as leverage in trade negotiations. The Department of Commerce is considering rules that would allow it to vet all sales of AI chips designed by American firms anywhere in the world. It might also insist that buyers allow inspections or monitoring to make sure chips are being used as promised. Another possible requirement could be to invest in American AI infrastructure in exchange for access.",
+      "zh": "寻求主权的动机却十分清晰而有说服力。CNAS 的帕布罗·查韦斯把对 Anthropic 的限制放在一系列“先例”中，认为这体现了美国愿意将技术主导权当作武器。在 2025 年乔·拜登任期末期，美国提出了覆盖面广泛的出口管制方案，拟通过复杂的许可制度配给先进芯片。几周后，唐纳德·特朗普上任后撤回了该方案。但他并未迟疑于在贸易谈判中把美国 AI 领先地位当作筹码。美国商务部正在考虑规定，让其有权审核美国公司在全球范围内出售 AI 芯片的所有交易。美国还可能要求买方接受检查或监测，以确保芯片按承诺用途使用。另一种可能的要求是，作为换取访问权的条件，要投资美国的 AI 基础设施。"
+    },
+    {
+      "id": "p006",
+      "en": "Protecting themselves from coercion is not the only reason governments want to build their own “AI stack”, the layers of hardware and software on which AI depends. National security is another: it is awkward to use foreign, commercial AI for top-secret purposes, especially of a military nature. Governments also like the idea of models trained on their own languages, laws and norms. They worry, with some justification, about users’ sensitive, personal data falling into foreign hands. And policymakers want to reap the economic benefits of AI. They have seen how previous technological innovations—the internet, smartphones and cloud computing—entranced consumers and reshaped their economies while generating riches for American tech firms. They are keen to avoid a repeat.",
+      "zh": "政府想打造自己的“AI 技术栈”（即 AI 所依赖的硬件和软件层）并非只为防止被胁迫。国家安全也是原因：对最高机密、尤其军事用途，使用外国产品的商业 AI 非常不便。政府也希望拥有基于本国语言、法律和规范训练的模型。它们也有一定道理地担心敏感、个人数据落入外国手中。政策制定者还希望获得 AI 的经济收益。他们看到过往技术创新——互联网、智能手机和云计算——如何让消费者着迷并重塑经济，同时为美国科技公司带来巨额财富。他们不想重演一遍。"
+    },
+    {
+      "id": "p007",
+      "en": "The Anthropic cut-off was instructive, says Arthur Mensch of Mistral AI, a French model-maker. In an interview for The Economist’s Inside Tech video series, he argues that the imperative to develop sovereign AI runs much deeper than the risk of diplomatic strong-arming. The scale of the outflow of cash to America and China in a world where the pair continue to dominate AI would be so vast it would create “enormous instabilities”, he argues. Countries will find that unacceptable and so will be forced to invest in the ability to serve at least some demand for AI domestically.",
+      "zh": "法国模型公司 Mistral AI 的 Arthur Mensch 认为，Anthropic 的断供很有启发性。在《经济学人》Inside Tech 视频访谈中，他指出，发展主权 AI 的紧迫性远深于外交施压的风险。若未来美国和中国继续主导 AI，向两国流出的资金规模将大到造成“巨大不稳定”。各国会认为这是不可接受的，因此被迫投资于在国内至少满足部分 AI 需求的能力。"
+    },
+    {
+      "id": "p008",
+      "en": "Mr Mensch estimates (conservatively, he says) that within the next five or ten years, the European Union will be spending the equivalent of a tenth of its current bill for labour on AI tokens, or about around €1trn ($1.1trn) a year. If things stay as they are, the vast majority of that expenditure will flow directly to American cloud providers. Such outflows would hit the euro, increasing the cost yet more. That, he believes, would create an opportunity for a local enterprise to compete directly, even if its product is not of the same quality. Every country, he predicts, will need to make sure that whatever happens, “The AI can continue to run.”",
+      "zh": "Mensch 保守地估计，在未来五到十年内，欧盟在 AI 代币上的年度支出将达到其当前劳动成本约十分之一，约合 1 万亿欧元（约 1.1 万亿美元）。如果现状不变，这笔开支中的绝大多数都将直接流向美国云服务商。如此一来，资金外流会打击欧元，进一步抬高代价。Mensch 认为，这将给本地企业带来竞争机会，即使其产品质量不及对手。"
+    },
+    {
+      "id": "p009",
+      "en": "Sovereignty looks different at each layer of the stack. Start at the bottom: computing power (“compute”, in the jargon), largely in the form of AI chips. The market for those chips is dominated by Nvidia, whose processors account for two-thirds of the world’s AI compute. Chips designed by Google, AMD and Amazon, all American firms, make up much of the remainder.",
+      "zh": "在栈的每一层，“主权”看起来都不同。先从最底层开始：算力，也就是业内常说的“计算力”，主要以 AI 芯片的形式存在。该市场由英伟达主导，其处理器占全球 AI 算力的三分之二。谷歌、AMD 和亚马逊这几家美国企业设计的芯片，占据了剩下的大部分。"
+    },
+    {
+      "id": "p010",
+      "en": "The alternatives are limited. Chinese firms such as Huawei and Cambricon have made impressive strides despite being cut off by American trade restrictions from the most advanced chipmaking equipment. But they remain some distance from the frontier. Huawei’s Ascend 910C, one of China’s most advanced AI chips, provides roughly a fifth of the performance of Nvidia’s latest offering. Performance is not the only constraint. Chinese manufacturers are prioritising domestic customers, and demand still exceeds available capacity. Even if Chinese chips continue to improve, shortages are likely to persist for years.",
+      "zh": "可替代方案并不多。华为、寒武纪等中国企业在被美国贸易限制切断最先进芯片制造设备后，仍取得了令人瞩目的进展。但它们与最前沿仍有一定差距。华为的 Ascend 910C 作为中国最先进的 AI 芯片之一，其性能大约只有英伟达最新产品的五分之一。性能并非唯一限制。中国制造商优先服务国内客户，且需求仍超出现有产能。即便中国芯片持续进步，短缺很可能还会持续多年。"
+    },
+    {
+      "id": "p011",
+      "en": "Aiming for self-sufficiency in hardware is therefore unrealistic. Kevin Xu of Interconnected Capital, an AI-focused hedge fund, argues that sovereignty should be understood less as independence than as control. If the machines being used to run AI models sit within a country’s borders, governments retain a degree of autonomy even if future access to chips is restricted. “Is your factory going to still run if the US government decides that suddenly you can’t?” asks Mr Mensch. The latest AI chips have a lifespan of at least five or six years.",
+      "zh": "因此，追求硬件完全自给并不现实。Interconnected Capital 的 AI 对冲基金负责人徐凯文（Kevin Xu）认为，主权应理解为“可控”，而非“独立”。如果运行 AI 模型的机器位于本国领土内，即便将来芯片访问受到限制，政府仍可保留一定自主权。“如果美国政府突然决定禁止，你的工厂还能继续运行吗？”Mensch 问道。"
+    },
+    {
+      "id": "p012",
+      "en": "Chips are only part of the equation, however. Running AI places huge demands on the electricity grid. According to the International Energy Agency, an intergovernmental forecaster, a typical AI data centre consumes as much electricity as 100,000 households; the largest may use around 20 times as much.",
+      "zh": "不过，芯片只是方程式的一部分。运行 AI 对电网提出了巨大的要求。根据跨政府的能源预测机构——国际能源署的数据，典型 AI 数据中心的电力消耗相当于 10 万户家庭；最大型的数据中心可能高达其 20 倍。"
+    },
+    {
+      "id": "p013",
+      "en": "Countries like Norway, Saudi Arabia and the United Arab Emirates (UAE) look like attractive places to build data centres because they have abundant, reliable power. The reverse is true in most of Europe, however: grids are congested, there are long waits for connections and electricity prices are high. For many countries, producing enough power for AI will be as difficult as securing enough chips.",
+      "zh": "挪威、沙特阿拉伯和阿联酋看起来是建设数据中心的理想地点，因为它们拥有充足且稳定的电力。大多数欧洲则相反：电网拥塞，接入排期漫长，电价高。对许多国家而言，生产足够的 AI 电力和拿到足够的芯片一样困难。"
+    },
+    {
+      "id": "p014",
+      "en": "Move one layer higher and the picture improves. Most sovereign-AI projects are built on open-source models. These are appealing not simply because they cost less, but also because they offer a higher degree of control. Users can modify them, host them locally and avoid dependence on the proprietary systems of firms such as OpenAI and Anthropic, which might be ordered by Uncle Sam to revoke or restrict access. Although open-source models are not at the cutting edge, the gap is narrow enough not to matter for many applications. Chinese firms have become particularly competitive. On OpenRouter, a marketplace for AI models, Chinese ones have overtaken American ones in usage. The day after the restrictions on Anthropic took effect, Z.ai, a Chinese AI company, released GLM-5.2, an open-source model that quickly climbed to fourth place on Artificial Analysis, a benchmarking site.",
+      "zh": "向上看一层，情况开始好转。大多数主权 AI 项目都建立在开源模型上。之所以受青睐，不仅因为更省钱，还因为它们提供更高程度的掌控。用户可以对其进行修改、在本地托管，避免依赖 OpenAI、Anthropic 等公司专有系统，而这些公司可能被华盛顿命令收回或限制访问。尽管开源模型并非最前沿，但与主流应用相关的性能差距已小到可以忽略。中国企业尤其具备竞争力。在 AI 模型市场 OpenRouter 上，中国模型的使用量已超越美国模型。Anthropic 限制生效的次日，中国 AI 公司 Z.ai 发布了开源模型 GLM-5.2，迅速登上了基准平台 Artificial Analysis 的第四位。"
+    },
+    {
+      "id": "p015",
+      "en": "Yet if China were to impose the same sort of export controls on its most capable models as America has, users of Chinese AI would simply be exchanging one form of dependency for another. In June Joe Tsai, chairman of Alibaba, was asked at a conference how Europe could trust China not to follow America’s lead in cutting off access to frontier models. “You can’t,” he replied candidly. “But here’s the thing. Right now, all of your eggs are in one basket. Why not get a second basket?”",
+      "zh": "但如果中国也像美国一样对最强模型实施同类出口管制，那么使用中国 AI 的用户就只是把一种依赖换成了另一种。6月，在一次会议上，阿里巴巴董事长蔡崇信被问到欧洲如何相信中国不会效仿美国切断前沿模型访问时，他坦率回答道：“你不能。但问题是，现在你们所有鸡蛋都放在一个篮子里。为什么不再放一个篮子？”"
+    },
+    {
+      "id": "p016",
+      "en": "As AI becomes ever more powerful, Chinese officials appear to be thinking about the strategic advantages prowess in AI can confer, just like their American counterparts, and also the risks of its falling into the wrong hands. Reuters reported that Chinese regulators had been discussing the possibility of export bans on future cutting-edge models with Chinese AI firms. It also claimed that they were considering making unauthorised disclosures of intellectual property related to AI models an offence under China’s draconian national-security laws.",
+      "zh": "随着 AI 越来越强大，中国官员似乎也像美国同行一样在思考 AI 带来的战略优势，也在关注它落入错误主体之手的风险。路透社报道称，中国监管机构正在与国内 AI 企业讨论对未来前沿模型实施出口禁令的可能性。报道还称，他们也在研究将 AI 模型相关知识产权的非法泄露纳入中国严厉的国家安全法制裁范围。"
+    },
+    {
+      "id": "p017",
+      "en": "Perhaps even harder than acquiring the necessary hardware and software for sovereign AI is getting hold of the people needed to operate them. Mr Xu argues that this layer of the stack receives the least attention. Hardware can be imported and software downloaded. Building a workforce that can install, maintain and optimise increasingly complex AI systems is much harder. Training such engineers takes years. Hiring them from abroad is possible, but only at huge cost, as governments vie with deep-pocketed technology firms to recruit from a tiny pool of specialists.",
+      "zh": "也许比获得主权 AI 所需的硬件和软件更难的是，获得能够运行它们的人才。徐凯文认为，栈的这一层往往最容易被忽视。硬件可以进口，软件可以下载；而能够安装、维护和优化日益复杂 AI 系统的劳动力却难以快速建立。培养这类工程师需要多年。向国外招聘是可能的，但代价高昂，因为各国政府与资金雄厚的科技公司在一小撮高端人才市场里展开激烈竞争。"
+    },
+    {
+      "id": "p018",
+      "en": "That, in turn, hints at the biggest constraint of all: money. Governments trying to conjure up sovereign AI have adopted a range of financing models. In the Gulf the state is the builder. Saudi Arabia has entrusted the task to Humain, a government-backed company created to develop AI infrastructure and data centres. In the UAE the task has fallen to G42, an AI firm partly owned by Mubadala, the country’s sovereign-wealth fund. The two countries are planning to invest more than $100bn.",
+      "zh": "这又指向最根本的瓶颈：资金。各国在构建主权 AI 时采用了多种融资模式。在海湾地区，国家是建设者。沙特将任务交给 Humain，这是一家由政府支持、负责开发 AI 基础设施和数据中心的公司。阿联酋则由 G42 承担该任务，G42 是由该国主权财富基金 Mubadala 部分持有的 AI 企业。这两国计划投入超过 1000 亿美元。"
+    },
+    {
+      "id": "p019",
+      "en": "Close state involvement helps secure the necessary hardware. During Donald Trump’s visit to the Middle East last year, governments in the Gulf put access to chips high on the agenda. Saudi Arabia said it planned to buy “several hundred thousand” of Nvidia’s top-end processors over the following five years. The UAE is reportedly aiming far higher, at half a million chips a year. On July 10th the Trump administration removed export controls on sales of advanced chips to the UAE, citing its support for America’s war with Iran.",
+      "zh": "强力的国家参与有助于锁定必要硬件。去年唐纳德·特朗普访问中东时，海湾各国把芯片供应列入议程高优先级。沙特表示，未来五年内计划购买“数十万”台英伟达高端处理器。阿联酋据称规模更大，目标是每年 50 万块芯片。7月10日，特朗普政府取消了对向阿联酋出口先进芯片的限制，以其对美国对伊朗战争的支持为由。"
+    },
+    {
+      "id": "p020",
+      "en": "Elsewhere governments are acting more as catalysts than as builders. France is backing Mistral AI, a home-grown but private model-developer, by helping recruit state-backed investors and foreign partners. In May SoftBank, a Japanese conglomerate, pledged to invest up to $85bn to build Europe’s biggest AI facility in France. Britain has launched a £500m ($670m) sovereign-AI fund to foster domestic startups. It has also set up a widely admired safety agency, the AI Security Institute, which has helped keep the country involved in the industry.",
+      "zh": "在其他地区，政府更多扮演催化者而非建设者。法国通过帮助吸引国家支持的投资者和海外合作伙伴，在支持本土但私有的模型开发商 Mistral AI。5月，日本财团软银承诺投资高达 850 亿美元，在法国建设欧洲最大的 AI 设施。英国推出了 5 亿英镑（约 6.7 亿美元）的主权 AI 基金，以扶持本土初创公司。英国还建立了受广泛好评的安全机构——AI 安全研究所，这有助于该国在该行业中保持参与。"
+    },
+    {
+      "id": "p021",
+      "en": "India is attempting a “third way” by focusing on providing AI cheaply, with the aim of solving local problems in local languages. It is channeling these ambitions through a mix of state-linked firms and private partnerships.. The government has allocated about $1bn to domestic AI infrastructure, Indian-language models and public data sets.",
+      "zh": "印度正尝试一条“第三条道路”，以低成本提供 AI，目标是用本地语言解决本地问题。其战略是通过国家关联企业与私营合作模式推进。政府已向本土 AI 基础设施、印度语种模型和公共数据集拨款约 10 亿美元。"
+    },
+    {
+      "id": "p022",
+      "en": "Whether the capital is public or private, however, it will be difficult to muster enough of it. AI infrastructure is ruinously expensive. A one-gigawatt (GW) data centre—the scale at which advanced AI is increasingly conducted—costs roughly $50bn. Over two-thirds of that bill comes from computing equipment, chiefly chips.",
+      "zh": "无论资本是公有还是私有，要筹措到足够资金都很难。AI 基础设施代价高昂。一座一吉瓦（GW）级数据中心——当前高性能 AI 主要运行的规模——的成本大约是 500 亿美元，其中超过三分之二的支出来自计算设备，尤其是芯片。"
+    },
+    {
+      "id": "p023",
+      "en": "Gartner, a consultancy, estimates that between 2026 and 2030 countries outside America and China could add more than 50GW of data-centre capacity, much of it for AI (see chart 2). That would entail investment of $2trn or more. Yet the combined capital expenditure of all providers bar Chinese and American firms, including sovereign-AI projects and neoclouds, which rent out compute, will amount to only around $800bn over the same period.",
+      "zh": "咨询公司 Gartner 估计，从 2026 年到 2030 年，除美国和中国之外的国家可能新增 50GW 以上的数据中心容量，其中很大一部分用于 AI（见图表 2）。这将意味着至少 2 万亿美元的投资。然而，排除中美厂商后，所有供应商包括主权 AI 项目与“新云”提供者的合计资本支出，在同一时期也只有约 8000 亿美元。"
+    },
+    {
+      "id": "p024",
+      "en": "Someone else will have to foot the bill. America’s hyperscalers look like the obvious candidates. Alphabet, Amazon, Meta, Microsoft and Oracle are expected to invest around $5trn by the end of the decade, most of it on AI infrastructure. Between a fifth and a third of that is likely to be spent outside America, implying foreign investments of roughly $1trn-1.5trn. Few sovereign-AI projects can compete with that.",
+      "zh": "账单总要有人买单。美国的超大规模云服务商似乎是最明显的候选人。Alphabet、Amazon、Meta、微软和 Oracle 预计到本十年末将投资约 5 万亿美元，其中大部分用于 AI 基础设施。其中五分之一到三分之一可能花在美国境外，意味着外国投资规模约 1 万亿至 1.5 万亿美元。很少有主权 AI 项目能够与之竞争。"
+    },
+    {
+      "id": "p025",
+      "en": "For the cloud giants, this is an opportunity. For years they have sold private- and public-sector customers technological independence: data centres in their home country, domestic operating partners and guarantees that data will remain within national borders. Sovereign AI is a logical extension of this offer. The firms would provide customers control over where models are run and where the data are stored.",
+      "zh": "对这些云巨头而言，这是一个机会。多年来，他们一直向政企客户出售“技术自主性”：在本土国家建设数据中心、采用本国运营合作伙伴，并承诺数据留在本国边界内。主权 AI 是这一承诺的自然延伸。公司将让客户控制模型运行地点和数据存储地点。"
+    },
+    {
+      "id": "p026",
+      "en": "America’s restrictions on Anthropic both hinder and help this sales pitch. They help because the case for developing protection of any sort from the American authorities’ whims has become that much stronger. But they hinder because potential customers will now be wondering whether neoclouds might become yet another means by which America’s government can coerce other countries.",
+      "zh": "美国对 Anthropic 的限制既促进也削弱了这一销售主张。它促进了这一点，因为任何抵御美国当局随意干预的论据都更有力了。但它也造成阻碍，因为潜在客户会开始质疑，“新云”是否会成为美国政府施压他国的又一渠道。"
+    },
+    {
+      "id": "p027",
+      "en": "Microsoft has acknowledged the concern. Even close allies, it notes, worry that dependence on American cloud providers could leave them vulnerable to a “kill switch”: an executive order, export restriction or other policy decision that abruptly cuts off access during a geopolitical dispute. The company called for explicit assurances from the American government that such powers will not be used against friendly countries. The idea is not far-fetched: last year Microsoft was obliged to suspend the email account of Karim Khan, the chief prosecutor of the International Criminal Court, after the Trump administration subjected him to sanctions.",
+      "zh": "微软已公开承认这种担忧。它指出，连最亲近的盟友也担心，过度依赖美国云服务商会使其暴露在所谓“熄火开关”之下：在地缘政治争端中，某项行政命令、出口限制或其他政策举措突然切断访问权限。微软呼吁美国政府明确保证，不会对友好国家动用这类权力。这个担忧并非空穴来风：去年，微软在特朗普政府对国际刑事法院首席检察官卡里姆·汗实施制裁后，被迫暂停了其电子邮件账户。"
+    },
+    {
+      "id": "p028",
+      "en": "The impediments to sovereign AI, in short, are many and daunting. Full technological independence at all levels of the stack is nigh on impossible. Even less ambitious schemes may be cripplingly expensive, with uncertain benefits. AI infrastructure depreciates quickly. Chips become obsolete within five or six years; software evolves even faster. Governments could spend billions on facilities that are outdated before they are fully up and running.",
+      "zh": "简言之，主权 AI 面临的阻碍多而艰巨。在整套技术栈上实现完全技术独立几乎不可能。即使不那么激进的方案，也可能昂贵到使其难以为继，而且收益并不确定。AI 基础设施贬值很快。芯片在五到六年内就会过时，软件变化更快。政府可能在巨资建成设施之前，它们就已过时。"
+    },
+    {
+      "id": "p029",
+      "en": "Yet excess caution also carries a monumental risk: that countries leave themselves at the mercy of the AI superpowers for a technology that seems likely to make or break their economies in future. The quest for sovereign AI is therefore bound to continue, albeit in a circumscribed form. Governments will need to decide which parts of the stack they want to recreate at home and which dependencies are worth living with. Given the alternatives, even a little sovereignty may go a long way. ■",
+      "zh": "然而过度谨慎同样有巨大风险：各国可能把自己交给 AI 超级强国来摆布，而该技术很可能左右其未来经济的成败。因此，对主权 AI 的追求必然会持续下去，即使是受限的形式。各国将需要决定哪些部分要在本土重建，哪些依赖关系可以容忍。以可选择的替代方案而言，哪怕一点点主权也可能起到很大作用。■"
+    }
+  ],
+  "translated_at": "2026-07-21T17:04:00+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low",
+  "issue_published_at": "2026-07-18",
+  "article_published_at": "July 16th 2026",
+  "published_at": "July 16th 2026",
+  "published_date_source": "article"
+}

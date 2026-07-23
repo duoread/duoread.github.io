@@ -1,0 +1,34 @@
+{
+  "id": "020-elegy-for-the-penny",
+  "source_href": "a9fa284f69b8239c5f1e79aab9ce28d1.html",
+  "publication": "new_yorker",
+  "issue": "2026-07-20",
+  "issue_published_at": "2026-07-20",
+  "article_published_at": "",
+  "published_at": "2026-07-20",
+  "published_date_source": "issue",
+  "order": 20,
+  "section": "Poems",
+  "title_en": "Elegy for the Penny",
+  "title_zh": "《便士挽歌》",
+  "rubric_en": "",
+  "rubric_zh": "",
+  "date": "2026-07-20",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "By Catherine Bowman July 13, 2026",
+      "zh": "凯瑟琳·鲍曼 2026年7月13日"
+    },
+    {
+      "id": "p002",
+      "en": "What will I give you now for your thoughts. Without those two pairs of copper eyes in my pair of copper loafers, who will guide the child feet in me across Heaven’s and Hell’s streets. How will I learn to look up instead of to the earth as I kneel down hoping no one sees, to scoop the lost and forgotten from a puddle of mud in a church parking lot, knowing that’s what brings luck. And where will be the mother digging down in her purse among the tobacco dregs, coral lipstick, and half-sticks of Wrigley Spearmint chewing gum to pull out a gift for fountains and sacred wells. To play poker and smell my pennied fingers. And all that candy. What could be prettier! And up in Heaven in vault after vault, laid out side by side, wrapped tight in neat rows, roll after roll of pinched bundled blessings, Lincolns in sleeves just waiting to be reawakened.",
+      "zh": "现在我该用什么来交换你的思绪呢？如果没有那两双铜色的眼睛藏在我那双铜色便鞋里，谁会在我心里的孩子脚步穿越天堂与地狱的街道时带路？当我跪下时如何学会抬头，而不是低头看地面，祈祷着不被人看到，在教堂停车场的一滩泥里捞起那些被遗忘与失落的东西，因为我知道，这样能带来好运。那位母亲又将如何在她的钱包里翻找，从烟蒂渣、珊瑚色口红和一半支装的Wrigley Spearmint口香糖中，掏出给喷泉和圣井的礼物。还有那些糖果。还有什么能更美呢！而在天堂里，在一间间拱vault之后，一卷卷并列地摆放，紧紧裹成整齐的行列，层层叠起，捏成一束束福分，像袖子里静静等着重生的林肯币。"
+    }
+  ],
+  "translated_at": "2026-07-22T16:18:40+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

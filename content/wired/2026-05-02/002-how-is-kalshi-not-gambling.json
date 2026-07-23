@@ -1,0 +1,314 @@
+{
+  "id": "002-how-is-kalshi-not-gambling",
+  "source_href": "feed_0/article_1/index_u18.html",
+  "publication": "wired",
+  "issue": "2026-05-02",
+  "issue_published_at": "2026-05-02",
+  "article_published_at": "Mar 4, 2026 6:00 AM",
+  "published_at": "Mar 4, 2026 6:00 AM",
+  "published_date_source": "article",
+  "order": 2,
+  "section": "Steven Levy",
+  "title_en": "How Is Kalshi Not Gambling?",
+  "title_zh": "为什么说Kalshi不算赌博？",
+  "rubric_en": "",
+  "rubric_zh": "",
+  "date": "Mar 4, 2026 6:00 AM",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "If you picked Seattle to win Super Bowl LX, there were multiple means to turn your hunch into cash. You could place a wager on a betting site like FanDuel or DraftKings. Or you might risk the same amount of money by taking a position in the prediction market known as Kalshi. In both cases you would have been rewarded.",
+      "zh": "如果你押注西雅图赢得超级碗LX，就有好几种办法能把你的直觉变成现金。你可以在FanDuel或DraftKings这类投注平台下注，也可以在名为Kalshi的预测市场里投入同样金额。两种情况下，你都会有机会赢得奖励。"
+    },
+    {
+      "id": "p002",
+      "en": "But according to Tarek Mansour, Kalshi’s cofounder and CEO, those two acts are completely different. Kalshi is not a gambling site, Mansour says. It’s a marketplace, one regulated by the Commodity Futures Trading Commission. It’s also a startup, and securing that regulatory approval might be its most impressive innovation. Kalshi is allowed to operate in all 50 states, 20 more than allow online sports betting, and it offers markets not only on sports and election results (its most popular categories) but also on a dog’s breakfast of events including tomorrow’s temperature in Philadelphia, Taylor Swift’s wedding date, and whether Elon Musk will start a Bluesky account before 2027. One might note that some of those categories are, well, prone to manipulation by inside players.",
+      "zh": "但据Kalshi的联合创始人兼首席执行官塔雷克·曼苏尔（Tarek Mansour）说，这两种行为完全不同。曼苏尔认为，Kalshi不是赌博网站，它是一个交易市场，由商品期货交易委员会（CFTC）监管。这也是一家初创公司，而获得这种监管批准也许是它最令人瞩目的创新。Kalshi被允许在50个州运营，比允许在线体育投注的州还多20个州，并且它开设的并不只是体育和选举结果市场（其最热门的两类）——还包括明天费城的气温、泰勒·斯威夫特的婚期以及马斯克是否会在2027年前创建Bluesky账号等五花八门的事件。有人会指出，这些题材里有些确实容易被内部人士操控。"
+    },
+    {
+      "id": "p003",
+      "en": "This hasn’t stopped Kalshi’s growth, which has skyrocketed since it officially opened election markets in October 2024. The company has opened thousands of markets, handles over $1 billion in trades every week, and was most recently valued at $11 billion. (No surprise that Kalshi is the Arabic word for “everything.”) Nineteen states, meanwhile, have filed suit against Kalshi, challenging the claim that its operations aren’t gambling and don’t fall under their betting laws.",
+      "zh": "自从2024年10月正式开放选举市场以来，Kalshi的增长一直在飞涨。这并未阻挡其扩张。公司已开设了成千上万个市场，每周处理超过10亿美元的交易，最近一次估值为110亿美元。人们并不意外——“Kalshi”在阿拉伯语里就有“全部、一切”的意思。与此同时，19个州已经起诉Kalshi，质疑其业务并非赌博且不受其博彩法管辖的说法。"
+    },
+    {
+      "id": "p004",
+      "en": "All of this is quite a jump for Mansour, a self-described math kid with mild OCD who was born in California, grew up in Lebanon, and met his cofounder, Brazilian-born Luana Lopes Lara, at MIT. Though the decision to labor through regulatory hoops before launch was risky, it paid off better than any bet made on Kalshi. Mansour also insists Kalshi provides a social good, one that unearths better information more than it builds a financial juggernaut.",
+      "zh": "这一切对曼苏尔来说都发生得太快了。他自称是个“数学天才”孩子，有轻度强迫症，出生于加利福尼亚，在黎巴嫩长大，并在麻省理工学院认识了巴西出生的联合创始人卢安娜·洛佩斯·拉拉（Luana Lopes Lara）。尽管在上线前就先通过层层监管程序并不轻松，但这一步走得比在Kalshi上下注要更划算。曼苏尔同样坚持认为，Kalshi提供的是公共价值：它更像是在挖掘更准确的信息，而不是打造一个金融巨头。"
+    },
+    {
+      "id": "p005",
+      "en": "One need not risk money in its “event contracts” to observe how quickly the wisdom of the Kalshi-verse can assess the likelihood of a given outcome. Kalshi’s marketplace beat the polls in predicting both Donald Trump’s reelection and Zohran Mamdani’s primary win in the New York City mayoral race. A recent study indicated that forecasts made on Kalshi regarding interest rates performed as well as those from Wall Street experts. On the other hand, Mansour admits that the Kashi market on the next pope gave Leo XIV a meager chance of generating white smoke.",
+      "zh": "你不必在其“事件合约”上冒险下注，也能看到 Kalshi 世界中人们在多快的时间内评估某一结果的可能性。Kalshi 的市场在预测唐纳德·特朗普连任以及佐兰·马姆达尼赢得纽约市长初选方面，都超过了民意调查。最近的一项研究显示，Kalshi 对利率所做的预测，表现与华尔街专家的预测不相上下。另一方面，曼苏尔承认，在“卡尔希”市场上，关于下一任教皇是否会出现白烟，预测模型给了利奥十四世（Leo XIV）一条微薄的概率。"
+    },
+    {
+      "id": "p006",
+      "en": "When I met Mansour at Kalshi’s headquarters in Lower Manhattan, I found him engagingly combative. Four years of dealing with regulators and filing lawsuits honed his skills as a verbal warrior who enjoys debate about the social value of his company. Facing down critics who claim he’s turning reality into a betting parlor only sharpened those skills. Mansour enthusiastically took on the challenge of convincing me that a Kalshi Super Bowl position is not the same thing at all, no sir, as a straight bet on FanDuel. Putting down money on what song Bad Bunny would sing first at halftime, he argues, is no different than buying Tesla stock or life insurance. Kalshi will have to set the market on whether or not he persuaded me. I can’t predict the future.",
+      "zh": "我在曼哈顿下城 Kalshi 总部见到曼苏尔时，发现他十分擅长辩论、思维锋利。经过四年与监管机构周旋并提起诉讼，他锤炼出了一位热爱围绕公司社会价值展开讨论的口才型“言辩武士”。面对那些指责他把现实变成赌亭的批评者，这些技能反而被进一步磨砺。曼苏尔热情地接受了说服我的挑战：在他看来，Kalshi 的超级碗合约与在 FanDuel 上直接下注完全不是一回事，绝对不是同类。把钱下在“百老汇巨星 Bad Bunny 在中场秀先唱哪一首”上，不同于在他看来，就像是买特斯拉股票或买寿险一样。Kalshi 要让市场自行裁决他是否说服了我。至于我能不能预言未来，我可说不准。"
+    },
+    {
+      "id": "p007",
+      "en": "This interview has been edited for length and clarity.",
+      "zh": "这篇采访经过删节和润色。"
+    },
+    {
+      "id": "p008",
+      "en": "STEVEN LEVY: What led you, a kid from Lebanon, to start an app based on prediction markets?",
+      "zh": "STEVEN LEVY：是什么让你这位黎巴嫩出身的孩子，开始做一个基于预测市场的应用？"
+    },
+    {
+      "id": "p009",
+      "en": "TAREK MANSOUR: One of the most defining characteristics of Lebanon is that there’s a lot of uncertainty. There was much more certainty in math than in the outside world. My obsession was to get into MIT. When I got there, the people were super smart and motivated. It was a very big widening of the aperture. A lot of people were going into finance, which is a very good application of math, so in 2016 I went to work at Goldman. That was my first time coming in touch with the idea of prediction markets. The vast majority of the demand that summer was, will Brexit happen or not? Then it was like, will Trump win the election or not? When Brexit came, it was a massive shock, it completely destabilized markets. The Trump one was even more striking. So I asked, “What if people could price these simple questions about the future?” Markets are an effective, efficient way to average out opinions about something.",
+      "zh": "塔雷克·曼苏尔：黎巴嫩最鲜明的特征之一就是充满了不确定性。数学世界里有更多确定性，而现实世界却没有。我的执念是要进到麻省理工学院。到了那里，人们都非常聪明、非常有动力。这是一次巨大的视野拓宽。许多人都在进入金融行业，因为金融是数学的很好应用，所以2016年我去了高盛。这也是我第一次接触“预测市场”这个概念。那个夏天，绝大多数需求都在围绕一个问题：英国是否会脱欧？之后又是“特朗普会不会赢得大选？”当脱欧发生时，市场被彻底震动，几乎遭到全面动摇；特朗普那次更是显得更具冲击力。于是我开始想：\"如果让人们能给这些关于未来的简单问题定价，会怎么样？\" 市场是用来高效整合不同观点的有效工具。"
+    },
+    {
+      "id": "p010",
+      "en": "I’m old enough to remember a time when it was a shocking revelation to compare Wall Street to a betting parlor—there was a famous BusinessWeek article in 1985 called “The Casino Society” decrying that the markets were decoupled from actual business results. Now it’s taken for granted that valuations are drastically different from profits and losses, and are more like speculations on price itself. Kalshi seems like an uncut version of that—it’s based on pure speculation. There’s no longer a concept of investing.",
+      "zh": "我已经大到足以记得那段时代：当时把华尔街比作赌坊曾是令人震惊的揭露——1985年《商业周刊》有一篇著名文章叫《赌场社会》，猛烈抨击市场与真实商业结果脱节。如今，人们早已默认，估值与盈亏会出现天差地别，更多像是在押注价格本身。卡尔希看起来就是这种“未经过滤版本”的体现——它完全建立在纯粹投机之上。这里已经不再有传统意义上的“投资”概念。"
+    },
+    {
+      "id": "p011",
+      "en": "Do you think pricing Brexit and knowing whether Brexit is going to happen or not is useful?",
+      "zh": "你认为给“脱欧是否会发生”定价并据此判断它是否会发生，有没有实际价值？"
+    },
+    {
+      "id": "p012",
+      "en": "Why put a price on whether Brexit happens? If it affects the stock market, why not actually invest or go short on the actual stocks?",
+      "zh": "为什么要给“是否会脱欧”这个问题标价格？如果它会影响股市，为什么不直接去买入或做空相关的实际股票？"
+    },
+    {
+      "id": "p013",
+      "en": "I completely disagree with that premise. People that had to immigrate from Britain or into Britain because Brexit happened would have really benefited from having that forecast. Those people probably didn’t have a position in the stock market. The idea that what’s going to happen in the world only matters because of how it impacts stock prices is a bit bizarre to me.",
+      "zh": "我完全不认同那种前提。那些因为英国脱欧发生而不得不从英国移民出去，或从其他地方移居到英国的人，本来会很受益于拥有这样的预测。这些人很可能在股市中并没有任何仓位。对我来说，认为世界上会发生的事情之所以重要，只是因为它会影响股价，这种想法有点怪异。"
+    },
+    {
+      "id": "p014",
+      "en": "But you’re the one who’s saying you get clarity through a market.",
+      "zh": "但你才是那个说“你可以通过市场获得清晰判断”的人。"
+    },
+    {
+      "id": "p015",
+      "en": "It’s actually the only way to get clarity. We’ve proven it. Yes, you can research a company and figure out where the stock of Apple is going to go. You can research where commodity prices are going to go, and you can research what the weather is going to be tomorrow, whether Covid is going to come back, whether a sports team is going to perform well, and so forth. All the financial markets that have ever existed have speculation. There are a subset of people that may not do as much research as others but do it because they find it interesting, or they find it fun, or they have a little bit of money on the side and want to participate.",
+      "zh": "实际上，这是获得清晰判断的唯一方式。我们已经证明了这一点。是的，你可以研究一家公司并判断苹果公司的股票将会走向何方。你可以研究大宗商品价格将去向何方，也可以研究明天会是什么天气、冠状病毒是否会卷土重来、某支体育队伍是否会表现出色等等。所有历史上出现过的金融市场都有投机成分。总有一部分人，也许没有别人研究得那么深入，但他们会去做，是因为觉得有趣、觉得好玩，或者手头有一点闲钱想参与其中。"
+    },
+    {
+      "id": "p016",
+      "en": "“Markets don’t lie like people do. When people put money on the line, they stop lying. It’s amazing.”",
+      "zh": "“市场不会像人那样说谎。人们一旦把钱押上桌面，就会停止说谎。真是了不起。”"
+    },
+    {
+      "id": "p017",
+      "en": "But you’re extending this beyond financial results to everything, from the words Trump will utter in the State of the Union to which band will play the Las Vegas Sphere.",
+      "zh": "但你们正在把这件事扩展到财报之外的全部领域，从特朗普在国情咨文中会说什么，到哪支乐队将在拉斯维加斯的Sphere演出。"
+    },
+    {
+      "id": "p018",
+      "en": "People felt critical about option markets when they first appeared, too. When CME created water futures [in 2020]—it’s a great product that helps predict water scarcity—the first headline was “Now you can bet on water.” That was the moment I realized we’re in a business where we’re always going to be criticized. Yes, you are risking money to make money on something you don’t control. That is the definition of a bet. Could you use the word bet to bet on the stock market?",
+      "zh": "人们在期权市场刚出现时也曾表示过批评。当CME在2020年创建水资源期货——这是一种很好的产品，能够帮助预测水资源短缺——第一条头条新闻是“现在你可以拿水来下注”。那一刻我意识到，我们是在一个注定会一直被批评的行业。没错，你是拿自己无法控制的事物去冒险挣钱。那就是“下注”的定义。你会用“bet”这个词去形容在股市中下注吗？"
+    },
+    {
+      "id": "p019",
+      "en": "When people came out with life insurance, the initial social response was like, “You are betting on people’s death?” Obviously we would agree that life insurance is a good thing in society. Any type of trading activity that involves speculation will have some similarity to markets.",
+      "zh": "当人们推出人寿保险时，最初的社会反应是：“你们是在赌别人的生死吗？” 显然我们都同意，人寿保险是社会上的一件好事。任何涉及投机的交易活动都与市场有某种相似之处。"
+    },
+    {
+      "id": "p020",
+      "en": "But we regulate gambling bets differently. What’s the difference between speculation and gambling? You insist Kalshi is not the latter.",
+      "zh": "但我们对赌博下注的监管是不同的。投机与赌博有什么区别？你们坚持认为Kalshi不是后者。"
+    },
+    {
+      "id": "p021",
+      "en": "Gambling is tied to something that is artificial, artificially created for the purpose of entertainment, like rolling dice.",
+      "zh": "赌博通常和人为制造、主要为了娱乐而设计的东西有关，比如掷骰子。"
+    },
+    {
+      "id": "p022",
+      "en": "We’re not talking about speculating on dice rolls. We’re talking about speculating on who’s going to win the Super Bowl. That’s gambling.",
+      "zh": "我们讨论的并不是竞猜骰子点数，而是竞猜谁会赢得超级碗。这就是赌博。"
+    },
+    {
+      "id": "p023",
+      "en": "Sports is an event that exists whether or not there’s going to be trading on it.",
+      "zh": "体育赛事本身是客观存在的，无论人们是否对其进行交易。"
+    },
+    {
+      "id": "p024",
+      "en": "Whether I am using FanDuel or Kalshi I’m risking $1 to make more if Seattle wins and if they lose, I’m out a buck. I don’t see the difference.",
+      "zh": "无论我用 FanDuel 还是 Kalshi，我都在拿 1 美元下注：如果西雅图赢了我可以赚到更多；要是他们输了，我就会输掉这 1 美元。我看不出有什么不同。"
+    },
+    {
+      "id": "p025",
+      "en": "There’s a fundamental difference in mechanism between those two. With gambling, the company is the house. Its revenues are equal to the customers’ losses. So the casinos historically have developed all these mechanisms to make sure that once you show up, you lose more money than you make. But in a financial market, there is no house. [Kalshi takes a fee, and the outcomes of events don’t affect its revenues.]",
+      "zh": "这两者在机制上有一个根本性的不同。赌博中，企业就是“庄家”，它的收入等于客户的亏损。因此，赌场历史上发展了各种机制，确保你一进场就更容易输钱而不是赢钱。但在金融市场里，没有所谓的庄家。【Kalshi 只收取平台费用，事件结果并不影响它的收入。】"
+    },
+    {
+      "id": "p026",
+      "en": "No matter what mechanism, there’s still a bet made. Maybe you are offering a better deal. As far as the customer is concerned, it’s as if your particular casino is offering better odds.",
+      "zh": "不管是什么机制，本质上仍然是一种下注。也许你提供了更划算的条件。就消费者而言，就像是你的赌场给了你更好的赔率。"
+    },
+    {
+      "id": "p027",
+      "en": "Better prices is a good thing for society. But there is a fundamental difference. When you go to a traditional sportsbook, the odds are stacked against you. Our customers are more sharp. They’re a bit like Moneyball. They’re more quantitative. They love doing analysis on the economy, and they like the idea that on Kalshi you have to be smarter than your neighbor—not smarter than some sort of system that’s stacked against you. People do feel that, even in the stock market, the system is rigged against them. How are you going to beat the large hedge funds today on trading stocks? And the answer is, you probably won’t. It’s impossible for an individual to do that. On Kalshi, there’s a level playing field. If you have studied a lot about things like inflation, or Covid, or culture, or Taylor Swift, or sports, you have an advantage.",
+      "zh": "更好的价格对社会是有益的。但这里仍然有一个根本性的不同。当你去传统的体育投注平台，赔率是对你不利的。我们的客户更“聪明”。他们有点像《Moneyball》那样，更加量化。他们喜欢分析经济数据，也喜欢在 Kalshi 上这样一个理念：你要比邻居更聪明，而不是比一个专门对你不利的系统更聪明。人们确实有这种感觉，即使在股市里，也觉得规则是对他们不利的。你今天怎么可能打败大型对冲基金去交易股票？答案通常是，你几乎不可能。一个个人投资者做不到这一点。在 Kalshi 上，规则是公平的。如果你对通胀、疫情、文化、Taylor Swift，或者体育等话题研究得很深，你就会占优势。"
+    },
+    {
+      "id": "p028",
+      "en": "Gamblers also think research gives them an edge, whether it’s playing the horses or studying sports statistics. Obviously if you’re betting on events, if you know more you’re more likely to win.",
+      "zh": "赌徒也认为研究能给他们带来优势，无论是赛马还是研究体育统计数据。显然，如果你是在对事件下注，那么懂得越多，你越有可能赢。"
+    },
+    {
+      "id": "p029",
+      "en": "Gambling is adverse to the end consumer, whereas financial markets are more open and transparent. You can enter when you want and you can exit when you want. If you make a lot of money at traditional gambling places, you will get shut down.",
+      "zh": "赌博对终端消费者不利，而金融市场则更公开透明。你可以在想进场的时候进入，也可以在想退出的时候退出。如果你在传统赌博场所赚到大量钱，通常会被封禁。"
+    },
+    {
+      "id": "p030",
+      "en": "Still, people on Kalshi are risking real money, and that can have serious financial consequences. Gambling sites have to have long disclaimers and give the phone numbers of Gamblers Anonymous and other programs. You don’t have to do that. I can’t see why not.",
+      "zh": "但在 Kalshi 上，参与者同样在冒真实的钱风险，这可能带来严重的财务后果。赌博网站必须刊登很长的免责声明，并提供匿名戒赌者等项目的电话号码。这些在这里并非必须。我想不明白为什么不行。"
+    },
+    {
+      "id": "p031",
+      "en": "The CFTC has an extremely comprehensive customer protection regime, and it has existed for decades. You see fewer issues with those markets, even though they’re inherently riskier than what you see in sports betting. It’s easy to just criticize Kalshi because we’re growing so fast. But we started in 2018 and didn’t launch until four years later, because we wanted to get regulated up front. What were we doing in those four years? We weren’t just waiting at the beach.",
+      "zh": "CFTC 有一套极其完善的客户保护制度，而且已经存在数十年。你在这些市场上见到的问题更少，尽管它们在本质上比体育博彩更具风险。人们很容易批评 Kalshi，因为我们增长得太快。但我们于 2018 年成立，直到四年后才正式上线，因为我们想把合规监管工作先做好。那四年我们在做什么？我们可不是在海滩上等着。"
+    },
+    {
+      "id": "p032",
+      "en": "What were you doing?",
+      "zh": "你在那四年里都在做什么？"
+    },
+    {
+      "id": "p033",
+      "en": "It’s a bit like getting regulated as a bank. There’s a whole set of things that you have to do around market integrity, customer protection, where the funds are stored, audits and reporting visibility, and transferring to the federal government. You need to show how your entire operation is structured to make sure that it’s actually safe, legitimate, and regulated.",
+      "zh": "这有点像拿到银行牌照。你必须围绕市场诚信、客户保护、资金存放、审计和信息披露透明度，以及向联邦政府缴款等方面完成一整套要求。你需要展示你的整个运营结构，确保它确实安全、合法，并且受到监管。"
+    },
+    {
+      "id": "p034",
+      "en": "It’s like you hacked the system to get regulated.",
+      "zh": "这就像你“破解系统”拿到了监管资格。"
+    },
+    {
+      "id": "p035",
+      "en": "Hacked? That seems like we did something wrong! Are we getting punished now for going regulated?",
+      "zh": "“破解”？听起来像是我们做错了事！现在因为走向监管而受到惩罚吗？"
+    },
+    {
+      "id": "p036",
+      "en": "I don’t use the word in a pejorative sense. I wrote a book about good hackers!",
+      "zh": "我并不是带贬义地用这个词。我写过一本讲述“优秀黑客”的书！"
+    },
+    {
+      "id": "p037",
+      "en": "We, as 22-year-old cofounders, said we want to do things right. We want to bring this innovation to America. We believed in this market so much, we were willing to spend four years—or however long it was going to take—to make it happen. We wanted to make it safe and do it responsibly, because we wanted to do it for the long term. The coverage of Kalshi misses that, because all of our competitors didn’t do any of that.",
+      "zh": "作为22岁的联合创始人，我们说我们要把事情做好。我们希望将这项创新带到美国。我们对这个市场的信心如此坚定，愿意花四年——或者更长，只要需要多久——去把它落地。我们想把它做得安全、负责任，因为我们打算长期经营。对 Kalshi 的报道忽略了这一点，因为我们的竞争对手都没有这样做。"
+    },
+    {
+      "id": "p038",
+      "en": "You are talking about Polymarket, your biggest current competitor.",
+      "zh": "你说的就是 Polymarket，你当前最大的竞争对手。"
+    },
+    {
+      "id": "p039",
+      "en": "There’s a number of others. They were scaling and gaining market share, where we were principled and waiting. We could have totally followed that strategy, but we were committed to doing it right. We read the Commodities Exchange Act, which anybody could read, and clearly a five-zero of the commissioners agreed with us. Five-zero, both Republicans and Democrats. Then to the extent that they disagreed with us [on taking contracts for election results], we sued them, and won. The validation is in the fact that people trust the company.",
+      "zh": "还有其他一些公司在场。它们在扩张并赢得市场份额，而我们在坚持原则并耐心等待。我们完全可以完全照搬那种策略，但我们坚持要把事情做好。我们阅读了任何人都能读到的《商品交易法》，结果明显有五比零的委员站在我们这一边：三到五位吗？其中既有共和党也有民主党。然后在他们对我们意见不一致的地方（比如是否允许关于选举结果的合约）——我们就起诉了他们，并赢了。人们信任公司的事实，就是最有力的证明。"
+    },
+    {
+      "id": "p040",
+      "en": "Donald Trump Jr. is a paid Kalshi adviser. Why did you hire him when he’s not only an adviser to your key competitor, Polymarket, but an investor in it as well?",
+      "zh": "唐纳德·特朗普 Jr. 是一名受薪的 Kalshi 顾问。既然他不仅是你们的主要竞争对手 Polymarket 的顾问，也是该公司的投资人，为什么你们还会雇佣他？"
+    },
+    {
+      "id": "p041",
+      "en": "Yes, he’s an investor in Polymarket, and that’s a testament that he’s a pro-prediction-markets person. He believes in the industry, and that’s an awesome thing. He was very clear up front that he had unequivocally zero involvement in regulatory or government [actions involving Kalshi].",
+      "zh": "是的，他是 Polymarket 的投资者，这也证明他是一个坚定的预测市场支持者。他相信这个行业，这一点非常棒。他在一开始就明确表示，他与 Kalshi 相关的监管或政府行动没有任何牵连。"
+    },
+    {
+      "id": "p042",
+      "en": "What about markets you offer where the outcome is known, but only by a few people. For instance, you could bet on who’s winning the 50th season of Survivor. That’s already in the can. Would you be able to identify if someone tells their cousin who the winner is and that person bets on Kalshi?",
+      "zh": "那么，如果你们提供的市场结果其实已经知道，但只有少数人知道呢？例如，你可以在《幸存者》第50季的获胜者身上下注。这个问题早已确定。你能识别出，有人把谁是冠军告诉了自己的表亲，而那位表亲随后在 Kalshi 上下注的情况吗？"
+    },
+    {
+      "id": "p043",
+      "en": "If people felt like the system was rigged, they would stop trading. Clearly they don’t feel that way, because they’re trading a lot. They think the system is safe and fair. We have the exact same rules as the stock market. We have the exact same protection, but more tailored to our markets. If you commit insider trading on Kalshi, you’re committing a federal crime.",
+      "zh": "如果人们觉得这个系统被操纵了，他们就会停止交易。显然事实并非如此，因为他们在大量交易。大家认为这个系统是安全且公平的。我们有与证券市场几乎完全相同的规则。我们也有同样的保护措施，只是更贴合我们的市场。如果你在 Kalshi 中进行内幕交易，那就是一项联邦罪行。"
+    },
+    {
+      "id": "p044",
+      "en": "The classic prediction markets, like the 1990s Iowa Electronic Markets, or a Darpa experiment in the early 2000s that hoped to anticipate terrorist acts, were really innovative. They weren’t set up as businesses but as a way to see around corners. I wonder whether scaling this up as a giant business introduces complications and potential manipulations that might have less to do with unearthing truth than making huge profits.",
+      "zh": "像1990年代的爱荷华电子市场，或2000年代初期希望预测恐怖主义事件的 DARPA 实验，那些经典的预测市场确实很有创新性。它们不是为了做成企业而搭建的，而是为了“看清”未来。我要想的是，把这种模式扩展成一个庞大的商业体系，会不会带来更多复杂性和可能的操控问题，而这些问题与挖掘真相的关系反而可能比赚取巨大利润更少。"
+    },
+    {
+      "id": "p045",
+      "en": "If you believe in prediction markets, you should believe they should be more mainstream and that we should get them as big as possible. Iowa and the others were incredible platforms. But now that there are businesses, people are using prediction markets orders of magnitude more than ever.",
+      "zh": "如果你相信预测市场，就应该相信它们应该更主流，并且应该尽可能做大。爱荷华州以及其他平台都非常出色。但现在有了企业参与，人们使用预测市场的规模已达到了前所未有的数量级。"
+    },
+    {
+      "id": "p046",
+      "en": "That’s exactly what worries some people. They’re concerned that it promotes a mindset that every event is an opportunity to make a bet. The sun goes up and it goes down. You don’t have to put money on it.",
+      "zh": "这正是一些人担心的地方。他们担心这会助长一种心态：每个事件都成了下注的机会。太阳升起又落下，你并不一定要拿钱去押注它。"
+    },
+    {
+      "id": "p047",
+      "en": "If people want to use Kalshi, we’re providing them a way to use it safely and responsibly. And if they don’t, then great. Who are we to decide?",
+      "zh": "如果人们想用Kalshi，我们是在为他们提供一种安全且负责任的使用方式。若他们不想用，那当然很好。我们凭什么替他们决定呢？"
+    },
+    {
+      "id": "p048",
+      "en": "You seem to want many more people on Kalshi, and to make it a central part of everyday life.",
+      "zh": "你似乎想让更多人使用Kalshi，并把它变成日常生活的核心部分。"
+    },
+    {
+      "id": "p049",
+      "en": "This is what we’re working very hard toward. You don’t innovate by retracting. You make progress by expanding what’s available and making it more accessible to people. We’re living in a free, open society, right? I have a hard time with this notion that we are forcing this thing onto people.",
+      "zh": "这正是我们正在为之努力的方向。创新不会通过退缩实现，进步来自于扩大选择面，并让更多人更容易获得它。我们身处一个自由开放的社会，对吧？我很难认同“我们正在把这件事强加给人们”这种说法。"
+    },
+    {
+      "id": "p050",
+      "en": "You do know that a lot of people think that the whole phenomenon is toxic, don’t you? You did a Reddit AMA a year ago where people almost came at you with pitchforks. One of them asked you, “What was it like meeting the devil when you sold your soul?”",
+      "zh": "你知道很多人认为整个现象都是有害的吗？你一年前做过一场 Reddit 的 AMA（问答访谈），当时几乎有人冲你扑过来，像拿着草叉一样。有人问你：‘你卖掉灵魂时，见到魔鬼是什么感觉？’"
+    },
+    {
+      "id": "p051",
+      "en": "You should always have some degree of dissent, and people should be free to have their opinions. Some of them are grounded in facts. Some of them are not, unfortunately, but you can’t do anything about that. They make it feel like I’m walking around America with candy and saying, “Hey, 45-year-old kids, come to Kalshi!” The 45-year-old people with three children and maybe divorced have made a bunch of life decisions. If they have found a home in Kalshi, that is awesome.",
+      "zh": "你当然应该始终保留一定程度的异议，大家也应该有表达意见的自由。其中有些观点是建立在事实基础上的，有些——遗憾的是——则不是，但你对这点无能为力。它们让我感觉好像我带着糖果在美国到处走，说：‘嘿，45 岁的孩子们，来 Kalshi 吧！’那些有三个孩子、甚至离过婚的 45 岁人群已经做出了很多人生选择。如果他们在 Kalshi 找到了一个归属，那真是太好了。"
+    },
+    {
+      "id": "p052",
+      "en": "Maybe they’re free to pick up some cigarettes, too?",
+      "zh": "也许他们也有权随时抽一根烟？"
+    },
+    {
+      "id": "p053",
+      "en": "I don’t know what this has to do with cigarettes. If they want to pick up cigarettes, make sure the companies explain the risks. I don’t smoke, I don’t really drink. I trade, which is very different. I can’t trade on Kalshi unfortunately. That might be the worst thing about building a company.",
+      "zh": "我不知道这和香烟有什么关系。如果有人想买香烟，必须让这些公司先把风险说明白。 我不抽烟，也不怎么喝酒。我做的是交易，完全不同。遗憾的是，我不能在 Kalshi 上交易。那可能是创业最糟糕的地方。"
+    },
+    {
+      "id": "p054",
+      "en": "Do you make virtual trades in your head?",
+      "zh": "你会在脑子里做“虚拟交易”吗？"
+    },
+    {
+      "id": "p055",
+      "en": "I try not to, but I do look at the markets a lot, so I’m an active user in terms of the forecast. On Twitter and social media the reward mechanism is clickbait. But if you talk to [our heavy users], you see their mental model of the world is honestly kind of amazing. They have found an exercise that is intellectually stimulating, that gets them more calibrated and objective about their views about the world, where the conversation is more like mathematics. It makes things less subjective and more objective. It depolarizes the conversation, and it helps us get to more truth.",
+      "zh": "我尽量不去做，但我确实经常看市场，所以在预测方面我算是个活跃用户。在推特和社交媒体里，奖励机制是“点击诱饵”式的。但如果你和[我们的重度用户]聊天，你会发现他们对世界的心智模型，老实说，真的很了不起。他们找到了一个既有智力刺激、又能让他们对世界看法更准确更客观的练习方式，在这里，讨论更像是在做数学。这使得讨论更少主观、更客观。它会让讨论去极化，帮助我们更接近真相。"
+    },
+    {
+      "id": "p056",
+      "en": "Interesting. In a society where truth is under attack, you say you’re bringing truth to the world.",
+      "zh": "很有意思。在一个真相遭到攻击的社会里，你说你们是在向世界输送真相。"
+    },
+    {
+      "id": "p057",
+      "en": "Yes. The belief here is that markets don’t lie like people do. When people put money on the line, they stop lying. It’s amazing.",
+      "zh": "没错。这里的核心信念是，市场不会像人一样撒谎。人们把钱押上去的时候，就不会再说谎了。太神奇了。"
+    },
+    {
+      "id": "p058",
+      "en": "What Say You?Let us know what you think about this article in the comments below. Alternatively, you can submit a letter to the editor at [email protected].",
+      "zh": "您怎么看？欢迎在下方评论区告诉我们您对这篇文章的想法。或者，您也可以给编辑部写信至 [email protected]。"
+    }
+  ],
+  "translated_at": "2026-07-23T00:09:17+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

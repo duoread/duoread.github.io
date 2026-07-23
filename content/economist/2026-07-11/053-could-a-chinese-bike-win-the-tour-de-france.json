@@ -1,0 +1,54 @@
+{
+  "id": "053-could-a-chinese-bike-win-the-tour-de-france",
+  "source_href": "39d4a5da-d021-4d51-ad72-98838d130362.html",
+  "publication": "economist",
+  "issue": "2026-07-11",
+  "issue_published_at": "2026-07-11",
+  "article_published_at": "July 9th 2026",
+  "published_at": "July 9th 2026",
+  "published_date_source": "article",
+  "order": 53,
+  "section": "Business",
+  "title_en": "Could a Chinese bike win the Tour de France?",
+  "title_zh": "中国自行车能赢下环法吗？",
+  "rubric_en": "The country’s manufacturers hope that high-performance models will improve their image",
+  "rubric_zh": "该国的制造商希望高性能车型能改善其品牌形象",
+  "date": "July 9th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "Chinese cycling enthusiasts casting their eyes over the start-line of the Tour de France in Barcelona on July 4th would surely have felt disappointed. In 2014, Ji Cheng, the first from China to compete in the race, collected the questionable distinction of the lanterne rouge, awarded for last place. China has not returned to the Tour since. Even so, the country is playing an increasingly important role in the sport.",
+      "zh": "2014 年 7 月 4 日在巴塞罗那观望环法起点线的中国自行车爱好者大概都会感到失望。中国首位参赛的车手季成（Ji Cheng）当时获得了“最后一名”这一颇具争议的称号，即环法中的“lanterne rouge”。那之后中国选手就再也没有回到环法赛场。尽管如此，这个国家在这项运动中的角色正日益重要。"
+    },
+    {
+      "id": "p002",
+      "en": "Roughly 60% of the world’s bikes are made in China. Yet although it supplies parts for many Western brands, including premium ones such as Pinarello, its own models have frequently been dismissed as low quality. That may soon change. In recent years Chinese companies have been launching their own high-performance bikes, which cost around 40% less than models with similar specifications from the incumbents.",
+      "zh": "全球约 60% 的自行车都产自中国。然而，尽管它为包括 Pinarello 等高端品牌在内的许多西方品牌供应零部件，中国自行车品牌的自主车型却经常被认为质量不高。这种情况可能很快会改变。近年来，中国企业陆续推出了自己的高性能自行车，其售价比现有主流品牌中规格相近的车型低约 40%。"
+    },
+    {
+      "id": "p003",
+      "en": "Chinese bikes appeared in last year’s Tour de France for the first time, with Kazakhstan’s team riding models from X-Lab, a division of XDS, a Chinese carbon-fibre manufacturing giant (and the team’s new title sponsor). “A Chinese bike has won the Tour de France many times,” argues Patrick Pan of X-Lab, just not under a Chinese brand. Quick Pro, a competitor, made its World Tour debut in March this year. Pardus, ridden by the Chinese team at the Paris Olympics, announced in May that it was expanding into Europe.",
+      "zh": "去年，首次有中国自行车亮相环法赛场，哈萨克斯坦车队使用的是 X-Lab 的车型。X-Lab 是中国产碳纤维制造巨头 XDS 的一个分部，也是该车队的新主赞助商。X-Lab 的 Patrick Pan 认为，“中国自行车曾经多次赢得环法”，只是并非在中国品牌名下。竞争对手 Quick Pro 今年 3 月在世界巡回赛（World Tour）完成了首秀。Pardus，这家在巴黎奥运会上由中国队骑乘的品牌，于今年 5 月宣布进军欧洲。"
+    },
+    {
+      "id": "p004",
+      "en": "The ultimate prize is the consumer market. Accordingly, these brands are establishing a retail presence abroad. X-Lab has signed with around 300 dealers in America since its launch there in April. The growth of Panda Podium, an e-commerce site for Chinese bikes and parts, also helps. And many brands are building direct-to-consumer channels.",
+      "zh": "最终的“冠军奖杯”是消费市场，因此这些品牌正在海外建立零售渠道。X-Lab 自 4 月在美国推出后，已与美国约 300 家经销商签约。电子商务平台 Panda Podium 也在助推这一增长，它专售中国自行车与零部件。同时，许多品牌也在搭建直接面向消费者的销售渠道。"
+    },
+    {
+      "id": "p005",
+      "en": "Out-performing Western brands will not be easy. China is unlikely to collect many gongs from the Tour this year; Kazakhstan’s team has already had a crash in the first stage. But as Chinese bikes become a more common sight in such tournaments, their credibility will grow. The wheels are in motion. ■",
+      "zh": "要超过西方品牌并不容易。中国今年在环法上不太可能赢得太多掌声；哈萨克斯坦车队已经在第一赛段发生了坠车事故。但随着中国自行车在这类赛事中越来越常见，它们的公信力会越来越强。万事开局已在进行中。■"
+    },
+    {
+      "id": "p006",
+      "en": "To track the trends shaping commerce, industry and technology, sign up to “The Bottom Line”, our weekly subscriber-only newsletter on global business.",
+      "zh": "要追踪正在塑造商业、工业和技术的趋势，请订阅《The Bottom Line》，这是我们每周只向订阅用户开放的全球商业简报。"
+    }
+  ],
+  "translated_at": "2026-07-22T23:21:39+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

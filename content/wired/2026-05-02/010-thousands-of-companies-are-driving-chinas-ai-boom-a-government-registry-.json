@@ -1,0 +1,189 @@
+{
+  "id": "010-thousands-of-companies-are-driving-chinas-ai-boom-a-government-registry-",
+  "source_href": "feed_0/article_9/index_u46.html",
+  "publication": "wired",
+  "issue": "2026-05-02",
+  "issue_published_at": "2026-05-02",
+  "article_published_at": "Jan 20, 2026 6:00 AM",
+  "published_at": "Jan 20, 2026 6:00 AM",
+  "published_date_source": "article",
+  "order": 10,
+  "section": "Yi-Ling Liu",
+  "title_en": "Thousands of Companies Are Driving China’s AI Boom. A Government Registry Tracks Them All",
+  "title_zh": "数千家公司正在推动中国的人工智能热潮。一个政府监管库记录着它们的一切",
+  "rubric_en": "A Broad View of the Boom",
+  "rubric_zh": "从更宏观视角看这场浪潮",
+  "date": "Jan 20, 2026 6:00 AM",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "When DeepSeek burst onto the global stage in January 2025, it seemed to appear out of nowhere. But the large language model was just one of the thousands of generative AI tools that have been released in China since 2023—and there’s a public archive of every single one of them.",
+      "zh": "当DeepSeek在2025年1月登上全球舞台时，似乎像是从天而降般出现。但这种大语言模型只是自2023年以来中国发布的数千种生成式人工智能工具中的一种，而且这些工具中的每一款都有一个公开的归档库。"
+    },
+    {
+      "id": "p002",
+      "en": "Here are 23 ways China is rewiring the future.",
+      "zh": "中国正在从23个方面重塑未来。"
+    },
+    {
+      "id": "p003",
+      "en": "The country’s top internet regulator, the Cyberspace Administration of China (CAC), requires that any company launching an AI tool with “public opinion properties or social mobilization capabilities\" first file it in a public database: the algorithm registry. In a submission, developers must show how their products avoid 31 categories of risk, from age and gender discrimination to psychological harm to “violating core socialist values.”",
+      "zh": "中国最高互联网监管机关——中国国家互联网信息办公室（CAC）要求任何推出“具有舆论属性或社会动员能力”的人工智能工具，必须先在一个公共数据库中备案：算法备案库。在提交材料中，开发者必须说明其产品如何规避31类风险，从年龄歧视、性别歧视，到心理伤害，再到“违反核心社会主义价值观”。"
+    },
+    {
+      "id": "p004",
+      "en": "Applicants submit their filing to their local CAC (say, the Shanghai CAC for Shanghai-registered firms), which forwards applications to the central CAC for final approval. Only then is a tool publicly listed in the algorithm registry. While the European Union is pursuing a single, comprehensive AI Act, notes Matt Sheehan, a research scholar at the Carnegie Endowment for International Peace, China’s approach to regulation is more ad hoc, targeting specific algorithms and building up iterative standards. (The US has no comparable registration system or centralized regulatory agency.)",
+      "zh": "申请人先将备案材料提交给当地CAC（例如在上海注册的企业向上海CAC提交），当地机构再将申请转交中央CAC最终审查。只有完成这一步，工具才会在算法备案库中公开列出。卡内基国际和平基金会（Carnegie Endowment for International Peace）的研究学者马特·希恩（Matt Sheehan）指出，与欧盟正在推进一个统一、全面的《AI法案》不同，中国的监管路径更倾向于临时性、靶向性的做法，针对特定算法并逐步完善标准。（美国没有可类比的注册制度或集中统一的监管机构。）"
+    },
+    {
+      "id": "p005",
+      "en": "Over time, the CAC has inadvertently created the most detailed map of a nation’s AI ecosystem anywhere in the world.",
+      "zh": "随着时间推移，中国网络信息办公室（CAC）无意中绘制出了全球任何地方都难以比拟的、关于一个国家 AI 生态系统的最细致地图。"
+    },
+    {
+      "id": "p006",
+      "en": "Open the CAC’s update from August 2024 and you’ll find DeepSeek listed as entry 152, a single row in a neatly packed table. Scroll through the table and you’ll find an AI that manages homestays and an AI that drafts patents. One assists ob-gyns in a Shanghai maternity ward; another helps manage state power grids. Kendra Schaefer and her colleagues at Trivium China, a Beijing-based policy consultancy, have been compiling the CAC’s updates into a comprehensive database, enriched with their own research.",
+      "zh": "打开 2024 年 8 月发布的 CAC 更新，你会看到 DeepSeek 被列为第 152 条，像一条整齐排开的表格中的单独一行。向下翻看表格，还能看到一家管理民宿的 AI，也能看到一家起草专利的 AI。有人机助理在上海某产科产房里帮助妇产科医生；另一家则用于管理国家电网。北京的政策咨询机构 Trivium China 的 Kendra Schaefer（克恩德拉·舍弗）及其同事正在把 CAC 的这些更新整理成一个全面数据库，并结合自身研究进行补充。"
+    },
+    {
+      "id": "p007",
+      "en": "Nearly 80 percent of China’s generative AI registrations are clustered in and around its top tech hubs—Beijing, Shenzhen, Shanghai, and Hangzhou. Each city has its strengths: Beijing’s elite universities, national labs, and political strength give it an edge in large-scale innovation; Shenzhen (in Guangdong) is home to a dense hardware supply chain and vast pool of engineering talent; Shanghai, close to multinationals, excels at commercialization; and Hangzhou (in Zhejiang) is fueled by Alibaba’s ecommerce empire.",
+      "zh": "中国近 80% 的生成式 AI 登记企业集中在其主要科技中心及周边区域，即北京、深圳、上海和杭州。每个城市各有优势：北京凭借顶尖大学、国家实验室和政治资源，在大规模创新方面占优；深圳（位于广东）拥有密集的硬件供应链和庞大的工程人才库；上海与跨国公司距离近，商业化能力突出；而杭州（位于浙江）则由阿里巴巴的电商帝国提供强大支撑。"
+    },
+    {
+      "id": "p008",
+      "en": "But innovation spreads far beyond the coasts. Chongqing is positioning itself as an AI manufacturing and logistics node; and heavy state investment has helped Hefei, in Anhui Province, become known as “China’s speech valley” for its cluster of speech-recognition firms, including iFlyTek. Filings also originate in less obvious regions like Guizhou, China’s “Big Data Valley,” where massive data centers power Huawei’s Pangu model, and Inner Mongolia, where state enterprises are integrating AI into mining and agriculture.",
+      "zh": "但创新远不止于沿海地区。重庆正在把自己定位为 AI 制造和物流节点；而安徽合肥在大量国家投资下，也因其语音识别企业集群（包括科大讯飞）而被称为“中国的语音谷”。提交也来自一些不那么显眼的地区，比如贵州——中国的“大数据谷”，那里有为华为盘古模型提供算力的超大规模数据中心；以及内蒙古，那里国有企业正把 AI 融入矿业和农业。"
+    },
+    {
+      "id": "p009",
+      "en": "In the Trivium dataset, state-linked listings—from state-owned enterprises to government-backed research institutes—make up 22 percent of filings. Many state-linked firms partner with Big Tech to build their AI: PetroChina, for example, teamed up with Huawei and iFlyTek to create oil and gas applications; State Grid used DeepSeek to build a model optimizing power grids.",
+      "zh": "在 Trivium 数据库中，国有相关企业——从国有企业到政府支持的研究机构——占提交条目的 22%。许多与国家有联系的公司正在与大型科技公司合作来建设其人工智能：例如，中石油与华为、科大讯飞合作开发了石油和天然气应用；国家电网则使用 DeepSeek 构建了一个优化电网的模型。"
+    },
+    {
+      "id": "p010",
+      "en": "Foreign firms make up just 0.5 percent of filings. Ikea, for example, has a smart shopper algorithm that generates product recommendations. Yum China, the parent company that operates Kentucky Fried Chicken in China, listed a model that generates menus and promotional material.",
+      "zh": "外企仅占提交条目的 0.5%。例如，宜家有一个“智能购物者”算法，用于生成商品推荐；百胜中国（运营中国区肯德基的母公司）则提交了一个用于生成菜单和宣传材料的模型。"
+    },
+    {
+      "id": "p011",
+      "en": "More than half of the listings in the algorithm registry are for what Schaefer calls cross-sector technologies. These range from foundational models to “general purpose” text generators to a wide array of multimedia tools—voice swappers, 3D renderers, image makers. “Nobody wants to be caught in a situation where they depend on a competitor’s technology,” Schaefer says. Unlike in the US, where OpenAI, Anthropic, and Google DeepMind dominate the market, China’s competition to build foundational AI remains diverse and contested. But building these models is costly, and the market is beginning to consolidate. China’s six “AI tigers”—Moonshot, Minimax, Zhipu, Baichuan, 0.1AI, and Stepfun—are all backed by Alibaba or Tencent. ByteDance’s Doubao surpassed DeepSeek as China’s most popular chatbot, but its spot at the top is not assured.",
+      "zh": "在算法数据库中，超过一半的条目属于施费弗所称的跨行业技术。这些技术覆盖从基础模型到“通用型”文本生成器，再到各类多媒体工具——包括音色替换、3D 渲染、图像生成。施费弗表示，“没有人愿意陷入依赖竞争对手技术的境地。”这与美国不同，美国市场由 OpenAI、Anthropic 和 Google DeepMind 主导，导致格局更集中。中国在构建基础 AI 模型方面的竞争仍然多元且充满博弈。但这些模型的研发成本高昂，市场正在开始走向集中化。中国的六大“AI 老虎”——月之暗面（Moonshot）、MiniMax、智谱、百川、0.1AI 和跃思（Stepfun）——全部都得到阿里巴巴或腾讯支持。字节跳动的豆包曾一度超过 DeepSeek 成为中国最受欢迎的聊天机器人，但其龙头地位并不稳固。"
+    },
+    {
+      "id": "p012",
+      "en": "While the giants duke it out for chatbot supremacy, startups are hard at work in every sector imaginable.",
+      "zh": "当巨头们在争夺聊天机器人头衔时，初创公司却在几乎所有可想象的行业中日夜奋战。"
+    },
+    {
+      "id": "p013",
+      "en": "Founder Derek Li says his 12-year-old company is leaps beyond the ed-tech competition. They “put wheels on a horse,” he says, bolting AI onto their existing stale software. Squirrel claims to diagnose knowledge gaps, measure progress, and adjust lessons in real time.",
+      "zh": "创始人李德里克（Derek Li）表示，他创办12年的公司远远领先于传统的教育科技竞品。他说，他们在现有的老旧软件上“给马装上了轮子”，把人工智能嵌入其中。Squirrel声称，平台可以诊断知识薄弱点、评估学习进度，并实时调整课程。"
+    },
+    {
+      "id": "p014",
+      "en": "When China banned for-profit tutoring in 2021, the company’s revenues collapsed overnight. It pivoted to licensing its platform to franchisees who also sold the company’s AI-powered tablets. Squirrel’s network includes more than 3,000 centers across China, serving 1.2 million students. Now, the company is eyeing expansion to the US.",
+      "zh": "2021年中国禁止盈利性课外辅导后，该公司收入一夜之间崩塌。于是它转向将平台授权给加盟商，这些加盟商也会销售公司AI驱动的平板电脑。Squirrel在中国拥有超过3,000个校区，服务约120万名学生。如今，这家公司正在考虑向美国扩张。"
+    },
+    {
+      "id": "p015",
+      "en": "Li, who withdrew his sons from a private school in Shanghai so that they could be home-schooled on Squirrel’s platform, says that “in the future, teachers won’t teach knowledge.” Instead, he says, “they’ll become data analysts, understanding learning reports and students’ ability, and psychologists, understanding emotions and shaping their personalities.”",
+      "zh": "李德里克把儿子们从上海的一所私立学校退学，让他们在Squirrel平台上进行家庭学习。他说，“未来，教师不会去教授知识。”相反，他表示，“教师会成为数据分析师，解读学习报告与学生能力；也会成为心理学工作者，理解情绪并塑造性格。”"
+    },
+    {
+      "id": "p016",
+      "en": "AI Kanshe (translated as “AI Sees Tongue”) is a traditional Chinese medicine startup that analyzes health through images of the tongue, palms, and face. The company was founded by Li Wenhua, a former employee of Yaoshi Bang, one of China’s earliest online pharmaceutical platforms. A longtime student of tongue and hand diagnosis, Li wanted to combine the diagnostic methods of traditional Chinese medicine with modern machine vision. The company serves both consumers and health practitioners across clinics, pharmacies, and some hospitals, offering tools to support diagnosis and decisionmaking. Its model is trained on more than 100,000 annotated images of tongues, hands, and faces.",
+      "zh": "AI看舌（AI Kanshe，意为“AI看舌”）是一家中医初创公司，通过舌头、手掌和面部图像来分析健康状况。该公司由前“药师帮”（Yaoshi Bang）员工李文华创立。李文华长期研究舌诊和手诊，想把传统中医诊断方法与现代机器视觉结合起来。该公司向门诊、药房及部分医院的消费者和医疗从业者提供服务，提供支持诊断和决策的工具。其模型基于超过10万张带标注的舌头、手掌和面部图像进行训练。"
+    },
+    {
+      "id": "p017",
+      "en": "Founded in 2024 by Wu Song, a former Wall Street quant trader, Zhongtan Puhui Cloud Technology develops AI-driven tools for carbon accounting. The green transition, Wu says, still relies on cumbersome human labor that could be automated.",
+      "zh": "中坦普惠云科技于2024年由前华尔街量化交易员吴松创立，致力于开发用于碳核算的人工智能工具。吴松表示，绿色转型仍然依赖繁琐的人工作业，而这些工作本可以实现自动化。"
+    },
+    {
+      "id": "p018",
+      "en": "Zhongtan Puhui builds AI agents that handle a number of carbon accounting tasks, including carbon footprinting and emissions audits. Its clients range from China Minmetals Group and DHL to small and medium-sized exporters in the Yangtze River Delta.",
+      "zh": "中坦普惠构建了能够处理多种碳核算任务的 AI 代理，包括碳足迹核算和排放审计。其客户既有中国五矿集团和DHL，也包括长江三角洲地区的中小型出口企业。"
+    },
+    {
+      "id": "p019",
+      "en": "According to the company, its AI agents can pull real-time data directly from power plants, allowing them to complete a task that once took up to 30 days in 15 minutes—for a tenth of the price.",
+      "zh": "根据该公司介绍，其AI代理可直接从发电厂提取实时数据，使得过去可能耗时30天的任务，如今只需15分钟，并且成本降为原来的十分之一。"
+    },
+    {
+      "id": "p020",
+      "en": "Zhongtan Puhui plans to expand into European countries. It has recently added English, French, Portuguese, and German versions and plans to sell the product on Amazon Cloud and Microsoft Azure.",
+      "zh": "中坦普惠计划进军欧洲国家。该公司近期新增了英文、法文、葡语和德语版本，并计划在亚马逊云（Amazon Cloud）和微软Azure（Microsoft Azure）上销售该产品。"
+    },
+    {
+      "id": "p021",
+      "en": "Inspired after seeing Honda’s Asimo robot at a tech fair in Japan, Zhou Jian founded UBtech in 2012. He spent six years perfecting the robot’s servo actuators—the “joints” that enable movement—before unveiling the company's first robot, Alpha. In 2023, UBtech became the first humanoid company to list on the Hong Kong Stock Exchange.",
+      "zh": "周坚在日本的一个科技展上看到了本田的阿西莫（Asimo）机器人后受到启发，2012 年创办了优必选。随后他花了六年时间打磨机器人的伺服执行器——也就是实现运动的“关节”——才推出公司首款机器人 Alpha。到 2023 年，优必选成为首家在香港联交所上市的人形机器人公司。"
+    },
+    {
+      "id": "p022",
+      "en": "Based in Shenzhen, the company now produces robots for factories, schools, health care facilities, and homes. Its flagship Walker S series, designed for industrial and logistics work, is used by automakers like BYD and Zeekr; its Jimu and uKIT robotics kits teach students coding and AI; Alpha Mini, its child-friendly humanoid, is in nursery schools in Seoul. The company also develops robots for elder care and companionship, as well as consumer devices like smart vacuums and lawn mowers.",
+      "zh": "该公司总部位于深圳，目前为工厂、学校、医疗机构和家庭生产机器人。其工业与物流应用的旗舰产品 Walker S 系列被比亚迪和极氪等汽车制造商采用；其 Jimu 和 uKIT 教育机器人套件用于教授学生编程和人工智能；面向儿童的类人机器人 Alpha Mini 已在首尔的幼儿园投入使用。公司还开发了用于养老陪护与老年人互动陪伴的机器人，以及智能吸尘器、自动割草机等消费类设备。"
+    },
+    {
+      "id": "p023",
+      "en": "UBtech retrains existing foundational models, first through simulated environments, then in mock factory environments, before deployment in real production lines. The company currently sells to more than 40 countries, with roughly a third of its revenue coming from overseas markets.",
+      "zh": "优必选会先在仿真环境中对现有基础模型进行再训练，再在模拟工厂环境里训练，最后才部署到真实产线。该公司目前向 40 多个国家销售产品，约三分之一收入来自海外市场。"
+    },
+    {
+      "id": "p024",
+      "en": "XVerse is building lifelike virtual worlds for entertainment. The company was founded by former Tencent vice president Yao Xing. After leading Tencent to develop a Go-playing AI, Yao concluded that AGI progresses fastest when its goals are clear and measurable—as in the game of Go—but that most real-world challenges are open-ended. So in 2020, he left Tencent to found XVerse, aiming to build complex, simulated worlds where AI could learn, act, and evolve.",
+      "zh": "XVerse 正在为娱乐应用构建逼真的虚拟世界。该公司由前腾讯副总裁姚兴创立。在主导腾讯研发围棋 AI 之后，姚兴得出的结论是：AGI 在目标明确且可量化的场景下进展最快，比如围棋；但现实世界中的多数问题却是开放式的。于是他在 2020 年离开腾讯，创办了 XVerse，目标是构建复杂的模拟世界，让 AI 能够学习、行动并进化。"
+    },
+    {
+      "id": "p025",
+      "en": "In 2024, the company launched its flagship product, Saylo, which turns chat conversations into immersive AI-driven story videos. Users create personalized virtual characters and explore branching plots in real time. The app has 20 million users worldwide. The company also built its own large-language model, XVerse MoE, trained on diverse data sources including news, code, literature, and academic papers.",
+      "zh": "2024年，这家公司推出了其旗舰产品 Saylo，这是一款将聊天对话转化为沉浸式 AI 视频故事的应用。用户可以创建个性化的虚拟角色，并在实时情境下探索分支剧情。该应用目前在全球拥有2,000万用户。公司还自研了自己的大语言模型 XVerse MoE，训练数据来源多元，包含新闻、代码、文学作品和学术论文。"
+    },
+    {
+      "id": "p026",
+      "en": "The company is also developing an AI-driven game, Zhaoyang Legend, set in a fantasy realm where players must ascend to the throne as a young crown prince and manage a kingdom. The game evolves dynamically based on players’ decisions, creating endless possible plots and endings.",
+      "zh": "该公司还在开发一款 AI 驱动的游戏《朝阳传奇》，故事发生在一个幻想世界，玩家需以年轻皇太子身份登上王位并管理一个王国。游戏会根据玩家的决策动态进展，形成无穷无尽的剧情走向和结局。"
+    },
+    {
+      "id": "p027",
+      "en": "BubblePal, a golf-ball-sized orb, transforms children’s toys into chatty companions. Clip it onto a stuffed Peppa Pig and the toy will talk back in Peppa’s voice. The device can switch between more than 40 personalities, from Disney’s Buzz Lightyear to the Monkey King, and speak in multiple languages and dialects, including French, German, Cantonese, and Sichuanese. A companion app lets parents set learning goals, such as encouraging more English conversation, and track weekly “growth reports” that analyze a child’s conversations, emotions, and interests. Since its launch last summer, more than 300,000 units have been sold.",
+      "zh": "BubblePal 是一个拳头大小的球体，可将儿童玩具变成会说话的陪伴物。把它扣在一只填充玩偶的“小猪佩奇”上后，玩具就会用小猪佩奇的声音进行对话。该设备可切换超过40种不同人格，从迪士尼的巴斯光年到孙悟空，并可使用多种语言和方言发声，包括法语、德语、粤语和四川话。配套的伴侣应用让家长可以设定学习目标，例如鼓励孩子更多进行英语对话，并追踪每周“成长报告”，分析孩子的对话内容、情绪和兴趣。该产品自去年夏季发布以来，已售出超过30万台。"
+    },
+    {
+      "id": "p028",
+      "en": "The toy is made by Haivivi, a Chinese company founded in 2021 by Li Yong, a former Alibaba executive who helped develop the company’s smart speaker. Realizing that many of the smart speaker’s users were children, Li decided to make children’s toys, and in 2023 pivoted to AI companions. He relocated from Beijing to Shenzhen to tap into the city’s electronics supply chain.",
+      "zh": "该玩具由 Haivivi 制造，这是一家由李勇创立于2021年的中国公司。李勇曾是阿里巴巴高管，参与了该公司智能音箱的研发。意识到许多智能音箱用户都是儿童后，李勇决定转向儿童玩具，并在2023年转型为 AI 陪伴产品。他从北京迁至深圳，以利用该市完善的电子供应链。"
+    },
+    {
+      "id": "p029",
+      "en": "According to the company, its models undergo strict data reviews and monitoring to prevent inappropriate speech. In addition to going through the rigorous algorithm registry vetting process, it follows the CAC rules for protecting minors’ data. BubblePal is also available in the US, Canada, and the UK, with plans for further expansion. Haivivi aims to add more popular characters such as Lucky Cat and develop product lines for young adults, like AI-powered tarot cards.",
+      "zh": "该公司称，其模型会经过严格的数据复核与监测，以防止不当言论。除完成严苛的算法备案审查流程外，它还遵守中央网信办关于未成年人数据保护的规定。BubblePal 也已在美国、加拿大和英国上线，计划继续扩展。Haivivi 还计划加入更多热门角色，例如 Lucky Cat，并为年轻成人开发产品线，如由 AI 驱动的塔罗牌。"
+    },
+    {
+      "id": "p030",
+      "en": "In recent years, the term chuhai—“to go overseas”—has become a buzzword as Chinese firms look abroad to escape slowing consumption and weak capital markets back home. China produces about a quarter of the world’s top 100 AI products by revenue, and most of them target overseas markets. A top earner for the Hangzhou company Glority, for example, is a plant-identification app called PictureThis, which is popular outside China.",
+      "zh": "近年来，“出海”这一说法已经成为流行词，许多中国企业纷纷向海外寻求增长，以躲开国内消费放缓和资本市场走弱的压力。中国按收入计算贡献了全球前 100 大 AI 产品约四分之一，而其中大多数都瞄准了海外市场。比如，杭州公司 Glority 的一款畅销产品是一款植物识别应用 PictureThis，它在中国以外非常受欢迎。"
+    },
+    {
+      "id": "p031",
+      "en": "To avoid geopolitical trip wires, some Chinese tech companies have been distancing themselves from their roots by hiring foreign staff, setting up headquarters in Singapore or California, or leaving China altogether. A company called Butterfly Effect, for example, was founded in China and built a general-purpose AI agent called Manus. Shortly after the US established export controls on Nvidia chips, the company relocated to Singapore, laid off most of its Chinese staff, and scrubbed all of its content from Chinese social media.",
+      "zh": "为了避开地缘政治风险，一些中国科技公司正在通过招聘外国员工、在新加坡或加州设立总部，或直接离开中国来与其原生背景拉开距离。一个名为 Butterfly Effect 的公司便是在中国成立的，且开发了一款通用型 AI 代理应用 Manus。美国刚刚对英伟达芯片实施出口管制后不久，这家公司便搬迁到新加坡，裁掉了大部分中国员工，并清除了其在中国社交媒体上的全部内容。"
+    },
+    {
+      "id": "p032",
+      "en": "Butterfly Effect’s ambiguous identity raises a deeper question: What does it mean to be a “Chinese” AI company?",
+      "zh": "Butterfly Effect 模糊的身份引出了一个更深层的问题：中国 AI 公司到底算不算“中方”公司？"
+    },
+    {
+      "id": "p033",
+      "en": "What Say You?Let us know what you think about this article in the comments below. Alternatively, you can submit a letter to the editor at [email protected].",
+      "zh": "你怎么看？请在下方评论区告诉我们您对这篇文章的看法。或者，您也可以向编辑部投稿，邮箱是 [email protected]。"
+    }
+  ],
+  "translated_at": "2026-07-23T00:20:09+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

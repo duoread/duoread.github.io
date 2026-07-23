@@ -1,0 +1,84 @@
+{
+  "id": "053-how-trump-killed-cancer-research",
+  "source_href": "feed_0/article_54/index_u5.html",
+  "publication": "wired",
+  "issue": "2026-05-02",
+  "issue_published_at": "2026-05-02",
+  "article_published_at": "Jul 21, 2025 6:00 AM",
+  "published_at": "Jul 21, 2025 6:00 AM",
+  "published_date_source": "article",
+  "order": 53,
+  "section": "Elisa Muyl",
+  "title_en": "How Trump Killed Cancer Research",
+  "title_zh": "特朗普如何扼杀癌症研究",
+  "rubric_en": "",
+  "rubric_zh": "",
+  "date": "Jul 21, 2025 6:00 AM",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "When donald trump moved back into the White House, the United States was years into its Cancer Moonshot, a multibillion-dollar Democratic effort to halve cancer deaths by 2047. There was a kind of stalemate: New cases of the disease were emerging about as often as before; deaths were ticking steadily lower; the US Food and Drug Administration was approving new treatments, if not quite as quickly as anyone wanted. But the taps of federal funding were open as never before, from the Department of Defense to the Environmental Protection Agency to the largest funder of cancer research in the world, the National Institutes of Health.",
+      "zh": "当唐纳德·特朗普重新入驻白宫时，美国的“癌症登月计划”已经持续了多年。这个由民主党主导、投资数十亿美元的计划，目标是到2047年将癌症死亡人数减半。当时形势有些僵局：新发癌症病例出现得与以往大致一样频繁，死亡人数却在稳定下降；美国食品药品监督管理局正在批准新的治疗方案，虽然没有想象中那么快。但联邦资金的水龙头却前所未有地向外敞开，从国防部到环境保护局，再到世界上最大的癌症研究资助机构——美国国立卫生研究院（NIH）。"
+    },
+    {
+      "id": "p002",
+      "en": "Number of new cancer drugs approved by the FDA in the past five years",
+      "zh": "过去五年中美国食品药品监督管理局批准的新癌症药物数量"
+    },
+    {
+      "id": "p003",
+      "en": "Proportion of FDA-approved drugs (2010-2019) that derived from NIH-funded research",
+      "zh": "2010年至2019年中获得食品药品监督管理局批准的药物中，来源于NIH资助研究的比例"
+    },
+    {
+      "id": "p004",
+      "en": "Estimated funding cut from the Defense Department’s congressionally directed cancer research programs",
+      "zh": "国防部国会定向癌症研究项目的预估经费削减"
+    },
+    {
+      "id": "p005",
+      "en": "Cancer-related NIH grants terminated so far",
+      "zh": "截至目前被终止的与癌症相关的 NIH 资助"
+    },
+    {
+      "id": "p006",
+      "en": "Estimated funds remaining in those grants",
+      "zh": "这些资助中剩余资金的估计金额"
+    },
+    {
+      "id": "p007",
+      "en": "But then Trump decided that American science research was, somehow, too woke. He paused NIH grant-making for more than two months, holding up an estimated $1.5 billion in funding. He effectively halted clinical trials of new drugs. He laid off thousands of employees at the FDA, the NIH, and the Centers for Disease Control and Prevention. At the Department of Veterans Affairs, an estimated $35 million in already-funded research—including for cancer—was thrown into jeopardy when Trump instituted a hiring freeze. At the EPA, staff were instructed to cancel existing grants, including to the Health Effects Institute, which has published research on the link between air pollution and cancer. And in the stopgap funding measure, set to expire in September, Republicans cut about 60 percent from the Defense Department’s Congressionally Directed Medical Research Programs—including funding for research on breast and ovarian cancers. (The programs for pancreatic, kidney, and lung cancer disappeared from the agency’s list of funded projects and rolled under another program, which did not receive any additional funding for 2025.) At the National Institutes of Health, some grants resumed and others were slated for termination. The current state of US cancer research could fairly be described as—confusion.",
+      "zh": "但随后特朗普认为美国科学研究在某种程度上“过于觉醒”。他暂停了 NIH 的经费发放，持续了两个月以上，阻滞了约 15 亿美元的预期资金，实际上也让新药临床试验停摆。他在美国食品药品监督管理局（FDA）、国立卫生研究院（NIH）和疾病控制与预防中心（CDC）裁减了数千名员工。在退伍军人事务部，特朗普实施招聘冻结后，已有拨款的研究项目——其中包括癌症研究——约有 3500 万美元被推入高风险状态。环境保护局（EPA）则要求职员取消现有资助，包括对“健康影响研究所”（Health Effects Institute）的资助，这个机构发布了有关空气污染与癌症关系的研究。与此同时，在一项将于九月到期的临时拨款法案中，共和党削减了国防部国会指令医学研究计划约 60%，其中包括乳腺癌和卵巢癌研究经费。 （胰腺癌、肾癌和肺癌项目从该机构的已资助项目清单中消失，转移到另一个项目下，但该项目在 2025 年并未获得新增资金。）在美国国立卫生研究院，部分资助恢复，其他则被列入终止计划。如今美国癌症研究的现状大可概括为——混乱。"
+    },
+    {
+      "id": "p008",
+      "en": "While researchers across the country have lost grants, two of the Trump administration’s political targets— Columbia and Harvard—have been hit especially hard. And across the board, many of these grant terminations appear to be part of the administration’s anti-DEI, anti-trans, and anti-vaccine agendas. Trump officials reportedly maintain a list of “flagged” keywords that they believe should trigger program reviews. In the NIH grants terminated so far, the 50 most common flagged words include trans, expression, diverse, and women. (In a statement following publication, HHS spokesperson William Maloney clarified that the agency is evaluating grants and funding with the goal of \"reducing funding for institutions which are more interested in pushing ideological agendas than beneficial medical research.\")",
+      "zh": "尽管全国各地研究人员都在失去资助，特朗普政府的两个政治靶向对象——哥伦比亚大学与哈佛大学——遭受的打击尤其重。并且，在更广泛层面，许多这些终止资助似乎都与政府的反多元与平等、公平与包容（DEI）、反跨性别，以及反疫苗议程相一致。特朗普官员据称保留了一份“标记词”名单，认为这些词应触发项目复核。在目前被终止的 NIH 资助中，出现频率最高的 50 个标记词中包括“trans”“expression”“diverse”“women”。（文章发布后，卫生与公共服务部（HHS）发言人威廉·马洛尼（William Maloney）发表声明，澄清该机构正在对资助和拨款进行审查，目标是“减少对那些更关心推动意识形态议程而非有益医疗研究的机构的资金支持”。）"
+    },
+    {
+      "id": "p009",
+      "en": "Estimated cuts to CDC cancer research under Trump’s preferred budget",
+      "zh": "特朗普偏好的预算下，CDC癌症研究的估算削减"
+    },
+    {
+      "id": "p010",
+      "en": "There’s more on the chopping block. Trump wants to defund the National Cancer Institute to below 2014 levels. He wants to “refocus” the CDC on infectious disease surveillance and shut down “duplicative, DEI, or simply unnecessary programs,” which would include the National Center for Chronic Diseases Prevention and Health Promotion and the National Center for Environmental Health. Of course, Trump may not get exactly the budget he wants. Federal judges may keep ordering the grants and programs he has terminated to be reinstated—and maybe he’ll even comply.",
+      "zh": "要被砍掉的内容还不止这些。特朗普想把国家癌症研究所（NCI）的经费降到低于2014年水平。他还想让CDC将重心“重新集中”到传染病监测上，并关闭“重复设置、涉及DEI，或单纯不必要”的项目，其中包括国家慢性病预防与健康促进中心和国家环境健康中心。当然，特朗普未必能得到完全如他所愿的预算。联邦法官可能会反复下令恢复他已终止的拨款和项目——也许他最后还会配合执行。"
+    },
+    {
+      "id": "p011",
+      "en": "But a court order can’t reinstate months of lost treatment for a cancer patient, can’t bring back researchers and civil servants who were forced to move on. It’s hard to put a price on the value of research that might be years away from a new drug or treatment modality. It’s even harder for those who have been kicked out of clinical trials in the past few months, where the stakes are clearly life or death. The moonshot might have lost its chance to land.",
+      "zh": "但法院命令无法让一位癌症患者失去治疗机会的数月时光回到过去，也无法让被迫离开的研究人员和公务员回到岗位。对于那些可能还需要数年才能形成新药或新治疗方案的研究成果，要给它定价本就很难。更难的是，那些在过去几个月被踢出临床试验的人们，牵系的是生死存亡。所谓“登月式”目标也许已经错失了“着陆”机会。"
+    },
+    {
+      "id": "p012",
+      "en": "Update: 7/25/2025, 12:30 PM EDT: The article has been updated with a statement from HHS.",
+      "zh": "更新：2025年7月25日，美国东部夏令时（EDT）下午12:30：该文章已根据HHS的声明更新。"
+    }
+  ],
+  "translated_at": "2026-07-23T01:25:47+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

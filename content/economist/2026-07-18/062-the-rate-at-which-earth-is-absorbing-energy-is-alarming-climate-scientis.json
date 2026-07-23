@@ -1,0 +1,239 @@
+{
+  "id": "062-the-rate-at-which-earth-is-absorbing-energy-is-alarming-climate-scientis",
+  "source_href": "29810762-52e0-401d-b1ae-1b1a8802a8f2.html",
+  "publication": "economist",
+  "issue": "2026-07-18",
+  "order": 62,
+  "section": "Science & technology",
+  "title_en": "The rate at which Earth is absorbing energy is alarming climate scientists",
+  "title_zh": "地球吸收能量的速度正在使气候科学家警觉",
+  "rubric_en": "Reflections on a warming planet",
+  "rubric_zh": "关于一个变暖行星的思考",
+  "date": "July 16th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "IN APRIL the crew of Artemis II showed that Earth’s loveliness from afar, originally revealed by the Moon-bound Apollo missions of the 1960s and 1970s, remains one of the space age’s enduring truths. The home planet’s intricate, swirling, colourful complexities turned out to offer just as wonderful a contrast to the sloe-black of space and the drab dull Moon today as they did when seen half a century ago.",
+      "zh": "在4月，阿耳忒弥斯二号（Artemis II）的机组再次展示了地球从遥远太空中的迷人景象。这样的景象最早在20世纪60至70年代的登月阿波罗任务中被揭示，后来也被反复印证，并且仍然是太空时代仍旧成立的真相之一。如今这颗家园行星精妙、旋涡般、色彩斑斓的复杂面貌，与半个世纪前一样，在从远处望去时，也同深邃的黑空和今天黯淡无光的月球形成了同样令人惊叹的对比。"
+    },
+    {
+      "id": "p002",
+      "en": "More prosaic observations from space, though, reveal a disturbing change. They show that the brightness with which that beauty burns is dimming. Seen from afar, Earth is looking steadily darker.",
+      "zh": "然而，更平实的太空观测却揭示出一个令人不安的变化。它们显示，这份美丽所散发出的光芒正在变暗。从遥远处看，地球正逐渐变得更暗。"
+    },
+    {
+      "id": "p003",
+      "en": "Evidence of this dimming comes from a project called Clouds and the Earth’s Radiant Energy System (CERES). Since the end of the 1990s the CERES team at NASA, America’s space agency, has been using instruments on various satellites to do some basic planetary book-keeping. They measure the incoming sunshine (visible light and shortwave infrared) and the fraction of this that gets reflected back into space. They also measure the amount of energy shed by the planet itself. Everything with a temperature radiates energy. Earth does so in the longwave part of the infrared.",
+      "zh": "这一变暗现象有证据来自“云与地球辐射能量系统”（CERES）计划。自20世纪90年代末以来，NASA——美国国家航空航天局——的CERES团队一直在利用不同卫星上的仪器进行一种基础的行星收支核算。他们测量入射的阳光（可见光和短波红外），以及其中被反射回太空的比例。同时，他们也测量地球自身散发出的能量总量。任何有温度的事物都会辐射能量，地球就是在红外的长波段这样做。"
+    },
+    {
+      "id": "p004",
+      "en": "The amount of sunshine reflected is known as the albedo. This is going down. Everything not reflected is absorbed, so the energy absorbed is going up. Think of it as energy income. The heat given off in the infrared, which represents the planet’s outgoings, is also increasing. As Earth gets hotter the laws of thermodynamics require it to put out more infrared, and though greenhouse gases stymie this response they cannot entirely negate it.",
+      "zh": "被反射回去的阳光比例被称为“反照率”（albedo）。这个数值正在下降。没有被反射的部分就会被吸收，因此吸收的能量也在上升。可以把它理解为“能量收入”。而以长波红外形式向外散发的热量，也就是地球的“能量支出”，同样在增加。地球变得更热后，热力学定律要求它必须放出更多红外辐射；虽然温室气体会阻碍这一过程，但它们无法完全抵消这种变化。"
+    },
+    {
+      "id": "p005",
+      "en": "But the increased outgoings have not kept up with the increased income. In book-keeping of the financial sort, as Mr Micawber pointed out, incomings larger than outgoings result in happiness. When it comes to the planet’s energy budget, excessive income heralds misery.",
+      "zh": "但增加的支出并没有跟上增加的收入。正如米考伯先生指出的那样，在财务记账中，收入大于支出会带来财富；但在地球的能量收支里，收入过剩预示着痛苦。"
+    },
+    {
+      "id": "p006",
+      "en": "The energy the planet absorbs but does not re-emit is known as Earth’s energy imbalance (EEI). It is the fundamental driver of climate change. If Earth’s energy accounts were balanced, there would be no long-term alteration of the climate. When the accounts fall out of balance, however, so do matters climatic. And if an imbalance goes on growing then, other things being equal, the climate will be driven further and further from its original state. Which is bad, for the measurements show the EEI has more than doubled since 2000 and continues to grow (see chart 1).",
+      "zh": "地球吸收却未重新发出的能量被称为地球能量失衡（EEI）。它是气候变化的根本驱动力。如果地球的能量账目保持平衡，气候就不会发生长期变化。然而一旦收支失衡，气候形势也会随之改变。如果这种失衡持续扩大，在其他条件不变的情况下，气候将会越来越远离原本的状态。这很糟糕，因为观测数据显示，EEI 自2000年以来已增长了一倍以上，并且仍在上升（见图表1）。"
+    },
+    {
+      "id": "p007",
+      "en": "Until recently the EEI was more or less entirely a theoretical thing. Before satellites, the best way of measuring the whole Earth’s albedo was by training telescopes on the Moon to measure “Earthshine”—light reflected first from Earth to the Moon and then from the Moon back to Earth. Only with CERES (which still sneaks the occasional peak at the Moon for calibration purposes) were consistent long-term measurements of it possible.",
+      "zh": "直到最近，EEI 几乎完全是一个理论概念。过去在卫星时代之前，测量整个地球反照率的最好方法，是把望远镜对准月亮，测量“地球光晕”——先从地球反射到月球，再从月球反射回地球的光。只有在 CERES（该卫星仍会为了校准而偶尔对准月亮并记录一次峰值）出现后，才可能进行长期一致的测量。"
+    },
+    {
+      "id": "p008",
+      "en": "Those measurements are, moreover, vouched for by data from a completely different source. Since the turn of the century an international programme called Argo has launched thousands of floats, which drift around the oceans measuring temperature, salinity and other things at depths of up to 6km. Since more than 90% of the energy absorbed by Earth goes into the oceans, most of the extra energy now being taken in should end up there, too. Argo’s measurements confirm that it does, tallying closely with the CERES data.",
+      "zh": "此外，这些测量结果还得到了完全不同来源数据的佐证。自本世纪初以来，一个名为 Argo 的国际计划已经放入海洋数千个漂流浮标，它们在海洋中漂流并测量最高可达6公里深处的温度、盐度等参数。由于地球吸收的能源中有90%以上进入海洋，目前新增的能量也理应主要存储在那里。Argo 的观测证实了这一点，并且与 CERES 的数据高度一致。"
+    },
+    {
+      "id": "p009",
+      "en": "Armed with a couple of decades of results from both sources, scientists now feel they have a real handle on what the EEI is doing. And what it is doing alarms them. “For the first time we’re interpreting measurements,” says Bjorn Stevens, who runs the Max Planck Institute for Meteorology in Hamburg. “That’s a game changer for me.” And if it is scientifically exciting, the new game also looks alarming.",
+      "zh": "凭借来自这两类数据源的数十年结果，科学家们现在觉得自己终于真正掌握了地球能量失衡（EEI）到底在发生什么，而这让他们感到不安。汉堡马克思·普朗克气象研究所所长 Bjorn Stevens 表示：“这是我们第一次能够解释测量结果。” 他补充说：“这对我来说是一次真正的转折。” 如果说这在科学上令人兴奋，那么这场“新博弈”看起来也同样令人警觉。"
+    },
+    {
+      "id": "p010",
+      "en": "This alarm takes two linked but distinct forms. The first is the likelihood that, even as the coming decade sees greenhouse-gas emissions level off and perhaps start to fall, the rate at which Earth’s surface temperature is rising will continue to quicken. Though changes in the EEI do not feed through into global temperatures in a straightforward way, feed through they do. Reto Knutti, a climate scientist at ETH Zurich, says the rate at which the EEI is going up suggests that near-term warming could be anywhere from 10% more to 30% more than the current consensus.",
+      "zh": "这种警惕主要有两种相互关联但又不同的表现。第一种是这种可能性：即便未来十年温室气体排放量会趋于平稳，甚至可能开始下降，地表温度上升的速度仍会持续加快。虽然 EEI 的变化并不会以简单直接的方式传导到全球气温上，但它们确实会传导。苏黎世联邦理工学院（ETH Zurich）的气候科学家 Reto Knutti 表示，EEI 的上升速度表明，近期变暖幅度可能比目前共识高出 10% 到 30%。"
+    },
+    {
+      "id": "p011",
+      "en": "Evidence of such increases may well be here already. El Niño events drive up the world’s average surface temperature (and do a lot else besides) by moving heat stored in lower parts of the tropical Pacific into the ocean’s top 100 metres. In the El Niño of 2023, with Earth’s albedo the lowest ever recorded, the top of the ocean was getting a great deal of heat from elsewhere, too. A study by Minobe Shoshiro of Hokkaido University and his colleagues suggests the EEI’s contribution to upper-ocean heating when that El Niño got started was 75% higher than had been the case for this century’s previous El Niño.",
+      "zh": "这种增加的迹象可能已经出现。厄尔尼诺现象会把储存在热带太平洋低层海域的热量输送到海洋表层 100 米范围内，从而推高全球平均地表温度，并带来其他多方面影响。2023 年的厄尔尼诺期间，地球反照率降至有史以来最低水平，海洋表层也从其他地方获得了大量额外热量。北海道大学的 Minobe Shoshiro 及其同事的一项研究表明，在当时的厄尔尼诺开始阶段，EEI 对上层海洋增暖的贡献，比本世纪此前所有厄尔尼诺事件都高出 75%。"
+    },
+    {
+      "id": "p012",
+      "en": "Dr Minobe and his colleagues showed that this massive influx of heat explained the increasing frequency of extreme conditions during those two years, which saw records of various kinds set that went well beyond what would be expected on the basis of the trend in surface temperatures. Something similar, Dr Minobe suspects, may be on the cards for this year’s El Niño, which is shaping up to be a whopper.",
+      "zh": "Minobe 博士及其同事还显示，这股巨大的热量输入解释了这两年极端条件频率增加的原因，当年出现了多项前所未有的纪录，远远超出了仅按地表温度变化趋势所能预期的范围。Minobe 博士推测，今年的厄尔尼诺也可能出现类似情况，而且这一轮厄尔尼诺正在快速“发酵”成一次异常强势的事件。"
+    },
+    {
+      "id": "p013",
+      "en": "The second form of alarm is the degree to which all this comes as a surprise. Scientists think there are two basic reasons for Earth’s diminishing albedo. One is that stricter controls on the amount of sulphur dioxide emitted from power plants and ocean-going ships have led to fewer toxic, airborne sulphate particles, or “aerosols”. Because those tiny aerosols are also shiny aerosols, this has also made Earth dimmer. The other is that greenhouse-gas-driven climate change reduces the extent of sea-ice, shrinks glaciers and perturbs some types of cloud—all of which reduce the amount of reflected sunlight.",
+      "zh": "第二个令人担忧的地方是，这一切让人如此意外。科学家认为地球反照率下降有两个基本原因。一是对电厂和远洋船舶排放二氧化硫的更严格控制，导致有毒的空气中硫酸盐颗粒物，或称“气溶胶”，减少。由于这些微小的气溶胶同样属于反射性气溶胶，这也使地球变得更暗。另一方面，温室气体驱动的气候变化会减少海冰范围、缩小冰川，并扰动某些类型的云——这些都会降低反射阳光的数量。"
+    },
+    {
+      "id": "p014",
+      "en": "The computer models used to understand the climate, and on which the Intergovernmental Panel on Climate Change (IPCC) relies for its predictions, capture both of these effects. But they cannot match the magnitude of the observations.",
+      "zh": "用于理解气候、以及《政府间气候变化委员会》（IPCC）依赖其作出预测的计算机模型，捕捉到了这两种效应。但它们无法与观测到的变化幅度相匹配。"
+    },
+    {
+      "id": "p015",
+      "en": "Late last year more than 50 researchers in the field published a paper which asserted that the “strong upward trend in the imbalance is difficult to reconcile with climate models. [We are now left in] little doubt that the real world signal has left the envelope of model internal variability.”",
+      "zh": "去年年底，领域内50多位研究人员发表了一篇论文，文中断言：“不平衡不断增强的强上升趋势难以与气候模型协调。[我们现在已经明确，现实世界的信号]已超出模型内部变率所能解释的范围。”"
+    },
+    {
+      "id": "p016",
+      "en": "This is not just a problem for science. As Maria Rugenstein of Colorado State University puts it, “Lots of people are using these models for impact assessment, for carbon budgets—for anything we say about the future, we use these models which cannot reproduce the currently observed energy imbalance.”",
+      "zh": "这不仅仅是科学研究的问题。正如科罗拉多州立大学的Maria Rugenstein所说：“很多人都在用这些模型做影响评估、做碳预算——任何关于未来的判断，我们都依赖这些模型，但这些模型无法重现当前观测到的能量失衡。”"
+    },
+    {
+      "id": "p017",
+      "en": "This March Dr Stevens convened a meeting in Schloss Ringberg, a castle overlooking the Tegernsee, a lake in Bavaria, at which experts discussed the possible roles of clouds and sulphate particles—which, to climate scientists, are two quite different types of thing.",
+      "zh": "今年三月，斯蒂文斯博士在巴伐利亚泰格恩湖畔的施洛斯·林格贝格城堡召开了一场会议。与会专家讨论了云和硫酸盐颗粒物可能发挥的作用——在气候科学界，前者和后者本质上是两种完全不同的东西。"
+    },
+    {
+      "id": "p018",
+      "en": "Sulphates are a so-called forcing—a change in the way energy flows through the system which is imposed from the outside. Cloud changes are feedbacks—responses to such impositions which either amplify or damp down their effects. If climate models are not producing the EEI seen in the real world, the likelihood is that they are either underestimating the cooling effects of the sulphate forcing, or that they do not accurately capture the feedbacks through which changes in net forcing lead to changes in cloud cover. For a week oceanographers, instrument designers, climate modellers, aerosol experts and atmospheric physicists tussled over the arcana of each other’s work to explain this.",
+      "zh": "硫酸盐是一种所谓的“强迫”——也就是外部施加于系统之上的、改变能量流动方式的因素。云变化则属于“反馈”——对这类施加因素的响应，可能会放大或减弱其影响。如果气候模型未能再现现实世界中的 EEI，那么很可能是因为模型低估了硫酸盐强迫所带来的降温效应，或者没有准确捕捉到净强迫变化如何通过反馈机制导致云量变化。一个星期里，海洋学家、仪器设计师、气候模型专家、气溶胶研究者和大气物理学家在会议上反复争论彼此研究中的技术细节，试图给出解释。"
+    },
+    {
+      "id": "p019",
+      "en": "The explanation which garnered most support, according to a straw poll Dr Stevens conducted at the end of the week, was that the sulphate forcing was being miscalculated. Various measurements needed for the calculations are hard to make. “A lot of the components are not very well observed, if they’re observed at all,” says Chris Smith, who works on the matter at IIASA, an international research institute based in Austria. Aerosols are mobile but short-lived. They can travel thousands of kilometres from their source, but not the tens of thousands needed to spread around the world like greenhouse gases. This means that their effects are patchy.",
+      "zh": "斯蒂文斯博士在周末进行的投票中显示，得到最多支持的解释是硫酸盐强迫被计算错误。为这些计算所需的各种观测数据都很难获取。奥地利的国际研究机构 IIASA 从事该课题的克里斯·史密斯表示，“许多组成成分都观察得不够好，如果有被观察到的话。” 气溶胶是可移动的，但寿命较短。它们可以从源头移动数千公里，却不足以像温室气体那样传播到全球数万公里范围，因此其影响具有斑块式特征。"
+    },
+    {
+      "id": "p020",
+      "en": "They are also various. The basic effect is directly reflecting sunlight back into space. But they have indirect effects on clouds as well, and those seem to produce more of the cooling. The properties—and sometimes the very existence—of low clouds depend on the availability of aerosols on which water vapour can condense into droplets. This means that, if they are in the right place, aerosols can brighten clouds, lengthen their lives or even bring them into existence from scratch. But all this, again, is difficult to measure.",
+      "zh": "它们也各不相同。其基本作用是直接把阳光反射回太空，但它们对云的间接影响也很明显，而这些影响似乎带来更多降温。低云的属性，甚至其存在与否，都取决于可供水汽凝结成水滴的气溶胶是否充足。这意味着，只要位置合适，气溶胶就能使云更亮、延长云寿命，甚至从无到有地促成云的形成。但是，像这些效应一样，相关量再一次难以精确测量。"
+    },
+    {
+      "id": "p021",
+      "en": "Øivind Hodnebrog of CICERO, Norway’s main climate-research institute, and his colleagues rooted through data and models to try to form a coherent picture of the aerosols’ decline. They concluded that half the increase in the EEI trend between 2001 and 2019 could be ascribed to the cleaning up of the air, and that past estimates of this change in forcing had been 10-40% too low.",
+      "zh": "挪威主要气候研究机构CICERO的Øivind Hodnebrog及其同事通过梳理数据和模型，试图勾画出气溶胶减少这一现象的完整图景。研究人员得出的结论是，2001年至2019年间地球能量不平衡（EEI）上升趋势的一半，可归因于空气质量改善；而此前对此强迫（辐射影响）变化的估算，普遍偏低了10%到40%。"
+    },
+    {
+      "id": "p022",
+      "en": "Since 2019, when that study ended, abatement has continued apace. Worldwide sulphur emissions have fallen from 81m tonnes to 69m. Much of that was a result of new controls on sulphur emissions from ships, which were imposed in 2020 by the International Maritime Organisation (IMO). Sulphates from ships on the high seas are particularly powerful forcers, largely because the scarcity of other nearby aerosol sources increases the marginal effect of the added ones.",
+      "zh": "自2019年那项研究结束以来，减排行动持续推进。全球硫排放从8100万吨降至6900万吨。其主要原因之一是2020年国际海事组织（IMO）对船舶排放硫的实施新管制。来自公海船舶的硫酸盐是一类尤其强的气溶胶强迫源，这主要是因为在缺乏其他附近气溶胶来源时，新增加的这类排放会产生更高的边际效应。"
+    },
+    {
+      "id": "p023",
+      "en": "Researchers estimate that the IMO’s 2020 regulations reduced sulphur-related cooling by more than 10%. That is a bigger change to the climate than any measures taken on carbon dioxide have had. Unfortunately, it is in the wrong direction.",
+      "zh": "研究人员估算，IMO于2020年出台的法规使与硫相关的降温效应减少了10%以上。这一变化对气候的影响，比迄今为止针对二氧化碳采取的任何措施都更大。不幸的是，它朝着错误的方向发展。"
+    },
+    {
+      "id": "p024",
+      "en": "What then of the feedbacks? Cloud cover has certainly been changing. Last year Helge Gössling of the Alfred Wegener Institute and his colleagues analysed cloud patterns for 2023, a year when temperatures hit a record high, the albedo a record low and the EEI a level that not one of the models relied on by the IPCC could match. They found a striking dearth of low-level clouds over some bits of ocean.",
+      "zh": "那么反馈机制如何？云层覆盖确实在变化。去年的研究中，阿尔弗雷德·韦格纳研究所（AWI）的Helge Gössling及其同事分析了2023年的云图。2023年气温创下历史新高，地表反照率降至历史低位，而地球能量不平衡（EEI）却达到一个没有哪一个被IPCC采用的模型能够匹配的水平。研究人员发现，某些海域的低层云出现了明显的稀缺。"
+    },
+    {
+      "id": "p025",
+      "en": "A more recent, long-term assessment of the role of low clouds, by Paulo Ceppi of Imperial College, London, put that result into the context of a two-decade trend. It found this trend did indeed have a significant effect on the EEI, one which seems to explain about half of its growth. But it also found the trend’s strength was no larger than models predict.",
+      "zh": "帝国理工学院（伦敦）的保罗·塞皮（Paulo Ceppi）对低层云作用进行的近期长期评估，将该结果置于二十年趋势中加以解读。研究发现，这一趋势确实对 EEI 产生了显著影响，并且似乎可以解释其增长的大约一半。然而，它也发现，这种趋势的强度并不比模型预测的更大。"
+    },
+    {
+      "id": "p026",
+      "en": "If sulphates can explain about half the growth in the EEI, as Dr Hodnebrog and his colleagues argue, and clouds can explain about half, that might seem to wrap things up. The climate remains bad and, as sulphur emissions fall yet further, things are sure to get worse. But the explanations themselves seem fine.",
+      "zh": "如果硫酸盐能够解释 EEI 增长的大约一半，正如霍内布罗格博士（Dr Hodnebrog）及其同事所论证的那样，而云又能解释大约一半，这似乎似乎可以一刀切地解决问题。气候仍然很糟糕，并且随着硫排放进一步下降，局势注定会恶化。只是这些解释本身似乎都说得通。"
+    },
+    {
+      "id": "p027",
+      "en": "Unfortunately it is not quite that simple. For one thing some of the cloud effects, those caused by fewer aerosols, are counted in both analyses. For another, the thing the models find hardest to reproduce is not the size of the imbalance, but the degree to which it is dominated by the falling albedo. Kyle Armour of the University of Washington says that is what worries him most about the CERES data. “It’s a much larger shortwave-energy [ie, sunshine] accumulation than the models can produce. So whatever the models are doing, they appear to be missing some processes.”",
+      "zh": "遗憾的是，事情并不那么简单。首先，部分云效应——那些由气溶胶减少引起的效应——在两项分析中都被重复计算。其次，模型最难复现的并不是能量不平衡的绝对规模，而是它被不断下降的反照率所主导的程度。华盛顿大学的凯尔·阿莫（Kyle Armour）认为这正是他最担心 CERES 数据的地方。正因为如此，他说：“这是一个远大于模型能够产生的短波能量（即阳光）积累。这说明无论模型在做什么，它们似乎都遗漏了某些过程。”"
+    },
+    {
+      "id": "p028",
+      "en": "Recent work by Gunnar Myhre, also of CICERO, along with Dr Hodnebrog, Norman Loeb of NASA’s Langley Research Centre, who is responsible for the CERES data, and Piers Forster of the University of Leeds, who led the relevant part of the 2021 IPCC report, underlines the point. They looked at how well the models considered by the IPCC dealt with the changing EEI when the rates at which absorbed shortwave and emitted longwave radiation are increasing are separated out.",
+      "zh": "塞西罗（CICERO）的古纳·米赫雷（Gunnar Myhre）在与霍内布罗格博士、NASA 兰利研究中心的诺曼·洛布（Norman Loeb，负责 CERES 数据）以及利兹大学的皮尔斯·福斯特（Piers Forster，曾主导 2021 年 IPCC 报告相关部分）合作的最新研究进一步强调了这一点。他们检视了 IPCC 所采用的模型，在分离吸收短波辐射和向外发射长波辐射速率上升的情况下，处理变化中的 EEI 的表现。"
+    },
+    {
+      "id": "p029",
+      "en": "They concluded that even when the models came close to getting the right EEI, they got there in the wrong way. They tended to have a lower increase in absorption and a lower increase in emission; in balance-sheet terms, less income and less outgoings, even if the gap between the two was almost the same. But if all the models were wrong in the same direction, some were wronger than others. And the most wrong all had one thing in common: low “climate sensitivity”.",
+      "zh": "他们得出的结论是，即使这些模型在接近正确的地球能量失衡（EEI）值时，也不是走得对了路。它们往往表现为吸收增加得更少、排放增加也更少；换句话说，像资产负债表一样，收入更低、支出也更低，尽管两者之间的差距几乎一样。不过，如果所有模型都在同一方向上出错，也不意味着错得同样严重。一些模型偏差更大，而偏差最大的那些有一个共同点：气候敏感性“偏低”。"
+    },
+    {
+      "id": "p030",
+      "en": "Climate sensitivity is a way of thinking about the sum of all feedbacks—an estimate of the temperature rise to be expected for a given increase in forcing. In 2021 the IPCC reckoned that the best estimate of this sensitivity, given understanding of forcing at the time, was 3°C, with a 90% chance of a value between 2°C and 5°C.",
+      "zh": "气候敏感性是一种衡量所有反馈效应总和的方式——它估计在某一给定的强迫增量下，预期会出现多少温度上升。2021年，联合国政府间气候变化专门委员会（IPCC）推算，在当时对外部强迫的认知下，这种敏感性的最佳估计值为3°C，且有90%的概率介于2°C到5°C之间。"
+    },
+    {
+      "id": "p031",
+      "en": "Dr Myhre and his colleagues found that, when judged by their performance on the EEI, models with a sensitivity estimate of less than 2.94ºC could, with high confidence, be ruled out. The IPCC’s best estimate of climate sensitivity is, in other words, the lowest still plausible (see chart 2). Moreover, a recent study led by Gergana Gyuleva, a colleague of Dr Knutti’s at ETH Zurich, using a different measure of climate sensitivity, gets a similar result.",
+      "zh": "Myhre博士及其同事发现，按模型在EEI上的表现来评判，气候敏感性估计低于2.94ºC的模型可以被高度确定地排除。换言之，IPCC的气候敏感性最佳估计，反而是目前仍可成立的最低值（见图2）。此外，由瑞士苏黎世联邦理工学院（ETH Zurich）Knutti博士的同事Gergana Gyuleva领导的一项近期研究，使用了不同的气候敏感性度量，也得出了相似的结果。"
+    },
+    {
+      "id": "p032",
+      "en": "A long-time champion of higher climate sensitivities is James Hansen of the Earth Institute at Columbia University. Dr Hansen, a veteran who has been working on climate models and climate sensitivity since the 1970s, thinks the answer to the question “forcings or feedbacks?” is a resounding both. Sulphate effects are big; climate sensitivity is high.",
+      "zh": "长期支持更高气候敏感性观点的，是哥伦比亚大学地球研究所的James Hansen博士。作为一位自上世纪70年代起就从事气候模型与气候敏感性研究的资深专家，Hansen博士认为“是外部强迫，还是反馈作用”这个问题的答案是响亮的“两者皆有”。硫酸盐效应很大，气候敏感性也很高。"
+    },
+    {
+      "id": "p033",
+      "en": "As a result he believes warming is currently growing not at 0.27°C per decade, the rate Dr Forster and his colleagues currently calculate, but at a whopping 0.4°C a decade. On that basis he expects the current El Niño to make both this year and next the hottest on record (most prognosticators think that its full effects will make this happen only next year). His projections see warming since the 19th century reaching 2°C—and thus surpassing the limit enshrined in the Paris agreement on climate in 2015—by the end of the 2030s.",
+      "zh": "因此他认为，升温目前并非福斯特博士及其同事目前计算的每十年0.27°C，而是高达每十年0.4°C。基于这一判断，他预计当前的厄尔尼诺现象会让今年和明年都成为有记录以来最热的一年（多数预测者认为其全部影响将在明年才会显现）。他的预测显示，若按此趋势，自19世纪以来的升温到本世纪30年代末将达到2°C，从而突破2015年《巴黎协定》确立的上限。"
+    },
+    {
+      "id": "p034",
+      "en": "Few of Dr Hansen’s peers agree with all of this. They take issue with the way he derives his high climate sensitivity from analysis of the ice ages and the warm periods between them. According to Dr Armour the pattern of the warming at the end of the most recent ice age did not look like the pattern of warming being seen today.",
+      "zh": "很少有汉森博士的同行同意他全部观点。他们反对他从冰河期及其间暖期数据中推算高敏感度的做法。根据阿莫尔博士的说法，在最近一次冰河期末期出现的变暖模式，并不符合今天所看到的变暖模式。"
+    },
+    {
+      "id": "p035",
+      "en": "Most discussions of climate sensitivity deal in global averages. But it is becoming increasingly clear that patterns matter. The oceans are not warming homogeneously, and some parts of the world are better at losing heat than others.",
+      "zh": "大多数关于气候敏感性的讨论都采用全球平均值来处理问题，但人们越来越清楚，区域格局才是真正关键。海洋并不是均匀变暖的，世界的某些地区比其他地区更擅长散失热量。"
+    },
+    {
+      "id": "p036",
+      "en": "The classic example is the “warm pool” in the western Pacific. Surface heat drives powerful convection into the atmosphere above, producing towering thunderclouds. This convection moves heat up towards the top of the atmosphere very efficiently. And once there that heat is more easily lost to space as infrared. The planet gets a radiator; its climate sensitivity goes down.",
+      "zh": "一个经典例子是西太平洋的“暖池”。海表热量会驱动强烈对流，向上输送到其上方的大气，形成高耸的雷雨云。这种对流能非常高效地将热量输送到对流层顶部。一旦热量到达那里，就更容易以红外辐射的形式散失到太空中。此时，地球更像一个散热器，其气候敏感性就会下降。"
+    },
+    {
+      "id": "p037",
+      "en": "Work by Vince Cooper of MIT, a former student of Dr Armour, applies similar ideas to the end of the ice age. The bits of the sea surface which were most anomalously cold back then were in northern high-latitudes. And for a given amount of warming, a world where that warming is concentrated in the high-latitudes will have a higher climate sensitivity than a world of more homogeneous warming like today’s. The changes in global average temperature seen then do not imply particularly high sensitivity now. In fact, Dr Cooper thinks they suggest that today’s sensitivity is unlikely to be more than 4°C.",
+      "zh": "麻省理工学院（MIT）的文斯·库珀（Vince Cooper）的研究，应用了类似思路来分析冰川时代的结束。那时，海洋表面最异常寒冷的区域位于高纬度北方。对于同样幅度的变暖来说，如果升温集中在高纬度地区，那么当时的世界比像今天这样更均匀变暖的世界，具有更高的气候敏感性。于是那时观察到的全球平均温度变化并不一定意味着当今的敏感性特别高。事实上，库珀博士认为，这些证据表明当今的敏感性不太可能超过4摄氏度。"
+    },
+    {
+      "id": "p038",
+      "en": "But the importance of patterns does not lie only in the past. Dr Rugenstein and others have been working for some time on the problem that the patterns of warming found in climate models do not, by and large, reflect those seen in the real world. And some aspect of this disjunction might explain why the models are not matching the real EEI. At the Ringberg meeting the number of people who thought that pattern effects might yet explain the EEI was smaller than the “forcings are wrong” crowd, but larger than any other group.",
+      "zh": "但模式特征的重要性不仅限于过去。鲁根斯坦（Dr Rugenstein）及其他人已经研究了一段时间：气候模型中出现的变暖格局，整体上并未反映现实世界中的格局。这个脱节的某些方面，可能解释了为什么这些模型与真实的EEI不一致。在雷恩贝格（Ringberg）会议上，认为“格局效应”仍可能解释EEI的人数少于认为“强迫项错误”的人，但多于任何其他观点。"
+    },
+    {
+      "id": "p039",
+      "en": "Unfortunately, it is not clear quite what that explanation would look like—not least because, as Dr Stevens puts it, “No one knows what makes the patterns.” Are they the result of natural variability, with their arrangement over the past few decades—during some of which the warm pool radiator was working very well— largely a matter of chance? Or might they be explained through a mechanism that the models do not yet know how to capture? “My intuition”, says Dr Rugenstein, “is that the models’ ocean heat uptake is wrong.” This would lead to problems with the sea-surface temperature patterns.",
+      "zh": "遗憾的是，人们还不清楚这种解释具体会是什么样子——最起码正如史蒂文斯博士所说，“没有人知道是什么造成了这些格局。”这些格局是自然波动的结果吗？过去几十年中它们的排列——其中有些年代海洋热辐射带非常有效——大多只是偶然？还是可以用模型尚未掌握的某种机制来解释？“我的直觉是，”鲁根斯坦博士说，“模型中的海洋吸热过程有误。”这会导致海洋表面温度格局出现问题。"
+    },
+    {
+      "id": "p040",
+      "en": "Getting models to mirror the way the ocean couples to the atmosphere is a longstanding problem, and one that looks hard to solve. But it matters immensely. The oceans of the dimming Earth have been absorbing ever more energy. They are storing up that energy. Understanding the processes involved is a matter of urgency—and a certain frustration. “What the last 25 years actually tell us about the next 25 years is open,” says Dr Rugenstein. “And that’s embarrassing as a field.”",
+      "zh": "让模型真实反映海洋与大气的耦合关系，一直是一个长期存在且看似难以解决的问题。但它的重要性极其关键。正在变暗的地球海洋持续吸收越来越多的能量。它们在储存这些能量。理解其中的过程是当务之急，也令人十分困扰。“过去25年到底告诉我们关于未来25年的信息并不明确，”鲁根斯坦博士说，“这在这个领域是尴尬的。”"
+    },
+    {
+      "id": "p041",
+      "en": "Last year Dr Stevens and Tiffany Shaw, a researcher at the University of Chicago who looks at predictions of regional climate change, published a paper called “The Other Climate Crisis”. The first climate crisis is familiar enough: the world is heating up quickly. The other crisis, they argue, is in climate science itself, where an accumulation of anomalies suggests that some assumptions needed questioning.",
+      "zh": "去年，斯蒂文斯博士和芝加哥大学的研究人员蒂芙妮·肖（Tiffany Shaw）共同发表了一篇题为《另一个气候危机》（The Other Climate Crisis）的论文。第一个气候危机是广为人知的：地球正在快速变暖。另一个危机，如他们所说，则存在于气候科学本身：大量反常现象的累积表明，一些既定假设有必要被重新质疑。"
+    },
+    {
+      "id": "p042",
+      "en": "Progress in understanding what the increasing amount of energy being stored in Earth’s land, sea and air system is actually going to do, they say, requires climate scientists to concentrate on the processes and predictions where models and data diverge the most. There is no more consequential divergence to get started with than the dimming of Earth. ■",
+      "zh": "他们指出，要进一步理解地球陆地、海洋和大气系统中不断增加的储能将会产生什么实际影响，气候科学家必须把更多精力集中在模型与观测数据分歧最大的过程和预测上。与之相比，更值得优先处理、且影响更深远的分歧还没有。最值得从这一点入手的，就是地球变暗问题。■"
+    },
+    {
+      "id": "p043",
+      "en": "For more coverage of climate change, sign up for the Climate Issue, our fortnightly subscriber-only newsletter, or visit our climate-change hub.",
+      "zh": "如需获取更多关于气候变化的报道，请订阅我们每两周一次的《气候议题》付费通讯，或访问我们的气候变化专题中心。"
+    }
+  ],
+  "issue_published_at": "2026-07-18",
+  "article_published_at": "July 16th 2026",
+  "published_at": "July 16th 2026",
+  "published_date_source": "article",
+  "translated_at": "2026-07-21T17:56:15+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

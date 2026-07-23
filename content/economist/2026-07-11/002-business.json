@@ -1,0 +1,79 @@
+{
+  "id": "002-business",
+  "source_href": "1c908f42-7118-4ccb-9bc1-786520a3df0f.html",
+  "publication": "economist",
+  "issue": "2026-07-11",
+  "issue_published_at": "2026-07-11",
+  "article_published_at": "July 9th 2026",
+  "published_at": "July 9th 2026",
+  "published_date_source": "article",
+  "order": 2,
+  "section": "The world this week",
+  "title_en": "Business",
+  "title_zh": "商业",
+  "rubric_en": "",
+  "rubric_zh": "",
+  "date": "July 9th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "A year after legislation passed to create them, “Trump Accounts” became operational. American babies born from 2025 to 2028, the four years of Donald Trump’s second term, can register and have $1,000 invested for them in American shares. Despite being named after the president, the scheme is funded mostly by the taxpayer, with companies, wealthy individuals and parents adding top-ups. Last year the Michael and Susan Dell Foundation pledged $6.3bn for the programme. The Treasury has said that 6m Trump Accounts have been opened so far.",
+      "zh": "立法通过一年后，“特朗普账户”正式投入运行。美国出生于2025年至2028年、即唐纳德·特朗普第二任期四年内出生的婴儿，可以注册账户，并由政府为其在美国股票中投入1000美元。尽管这个项目以总统命名，但资金主要来自纳税人，企业、富人和父母还可以追加投入。去年，迈克尔和苏珊·德尔基金会承诺向该计划捐赠63亿美元。财政部表示，迄今已开设600万个“特朗普账户”。"
+    },
+    {
+      "id": "p002",
+      "en": "A week after the Trump administration lifted its ban on Anthropic’s latest AI models, OpenAI rolled out GPT-5.6, its most advanced machine-learning system. The launch had been delayed by the government’s request that it be released to only a limited number of vetted users to assess the security risks; it is now reportedly satisfied that GPT-5.6 has passed those extra checks.",
+      "zh": "在特朗普政府解除对Anthropic最新人工智能模型的禁令一周后，OpenAI推出了GPT-5.6，这是其最先进的机器学习系统。此次发布曾因政府要求先只向经过筛选的少量用户有限发布，以评估安全风险而被推迟；据报道，这一程序目前已表示认为GPT-5.6已通过了额外安全审核。"
+    },
+    {
+      "id": "p003",
+      "en": "SK Hynix’s share offering on the Nasdaq exchange was heavily oversubscribed ahead of the stock’s debut on July 10th. The South Korean chipmaker is seeking to raise $28bn through the sale of American depositary receipts (enabling investors in the US to buy its stock), which after SpaceX would be the second-biggest share offering on record.",
+      "zh": "在7月10日该股首次上市前，SK海力士在纳斯达克的股份发行严重超额认购。韩国这家芯片制造商计划通过发行美国存托凭证（使美国投资者能够购买其股票）筹集280亿美元，在SpaceX之后，将成为有史以来第二大规模的股份发行。"
+    },
+    {
+      "id": "p004",
+      "en": "Samsung, which is also benefiting from the demand for memory chips, said it expects to log an operating profit for the second quarter of 89.4trn Korean won ($59bn), another record for the company and double its operating profit for all of 2025. But the share prices of Samsung and SK Hynix fell heavily amid more investor jitters about the durability of AI spending.",
+      "zh": "同样受益于对存储芯片需求的三星表示，预计将在第二季度录得894万亿韩元（约590亿美元）的经营利润，这将是该公司又一个纪录，并且是其2025年全年的经营利润翻番。然而，尽管如此，三星和SK海力士的股价仍在投资者对AI支出持续性担忧加剧的情况下大幅下跌。"
+    },
+    {
+      "id": "p005",
+      "en": "SpaceX’s stock was added to the Nasdaq 100, a weighted index of leading non-financial companies, including Apple, Nvidia and Walmart. A rule change allowed the rockets-and-AI company to join the Nasdaq 100 less than a month after it floated shares in an initial public offering. Its stock will now be tracked by hundreds of passive investment funds. SpaceX’s share price is still trading above the $135 it was priced at in the IPO.",
+      "zh": "SpaceX 的股票被纳入纳斯达克100指数，这是一项覆盖苹果、英伟达和沃尔玛等领先非金融公司的加权指数。由于规则调整，这家火箭与人工智能公司在首次公开募股后不到一个月便加入了纳斯达克100。如今，数百只被动型投资基金将跟踪其股价。SpaceX 的股价目前仍高于其在IPO中定价的每股135美元。"
+    },
+    {
+      "id": "p006",
+      "en": "The European Central Bank asked 110 banks to present credible plans for dealing with the security threat from advanced AI models. The Bank of England also mentioned the threat from frontier AI in its latest report on financial stability, warning that the technology will “increase the sophistication and impact of cyber-attacks” on financial institutions and market infrastructure. Andrew Bailey, the Bank of England’s governor, called for co-operation among regulators in dealing with the security implications of AI, but said, unlike the ECB, he would not be issuing edicts to banks.",
+      "zh": "欧洲中央银行要求110家银行提交可信计划，以应对先进人工智能模型带来的安全威胁。英格兰银行在其最新的金融稳定性报告中也提到了前沿人工智能的威胁，警告称该技术将使金融机构和市场基础设施面临的网络攻击“更加复杂且更具破坏性”。英格兰银行行长安德鲁·贝利呼吁监管者在处理AI安全影响方面加强合作，但他表示，与欧洲央行不同，他不会对银行发布行政命令。"
+    },
+    {
+      "id": "p007",
+      "en": "Yields on Japan’s ten-year government bonds reached 2.9%, the highest since 1996, pushing up the costs of borrowing. Gross public debt is over 200% of GDP. As well as being concerned about the weak yen, investors are said to be worried about how the government is going to fund its recently announced $2.3trn, 14-year investment plan.",
+      "zh": "日本十年期国债收益率升至2.9%，创1996年以来最高水平，推高了融资成本。日本的公共总债务已超过GDP的200%。除了担心日元偏弱外，投资者还据称担忧政府如何筹措资金来支持其新近公布的2300亿美元、为期14年的投资计划。"
+    },
+    {
+      "id": "p008",
+      "en": "After holding out for a higher offer, easyJet, a European low-cost airline based in Britain, reached a preliminary agreement to be sold to Castlelake, an American investment firm, which would value the carrier at £5.5bn ($7.3bn). Castlelake, which has managed hundreds of planes through its leasing business, must make its offer official by August 3rd under British regulatory law.",
+      "zh": "在坚持要更高报价后，总部位于英国的欧洲廉价航空公司easyJet已与美国投资公司Castlelake达成初步出售协议，后者拟以55亿英镑（73亿美元）估值收购该航空公司。Castlelake在其租赁业务中管理着数百架飞机，必须在8月3日之前根据英国监管法规正式提交要约。"
+    },
+    {
+      "id": "p009",
+      "en": "UniCredit, a big Italian bank, announced that it had increased its stake in Commerzbank, a German lender, to 47.6%. UniCredit has been trying to take over Commerzbank for over a year, but its overtures have been rejected by the German company and the German government.",
+      "zh": "意大利大型银行UniCredit宣布，将其在德国贷款机构Commerzbank的持股提升至47.6%。UniCredit已经尝试收购Commerzbank一年多，但这些提议被Commerzbank和德国政府拒绝了。"
+    },
+    {
+      "id": "p010",
+      "en": "After declaring that the games industry is “facing the most severe hardware crisis in its history”, Microsoft cut 3,200 jobs at its Xbox business, 1,600 of which were lost immediately. Profit margins at Xbox are lower than at its rivals and the wide availability of online gaming has eaten into demand for its consoles. It will also get rid of five of its gaming studios and reduce costs at Activision Blizzard, a games publisher it acquired in 2023 for $70bn.",
+      "zh": "在微软宣称游戏行业正面临“有史以来最严重的硬件危机”后，微软裁减了其Xbox业务的3,200个岗位，其中1,600个岗位立即被裁掉。Xbox的利润率低于竞争对手，而在线游戏的普及也侵蚀了其主机的需求。微软还将关闭其五个游戏工作室，并削减其2023年以700亿美元收购的游戏发行商动视暴雪的成本。"
+    },
+    {
+      "id": "p011",
+      "en": "Sky, a European broadcaster, struck an agreement to buy ITV Media and Entertainment in a £1.6bn ($2.1bn) deal. ITV M&E operates the network and streaming platforms of ITV, Britain’s legacy commercial channel. The transaction does not include the more lucrative ITV Studios, which produces ITV’s programmes, such as “Coronation Street” and “Poirot”. Sky is a subsidiary of Comcast, which intends to spin off Sky and NBCUniversal into a separate company.",
+      "zh": "欧洲广播公司Sky与ITV达成协议，计划以16亿英镑（21亿美元）收购ITV的媒体与娱乐业务。ITV M&E经营着英国传统商用频道ITV的电视网络和流媒体平台。该交易并未包括更具盈利能力的ITV Studios，后者制作了ITV的节目，例如《卡利奥列坦街》（《唐顿庄园》?）和《波洛》。Sky是康卡斯特的子公司，康卡斯特计划将Sky与NBC环球剥离，组建为一家独立公司。"
+    }
+  ],
+  "translated_at": "2026-07-22T22:59:19+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

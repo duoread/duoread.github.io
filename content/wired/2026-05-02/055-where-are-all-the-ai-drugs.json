@@ -1,0 +1,239 @@
+{
+  "id": "055-where-are-all-the-ai-drugs",
+  "source_href": "feed_0/article_56/index_u45.html",
+  "publication": "wired",
+  "issue": "2026-05-02",
+  "issue_published_at": "2026-05-02",
+  "article_published_at": "Jul 17, 2025 6:00 AM",
+  "published_at": "Jul 17, 2025 6:00 AM",
+  "published_date_source": "article",
+  "order": 55,
+  "section": "Veronique Greenwood",
+  "title_en": "Where Are All the AI Drugs?",
+  "title_zh": "AI 药物都去哪儿了？",
+  "rubric_en": "",
+  "rubric_zh": "",
+  "date": "Jul 17, 2025 6:00 AM",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "A new drug usually starts with a tragedy.",
+      "zh": "一种新药通常始于一场悲剧。"
+    },
+    {
+      "id": "p002",
+      "en": "Peter Ray knows that. Born in what is now Zimbabwe, the child of a mechanic and a radiology technician, Ray fled with his family to South Africa during the Zimbabwean War of Liberation. He remembers the journey there in 1980 in a convoy of armored cars. As the sun blazed down, a soldier taught 8-year-old Ray how to fire a machine gun. But his mother kept having to stop. She didn’t feel well.",
+      "zh": "彼得·雷明白这一点。作为今天津巴布韦人的一员，雷出生在一个铁路工人和一位放射科技术员家庭。津巴布韦解放战争期间，他和家人逃到了南非。他记得1980年随装甲车车队前往南非的那段旅程。烈日高照时，一名士兵教8岁的雷如何射击机枪。但他的母亲却常常不得不停下脚步。她一直感觉身体不适。"
+    },
+    {
+      "id": "p003",
+      "en": "Doctors in Cape Town diagnosed her with cancer. Ray remembers going to her radiation treatments with her, the hospital rooms, the colostomy bags. She loved the beach, loved to walk along the line where the water met the land. But it got harder for her to go. Sometimes she came home from the hospital for a while and it seemed like things would get better. Ray got his hopes up. Then things would fall apart again. Surgery, radiation, chemotherapy—the treatments that were on the table in the 1980s—were soon exhausted. As she lay dying, he promised her he was going to make a difference, somehow. He was 13 years old.",
+      "zh": "开普敦的医生诊断出她患有癌症。雷记得自己陪她去做放射治疗，记得医院的病房、记得人工肛门袋。她喜欢海滩，喜欢沿着海水和陆地交接的岸线散步。但她后来越来越难出门。有时她从医院回家一阵子，似乎一切会好转。雷因此满心期待。可很快，情况又会崩盘。手术、放疗、化疗——20世纪80年代可选择的治疗手段很快用尽。她在生命垂危时，雷向她许下了要改变现状的承诺，只要任何方式都行。那时他只有13岁。"
+    },
+    {
+      "id": "p004",
+      "en": "Ray studied to become a medicinal chemist, first in South Africa, taking out loans to fund his studies, then at the University of Liverpool. He worked at drug companies across the UK, on numerous projects. Now, at 53, he is one of the lead drug designers at a pharmaceutical company called Recursion. He thinks about that promise to his mom a lot. “It’s lived with me my whole life,” he says. “I need to get drugs on the market that impact cancer.”",
+      "zh": "雷先在南非学习，借贷完成了医药化学的学业，之后又在利物浦大学继续学习。他在英国多家制药公司参与了许多项目。现在，53岁的他已成为制药公司 Recursion 的首席药物设计师之一。他常常回想起对母亲当年的承诺。“这句话我一生都记在心里，”他说，“我需要把真正能影响癌症治疗的药物推向市场。”"
+    },
+    {
+      "id": "p005",
+      "en": "The desire to stop your own tragedies from happening to someone else may be a strong motivator. But the process of drug discovery has always been grindingly, gruelingly slow. First, chemists like Ray zero in on their target—usually a protein, a long string of amino acids coiled and folded upon itself. They call up a model of it on their computer screen and watch it turn in a black void. They note the curves and declivities in its surface, places where a molecule, sailing through the darkness like a spaceship, could dock. Then, atom by atom, they try to build the spaceship.",
+      "zh": "想阻止自己或身边人的悲剧重演，这种愿望可能是强大的驱动力。但药物研发的过程一直以来都是又慢又折磨。起初，像Ray这样的化学家会锁定自己的靶点——通常是一种蛋白质，一条长长的氨基酸链，自己盘绕并折叠。然后他们把它在电脑屏幕上建模，观察它在黑暗虚空中缓缓转动。他们记录下其表面的曲率和凹陷——也就是一个分子像宇宙飞船一样在黑暗中航行时可以“对接”的位置。接着，他们尝试一颗原子一颗原子地组装那艘飞船。"
+    },
+    {
+      "id": "p006",
+      "en": "When the new molecule is ready, the chemists pass it along to the biologists, who test it on living cells in warm rooms. More tragedy: Many cells die, for reasons that are not always clear. Biology is complex, and the new drug doesn’t work as expected. The chemists will have to create another, and another, tweaking, adjusting, often for years. One biologist, Keith Mikule of Insilico Medicine, told me of his experience at a different drug company. After five years of work, their best molecule had unforeseen, dangerous side effects that meant they could take it no further. “There was a large team of chemists, a large team of biologists, thousands of molecules made, and no real progress,” he said.",
+      "zh": "当新分子准备好后，化学家会把它交给生物学家，由后者在温暖的房间里用活细胞进行测试。更多悲剧随之而来：许多细胞会死亡，原因并不总是清晰。生物体系很复杂，而新药并未按预期发挥作用。化学家于是不得不再做一个、再做一个，反复微调、反反复改，常常持续多年。InSilico Medicine 的一位生物学家 Keith Mikule给我讲过他在另一家制药公司的经历。经过五年的努力，他们的最优分子出现了意想不到且危险的副作用，意味着它没法再往前推进。“当时有一支大型化学团队、一支大型生物团队、做了成千上万个分子，却没有真正的进展，”他回忆道。"
+    },
+    {
+      "id": "p007",
+      "en": "If a team is very lucky, they get a molecule that, in mice, does what it’s supposed to. They get a chance to give it to a small group of healthy human volunteers, a phase I trial. If the volunteers stay healthy, then they give it to more people, including those with the disease in question, in a phase II. If the sick people don’t get sicker, they get a chance—phase III—to give it to more sick people, as many as they can find, as diverse a group as possible.",
+      "zh": "如果一个团队运气很好，就能获得一种在小鼠体内能实现预期作用的分子。然后他们有机会把它交给一小批健康人类志愿者进行一期临床试验。如果志愿者保持健康，再转到二期，加入更多受试者，包括患有目标疾病的患者。如果病人没有变得更重症，则进入三期，在尽可能多、尽可能多样的人群中继续试验。"
+    },
+    {
+      "id": "p008",
+      "en": "At each stage, for reasons few people understand and fewer can predict, great rafts of drugs drop out. More than 90 percent of hopefuls fail along the way. When you meet drug hunters, you might ask them, cautiously, tenderly, if they’ve ever had a drug make it. “It’s very rare,” says Mikule, who has one drug (niraparib, for ovarian cancer) to his name. “We’re unicorns.”",
+      "zh": "在每一个阶段，都有大量候选药物因种种原因淘汰：这些原因，几乎没人真正理解，也更少人能预测。超过90%的“有希望的候选药”在路上就失败。你见到药物猎人时，也许会小心、温和地问一句：他们有没有见过有药物最终成功？“这种情况非常罕见，”Mikule说，他的简历里只有一款获批药物——用于卵巢癌的尼拉帕利（niraparib）。“我们就是那种难得一见的存在。”"
+    },
+    {
+      "id": "p009",
+      "en": "But Mikule, Ray, and other chemists and biologists are trying a new approach. When I talk to Ray, he’s excited to show me a molecule he and his colleagues at Recursion have been working on. It’s a so-called MALT1 inhibitor, designed to interfere with the growth of blood cancer cells. On his screen, REC-3565 is a series of rings and lines, another skeletal spaceship floating in the void. But it exists in the real world too: Just a few weeks before my chat with Ray, the first phase I volunteers swallowed it in a little pill. What’s special about this molecule, Ray says, isn’t just that it has survived the gauntlet thus far. It’s that REC-3565 “wouldn’t have come by human design.” Ray’s team, he believes, would not have made the logical leaps required to reach this point without using artificial intelligence.",
+      "zh": "但米库尔、雷以及其他化学家和生物学家正在尝试一种新方法。当我与雷交谈时，他很兴奋地给我展示了他与同事们在 Recursion 公司一起研究的一种分子。这是一种所谓的 MALT1 抑制剂，旨在干扰血液癌细胞的生长。在他的屏幕上，REC-3565 看起来只是一连串环和线，又像是漂浮在太空中的骨骼般的飞船。但它也真实存在于现实世界：就在我采访雷前几个星期，第 I 期受试者就已服用过这一小片药。雷说，这种分子之所以特别，不仅因为它迄今为止已通过了重重筛选。更特别的是，REC-3565“不会由人类设计出来”。他认为，如果没有使用人工智能，他的团队不可能做出抵达这一阶段所需的那些逻辑跃迁。"
+    },
+    {
+      "id": "p010",
+      "en": "As the world’s pharma giants get caught up on AI, Recursion is among a group of startups betting everything on the technology. Founded 12 years ago by academics in Utah, the company made its name by taking snapshots of cells under various conditions, creating a vast database of pictures, and turning AI on them to identify potential new targets. Last year, Recursion acquired another decade-old startup—Ray’s former employer, Exscientia—which pioneered the use of AI to design small molecules. There are others, including Mikule’s employer Insilico, which was founded in 2014. Just last year, Xaira Therapeutics launched with $1 billion in venture capital—the biggest biotech funding round in years. (The only other new startup that pulled in as much in 2024 was Safe Superintelligence, cofounded by a former top OpenAI researcher.)",
+      "zh": "当全球制药巨头都在围绕人工智能转身时，Recursion 是少数全力押注该技术的一批初创公司之一。该公司由犹他州的学术人员在 12 年前创立，凭借在不同条件下拍摄细胞快照、建立庞大的影像数据库，并对其进行人工智能分析以识别潜在新靶点而崭露头角。去年，Recursion 收购了另一家成立十年的初创公司——雷曾任职的 Exscientia——这家公司开创了使用人工智能设计小分子的方法。还有其他公司也在其中，包括米库尔的雇主 Insilico，该公司成立于 2014 年。就在去年，Xaira Therapeutics 获得了 10 亿美元风险投资，成为近年来最大的生物技术融资轮次。（2024 年唯一与之相当的另一家新创公司是 Safe Superintelligence，由一位前 OpenAI 顶级研究人员共同创立。）"
+    },
+    {
+      "id": "p011",
+      "en": "Pipetting robots at work at Recursion’s automated lab in Oxford, England.",
+      "zh": "位于英国牛津的 Recursion 自动化实验室里，移液机器人正在作业。"
+    },
+    {
+      "id": "p012",
+      "en": "There are no drugs on the market designed using AI. But both Recursion and Insilico have gotten candidates through phase II clinical trials, which means they’re safe in patients. REC-994 is for cerebral cavernous malformation, a disease that causes brain lesions, and ISM001-055 is for idiopathic pulmonary fibrosis, a progressive, fatal lung condition. More AI-linked drug candidates are in development, from Insilico, Recursion, and other companies, including the one Ray showed me.",
+      "zh": "目前市场上还没有任何用人工智能设计并投入销售的药物。但 Recursion 和 Insilico 都已将候选药物推进到 II 期临床试验，这意味着它们在患者身上是安全的。REC-994 针对脑海绵状血管畸形，这是一种会导致脑部病变的疾病；ISM001-055 针对特发性肺纤维化，这是一种进行性且致命的肺部疾病。更多与人工智能相关的药物候选者正在研发中，既有 Insilico 和 Recursion，也有包括雷给我展示的那家公司的其他企业。"
+    },
+    {
+      "id": "p013",
+      "en": "All of these molecules, right now, are like cards lying face down on the table. Can AI help make drugs that actually work, faster and cheaper than usual, or are the drug hunters about to be dealt another losing hand?",
+      "zh": "现在，这些分子就像摊在桌面上正面朝下的牌。人工智能能够帮助我们更快、更便宜地制造出真正有效的药物吗？还是说药物猎手们又即将被发到一手烂牌？"
+    },
+    {
+      "id": "p014",
+      "en": "In the summer of 1981, a headline on the cover of Fortune magazine proclaimed that the age of digital drug discovery was at hand. The story explored how scientists were using computer visualization to select the best molecules to try in cells, hoping to break through the gridlock. Derek Lowe, a medicinal chemist who writes the long-running blog In the Pipeline, recalls that the Fortune article made some drug hunters at the time nervous. At the pharmaceutical company Schering-Plough, where he worked, there was a room labeled “Computer-Aided Drug Discovery (CADD),” packed with expensive equipment. “The medicinal chemists across the hall didn’t think too much of that,” Lowe told me, “so they put a sign over their door that said ‘BADD: Brain-Assisted Drug Discovery.’”",
+      "zh": "1981 年夏天，《财富》杂志封面曾打出一则标题，宣称数字化药物发现时代已到来。文章讨论了科学家如何利用计算机可视化技术，在细胞中筛选要尝试的最佳分子，希望从僵局中突围。药物化学家、长期撰写《In the Pipeline》博客的 Derek Lowe 回忆说，当时那篇《财富》文章让一些药物猎手感到紧张。他曾在施乐人寿（Schering-Plough）工作过。那家公司有一个名为“计算机辅助药物发现（CADD）”的房间，里面摆满了昂贵设备。“过道对面的药物化学家并不怎么看好这些东西，”Lowe 对我说，“于是他们在门上挂了块牌子，上面写着‘BADD：脑辅助药物发现’。”"
+    },
+    {
+      "id": "p015",
+      "en": "Computers did revolutionize everything. But the hard problems of drug discovery didn’t evaporate with the touch of a cursor. Seasoned drug hunters refer in a jaundiced tone to combinatorial chemistry, an attempt to stumble across new kinds of drugs by assembling molecular pieces in random order. (It didn’t work, in part because the costs of such a wildly democratic approach were crippling.) Computational chemistry, which allows scientists to simulate how a target and a molecule will interact, gained grudging acceptance—but its success depends on accurate models of the target and the candidates, and for that you need old-fashioned elbow grease in the lab.",
+      "zh": "计算机确实改变了这一切。但药物发现的难题并未随着鼠标一点就烟消云散。经验丰富的药物猎手用带着讽刺意味的语气提到“组合化学”，那是试图通过随机拼接分子片段来“碰碰运气”寻找新药的一种尝试。（它最终没有成功，部分原因是这种近乎民主化的做法成本高得令人窒息。）计算化学能够让科学家模拟靶点与分子的相互作用，最终也获得了谨慎的认可——但它的成效依赖于靶点和候选分子模型的准确性，而要做到这一点，你仍然需要在实验室里费尽传统功夫。"
+    },
+    {
+      "id": "p016",
+      "en": "If anything, the hard problems have grown harder as the full complexity of biology has come into focus. “We have more things to worry about than we used to,” says Lowe. Cancers with different mutations driving them respond to different therapies. Drugs that attached to a certain receptor were linked to heart problems, and thus any new drug candidate, no matter how promising, must be removed from the running if it shows affinity for that receptor.",
+      "zh": "如果说有什么变化，那么随着生物学全部复杂性逐渐显现，难题反而更难了。“我们需要担心的事情比过去更多了，”Lowe 说。不同突变驱动的癌症对不同疗法的反应并不相同。对某种受体有亲和力的药物与心脏问题有关，因此任何新的候选药物，不论前景多么诱人，只要显示出对该受体的亲和性，就必须被淘汰出局。"
+    },
+    {
+      "id": "p017",
+      "en": "Karen Billeci, a principal biologist at Recursion, still remembers one of the first times she heard a drug hunter mention artificial intelligence. One dawn in 1993, Billeci was walking across her company’s parking lot on the edge of the San Francisco Bay with a couple of other employees. They worked at a scrappy startup called Genentech (later acquired by Roche for $47 billion). Billeci’s programmer friends were exploring whether neural networks—a form of machine learning—could be used to find patterns in patient information and help reveal why some responded to a drug and others didn’t. “These great drugs would go into humans, and they would fail,” Billeci says. They talked in the parking lot about whether, someday, there would be software that could learn to see patterns they couldn’t. “We didn’t say ‘train,’” Billeci recalls. “We didn’t have the words for that yet.”",
+      "zh": "位于 Recursion 的首席生物学家 Karen Billeci 仍然记得自己第一次听到有人在谈论“人工智能”用于药物发现的场景。那是1993年一个清晨，Billeci 和几位同事一起走过位于旧金山湾边缘的公司停车场。他们当时在一家创业公司 Genentech 工作（后来这家公司被罗氏以470亿美元收购）。Billeci 的程序员朋友们正在探索神经网络——一种机器学习方法——是否能用于在患者数据中找出规律，并帮助揭示为何有些人对某种药物有反应，而有些人却没有。 Billeci 说：“这些上好的药物会进入人体试验，但最终会失败。”他们在停车场里讨论着，是否有一天会出现一种软件，能够学会识别他们自己看不见的模式。“我们没有说‘训练’这个词，”Billeci 回忆道，“当时我们还没有这个说法。”"
+    },
+    {
+      "id": "p018",
+      "en": "It gradually became clear, over the next several decades, that AI might do more than pick out patterns in patient data. In 2020, something happened that crystallized what might be possible. In a global competition that fall, an AI built by Alphabet’s DeepMind showed it could correctly predict how a protein would fold up into its final form—a canonical hard problem in biology and a key task for drug hunters. DeepMind’s AI easily beat out all the other contestants. David Baker, a biochemist at the University of Washington, was inspired to dig deeper into using AI to design new drug proteins, work that later won him the 2024 Nobel Prize for Chemistry. “It didn’t take us long to develop methods that surpassed the ones we had been developing before,” he says. (Baker is one of the founders of Xaira.)",
+      "zh": "在接下来的几十年里，人们逐渐明白，人工智能可能做的不仅是从患者数据中挑出模式。到了2020年，发生了一件事，让这一可能性变得更清晰。那年秋天，在一场全球竞赛中，Alphabet 旗下 DeepMind 开发的人工智能成功地正确预测了蛋白质会如何折叠成其最终形态——这是生物学中的一个经典难题，也是药物研发者的一项关键任务。DeepMind 的人工智能轻松击败了所有其他参赛队伍。华盛顿大学的生物化学家 David Baker 受到启发，进一步深入研究利用人工智能设计新的药物蛋白质，这项工作后来为他赢得了2024年诺贝尔化学奖。“我们很快就开发出了超越以前方法的技术，”他说。（Baker 是 Xaira 的创始人之一。）"
+    },
+    {
+      "id": "p019",
+      "en": "After that, what else might be possible with AI? What if it were shown all the drugs that have ever existed, with all the data about how they work, and then set loose on a database of untried molecules to identify others to explore? What if—and this is where the discussion around machine learning has gotten to now, in 2025—the software could take in a decent chunk of all the information about biology generated by humankind and, in an act both spooky and profound, suggest entirely new things?",
+      "zh": "在那之后，人工智能还能做些什么？如果把人类历史上出现过的所有药物和关于它们如何发挥作用的所有数据都交给它看，再让它在一个尚未尝试过的分子数据库中自由检索，找出值得探索的其他分子呢？如果在2025年，机器学习的讨论到达了现在这种程度：软件能够吸收人类迄今生成的庞大生物学信息，并且以一种既神秘又深刻的方式，直接提出全新的想法和方向，会发生什么？"
+    },
+    {
+      "id": "p020",
+      "en": "Sometimes, humanity is learning, AI produces things that look good at first glance but turn out to be whimsical potpourris of words or thoughts, mere nothingburgers. The fact that drug discovery involves extensive real-life testing makes it unlikely that such suggestions would survive the process. The biggest risk of AI hallucinations might be wasted time and resources. But the failure rate of new drugs is already so high that scientists at these startups think the risk is worth taking.",
+      "zh": "有时，人类在学习中一样，人工智能会产生一开始看起来很有道理、却后来发现只是奇思妙想拼成的一堆词语或想法——纯粹的“空心产物”。由于药物发现必须经过大量真实世界的实验验证，这类建议在实际流程中很难通过，几乎不可能存活下来。人工智能“幻觉”最大的风险也许只是浪费时间和资源。但由于新药失败率本就极高，这些初创公司里的科学家认为，这种风险是值得承担的。"
+    },
+    {
+      "id": "p021",
+      "en": "Peter Ray looks at the MALT1 inhibitor floating in the void. “If I get a drug to market, I would feel I had fulfilled my promise,” he says. He points out where the AI revealed a way to remove a section of the molecule that could cause toxicity. It was a reaction that had not occurred to any of the humans involved.",
+      "zh": "彼得·雷正在查看在真空中徘徊的一种 MALT1 抑制剂。“如果我能把一种药物推向市场，我会觉得自己实现了自己的承诺，”他说道。他指出，AI 揭示了一种去除分子中可能导致毒性的片段的方法。这是一种在场的任何人类研究者都没有想到的反应。"
+    },
+    {
+      "id": "p022",
+      "en": "The real question is whether molecules designed using AI are any better at getting to market. The last few stages of the process are the most expensive, the most unpredictable. In any clinical trial, it’s hard to find the right people, says Carol Satler, the vice president of clinical development at Insilico. It’s slow. She worries about it—hopes she has made the right choices, contacted the right doctors, excluded the people who would not benefit, included those who might, to see what the drug can do. By the time a drug reaches trials, it represents a billion dollars and a decade in the lives of hundreds, if not thousands, of scientists. One patient signs up. Then two. Months pass. Time crawls. “The meter is always running,” Satler says. “It’s so expensive.”",
+      "zh": "真正的问题是，使用 AI 设计的分子在走向市场方面是否更有优势。这个过程的最后几个阶段最昂贵、最难预测。在任何临床试验中，找到合适的人都很难，Insilico 的首席临床研发副总裁 Carol Satler 说。进度非常慢。她为此很担忧——她希望自己做出了正确的选择，联系到了合适的医生，排除了不会从中受益的人群，而纳入了可能受益的人群，以便看清这款药物到底能做些什么。等一款药物进入试验时，它已经代表着十亿美元的投入和数百，甚至上千名科学家十年的生命。先来一个病人。然后是第二个。几个月过去。时间慢慢流逝。“计时器始终在运行，”Satler 说，“太昂贵了。”"
+    },
+    {
+      "id": "p023",
+      "en": "Late last year, soon after Recursion finalized its acquisition of Exscientia, 300-odd drug hunters from both companies converged on an event space in London.",
+      "zh": "去年年底，在 Recursion 完成对 Exscientia 的收购后不久，两家公司的三百余名药物研发人员汇聚到伦敦的一个活动场地。"
+    },
+    {
+      "id": "p024",
+      "en": "The pink-lit conference hall buzzed with news of an announcement made just days before by Recursion’s chief scientific officer. Molecule REC-617, developed by Exscientia, had been given to 18 patients whose terminal cancers had stopped responding to other treatments. The phase I clinical trial was designed to see both whether patients could tolerate the drug candidate and whether it had any effect. One patient—a woman with ovarian cancer that had come back three times—surprised everyone: She lived. She was still alive after six months of the treatment. Because the trial is blinded, no one at Recursion or Exscientia has any idea who this woman is and whether she is still alive today. But in that room, she seemed to radiate with life.",
+      "zh": "粉色灯光照亮的会议大厅中，弥漫着几天前由 Recursion 首席科学官宣布的一则消息。由 Exscientia 开发的分子 REC-617 已经被分配给了 18 名终末期癌症患者，这些患者对其他治疗方案已不再有反应。这项一阶段临床试验旨在观察患者是否能够耐受该候选药物，以及该药物是否有疗效。一名患者——一位患有卵巢癌、复发过三次的女性——让所有人都大吃一惊：她活了下来。她在接受治疗六个月后仍然存活。由于试验是盲法进行，Recursion 和 Exscientia 的任何人都不知道这位女性是谁，也不知道她是否至今仍然健在。但在那间房里，她似乎满面生机。"
+    },
+    {
+      "id": "p025",
+      "en": "The announcement contained another noteworthy detail. Because Exscientia used AI to narrow down the number of candidate molecules before any of them were made, it was not thousands but a mere 136 that were finally manufactured and tested in cells. (Ray’s MALT1 inhibitor involved making only 344, also a tiny fraction of what would have happened in a traditional setting.) Chris Gibson, Recursion’s cofounder and CEO, underscored that number in his talk to the assembled crowd, emphasizing the savings in time and resources. By failing faster, goes the logic—by using AI not only to invent new molecules but also to rule most of them out in advance—it might be possible to bring down the cost of the first stages of this extremely costly process.",
+      "zh": "这次公告还包含了另一个值得注意的细节。由于Exscientia在任何分子真正合成之前就用AI缩小了候选分子的数量，最后真正被制造并在细胞中测试的只有136种，而不是成千上万种。（Ray的MALT1抑制剂项目只制备了344种分子，这也是在传统模式下会进行的规模中的一小部分。）Recursion的联合创始人兼首席执行官Chris Gibson在对台下听众演讲时特别强调了这个数字，突出其节省了时间和资源。逻辑是：更快地“淘汰”化合物——即不仅用AI来发明新分子，还提前排除其中大多数——可能会降低这个极其昂贵流程早期阶段的成本。"
+    },
+    {
+      "id": "p026",
+      "en": "In the center’s lobby, a breakout group with David Mauro, Recursion’s chief medical officer, Jakub Flug, an Exscientia medicinal chemist, and a handful of others stood in a circle. The employees were having what amounted to an enormous blind date. They were meeting people they’d never seen in person, telling their stories, trying to see how they would all fit together. They took turns introducing themselves and saying why they had chosen to join these companies. One person said: I’m here to have fun. Another said: I’m here because I was tired of doing something that I didn’t believe in anymore. Another: I am here because I want to actually release a drug onto the market. Everyone nodded at this one.",
+      "zh": "在中心的大堂里，David Mauro（Recursion首席医疗官）、Jakub Flug（Exscientia药物化学家）以及其他几位负责人站成了一个圆圈，举办了一个小组交流。员工们正在进行一场规模很大的“线上相亲式”见面会：他们见到的是素未谋面的同行，讲述自己的经历，试图判断彼此如何能拼在一起。大家轮流自我介绍，并说明为什么选择加入这些公司。一位说：我来这里是为了找点乐子。另一位说：我来这里是因为我厌倦了继续做我不再相信的事。还有一位说：我来这里，是为了真正把一种药物推向市场。大家对这句话都点了点头。"
+    },
+    {
+      "id": "p027",
+      "en": "Downstairs, in a basement room, Gibson was thinking about the future too. His hope is that Recursion is laying the groundwork for what drug discovery will someday be like across the industry, starting with the eight drugs that have advanced to clinical trials and the handful behind them, in the preclinical stage. “If we’re doing this right, if we’re building a learning system, the next 10 drugs after that have a higher probability of success. Next 10 drugs after that, higher probability of success. We keep refining this thing,” he said.",
+      "zh": "在楼下的一间地下室房间里，Gibson也在思考未来。他希望Recursion正在为未来全行业的药物发现模式铺路，这一切将从已进入临床试验的八种药物以及其后面的少数前临床阶段项目开始。“如果我们做对了、我们正在构建一个能学习的系统，那么接下来的10种药物成功的概率会更高。再往后10种药物，成功概率同样更高。我们会不断迭代、不断改进。”他如此说道。"
+    },
+    {
+      "id": "p028",
+      "en": "I asked him about his claim, last summer, that there would soon be information about 10 or so different candidates. This critical mass, with information going public in a large bolus, is a calculated goal, he said: If around 90 percent of drugs fail, then Recursion needs to show results of about 10 different programs just to see if they are doing what they hope. “At the end of the day, it’ll be fair to judge us by the first 10,” Gibson says. “That’s enough of an n.” Enough of a sample size, in other words, to see what this approach can do.",
+      "zh": "我询问了他去年夏天提出的一个说法，即不久就会出现约10个不同候选项目的信息。他说，这个关键规模——也就是一次性大规模公开信息——是经过计算的目标：如果大约90%的药物都会失败，那么Recursion至少需要展示大约10个不同项目的结果，才能看出自己是否达到了目标。“归根结底，前10个结果就足以成为评价我们的依据。”Gibson说。“这就是足够的样本量——换句话说，足够大的一组数据，来判断这种方法能起到什么作用。”"
+    },
+    {
+      "id": "p029",
+      "en": "Inside Recursion’s lab in Oxford, England.",
+      "zh": "在英格兰牛津，Recursion的实验室内。"
+    },
+    {
+      "id": "p030",
+      "en": "One cold morning late last year, I went to see one of Recursion’s discovery engines. Patrick Collins, the director of automation, and Su Jerwood, a principal scientist in pharmacology, showed me into a room the size of a small supermarket with aisles of machines in plate-glass cases. White lamps like halos hung above them. “We’ve got biology on one side, chemistry on the other,” Collins said. A magnetic railway threaded through the machines, connecting pipetting robots to incubator chambers. “It’s about design, make, test, learning, loop,” Collins said. He indicated cases of bottles and powders, “all the building blocks, reagents and things.” Humans keep the machines topped up.",
+      "zh": "去年冬天的一个寒冷早晨，我去参观了Recursion的一台药物发现引擎。自动化总监Patrick Collins和药理学首席科学家Su Jerwood带我进入了一间大小如小型超市的房间，里面是摆放在玻璃推车般展示柜里的机器走道。白色灯具像光环一样悬挂在它们上方。 “我们一边是生物学，一边是化学。”Collins说。贯穿这些机器的是一条磁悬浮轨道，连接着移液机器人和培养箱。 “这就是设计、制造、测试、学习、再循环。”Collins说着指向装着瓶子和粉末的玻璃柜，“所有的构建模块、试剂和相关物料。”人类只需要给机器补充耗材。"
+    },
+    {
+      "id": "p031",
+      "en": "These machines, Jerwood explained, dispense molecules created from raw atoms, molecules that AI systems have already tested and explored in virtual spaces. The candidate drugs drip onto trays of cells, and the system evaluates their effects. It’s new, and there are kinks to be worked out. Some parts of the automated process still need humans to move them along, Collins said, and Recursion is figuring out how to streamline the flow of information to and from the AI. But when it works, scientists will have the results of thousands of tests glowing on their screens. The automated system has been up and running for about a year, so it wasn’t involved in making the candidates currently in clinical trials. But it is helping to make future drugs.",
+      "zh": "Jerwood解释说，这些机器分配的是由原子拼接而成的分子，这些分子已经由AI系统在虚拟空间中完成了测试和筛选。候选药物会滴落到细胞托盘上，由系统评估其作用效果。现在这一流程是新的，里面还有一些需要解决的“坑”。Collins说，自动化流程的某些环节仍然需要人工推动，Recursion正在研究如何把信息在AI与实验之间的流转做得更顺畅。但一旦运行顺利，科学家就能在屏幕上看到数以千计实验的结果。该自动化系统已经稳定运行约一年，因此并未参与当前处于临床试验阶段候选药物的研发；不过它正在帮助研发未来的药物。"
+    },
+    {
+      "id": "p032",
+      "en": "As I examined the machines in their pristine chambers, I wondered about what it means, now, to be the kind of human who loves to think about molecules, loves to make them, whose joy comes from understanding how they work. I asked Collins this. He thought back to the moment when he first crystallized a protein by hand, first saw a drug molecule clasped against it. “I was hooked for life,” he said. Those traditional tools still have their place. But perhaps it is not here, where the focus is getting something to the clinic as fast as possible, something that works. “We’re all trying to think about patients,” Collins said.",
+      "zh": "我在它们洁净的舱室里观察这些机器时，开始思考当下这个时代意味着什么——作为一个热爱思考分子、热爱合成分子、并从理解分子运行机制中获得快乐的人，应当是怎样的研究者？我向Collins提出了这个问题。他回忆起第一次手工结晶蛋白质、第一次看到药物分子紧紧结合在蛋白质上的那一刻：“那时我就一发不可收拾了。”他说道。传统工具依然有它们的价值，只是这里的关注点不是纯粹的手工工艺，而是尽可能快、尽可能有效地把成果推向临床。 “我们都在努力去关注病人，”Collins说。"
+    },
+    {
+      "id": "p033",
+      "en": "Jerwood gave her answer: “I am so hungry for something new all the time.” Standing there, above the automated lab, she imagined the regions of chemistry where no one has yet gone, structures and reactions that lie on the far side of unknown processes. The sun was just pulling itself over the horizon. She thought of all the things the machines might do, all the things that she will do no longer. “It’s down to the untouched space, yeah? Because then I will have time to look into that space,” she said. “I will have time to take that risk.”",
+      "zh": "Jerwood给出了她的答案：她说：“我总是对全新的东西有一种很强的饥渴。” 她站在自动化实验室上方，想象着那些仍无人涉足的化学领域，想象着位于未知反应过程彼岸的结构与反应。太阳刚刚爬过地平线。她想到机器能做的各种事情，也想到自己将不再去做的一切。“这都取决于那片未被触碰的空间，对吧？因为那样我就有时间去探索那片空间，”她说。“我将有时间去冒那个险。”"
+    },
+    {
+      "id": "p034",
+      "en": "For some pharmaceutical researchers, though, the promise of AI goes beyond pushing scientific boundaries or even treating disease. Alex Zhavoronkov, the CEO and cofounder of Insilico, says the company favors targets that are implicated in both illness and aging. Its drug candidate for idiopathic pulmonary fibrosis, for example, is designed to prevent scarring of the lungs by dampening certain biological pathways, but it also may slow the aging of healthy cells. Zhavoronkov hopes to bring new drugs to the clinic, perhaps faster and cheaper, even as he uncovers new treatments for aging-related disease and decline.",
+      "zh": "不过，对一些制药研究人员来说，AI的承诺超越了推动科学边界，甚至也不只在于治疗疾病。Insilico的首席执行官兼联合创始人Alex Zhavoronkov表示，公司更倾向于选择既与疾病相关又与衰老相关的靶点。例如，它为特发性肺纤维化开发的药物候选物旨在通过抑制特定生物通路来防止肺部瘢痕形成，但它也可能放缓健康细胞的衰老速度。Zhavoronkov希望将新药更快、更低成本地推向临床，同时在此过程中发现更多用于治疗与衰老相关疾病和衰退的新疗法。"
+    },
+    {
+      "id": "p035",
+      "en": "When I speak with Zhavoronkov, he’s at a company-wide retreat in Chongqing, China. “In 20 years, I’m going to be 66,” he says. “I saw my dad when he was 66, and it’s not pretty.” He is frank about having high expectations, about his desire for speed in an industry where speed isn’t always readily available. He shows me a video of an automated lab in Suzhou, China. “We built it during Covid,” he says, explaining that some of the laboratory scientists on the project worked around the clock, sleeping in the facility, to get it up and running.",
+      "zh": "当我与Zhavoronkov交谈时，他正在中国重庆参加公司全体研修会。“20年后我将满66岁，”他说。“我见过我爸66岁时的样子，真的不太好。” 他对自己的高标准直言不讳，也坦承自己在一个速度并不总是容易提上的行业中对快速进展的强烈渴望。他给我看了他在中国苏州的一个自动化实验室的视频。“我们是2020年疫情期间建成的，”他说，并解释说，项目中的一些实验室科学家几乎不分昼夜地工作，甚至在设施内轮班睡觉，只为把它调试起来并投入运行。"
+    },
+    {
+      "id": "p036",
+      "en": "There is something vaguely science-fictional about the setup, and about Zhavoronkov’s particular form of pragmatism. Zhavoronkov has scars on his arm where he’s had skin removed to make induced pluripotent stem cells, which can be reprogrammed to grow into many types of tissue. “If you want to buy my IPSC, give us a call. We’ll ship it to you,” he says. “The more data there is about you in the public domain, the higher chances you have to get a real good treatment when you get sick, especially with cancer.”",
+      "zh": "这一配置本身带着一种含糊的科幻感，也映照出Zhavoronkov那种特别的务实风格。Zhavoronkov手臂上有疤痕，那是他为制备诱导多能干细胞而去除皮肤留下的痕迹；这种细胞可被重编程，分化成长出多种组织。“如果你想买我的IPSC，打个电话给我们。我们会寄给你。”他说。“越多与你相关的数据公开在公共领域，就越有机会在你生病时，尤其是患癌症时，获得真正有效的治疗。”"
+    },
+    {
+      "id": "p037",
+      "en": "In the lab video, the camera glides through a black hallway, then through an anteroom, past a wall of glass. The glass can be dimmed, if the work going on behind it is confidential. Behind the wall are machines loaded with trays of reagents and cells, with arms that swivel as they move components around. Humans are rarely needed.",
+      "zh": "在实验室视频中，摄像机穿过一条黑色走廊，再经过一个前室，越过一面玻璃墙。玻璃可以调暗，如果后面进行的是机密工作。墙后是装有试剂和细胞托盘的机器，机械臂在移动部件时会旋转。人类几乎不再需要。"
+    },
+    {
+      "id": "p038",
+      "en": "Sooner or later, in some form, AI tools will be standard in drug discovery, suspects Derek Lowe, the medicinal chemist and blogger. He calls himself a short-term pessimist, long-term optimist about these things. It’s happened again and again in the industry: New strategies arrive, ride a wave of hype, crash and burn. Then some of them, in some form, rise again and quietly become part of what’s normal. Already, big pharmaceutical companies—the behemoths of drug discovery—are starting their own AI-related research groups. Recursion, meanwhile, is exploring the use of AI not only to dream up and test new molecules but also to find trial participants, speeding along those last, costliest steps to market.",
+      "zh": "迟早，以某种形式，AI 工具都会成为药物发现的标准配置，药物化学家兼博主 Derek Lowe 这样猜测。他自称对这类事物是“短期悲观、长期乐观”。在这个行业里这种情形一再上演：新策略出现，乘着炒作浪潮高歌猛进，最终败下阵来。然后其中一些又以某种形式卷土重来，并悄悄成为日常的一部分。已经，制药巨头——药物发现领域的庞然大物——正开始建立自己的 AI 相关研究团队。与此同时，Recursion 正在探索用 AI 不仅去构思和测试新分子，也用于寻找临床试验参与者，以加速这些通向市场的最后、最昂贵步骤。"
+    },
+    {
+      "id": "p039",
+      "en": "The transformation isn’t going to be without casualties. “These techniques, both the automation part and the software, are going to make more and more things slide into that ‘humans don’t do that kind of grunt work’ category,” Lowe says. Large numbers of jobs held by human chemists will wink out of existence. Those “who know how to use the machines are going to replace the ones who don’t,” Lowe says. Even Peter Ray no longer feels it’s accurate to describe him as a medicinal chemist. “I’m something else,” he muses. “I don’t know what to call it, to be honest.”",
+      "zh": "这种转变不会没有伤亡。Lowe 说：\"这些技术，包括自动化部分和软件，将会让越来越多的工作滑入‘人类不做这种苦差事’的类别。\"大量由人类化学家承担的岗位将会悄然消失。Lowe 说：\"会用机器的人会取代不会用机器的人。\"连 Peter Ray 都不再觉得自己准确地算作药物化学家。“我算是别的东西，”他若有所思地说，“说实话，我不知道该怎么称呼自己。”"
+    },
+    {
+      "id": "p040",
+      "en": "In the months since the blind date in London, Recursion has announced two drug candidates entering clinical trials, the MALT1 inhibitor and a molecule for lung cancer. A drug for a digestive disease is already in trials. Insilico is in the process of trying to advance to a phase III trial for its idiopathic pulmonary fibrosis drug, with Carol Satler on the phone to doctors. The cards are being turned over, one by one. Ray goes running sometimes, through his neighborhood near Dundee, Scotland, and thinks of his mother.",
+      "zh": "自从伦敦那次“盲约”以来的几个月里，Recursion 已经宣布有两种药物候选物进入临床试验，分别是 MALT1 抑制剂和一款用于肺癌的分子。一种用于消化系统疾病的药物已经在试验中。Insilico 正在推进其特发性肺纤维化药物进入 III 期试验，Carol Satler 正在电话里和医生沟通。牌正在一张一张被翻开。Ray 有时会在他位于苏格兰邓迪附近的社区里跑步，并想起了他的母亲。"
+    },
+    {
+      "id": "p041",
+      "en": "Gibson reflected on the long game he sees Recursion playing. The way it’s tinged with urgency. Yes, they want to change the world. And personally, he thinks it’s been too long in coming. “There’s a lot of people here who have lost a loved one or multiple loved ones to a specific disease,” he said. “They’re pissed off. They’re here because they want to get revenge on the lack of opportunity that that family member, or friend, or child, had.” The meter is ticking, numbering the days, as drugs move through trials and everyone waits to see what happens.",
+      "zh": "吉布森回顾了他眼中的递归公司所走的长期路线。可以看出其中带着急迫感。是的，他们想改变世界。而他个人认为，这场变革来得太晚了。”这里有很多人失去过亲人，或者失去了多位亲人，因为某种特定疾病，”他说，“他们非常愤怒。他们来这里，是因为他们想为那位家人、朋友或孩子曾经错过的机会报一口气。”药物在各阶段临床试验中缓慢推进，时间像计时器一样一秒一秒走过，人人都在等待，看着事态如何发展。"
+    },
+    {
+      "id": "p042",
+      "en": "Time is the thing we are all running out of. Some of us faster than others.",
+      "zh": "时间是我们所有人都在耗尽的东西，只是每个人流逝的速度不同。"
+    },
+    {
+      "id": "p043",
+      "en": "Let us know what you think about this article. Submit a letter to the editor at [email protected].",
+      "zh": "请告诉我们您对这篇文章的看法。请向编辑部投稿：[email protected]。"
+    }
+  ],
+  "translated_at": "2026-07-23T01:27:30+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

@@ -1,0 +1,414 @@
+{
+  "id": "039-the-story-of-doge-as-told-by-federal-workers",
+  "source_href": "feed_0/article_38/index_u6.html",
+  "publication": "wired",
+  "issue": "2026-06-02",
+  "issue_published_at": "2026-06-02",
+  "article_published_at": "2025-09-25T06:00:00-04:00",
+  "published_at": "2025-09-25T06:00:00-04:00",
+  "published_date_source": "article",
+  "order": 39,
+  "section": "Zoë Schiffer",
+  "title_en": "The Story of DOGE, as Told by Federal Workers",
+  "title_zh": "DOGE 的故事，由联邦雇员来讲",
+  "rubric_en": "WIRED spoke with more than 200 federal workers in dozens of agencies to learn what happened as the Department of Government Efficiency tore through their offices.",
+  "rubric_zh": "WIRED 在数十个联邦机构采访了200多名联邦工作人员，以了解美国政府效率部（DOGE）进驻后他们办公室里的变化。",
+  "date": "2025-09-25T06:00:00-04:00",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "In August, months after Elon Musk left the federal government, the director of the Office of Personnel Management offered the first hard estimate of the so-called Department of Government Efficiency’s impact on the civil service. The government would likely end 2025 with about 300,000 fewer employees than it had at the start of the year, he told reporters. Most resignations were attributable to the incentives DOGE had offered the federal workforce to resign their positions. The total figure amounted to one in eight workers.",
+      "zh": "8月，在埃隆·马斯克离开联邦政府数月后，人事管理局（Office of Personnel Management）主任首次给出了所谓“政府效率部”（Department of Government Efficiency）对文职体系影响的硬性估算。他告诉记者，联邦政府到2025年底时，员工人数可能比年初少约30万。大多数离职可归因于DOGE向联邦员工提供的辞职激励。总人数大约相当于每八名工作人员就有一人离职。"
+    },
+    {
+      "id": "p002",
+      "en": "Well, almost. In recent weeks, hundreds of the employees DOGE pushed out have reportedly been offered reinstatement.",
+      "zh": "几乎如此。最近几周，媒体报道称，DOGE推出后被迫离职的数百名员工中，已有部分人被提出了复职。"
+    },
+    {
+      "id": "p003",
+      "en": "The true scope of DOGE’s attack on the federal government remains unknown. While there is no reason to think it achieved meaningful cost savings or operational efficiencies, the ramifications of building a master database to track and surveil immigrants are just beginning to be felt, and its cadre of Musk protégés and tech entrepreneurs remain embedded in agencies throughout the executive branch. The possibilities this opens up—of private takeovers of government operations, of the government embracing Silicon Valley’s ethos of moving fast and breaking things—remain open.",
+      "zh": "DOGE对联邦政府冲击的真实规模仍未可知。虽然没有理由相信它带来了有意义的成本节约或运营效率提升，但建立一个用于追踪和监控移民的主数据库所带来的影响才刚刚开始显现，而且马斯克门生和科技创业者组成的团队仍然嵌入在整个行政部门的各个机构中。这一局势开启的可能性——包括政府业务可能被私人势力接管，以及政府采纳硅谷“快速行动、勇于试错”式的治理理念——仍然悬而未决。"
+    },
+    {
+      "id": "p004",
+      "en": "WIRED spoke with more than 200 federal workers across dozens of agencies to gather the most comprehensive picture yet of how the American government got to this point, and where it may go from here. Many sources requested anonymity because they fear retaliation. They told WIRED not just what has been going on inside the federal government at a time of unprecedented change—but what it’s been like to experience those changes firsthand.",
+      "zh": "WIRED采访了来自数十个机构的200多名联邦员工，尽可能绘制出一幅截至目前最完整的图景，呈现美国政府如何走到今天，以及接下来可能的走向。许多消息源要求匿名，因为他们担心报复。他们向WIRED讲述的，不仅是这个前所未有变革时期联邦政府内部发生了什么，更是亲身经历这些变化之后的真实感受。"
+    },
+    {
+      "id": "p005",
+      "en": "The following is the story, in their words, of what happened when the world’s most powerful man unleashed the world’s richest one on the world’s most complex institution.",
+      "zh": "以下是他们的原话：这就是当世界上权势最大的人将世界上最富有的人“放出”到世界上最复杂的机构里之后发生的事情。"
+    },
+    {
+      "id": "p006",
+      "en": "“I kept comparing it to a natural disaster,” one worker at the Centers for Disease Control and Prevention told WIRED. “But it wasn’t natural. Just a stampede of wide-eyed, confused government employees moving files around and looking over their shoulders because they think maybe Elon was creeping behind them with a chain saw.”",
+      "zh": "“我一直把它比作一场自然灾害，”一位疾病控制与预防中心（Centers for Disease Control and Prevention）的工作人员对WIRED说，“但它并不是自然灾害。更像是一群瞪大眼睛、困惑不已的政府员工仓皇地搬文件、回头张望——因为他们以为马斯克可能拿着电锯就在身后跟着他们。”"
+    },
+    {
+      "id": "p007",
+      "en": "Donald Trump established DOGE within hours of taking office on January 20, assigning it the task of “modernizing Federal technology and software to maximize governmental efficiency and productivity.” Within days, Musk’s allies and their coterie of young, inexperienced technologists were appearing in the offices of relatively unknown agencies like the General Services Administration and the Office of Personnel Management—obtaining unprecedented access to government systems and personnel files in the process. The DOGE operatives included young men like Edward “Big Balls” Coristine, Kyle Schutt, and Ethan Shaotran, all of whom would go on to work at a number of government agencies, from the Department of Education to the Social Security Administration.",
+      "zh": "唐纳德·特朗普在1月20日上任后数小时内成立了DOGE，赋予其“推动联邦技术和软件现代化，以最大化政府效率与生产力”的任务。仅仅几天后，马斯克的盟友以及一支由年轻、缺乏经验的技术人员组成的小团队就出现在总务管理局（General Services Administration）和人事管理局（Office of Personnel Management）等相对不知名机构的办公场所——在这一过程中，他们获得了前所未有的政府系统和人员档案访问权限。DOGE行动人员中包括像Edward “Big Balls” Coristine、Kyle Schutt和Ethan Shaotran这样的年轻人，他们后来又陆续在多个政府机构任职，从教育部到社会保障局（Social Security Administration）都有他们的踪迹。"
+    },
+    {
+      "id": "p008",
+      "en": "“I met Kyle and Ethan on January 23, and I very briefly bumped into Coristine before anyone was talking about him. I would describe them all as giddy, excited, curious, passionate, and super interested in learning about and jumping in on this new thing. I was super excited too at first.",
+      "zh": "“我在1月23日见到过Kyle和Ethan，在有人开始谈论他之前，我还短暂遇到过Coristine。我会形容他们都表现得很兴奋、很激动、很好奇、很有热情，而且都非常想去了解并立刻参与这个新项目。我一开始也特别兴奋。”"
+    },
+    {
+      "id": "p009",
+      "en": "“Then the next week it felt like everything shifted and suddenly they were no longer curious or asking questions or on an adventure and instead they were just frantically running around trying to do impossible shit with no context and no flexibility and no ability to push back.",
+      "zh": "“然后到了下一周，情况突然变了，仿佛一切都发生了转折：他们不再好奇、不再提问，也不再像在一次探险中，而是疯狂地到处奔走，在没有背景说明、没有任何灵活度、也没有余地去抗辩的情况下，试图完成那些根本不可能完成的任务。”"
+    },
+    {
+      "id": "p010",
+      "en": "“I thought maybe it would turn around. But it never did.” —General Services Administration (GSA) worker",
+      "zh": "“我本以为事情会出现转机，但事实并非如此。”——总务管理局（GSA）工作人员"
+    },
+    {
+      "id": "p011",
+      "en": "“The first meeting with DOGE—really the only meeting with DOGE, if I'm going to be honest—was … a virtual meeting that was 30 minutes long. In typical DOGE fashion, the government organization that we were promised unbelievable transparency on, they don't turn the cameras on, they don't tell you who they are, they don't tell you if anybody else is in the room, so you have no idea who you're talking to.” —Colin O’Brien, former head of security at the United States Institute of Peace",
+      "zh": "“我第一次，也可以说是唯一一次与DOGE会面——说实话——是一次30分钟的线上会议。以DOGE一贯的做法，他们是我们被承诺会实现前所未有透明度的那个政府机构，却不打开摄像头，不告诉你他们是谁，也不告诉你房间里是否还有别人，所以你根本不知道自己在和谁说话。”——科林·奥布赖恩，美国和平研究所前安全负责人"
+    },
+    {
+      "id": "p012",
+      "en": "“We saw them immediately. They acted like new hires but a bit furtive since they were actually instructed not to share their full names with us at first.” —Technology Transformation Services worker",
+      "zh": "“我们一见到他们。表现上像是新来的员工，但有点躲着的样子，因为他们起初确实被指示不把全名告诉我们。”——技术转型服务（TTS）工作人员"
+    },
+    {
+      "id": "p013",
+      "en": "“My big aha moment came late, because for so long I was giving them the benefit of the doubt. These guys were young, and they had a job to do, and yes, they were doing it aggressively—but again, I assumed the best. But then Ethan Shaotran went on Fox News, on Jesse Watters. He just trash-talked us pretty bad, conflating things they’d found at other agencies, basically implying we were misappropriating grant money. It made my blood boil. Ethan had to know that wasn’t true. That was it for me—there is no good faith at all.” —Federal worker",
+      "zh": "“我真正明白过来的时刻来得很晚，因为很长一段时间里我一直在给他们留有余地。这些人年轻，他们有任务要做，而且确实在积极执行——但我还是一再默认他们是善意的。可后来Ethan Shaotran在福克斯新闻的Jesse Watters栏目中出镜时，他对我们评头论足得很凶，把他们在其他机构发现的事情混在一起，基本上暗示我们在挪用补助金。那让我气得血沸腾。Ethan应该知道那不是真的。对我来说就到此为止了——他们一点好意都没有。”——联邦工作人员"
+    },
+    {
+      "id": "p014",
+      "en": "“The vibe they gave was ‘So, what is it that you do here?’ and ‘Why can’t AI do that?’” —Technology Transformation Services worker",
+      "zh": "“他们给人的感觉就是：‘那你们在这里到底做什么？’以及‘为什么不能让AI来做这件事？’”——科技转型服务局工作人员"
+    },
+    {
+      "id": "p015",
+      "en": "During the early weeks of the administration, emails from DOGE started showing up in federal workers’ inboxes—or at least in their spam folders.",
+      "zh": "在该政府上任的最初几周，DOGE发来的邮件开始出现在联邦工作人员的收件箱里——或者至少出现在他们的垃圾邮件文件夹里。"
+    },
+    {
+      "id": "p016",
+      "en": "“I logged on to find several emails tagged ‘External,’ because DOGE just brought in their own servers and plugged them into the network. Then there were several subsequent emails from different leaders saying things like, ‘Thank you for all the phishing reports, but the emails are real and need to be followed. But also please keep reporting things that look like phishing. Except from DOGE … but probably even then. And this is totally fine and normal.’” —Contractor for the Veterans Administration",
+      "zh": "“我一登入，就看到好几封标注为‘外部’的邮件，因为DOGE刚把自己的服务器接了进来并接入了网络。后来又有几封来自不同领导人的邮件，说了类似的话：‘感谢你们提交的所有钓鱼邮件报告，但这些邮件都是真实的，必须跟进处理。不过请继续上报看起来像钓鱼邮件的内容。只是不必是DOGE发出的邮件……不过即使是，那也差不多了。并且这完全没问题、很正常。’”——退伍军人事务管理局的承包商"
+    },
+    {
+      "id": "p017",
+      "en": "Among the emails was the now infamous “Fork in the Road,” encouraging workers to be loyal or quit. It closely tracked the language of an email sent to Twitter employees not long after Musk’s takeover of that company. A subsequent follow-up was even more insulting.",
+      "zh": "在这些邮件中，有一封如今臭名昭著的“Fork in the Road”邮件，敦促员工要么保持忠诚要么离职。它的措辞几乎与马斯克接管该公司后不久发给 Twitter 员工的一封邮件如出一辙。随后的一封跟进邮件则更具侮辱性。"
+    },
+    {
+      "id": "p018",
+      "en": "“It was truly so idiotic and looked like it was written by a disturbed child.” —CDC employee",
+      "zh": "“这真的太愚蠢了，分明像是一个精神状态不稳定的孩子写的。”——CDC 员工"
+    },
+    {
+      "id": "p019",
+      "en": "“We’re used to every little thing done by regulation, and now we’re just getting crazy emails … This is a 5-alarm fire. This is a constitutional crisis.” —Department of Labor employee",
+      "zh": "“我们习惯了每一件小事都按规定走流程，现在却被这些疯狂的邮件轰炸……这就是所谓的五级警报（5-alarm fire）。这是一次宪法危机。”——劳工部员工"
+    },
+    {
+      "id": "p020",
+      "en": "“That response shocked me. We knew that this administration had little regard for professionals who choose to work for the federal government, but to state it so publicly, dripping with contempt, was truly unbelievable to me.” —GSA employee",
+      "zh": "“那封回复让我震惊。我们早已知道这届政府对选择为联邦政府工作并保持专业的人并不怎么尊重，但居然公开以如此充满轻蔑的语气说出来，这让我彻底难以置信。”——GSA 员工"
+    },
+    {
+      "id": "p021",
+      "en": "Federal employees who remained were forced back to the office. Many found their workplaces increasingly hostile.",
+      "zh": "留下来的联邦员工被迫回到办公室，许多人发现自己的工作场所正变得越来越让人敌视。"
+    },
+    {
+      "id": "p022",
+      "en": "“A woman I did not know in the cubicle next to me broke down. She was literally wailing, inconsolable, because she could not get into a childcare facility she could afford on such short notice. She literally had to choose between her little child and working. Her explaining to her manager the way her child cried and begged Mommy to stay home broke me. Then, as if on cue, an email from a person whose account said they were the acting IRS commissioner arrived in our inboxes, reminding us that it was “Mental Health Awareness” month and that we can do such helpful things as “practicing gratitude” and breathing techniques to deal with stress. It also reminded us we can take time off to seek professional help … I never saw her again, and her cube is now empty.” —Internal Revenue Service employee",
+      "zh": "“我旁边隔间里有一位我不认识的女士当场崩溃了。她几乎是痛哭失声，无法承受地痛哭，因为她没有办法在这么短的时间里找到一家她负担得起的托儿所。她真的被迫在照顾自己的小孩和上班之间做选择。她向经理讲述她的孩子哭着恳求妈妈呆在家的情形，把我都听得心疼。然后，仿佛有人按了提示键一样，一封来自某位声称是代理国税局局长的人发来的邮件出现在我们的收件箱中，提醒我们现在是“心理健康意识月”，并告诉我们可以通过“练习感恩”和呼吸技巧来缓解压力。这封邮件还提醒我们可以请假寻求专业帮助……我再也没见过她，她的隔间如今已空置。”——美国国内税务局职员"
+    },
+    {
+      "id": "p023",
+      "en": "“Because we are part of Homeland Security, there’s always an armed guard at FEMA facilities. That’s a very standard thing. But the guys we’re used to seeing are like the contracted-out, office patrol guys—they’re mall cops, to be polite about it. They sit at the desk and make sure you have ID, and that’s the extent of their policing. We have a pretty good relationship with our local guy at the front desk of our building. He’s a nice guy; he’ll walk around our office sometimes. We share our snacks with him.",
+      "zh": "“因为我们隶属于国土安全部，所以在 FEMA 的设施里一直都有武装警卫。这很常见，属于标准配置。但我们平常见到的那些人通常是外包来的办公楼巡逻人员——说得客气点，就是‘商场警察’。他们坐在前台，只负责看你的身份证件，而这几乎是他们执勤职责的全部。我们和大楼前台的本地警卫关系很不错。他是个好人；有时也会到办公室里走一圈。我们会和他分享零食。”"
+    },
+    {
+      "id": "p024",
+      "en": "“One day he comes in to walk the office, like he does occasionally, and a few minutes after he passes by, another officer walks through. This time, it’s somebody we’ve never seen before, and he’s like, kitted out. He’s dressed in all black from head to toe; he’s got body armor on. He’s wearing a tactical helmet. He’s got a big gun on him, like a rifle, not like a handgun in a side pouch. He did not have a visible name tag, which is not standard at all—everybody in a federal facility is required to identify themselves at all times, and he had no individual identifying markings. The only writing on his uniform was the big yellow text on his back that said HOMELAND SECURITY.",
+      "zh": "“有一天他来办公楼巡逻，就像平时偶尔来的一样。几分钟后，他走后，另一个警官进来巡查。这次来的，是我们从未见过的人，而且他穿得很‘专业’。他从头到脚都是黑色制服，穿着防弹背心，戴着战术头盔。枪支也很明显，像突击步枪，而不是腰侧包里的手枪。他身上没有可见的姓名牌，这在联邦设施里非常不正常——联邦机构里的任何人都必须随时表明自己的身份，而他却没有任何个人识别标识。他制服上唯一的文字是背后那一行很大的黄色字样：‘HOMELAND SECURITY’。"
+    },
+    {
+      "id": "p025",
+      "en": "“He was walking through the office as slowly as he could. He would pause behind you and watch what you were doing for five to 20 seconds and then move on. His entire demeanor, it was very obvious he wanted us to see him, and he wanted to see us watching him. These are fucking office workers working on laptops. We’re doing spreadsheets and PowerPoints. Like, chill out, dude.",
+      "zh": "“他走路的速度慢得像故意的。你会看到他在你后面停留五到二十秒，盯着你在做什么，然后再继续走。很明显，他的整个举止都在表明，他想让我们看见他，也想让我们盯着看他。这些都是在电脑前工作的该死办公室职员。我们在做的是电子表格和 PPT。你知道吧，冷静点，哥们。”"
+    },
+    {
+      "id": "p026",
+      "en": "“My coworker went over [to the guard] and was like ‘Hey, welcome, can I help you with something, are we in danger? What’s the problem? The officer announces—not just to my coworker but to as many people as can hear him—‘No, I don’t want your help. I’m just here to patrol you and to desensitize you to my presence.’ Then he just keeps on walking. That’s the only thing he’s said to us. He’s been through a couple times now and never gives anyone the time of day—never smiles, never says good morning, just walks through, dresses us all down for a few minutes, and leaves.” —FEMA employee",
+      "zh": "“我同事走到那名警卫跟前，说：‘嘿，欢迎你，有什么事我能帮忙吗？我们有危险吗？问题出在哪里？’ 那名警员宣布——不只是对我同事，而是对能听见他的人都说——‘不，我不需要你帮忙。我来这里只是巡逻，让大家习惯我的出现。’然后他就一直走着。这是他跟我们说的唯一一句话。他已经来过好几次了，而且从来不理谁——从不笑，也不说早上好，就是走过来，在我们身边转一圈，训一会儿，然后离开。”——FEMA 员工"
+    },
+    {
+      "id": "p027",
+      "en": "The offices were also quite literally gross—because DOGE had put a $1 spending limit on most government credit cards and didn’t make exceptions for basic necessities.",
+      "zh": "这些办公室也确实很“脏”，因为DOGE对大多数政府信用卡设定了1美元的消费上限，而且对基本必需品也没有例外。"
+    },
+    {
+      "id": "p028",
+      "en": "“The women’s restroom was out of toilet paper within a week or so of us coming back to the office. I brought this up to Facilities, like, ‘Hey, this is kind of a sanitation and dignity issue, can you hook us up with more toilet paper?’ They were like, ‘We’d love to, but we can’t purchase anything until they unfreeze the cards, and we don’t even know what the process is, because they have them sort of indefinitely frozen.’",
+      "zh": "“我们回到办公室大约一周左右，女洗手间就没纸了。我把这个问题提到设施管理部门，告诉他们：‘这个其实是一个卫生和尊严问题，你们能不能给我们再配点厕纸？’ 他们说：‘我们当然想帮，但在卡片解冻前我们什么也买不了，而且我们也不知道流程是什么，因为这些卡被他们几乎是无限期地冻结了。’”"
+    },
+    {
+      "id": "p029",
+      "en": "“For five months we were instructed to bring in our own toilet paper. I literally kept two rolls at my desk. I wish I were joking.” —FEMA employee",
+      "zh": "“五个月里，我们被要求自带卫生纸。我确实在桌子旁放了两卷，真的希望那只是开玩笑。——FEMA 员工”"
+    },
+    {
+      "id": "p030",
+      "en": "Musk and Trump were eagerly filling government agencies with their allies. At the Department of Housing and Urban Development (HUD), Trump installed Scott Turner, a former NFL cornerback.",
+      "zh": "马斯克和特朗普急于用他们的盟友填充各个政府机构。在住房与城市发展部（HUD），特朗普任命了斯科特·特纳（Scott Turner），一名前国家足球联盟（NFL）角卫。"
+    },
+    {
+      "id": "p031",
+      "en": "“[Turner] has two primary sources of anecdotes I keep hearing: his time in the NFL—specifically that he was drafted in the last round—and his father’s time working as a shelf stocker at Safeway and how he is doing the same thing at HUD by ‘taking inventory and restocking the shelves.’ For a motivational speaker and pastor he is neither motivational nor inspirational.” —HUD employee",
+      "zh": "“[特纳]有两个我反复听到的小故事来源：其一是他在NFL的经历，尤其是他在最后一轮被选中的经历；其二是他父亲曾在沙特威（Safeway）做货架管理员的经历，以及他在HUD里‘清点库存并补充货架’的做法。对一个励志演讲者和牧师来说，他既不激励人，也不鼓舞人。——HUD 员工”"
+    },
+    {
+      "id": "p032",
+      "en": "Immigration was a major pillar of the second Trump administration. While the government made crystal clear it did not want foreigners in the country, it carved out an exception for a minority group of white South Africans in an executive order in February—a topic near and dear to Musk’s heart, as a white immigrant from South Africa.",
+      "zh": "移民问题是特朗普第二任期的重要支柱。虽然政府已经明确表示不想要外国人进入美国，但在二月份却在一项行政命令中为一小群南非白人开了例外——这对马斯克来说是件很有情感分量的话题，因为他本身就是一位来自南非的白人移民。"
+    },
+    {
+      "id": "p033",
+      "en": "“This administration has made a complete mockery of the humanitarian side of immigration. I have interviewed parents who saw their children beheaded in front of them. I have interviewed children who saw their parents killed in front of them. I have interviewed women who have been sexually assaulted. I have interviewed children who have been sexually assaulted. I have interviewed teenagers who were beaten and threatened by their own family because they were part of the LGBTQI+ community. What has happened to these people in South Africa that warrants refugee status in the US? Nothing.” —Department of Homeland Security employee",
+      "zh": "“这个政府对移民的人道主义一面是完全在玩弄和嘲讽。我采访过父母看着自己的孩子被当场斩首的人。我采访过孩子看着自己的父母被当场杀害的人。我采访过遭受过性侵的女性。我采访过遭受过性侵的孩子。我采访过因为属于 LGBTQI+ 社群而被家人殴打并威胁的青少年。那些在南非发生的事情有什么值得他们获得美国难民身份的理由？没有任何理由。”——美国国土安全部员工"
+    },
+    {
+      "id": "p034",
+      "en": "Musk said he wanted to downsize the federal workforce. What was the right size, exactly? As lean as possible. Entire agencies were gutted as tens of thousands of federal employees were subjected to reductions in force, or RIFs. Some of these actions have been challenged in court, but the Supreme Court recently ruled that the Trump administration could continue its proposals to potentially lay off federal workers en masse.",
+      "zh": "马斯克表示他想压缩联邦公务员规模。到底要缩到多大？越精简越好。随着成千上万名联邦员工被裁减，很多机构被“掏空”，并实施了裁员计划，也就是 RIF（岗位削减）。“RIF”在美国常指“reduction in force”，即大规模人员削减。部分行动已被法院起诉，但美国最高法院最近裁定，特朗普政府可以继续推进可能一次性解雇大批联邦工作人员的方案。"
+    },
+    {
+      "id": "p035",
+      "en": "“The moment everything crystallized for me was the day they came for a respected career deputy. Someone who embodied integrity and competence. His ‘crime’? Having the guts to challenge DOGE’s reckless RIF plans. One afternoon, he returned from lunch to find security waiting at his desk. No explanation, no warning—just a quiet escort out of the building while stunned colleagues looked on. Years of dedicated service reduced to a public humiliation.” —Department of Labor employee",
+      "zh": "“对我来说，一切都彻底明白的那个瞬间，是他们把一位深受尊敬的职业副手调离的时候。那人身上集合了正直和能力。‘罪名’是什么？他有勇气质疑DOGE那种鲁莽的 RIF 方案。一天中午他下班回来时，在他办公桌旁已经等着安全人员。没有解释，没有警告——只是让他在同事震惊的目光中，被悄悄护送离开大楼。多年的长期奉献竟被当场变成了公开羞辱。”——劳工部员工"
+    },
+    {
+      "id": "p036",
+      "en": "“I knew what the powers that be were doing wasn't legal. So either they were incompetent and didn't know it was illegal, or they knew it was illegal and didn’t care. Which one is scarier?” —CDC employee",
+      "zh": "“我知道那些掌权者在做的是不合法的。要么他们无能，没意识到违法；要么他们明知违法却不在乎。你说哪种更可怕？”——美国疾控中心（CDC）员工"
+    },
+    {
+      "id": "p037",
+      "en": "“What stands out to me is how disorganized and unprofessional the GSA reduction in force was. Staff were instructed to return government IDs ASAP. We lost Google Drive access immediately, and the agency put resources about our RIF on there. We were blocked from sending emails to non-GSA addresses. Even trying to email career documents to your private email address became a huge issue.” —GSA employee",
+      "zh": "“我印象最深的，是美国总务署（GSA）的裁员行动有多么混乱和不专业。员工被要求尽快归还政府工作证。我们立刻失去了 Google Drive 的访问权限，而该机构把关于裁员（RIF）的相关资料都放在那里。我们还被禁止给 GSA 以外的地址发邮件。即使是想把职业相关文件发送到你的私人邮箱，也变成了一个大问题。”——GSA 员工"
+    },
+    {
+      "id": "p038",
+      "en": "“When the Consumer Financial Protection Bureau was first gutted, one person left their blazer in the office and was unable to get back into the building to get it. It was the only blazer they owned: They were broke, applying for jobs, and had nothing to wear to interviews because of this.” —CFPB employee",
+      "zh": "“当消费者金融保护局（CFPB）第一次被大规模裁撤时，有个人把自己的西装外套落在办公室，结果没法回到大楼去拿。那是他唯一的一件西装外套：他身无分文、正在投递求职申请，而且因为这件事他面试时没有合适的衣服可穿。”——CFPB 员工"
+    },
+    {
+      "id": "p039",
+      "en": "On February 14, tens of thousands of federal workers lost their jobs in an event that would become known to those impacted as the Valentine’s Day Massacre. Other workers were told they were going to receive firing letters imminently—only to wait days with no news.",
+      "zh": "2 月 14 日，数万名联邦雇员失去了工作，这一事件后来在受影响者中被称为“情人节大清洗”。其他员工被告知即将收到解雇通知书——结果却又等了几天毫无线索。"
+    },
+    {
+      "id": "p040",
+      "en": "“My fiancée and I had just come back from dinner. We’re getting ready to go to bed. I decide I’m just going to disconnect from social media and my email. I’m just going to turn it off … I saw I had an unread message. I was fired at 11, 11:30 pm. [My fiancée] looks at me, and she sees my demeanor change. [She says,] ‘That was the email, wasn't it?’” —Fired Federal Aviation Administration aeronautical information specialist",
+      "zh": "“我和未婚夫（未婚妻）刚从晚餐回来。我们正准备上床。我当时想：我先把社交媒体和邮箱都断开吧。我要把它关掉……可我看到了一个未读消息。我在晚上 11 点到 11 点半被解雇了。[我的未婚夫（未婚妻）]看着我，看到我的表情变了。[她说，]‘那是那封邮件吧？’”——一名被解雇的联邦航空管理局航空信息专家"
+    },
+    {
+      "id": "p041",
+      "en": "“It was Valentine’s Day, and my partner planned a romantic dinner for us that I ate in a catatonic state, in my sweatpants, covered in tears.” —CDC employee",
+      "zh": "“那是情人节，我的伴侣为我们安排了浪漫晚餐，我却穿着运动裤、泪流满面、像失了神一样把晚饭吞下去。”——疾控中心（CDC）员工"
+    },
+    {
+      "id": "p042",
+      "en": "On February 22, in another echo of his Twitter takeover, Musk warned that the entire federal workforce needed to write an email explaining what they’d gotten done the previous week.",
+      "zh": "2月22日，在他再次接管推特的影子下，马斯克警告说，整个联邦员工队伍都需要写一封电子邮件，说明他们在上一周完成了什么工作。"
+    },
+    {
+      "id": "p043",
+      "en": "“It was so humiliating to have to prove, ostensibly to Elon Musk—someone not in my chain of command or even a government employee—what I was doing. Not only is it none of their business what I was up to (they are not my supervisor), but they wouldn’t even understand anything I put in there anyway since it’s far too technical. I put read receipts on my first submission, and after I hadn’t gotten pinged that it had been read after two subsequent submissions, I just stopped sending them. It made me so mad that not only are they passive-aggressively insinuating I’m doing nothing, but they’re wasting tons of federal workers’ time (and taxpayer money) doing this exercise, and they aren’t even opening the emails. Infuriating.” —Department of Defense employee",
+      "zh": "“必须向马斯克（在我的汇报链之外、甚至不是政府雇员）‘证明’我在做什么，这太羞辱人了。更何况这不该是他们的事（他们不是我的上级），而且他们根本不可能理解我写的内容，因为内容太专业。第一份提交里我开启了已读回执，在又提交两次都没有收到已读提示后，我就不再发了。让我气愤的是，他们不仅在被动地暗示我什么都没做，还让大量联邦雇员（以及纳税人的钱）浪费在这项‘练习’上，可他们甚至连邮件都不看。太令人抓狂了。”——国防部（Department of Defense）雇员"
+    },
+    {
+      "id": "p044",
+      "en": "“[Employees were responding with] emails in different languages … responding with the Constitution, and (for someone coming right back from maternity leave) responding with things such as: ‘breastfed a newborn for X number of hours, changed Y number of diapers with Z throughput, managed stakeholder input from my in-laws on best ways to burp a child.’” —VA IT worker",
+      "zh": "“【员工们开始以】不同语言回邮件……回到《宪法》、（对于刚刚从产假回来的人来说）还在回：‘给新生儿母乳喂养了 X 小时，换了 Y 片纸尿裤，处理了 Z 次家属对婴儿拍嗝方式的意见。’”——退伍军人事务部（VA）IT 员工"
+    },
+    {
+      "id": "p045",
+      "en": "“I actually laughed pretty hard [at Musk’s email]. It’s just so ridiculous … It’s either [that or] be mad 24/7 (which some of my compatriots have decided to do), and I just don’t have the energy anymore.” —FAA air traffic controller",
+      "zh": "“我其实看了马斯克那封邮件笑得很大声。实在太荒谬了……要么[那样处理]、要么就24小时都在生气（我的一些同胞已经选择了这种方式），但我已经没那么多精力了。”——联邦航空局空中交通管制员"
+    },
+    {
+      "id": "p046",
+      "en": "On March 14, 2025, Colin O’Brien, then the head of security for the United States Institute of Peace, learned that the agency’s board had purportedly been fired. DOGE associates, including one named Nate Cavanaugh, arrived at USIP headquarters in Washington, DC.",
+      "zh": "2025 年 3 月 14 日，美国和平研究所的安全负责人柯林·奥布莱恩（Colin O’Brien）得知该机构董事会疑似被解雇。包括一位名叫内特·卡瓦诺（Nate Cavanaugh）在内的 DOGE 人员到达了位于华盛顿特区的美国和平研究所总部。"
+    },
+    {
+      "id": "p047",
+      "en": "“The on-duty security lieutenant called me and said, ‘Hey, DOGE is here.’ The instructions we had given were that any visit by DOGE that was unscheduled, they were not to be permitted entry. If they had a scheduled appointment, absolutely, we’d have let them in. They stayed outside for a little bit less than 30 minutes and then left.”",
+      "zh": "“值班副官给我打电话说：‘嘿，DOGE 来了。’ 按照我们下达的指示，任何未经预约的 DOGE 访问都不允许入内。如果他们有预约，当然我们会让他们进去。他们在外面停留了不到 30 分钟，然后离开了。”"
+    },
+    {
+      "id": "p048",
+      "en": "Later, O’Brien got another call from the front security desk.",
+      "zh": "后来，奥布莱恩又接到了前台安全值班台打来的另一个电话。"
+    },
+    {
+      "id": "p049",
+      "en": "“They're like, ‘Hey, the FBI is here with DOGE.’ So we step outside. It was two FBI agents to our right and then four DOGE people to the left, sort of standing in a semicircle. They're dressed like college kids—sneakers and jeans that are too tight—certainly not business attire.",
+      "zh": "“他们说：‘嘿，FBI和DOGE来了。’于是我们都走到外面。右边有两个FBI探员，左边有四个DOGE人员，像半圆形站在那里。人家穿得像大学生——球鞋和紧身牛仔裤——绝对不是商务装。”"
+    },
+    {
+      "id": "p050",
+      "en": "“Our attorney asked the FBI: Why are you guys here? Do you have a court order, a warrant, anything? And they said no, and they said, ‘We're here to facilitate a cordial conversation.’ They looked embarrassed to be there, being just very honest.",
+      "zh": "“我们的律师问FBI：你们来做什么？有没有法院命令、搜查令之类的东西？他们说没有，并且说：‘我们是来促成一次友好对话的。’他们看起来有点尴尬，似乎不太愿意在场，显得非常坦诚。”"
+    },
+    {
+      "id": "p051",
+      "en": "“The conversation lasts maybe five minutes, then the DOGE people leave with the FBI agents. I didn’t realize at the time that one of the women in the DOGE SUV had run around to the side of the building and was trying to convince one of the guards to let her in through a side door, claiming at first that it was cold and she had to go to the bathroom. Then that changed, when she was told no, to: ‘I have every right to be in a government building.’ So on one hand you have the intimidation factor of federal agents plus DOGE at your front door. And then you have this juvenile covert attempt in the back door. If she’d gotten in the door she would’ve probably called 911 and claimed false imprisonment or something.”",
+      "zh": "“谈话大概持续了五分钟，然后DOGE人员就和FBI探员一起离开了。当时我不知道，那辆DOGE的SUV里有一个女人先绕到楼的侧面，试图说服其中一名保安让她从侧门进去。起初她说太冷了，要去洗手间。后来被拒后，她改口说：‘我有权进入政府大楼。’所以你一边面对联邦探员和DOGE在正门的威慑性存在，另一边又会遇到这种幼稚的“秘密”尝试从后门闯入。如果她真的进去了，我想她很可能会打911报案，然后声称自己被非法拘禁。”"
+    },
+    {
+      "id": "p052",
+      "en": "DOGE ultimately got into the building (estimated value: $500 million; DOGE attempted to gift GSA the space but was blocked by a federal judge) and fired nearly every employee. On March 28, as staff were receiving termination notices—and finding out their health care would be cut the same day—one of O’Brien’s colleagues spied a salad in the office refrigerator with the name “Nate C” on it and promptly threw it in the trash.",
+      "zh": "DOGE最终进入了这栋楼（估值5亿美元；DOGE曾试图把这处空间赠与GSA，但被一名联邦法官阻止），并解雇了几乎所有员工。3月28日，当员工正在收到解雇通知——并得知当日就会被取消医疗保障——时，O’Brien的一位同事看到办公室冰箱里有一份写着“Nate C”名字的沙拉，随即把它扔进了垃圾桶。”"
+    },
+    {
+      "id": "p053",
+      "en": "Elsewhere, DOGE was entering more agencies for the first time. Departments that rarely faced political strain, such as those that support arts and culture programs, were put under a microscope. Others, like the Consumer Financial Protection Bureau, were put on ice.",
+      "zh": "与此同时，DOGE 正首次进入更多机构。那些很少遭遇政治压力的部门，例如支持艺术和文化项目的部门，被置于聚光灯下进行仔细审视。另一些机构，如消费者金融保护局，则被按下了暂停键。"
+    },
+    {
+      "id": "p054",
+      "en": "“No one has ever been against museums and libraries before. It seems like a really nonpolitical issue, and here we are facing a hostile takeover in real time … We were put on leave on March 31. By April 3, we were already starting to hear about grants being terminated. They were done through email, very generically, not through the official recordkeeping system, saying that they no longer met the priorities of the agencies. We initially heard about it from grantees. They were posting things publicly. On LinkedIn. On social media.” —Institute of Museum and Library Services employee",
+      "zh": "“从前没人反对博物馆和图书馆。看起来这本应是个完全不具政治色彩的问题，但我们如今正在实时目睹一场敌对式接管……我们在3月31日被暂时停职。到了4月3日，我们就已经开始听到有些资助正在被终止。它们是通过电子邮件发布的，内容非常笼统，而且没有通过正式的记录保存系统，邮件里写着这些项目不再符合机构的优先事项。我们最初是从资助对象那边得知的，他们把消息公开发布了。发布在领英上，在社交媒体上。”——博物馆与图书馆服务研究所员工"
+    },
+    {
+      "id": "p055",
+      "en": "“People’s livelihoods were gone, wiped out and thoroughly decimated. So many of these grantees work their entire lives to see a project, book, or exhibit come to fruition. These dreams came to a crashing and fiery end in the single hit of a button by someone who likely would never understand the true devastating impact.” —National Endowment for the Humanities employee",
+      "zh": "“大家的生计被夺走了，化为乌有、被彻底摧毁。太多受助者投入了一生心血，只为看到一个项目、一部书籍或一次展览最终实现。这些梦想在某人一键之间陡然粉碎、猛烈熄灭，仿佛是被一把火般终结，而那个人很可能永远不会理解其真正的毁灭性影响。”——美国人文基金会国家终身基金会员工"
+    },
+    {
+      "id": "p056",
+      "en": "“I like to think of it as I am being slightly defiant. I’ll say, ‘Although I was hired to do [certain duties] under the law, I have not been permitted to do work, so my accomplishments are limited to submitting a timesheet.’” —CFPB employee",
+      "zh": "“我喜欢把这看作自己有点反抗的姿态。我会说，‘虽然我是按法律被雇来做【某些职责】的，但我并没有被允许开展工作，因此我真正的成果只限于提交一张工时表。’”——CFPB 员工"
+    },
+    {
+      "id": "p057",
+      "en": "After an initial flurry of lawsuits related to DOGE access to sensitive networks, the president decided to unilaterally declare on March 20 that they could go, essentially, wherever they wanted.",
+      "zh": "在一连串最初围绕 DOGE 进入敏感网络而提起的诉讼之后，总统于3月20日单方面宣布，他们几乎可以到他们想去的任何地方。"
+    },
+    {
+      "id": "p058",
+      "en": "“Learning about that was like getting punched in the stomach. It goes against everything our agency stands for, our mission. I have personally encouraged immigrant parents to file for benefits for their American children because those children needed it, and have promised all of them that they were safe and that we didn’t share their information, and they trusted me. And now this administration has made a liar out of me.” —Social Security Administration employee",
+      "zh": "“得知这件事的那一刻，就像一拳重重打在胃上。它违背了我们机构所坚持的一切、我们承担的使命。出于职责，我曾亲自鼓励移民父母为他们的美国孩子申请福利，因为这些孩子确实需要这些支持，也因此向他们保证他们是安全的，我们不会共享他们的信息，而他们也信任我。现在，这个政府却让我成了骗子。”——美国社会保障局员工"
+    },
+    {
+      "id": "p059",
+      "en": "At some agencies, that access extended to taking control of official social media accounts.",
+      "zh": "在一些机构，这种访问权限甚至扩展到了接管官方社交媒体账号。"
+    },
+    {
+      "id": "p060",
+      "en": "“I had to turn over access to our website and social media accounts. Ethan Shaotran asked me to turn over the login info to the website, to Facebook, Instagram, and X. I gave the passwords and usernames for those accounts. He came back later and asked for the address to log in to the WordPress account. I tried to just give the exact information they asked for because I wanted to passively resist. That’s why DOGE didn’t get access to our LinkedIn—they didn’t ask for it. The public considers these guys to be tech geniuses, but I’d say WordPress is pretty intuitive. It took them two days to take the website down.” —Federal worker",
+      "zh": "“我不得不交出网站和社交媒体账户的访问权限。Ethan Shaotran 要求我把网站、Facebook、Instagram 和 X 的登录信息都交出来。我把这些账户的密码和用户名都提供了。后来他又回来，要求提供登录 WordPress 账号的地址。我尽量只提供他们索取的确切信息，因为我想采取一种被动抵抗的方式。这也是为什么 DOGE 最终没拿到我们 LinkedIn 的权限——他们没有要求。公众总觉得这些人是技术天才，但我会说 WordPress 非常直观。他们花了两天时间才把网站下线。”——联邦员工"
+    },
+    {
+      "id": "p061",
+      "en": "In March, the Social Security Administration readied a plan ostensibly to combat identity theft. Under the plan, beneficiaries would not be able to verify their identity on the phone as they had in the past. Instead they’d have to use an online portal or show up in person. (About a week later, the SSA relented and began allowing the phone again.)",
+      "zh": "3月，社保局推出了一项表面上用于打击身份盗用的计划。根据这项计划，领取者今后不能像过去那样通过电话核实身份，而必须改用在线门户网站，或亲自到办事处办理。约一周后，SSA 终于退让，重新允许通过电话办理。"
+    },
+    {
+      "id": "p062",
+      "en": "“Some elderly beneficiaries were crying on the phone, terrified that they would lose their benefits if they couldn’t figure out how to travel to an office and show us their ID. One woman was in her nineties. Another elderly couple showed up at an SSA office to prove they were alive, but it was never clear that this was necessary—no policy guidance had been issued.",
+      "zh": "“一些年长受益人打电话时都在哭，担心如果他们不知道如何前往办事处并出示身份证，就会失去福利。一位女士已经九十多岁。还有一对老年夫妇来到SSA办事处，向我们证明自己还活着，但当时始终不清楚这是否真的有必要——因为当局没有发布任何政策指引。”"
+    },
+    {
+      "id": "p063",
+      "en": "“We were told to be patient and wait until guidance could be provided. At one point, we were told that we would receive instructions a week AFTER the policy implementation day.",
+      "zh": "“我们被要求耐心等待，直到可以发布指引。有一次，他们告诉我们，直到政策实施后的一周，我们才会收到相关操作说明。”"
+    },
+    {
+      "id": "p064",
+      "en": "“In the end, the administration discovered that there wasn’t a problem with fraud in our teleclaims, something that frontline staff could’ve told them from the beginning. Less than 1 percent of claims were even flagged for further investigation. If our leaders would take the time to learn how to read the records, they might know this too.” —SSA employee",
+      "zh": "“最终，管理层发现我们电话认领中并不存在欺诈问题，这件事一开始前线员工就可以告诉他们了。不到1%的申领记录甚至被标记为需要进一步核查。如果领导层愿意花时间把记录看一遍，他们也会知道这一点。”——SSA员工"
+    },
+    {
+      "id": "p065",
+      "en": "The concern for security apparently did not extend to DOGE affiliates themselves.",
+      "zh": "显然，安全问题并没有得到对DOGE关联人员的延展。"
+    },
+    {
+      "id": "p066",
+      "en": "“In April, I happened to come across a partial list of employees and contractors who had not completed some of their mandatory security training. I wasn't surprised to see that DOGE-affiliated names made up more than a quarter of the list. It included [Technology Transformation Services director] Thomas Shedd, [Federal Acquisition Service head] Josh Gruenbaum, Ed Coristine, Luke Farritor, and Steven Davis. —Current GSA IT contractor",
+      "zh": "“四月的时候，我碰巧看到了一份尚未完成某些强制安全培训的雇员和承包商的部分名单。看到DOGE相关人员占了名单中四分之一以上，我并不感到惊讶。名单里包括[技术转型服务处处长]托马斯·谢德（Thomas Shedd）、[联邦采购服务负责人]乔什·格鲁恩鲍姆（Josh Gruenbaum）、埃德·科里斯汀（Ed Coristine）、卢克·法里托（Luke Farritor）和史蒂文·戴维斯（Steven Davis）——现任GSA IT承包商。”"
+    },
+    {
+      "id": "p067",
+      "en": "At AmeriCorps, DOGE called home thousands of young volunteers working on infrastructure projects or disaster relief around the country. It was chaos—a kind of chaos repeated across many agencies as spring wore on.",
+      "zh": "在AmeriCorps项目中，DOGE曾动员了成千上万名青年志愿者，在全国各地从事基础设施项目和灾后救援。那是一片混乱；随着春天的推进，这种混乱在许多机构中反复出现。"
+    },
+    {
+      "id": "p068",
+      "en": "“DOGE arrived at our agency in early April. About a week later, on Tuesday, they shut down the National Civilian Community Corps. They wanted to bring all the members home. Members were in the literal field though, like they were in forests and on trails.",
+      "zh": "“DOGE于四月初来到我们机构。大约一周后，周二，他们关闭了国民民间社区军团（NCCC）。他们想把所有成员召回。成员们当时都在真正的现场，比如在森林里、在步道上。”"
+    },
+    {
+      "id": "p069",
+      "en": "“The next day, 85 percent of us were placed on administrative leave. They had people booking flights for members to get home, and their computers were cut off while they were booking. It was chaos. People were just disappearing. On April 24, people started receiving RIF notices, except a bunch of them were addressed to the wrong person.” —Current AmeriCorp employee",
+      "zh": "“第二天，我们当中有85%的人被安排了行政休假。他们已经开始给成员订回家的航班票，而大家在订票时电脑却被断网了。那真是一片混乱。人们就这样一个接一个消失。到了4月24日，大家开始陆续收到裁员（RIF）通知，但其中不少通知都寄错了人。”——现任AmeriCorp员工"
+    },
+    {
+      "id": "p070",
+      "en": "By June, Musk appeared to officially leave DOGE. With him went some key lieutenants: Steve Davis, Musk’s right-hand man during the Twitter takeover and DOGE’s de facto leader; Nicole Hollander, Davis’ partner, who played a key role at the GSA; and Katie Miller, communications lead for DOGE and the wife of White House deputy chief of staff for policy Stephen Miller. Musk’s send-off had included a friendly press conference with Trump, but that fragile peace was shattered a few days later, when Musk went to war with Trump on X. It seemed like Musk’s ouster from government—and breakup with the president—was complete.",
+      "zh": "到6月，马斯克似乎正式离开了DOGE。随他而去的，还有几位关键副手：斯蒂夫·戴维斯——马斯克在收购Twitter期间的左右手，也是DOGE的实际领导者；尼科尔·霍兰德——戴维斯的搭档，在GSA发挥了关键作用；以及凯蒂·米勒，DOGE的传播负责人，也是白宫政策副幕僚长斯蒂芬·米勒的妻子。马斯克的告别活动曾包括与特朗普的友好记者会，但这脆弱的和平在几天后就被打破，马斯克在X上与特朗普开战。看起来马斯克被政府“清退”以及与总统的决裂似乎已经完成。"
+    },
+    {
+      "id": "p071",
+      "en": "“For all the talk that Trump likes teams of rivals, he doesn’t respect people who are nasty, interpersonally … I thought the cabinet secretary fights would be the end. The president was not going to tolerate him going after his cabinet secretaries, publicly or privately … The president just didn’t want that. He’s not going to tolerate that negativity. He likes all these people. These are his people. Marco’s a decade-old friend, at least, and a former competitor [with whom] he has a special comradery who he almost picked as his vice president. Peter Navarro went to jail for the guy. Took a federal charge, was found guilty, and ate it. Scott Bessent is his treasury secretary. Stuff like that was not gonna fly for very long.” —Senior Trump official",
+      "zh": "“尽管特朗普总是说自己喜欢对手制衡的团队，但他不尊重那些脏话连篇、讲究人际关系很差的人……我原以为和内阁秘书之间的争执会是结束。总统不会容忍他公开或私下攻击自己的内阁秘书……总统就不想看到这种情况发生。他不容忍这种负面情绪。他喜欢这些人。——这些都是他的人。Marco是他十几年的朋友，至少还是个……[与他有]特殊战友情的前竞争对手，几乎被他选作副总统。彼得·纳瓦罗是为了‘给那家伙’入狱才去坐牢的，结果被判联邦重罪，罪名成立，坐实下场。斯科特·贝森特是他的财政部长。那种事绝不可能长期持续。”——特朗普高级官员"
+    },
+    {
+      "id": "p072",
+      "en": "The era of Musk’s DOGE, the flashy, so-called agency that garnered Fox News specials and had orchestrated the biggest upheaval the modern US government has ever faced, appeared to be over. But the next phase was just beginning, with DOGE’s operatives and its ethos occupying every corner of government. And the toll on federal employees still hasn't stopped.",
+      "zh": "马斯克主导的DOGE时代——那个喧嚣、号称“机构”、制造了福克斯新闻专题报道并推动美国现代政府历史上最大震荡的时期——似乎已经结束了。但是下一个阶段才刚刚开始，DOGE的执行官和其作风正在占据政府的每一个角落。而对联邦员工的影响还远未停止。"
+    },
+    {
+      "id": "p073",
+      "en": "“We are in purgatory—not having enough resources to do our jobs and not knowing what the vision is for the agency moving forward. Leadership by utter neglect.” —GSA employee",
+      "zh": "“我们就像在炼狱里——没有足够的资源完成工作，也不知道机构未来的愿景是什么。领导层的方式是一种彻底的冷漠。”——GSA员工"
+    },
+    {
+      "id": "p074",
+      "en": "“I am a clinical psychologist with plenty of lifetime trauma myself, but I had never actually attended therapy or seen a psychiatrist until after the inauguration. I was so upset when I first spoke to the telehealth psychiatrist that I couldn't even speak and almost had to hang up. They said that I was not the first federal employee that they'd talked to.",
+      "zh": "“我自己有不少一生中的创伤经历，但直到就职后我才真正去参加过心理治疗，也没去看过精神科医生。我第一次和远程精神科医生通话时太激动了，甚至说不出话，差点挂断。医生说我并不是他们见过的第一个联邦员工。”"
+    },
+    {
+      "id": "p075",
+      "en": "“This was the trauma that they wanted, that they planned, that they promised us. And, for once, they did a great job of delivering.” —CDC employee",
+      "zh": "“这就是他们想要的创伤，是他们计划好的，也是他们向我们许下的承诺。这一次，他们确实把这件事做到了。”——CDC员工"
+    },
+    {
+      "id": "p076",
+      "en": "“I’m terrified for our country and what all this means for the future. I need medication to help regulate me, because [Trump is] not going away anytime soon. And since I'm in HR, I can't get away from it. I live and breathe this during all my awake hours. If I'm not at work fielding questions from terrified employees or working with another team to terminate tons of people, family and friends are calling to see if I have any inside scoop or to check on the status of my own job.” —Federal HR employee",
+      "zh": "“我为这个国家和这对未来的意味感到恐惧。我需要药物帮助自己稳定情绪，因为[特朗普]不会在近期离开。并且因为我在HR，我无法逃开这件事。我醒着的时候，全部时间都在为此活着。若不是我在工作时接待惊恐员工的提问，或与另一个团队一起执行大规模裁员，我就会被家人和朋友打电话追问：我是否有内部消息，或我自己的工作有没有动荡。”——联邦人力资源员工"
+    },
+    {
+      "id": "p077",
+      "en": "“I’m the type of person where, like, if you push me I’ll push back. I don’t like to live in a mindset of despair and negativity. When these people do this shit, it just lights my fire. It makes me more fucking mad. This used to be the best job I’ve ever had, the best environment I’ve ever had, the best culture I’ve ever had—and they fucking ruined it. I will never ever forget how much they ruined it. I’m like, fuck these people. They can’t get me scared. I will not give them what they want. I will not just leave. I’m going to make it as difficult as possible for these fuckheads.” —FEMA employee",
+      "zh": "“我就是那种如果你往我身上推一把，我也会反推回去的人。我不喜欢生活在绝望和负面的思维里。当这些人干这些事的时候，它只会点燃我的斗志。这让我更加他妈地生气。这本来是我做过的最好的工作、最好的环境、最好的文化——而他们把它搞砸了。我要永远记得他们毁掉了它多少。就像，去他妈的这些人。他们不可能吓到我。我不会给他们想要的结果。我也不会就这么走掉。我会让这些混蛋们尽可能难受。” ——FEMA 员工"
+    },
+    {
+      "id": "p078",
+      "en": "Let us know what you think about this article. Submit a letter to the editor at [email protected].",
+      "zh": "请告诉我们您对这篇文章的看法。向 [email protected] 投递给编辑部来信。"
+    }
+  ],
+  "translated_at": "2026-07-22T17:37:39+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

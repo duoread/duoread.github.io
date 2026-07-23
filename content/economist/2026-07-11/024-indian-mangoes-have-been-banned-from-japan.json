@@ -1,0 +1,59 @@
+{
+  "id": "024-indian-mangoes-have-been-banned-from-japan",
+  "source_href": "b4e980e5-6b8d-4020-9a63-0475a62a19a2.html",
+  "publication": "economist",
+  "issue": "2026-07-11",
+  "issue_published_at": "2026-07-11",
+  "article_published_at": "July 9th 2026",
+  "published_at": "July 9th 2026",
+  "published_date_source": "article",
+  "order": 24,
+  "section": "Asia",
+  "title_en": "Indian mangoes have been banned from Japan",
+  "title_zh": "印度芒果被日本禁运",
+  "rubric_en": "It’s the latest sign of a widespread food-safety problem",
+  "rubric_zh": "这再次暴露了普遍存在的食品安全问题",
+  "date": "July 9th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "Hundreds of people had gathered to honour India’s favourite fruit. Braving the heat in Delhi’s Lodhi Gardens, a rapper riffed on the double meaning of aam, the Hindi word for both mango and common, as in common man. People dressed in mango-themed outfits were lectured by a mango farmer. Finally, the party, the fifth to be organised by an enthusiast named Ravinder Singh, descended into the mass munching of 120kg of the stuff.",
+      "zh": "数百人在德里洛迪花园聚会，为印度最受喜爱的水果庆祝。面对酷热，这里举办了一场活动，一位说唱歌手玩味地说了“aam”一词的双重含义——这是印地语里既指芒果，也表示普通人。穿着芒果主题服装的人们被一位芒果种植者讲解，而这场由爱好者拉温德·辛格（Ravinder Singh）举办的第五次派对最终演变成了对120公斤芒果的集体大快朵颐。"
+    },
+    {
+      "id": "p002",
+      "en": "Japan won’t be having any, though. It has banned fresh mango imports from India, after the world’s biggest producer failed its pest-control checks. India flunks a lot of such tests. Its spices, seafood and rice all face restrictions, bans and extra inspections in America, Europe and Asia. The EU has issued 365 alerts against various Indian food products in the past two years. The problem begins on farms, where runaway pesticide use and banned chemicals are common and good pest control is not. Corruption and lax monitoring mean that pesticides, drug residues and microbial bugs like salmonella then travel smoothly up the supply chain.",
+      "zh": "但日本却不会（让它们）进来。日本已禁止进口来自印度的新鲜芒果，因为世界上最大的芒果生产国未通过其病虫害控制检查。印度在这类检查中常常不及格。其香料、海鲜和大米在美国、欧洲和亚洲都面临限制、禁令以及额外检查。欧盟在过去两年对各类印度食品发出了365条警示。问题起源于农场：过量使用农药和使用禁用化学品在那里很常见，而真正有效的病虫害控制却难以落实。腐败和松散监管使得农药、药物残留以及沙门氏菌等微生物污染物可以顺利沿供应链一路流入。"
+    },
+    {
+      "id": "p003",
+      "en": "Bad food is bad for business. A single cargo container of spices can be worth over $100,000, so rejection by inspectors hurts. Harder to measure are reputational hits and extra inspection costs in the future. The EU already lab-tests 20-50% of all Indian chilli and curry-leaf shipments—at the producers’ expense.",
+      "zh": "食品质量差不利于生意。一个装香料的单个集装箱就可能价值超过10万美元，因此被检验员退运会带来直接损失。更难量化的是未来可能出现的信誉损害和额外的检验成本。欧盟已对印度20%到50%的辣椒和咖喱叶运输批次进行实验室检测，且检测费用由生产商承担。"
+    },
+    {
+      "id": "p004",
+      "en": "The biggest victims are unsuspecting Indians. Almost one in five samples that the Food Safety and Standards Authority of India tested in 2024-25 failed. One recent raid in Gujarat unearthed a stockpile of worm-eaten and fungus-infected mangoes destined for juice. Artificial ripening—a banned but common chemical trick—can cause organ failure. Other things can kill over decades: the bigger the amount of certain pesticides you consume, the greater the risk of cancer.",
+      "zh": "受害最重的反而是毫无防备的印度人。印度食品安全和标准局（FSSAI）在2024-2025年度检测的样本中，几乎每五份就有一份不合格。最近在古吉拉特邦的一次突击检查中，执法人员发现了一批原本要用于榨汁的芒果库存，其中不少已被虫蛀或长霉。人工催熟——一种被禁止却广泛使用的化学手段——可能导致器官衰竭。还有一些危害会在更长时间尺度上显现：你摄入的某些农药越多，癌症风险就越高。"
+    },
+    {
+      "id": "p005",
+      "en": "Some fixes are for policy wonks. There could be a national farm-to-port tracing system for agricultural exports, and more testing labs along the supply chain. Other solutions may require high-level input. Over the past decade Bangladesh has virtually eliminated poisoning from lead chromate, a chemical that was frequently added to the spice turmeric to enhance its colour. Lead is toxic to humans, increasing the risk of brain and heart disease, and particularly dangerous to children because it can stunt their cognitive development.",
+      "zh": "有些做法更像是为政策专家准备的。对于农产品出口，可以建立一个全国性的“从农场到港口”追溯体系，并在供应链上增加更多检测实验室。其他解决方案可能还需要高层决策参与。过去十年，孟加拉国几乎彻底消除了对姜黄中经常添加以加强颜色的化学品——铬酸铅——导致的中毒问题。铅对人体有毒，会提高患脑病和心脏病的风险，而且对儿童尤其危险，因为它会抑制认知能力的发展。"
+    },
+    {
+      "id": "p006",
+      "en": "Bangladesh’s action against the additive involved public intervention from the prime minister, as well as a graphic TV campaign and the plastering of 50,000 notices in markets and other public areas. Adulteration of turmeric with the chemical was made a crime; India had done that earlier, but failed to implement its rules. It could do a lot worse than learn from its often looked-down-upon neighbour. ■",
+      "zh": "孟加拉国打击这种添加剂依赖了总理的公开干预，以及一场有画面冲击力的电视宣传运动，还在市场和其他公共场所张贴了5万张告示。对在姜黄中掺入该化学品的行为，孟加拉国已将其定为犯罪；印度较早就有这项规定，但未能落实执行。孟加拉国作为一个常常被轻视的邻国，已经证明了更好的做法，印度不如向其学习也不值得。■"
+    },
+    {
+      "id": "p007",
+      "en": "Stay on top of our India coverage by signing up to Essential India, our free weekly newsletter.",
+      "zh": "如果想及时了解我们的印度新闻，请订阅 Essential India，我们的免费周刊。"
+    }
+  ],
+  "translated_at": "2026-07-22T23:08:03+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

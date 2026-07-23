@@ -1,0 +1,604 @@
+{
+  "id": "050-lisa-su-runs-amdand-is-out-for-nvidias-blood",
+  "source_href": "feed_0/article_49/index_u34.html",
+  "publication": "wired",
+  "issue": "2026-06-02",
+  "issue_published_at": "2026-06-02",
+  "article_published_at": "Aug 12, 2025 6:00 AM",
+  "published_at": "Aug 12, 2025 6:00 AM",
+  "published_date_source": "article",
+  "order": 50,
+  "section": "Lauren Goode",
+  "title_en": "Lisa Su Runs AMD—and Is Out for Nvidia’s Blood",
+  "title_zh": "Lisa Su掌舵AMD，并且盯上了Nvidia",
+  "rubric_en": "",
+  "rubric_zh": "",
+  "date": "Aug 12, 2025 6:00 AM",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "A piece of advice if you’re meeting with Lisa Su: Wear sneakers.",
+      "zh": "如果你要去见Lisa Su，一个建议是：穿上运动鞋。"
+    },
+    {
+      "id": "p002",
+      "en": "Su, the leader of AMD, moves fast these days, though I suspect that’s always been the case. Her company's chips underpin the artificial intelligence that’s changing the world at breakneck speeds. To hear Su and literally everyone else in semiconductors talk about it, the US is in an AI race with China—and the rules keep changing. The Trump administration has once again shifted its stance on what kind of chips can and can’t be shipped to China, with the latest decree being that the US will take a 15 percent cut of AMD and Nvidia chip sales to China. Meanwhile, on the home front, Su has claimed that AMD’s newest AI chips can outperform Nvidia’s—part of her strategy to keep eroding Nvidia’s dominance in the market.",
+      "zh": "Lisa Su（AMD的掌门人）最近动作很快，虽然我怀疑她向来如此。她公司的芯片支撑着正在以惊人速度改变世界的人工智能。要听Su本人以及几乎所有半导体行业人士的说法，美国正在与中国展开AI竞赛，而规则一直在变化。特朗普政府又一次调整了哪些芯片可以、哪些不能运往中国的规定，最新命令是美国将对AMD与Nvidia向中国出售的芯片征收15%的关税。与此同时，在本土市场，Su表示AMD最新的AI芯片可以战胜Nvidia的AI芯片，这也是她不断蚕食Nvidia市场主导地位战略的一部分。"
+    },
+    {
+      "id": "p003",
+      "en": "So, yeah: Be ready to keep up.",
+      "zh": "所以，诚实地说：要做好跟上节奏的准备。"
+    },
+    {
+      "id": "p004",
+      "en": "Under Lisa Su, the stalwart American semiconductor company has reasserted itself as a force in the age of AI. “Reasserted” doesn’t do it justice: Su took a struggling AMD and executed a 10-year turnaround that has been, as one economist put it, nothing short of remarkable. Since 2014, when Su took over as CEO, AMD’s market cap has risen from around $2 billion to nearly $300 billion.",
+      "zh": "在Lisa Su带领下，这家稳健的美国半导体公司在AI时代重新成为一支强大的力量。用“重新确立”并不能完全表达其意义：Su接手一家举步维艰的AMD后，完成了一次为期十年的转型复兴，如一位经济学家所说，几乎可谓“非同寻常”。自2014年Su接任CEO以来，AMD的市值已从约20亿美元上升到近3000亿美元。"
+    },
+    {
+      "id": "p005",
+      "en": "Aside from her well-known bona fides, Su herself—what drives her, what inspires her, what irritates her, where her politics lie—is less known. This is what I was hoping to learn when I visited AMD’s offices and labs in the hills of Austin, Texas, on a day in late June when the wind seemed to do little more than push heat around.",
+      "zh": "除了她那广为人知的履历之外，苏本人——是什么驱动她、什么激励她、什么会让她恼火、她的政治立场在哪——则鲜为人知。这也是我在六月底某一天到德州奥斯汀山丘中的AMD办公室和实验室参访时想要了解的：那天风几乎只是在搬运着闷热的空气。"
+    },
+    {
+      "id": "p006",
+      "en": "Our conversation kicked off with China, which accounts for nearly a quarter of AMD’s business. She betrayed no anxiety. Su now travels frequently to Washington, DC, to grease the wheels. “We’ve come to realize that export controls are a bit of a fact of life,” she told me, “just given how critical the chips that we make are.” In other words, it’s precisely because AMD’s chips are so darn important—to national security, to national economies—that they’re now at the heart of modern statecraft.",
+      "zh": "我们的谈话从中国开始，而中国业务几乎占据了AMD近四分之一的份额。她没有流露出任何焦虑。苏现在经常往返华盛顿特区“打理关系”。她对我说：“我们已经意识到，出口管制在某种程度上就是生活中的既定事实，毕竟我们生产的芯片有多么关键。” 换句话说，正因为AMD芯片对国家安全、对各国经济都如此重要，它们才会成为当代国家博弈的核心。"
+    },
+    {
+      "id": "p007",
+      "en": "Another thing I learned about Su: She plays the long game. Politics is a cakewalk compared to what she’s managed to pull off professionally.",
+      "zh": "我从苏身上了解到的另一点是：她是一个善于长期布局的人。与她在职业生涯中所完成的成就相比，政治斗争反而像场小儿科练习。"
+    },
+    {
+      "id": "p008",
+      "en": "Su was born in Taiwan in 1969 and raised in Queens, New York. Her father worked for the city as a statistician; her mother was an accountant who became an entrepreneur in her mid-forties. Su earned a doctoral degree in electrical engineering from MIT, then went on to stints at Texas Instruments, IBM, and Freescale Semiconductor, where she served in executive roles. After joining AMD in 2012, she quickly rose to COO. As Su tells it, six months in, the chairman of the board called her and said, “It’s time, Lisa.” Su’s response: “Really? That seems kinda quick.”",
+      "zh": "苏于1969年出生在台湾，在纽约皇后区长大。她的父亲是市政统计员；她的母亲是会计师，四十多岁时转型成为创业者。苏在麻省理工学院获得电子工程博士学位，随后先后在德州仪器、IBM以及弗瑞斯卡尔半导体工作，并在那里的高管职位上任职。2012年加入AMD后，她很快升任首席运营官。正如苏自己所说，六个月后，董事会主席给她打来电话，说：“该轮到你了，Lisa。” 苏的回应是：“真的吗？这听起来有点太快了吧。”"
+    },
+    {
+      "id": "p009",
+      "en": "As CEO, Su smartly steered AMD toward the high-performance computing market. She embraced chiplets, a modular approach to building chips that has paid off enormously. She impressed the industry by launching the world’s first 7-nanometer data center GPUs. More recently, she doubled AMD’s data center revenue in two years. And she has struck deals with juggernauts like OpenAI, Meta, Google, and a couple of Elon Musk’s companies. During a keynote speech at AMD’s annual event this June, OpenAI CEO Sam Altman trotted onto the stage to hug it out with Su.",
+      "zh": "作为首席执行官，苏姿丰聪明地将 AMD 引导进入高性能计算市场。她采用了 chiplets，也就是一种模块化芯片设计方法，并且取得了丰厚回报。她通过推出全球首款 7 纳米数据中心 GPU 震撼了业界。最近几年，她又在两年内把 AMD 的数据中心营收翻了一番。更重要的是，她与 OpenAI、Meta、Google，以及埃隆·马斯克的几家公司等巨头签订了合作协议。在今年 6 月 AMD 年度活动的主旨演讲上，OpenAI CEO 山姆·奥特曼特意上台与苏姿丰拥抱。"
+    },
+    {
+      "id": "p010",
+      "en": "These are all impressive data points. Yet AMD is still a fraction of the size of its most notorious competitor, the $4.4 trillion Nvidia. Comparisons between the two companies are inevitable—especially since Su is distant cousins with Nvidia CEO Jensen Huang. (I was warned that Su hates being asked about this. I asked anyway.)",
+      "zh": "这些都非常醒目的数据点。然而 AMD 仍然只是其最臭名昭著的竞争对手、总市值 4.4 万亿美元的英伟达的一小部分。两家公司的比较几乎不可避免——尤其是因为苏姿丰和英伟达 CEO 黄仁勋是远房表亲。（有人提醒过我，苏姿丰很讨厌被问到这个问题，但我还是问了。）"
+    },
+    {
+      "id": "p011",
+      "en": "During my visit to Austin, Su led me on a tour of AMD’s test labs, where rows of server racks are rigged up to be put through the extremes. Engineers straightened up when Su paused at their stations. One of them surprised her with a celebratory cake in the shape of AMD’s EPYC Venice processor. Su appeared genuinely delighted. She posed for a photograph, then moved on to the next row in the lab, striding with purpose in white Prada sneakers. Along the way I fired questions at her, raising my voice to be heard above the din. What do models like DeepSeek mean for her business? Will AMD build its own LLMs? What drives Lisa Su?",
+      "zh": "在我赴奥斯丁访问期间，苏带我参观了 AMD 的测试实验室，那里一排排服务器机架都被搭建起来，用于承受极限工况。工程师们在苏停在工位前时都立正了。有人拿出一个造型为 AMD EPYC Venice 处理器的蛋糕来为她庆祝，这让她显得非常高兴。她面带笑容地合影留念，然后又转向实验室下一排，有条不紊地朝目标走去，脚上踩着白色 Prada 运动鞋。沿途我向她连发问题，必须提高嗓音才能盖过环境噪音。DeepSeek 这类模型对她的业务意味着什么？AMD 会不会自己开发大语言模型？是什么在驱动 Lisa Su？"
+    },
+    {
+      "id": "p012",
+      "en": "Later on, Su invited me to join her in her chauffeured car. (Alas, it was not one of her Porsches, which have license plates bearing the names of her favorite AMD chips.) The noise was gone; the walls were down. During the nearly 30-minute drive to the next lab, Su pressed me on my thoughts on AI, called out my skepticism, and shared why powering the AI revolution—particularly around health care—is personal to her.",
+      "zh": "后来，苏邀请我上她的豪华轿车同行。（可惜那不是她的其中一辆保时捷——那几辆保时捷的车牌都写着她最喜欢的 AMD 芯片名字。）嘈杂声消失了，周围也更安静了。在接近 30 分钟驶向下一个实验室的路上，苏追问了我关于 AI 的看法，直接指出我表现出的怀疑态度，并分享了为何推动 AI 革命——尤其是在医疗保健领域——对她而言是件非常私人化的事情。"
+    },
+    {
+      "id": "p013",
+      "en": "What is something that you would hope that the Trump administration—but also the general public—would understand about the AI accelerators that you’re making?",
+      "zh": "你希望美国特朗普政府——甚至是公众——理解你们正在生产的 AI 加速器的哪一点？"
+    },
+    {
+      "id": "p014",
+      "en": "That we, as tech companies, benefit from more users. And limiting the number of users in our ecosystem is actually bad, not just for AMD but really for the US. Because there will be alternatives out there. The idea that somehow, if we don’t ship chips to the rest of the world, that AI progress is going to stop—it’s not going to stop. AI progress is going to continue to develop, and we’d rather them develop on us than on someone else.",
+      "zh": "我们作为科技公司，是从更多用户身上受益的。减少我们生态系统中的用户数量实际上是有害的，不仅对 AMD 不利，也对美国不利。因为外面会有其他替代方案。也就是说，如果我们不把芯片运往世界其他地区，AI 进展就会停滞——这个想法不成立，进展不会停下来。AI 仍将继续发展，我们更愿意让它在我们这边发展，而不是在别人那里发展。"
+    },
+    {
+      "id": "p015",
+      "en": "There have been incentives recently to bring more chipmaking back to the US. What’s the most complicated part of bringing that manufacturing back?",
+      "zh": "近期有一些激励措施，旨在把更多芯片制造带回美国。将这类制造业真正带回来的最复杂环节是什么？"
+    },
+    {
+      "id": "p016",
+      "en": "We absolutely should bring manufacturing back to the US. Absolutely, 100 percent.",
+      "zh": "我们绝对应该把制造业带回美国。绝对是，100%。"
+    },
+    {
+      "id": "p017",
+      "en": "Because it is such a critical part of national security and the economic interests. We had an ice storm here in the central Texas area a couple of years ago. For days nothing could move around. A couple of fabs around here were shut down. For good business practice, you want diversity.",
+      "zh": "因为它是国家安全和经济利益中的关键环节。几年前，我们在德州中部经历过一场冰暴，持续几天，什么都动不了。周边有几家晶圆厂被迫停产。基于良好的商业实践，你需要的是多元化。"
+    },
+    {
+      "id": "p018",
+      "en": "To bring manufacturing back will take time. But it’s doable. The thinking went from “Oh, you can’t do leading-edge manufacturing in the US” to today, how in TSMC’s Arizona fab we’re running some of our latest server processors, and it’s looking really good. So it can be done. It is more expensive, and that’s OK, too. I think it requires a change of mentality, that you don’t always go for the lowest-cost thing.",
+      "zh": "把制造业重新带回来需要时间，但这是可行的。思路已经从“你在美国无法做最先进制造”转变到如今：在台积电的亚利桑那晶圆厂，我们正在生产一些最新的服务器处理器，而且进展看起来非常好。所以这是可以做到的。成本更高也可以接受。我认为这需要一种心态变化，即不必总是选择最低成本的方案。"
+    },
+    {
+      "id": "p019",
+      "en": "Lisa Su holds a MI355 chip.",
+      "zh": "Lisa Su 手里拿着一块 MI355 芯片。"
+    },
+    {
+      "id": "p020",
+      "en": "When you became president and CEO of AMD in 2014, did you think that folks like yourself would be expected to weigh in so much on what’s going on in terms of geopolitical and social issues? Do you feel more pressure to participate in conversations with the current administration?",
+      "zh": "当你在2014年成为 AMD 的总裁兼首席执行官时，是否想过像你这样的人会被期待在地缘政治和社会问题上发表如此多的看法？你是否感到自己在与现任政府对话时压力更大？"
+    },
+    {
+      "id": "p021",
+      "en": "Well, it certainly has changed. I wouldn’t say that we’re political or I’m political. You won’t see me weighing in on general social issues, because I don’t necessarily think that that’s where my value-add is. But when it comes to technology policy and where semiconductors are in the world, yes, we have to participate. And I wouldn’t call it increasing pressure. I would call it an increasing responsibility to do so, because we want the rules to be written right.",
+      "zh": "确实，它确实已经改变了。我不能说我们是“政治化”的，或者说我本人是一个“政治性”的人。你不会看到我在一般社会议题上发言，因为我并不认为那是我最能发挥价值的地方。但一谈到科技政策，以及半导体在世界中的位置时，我们是必须参与的。至于我是否感到压力越来越大，我不会这么说。我更愿意称之为责任越来越大，因为我们希望规则被写对。"
+    },
+    {
+      "id": "p022",
+      "en": "You’re one of the most prominent women leaders in technology, in semiconductors. Why don’t you think you add value?",
+      "zh": "你是科技界尤其是半导体领域最突出的女性领导者之一。你为什么不认为自己能增加价值？"
+    },
+    {
+      "id": "p023",
+      "en": "Maybe value-add is not the right way to state it. It’s more like, my personal opinion might be interesting, but frankly, it’s much more important that we get the policy correct, based on what I consider facts.",
+      "zh": "也许“增加价值”并不是一个准确的说法。更准确地说，我的个人观点也许有一定参考价值，但老实说，更重要的是我们必须把政策搞对，必须基于我认为成立的事实。"
+    },
+    {
+      "id": "p024",
+      "en": "Your least favorite question these days is probably “When?” Meaning, when might AMD surpass Nvidia in the AI GPU market? My guess is that 10 years ago people might’ve laughed at the idea, and now they might be more willing to entertain it.",
+      "zh": "你最近最不喜欢被问的问题大概就是“何时？”也就是说，AMD什么时候可能在AI显卡市场超越英伟达？我的猜测是，十年前人们可能会笑话这个想法，而现在他们可能更愿意认真去考虑。"
+    },
+    {
+      "id": "p025",
+      "en": "When I started as CEO, people would ask me, “Why are you taking this job?” and I would be very confused. I was like, “Are you kidding me?” To me, it was the best. We were a company in an industry that really matters that had been underperforming for a while, and I had a chance to take this team and do something which I felt was important. If you asked me, “What do I want to be when I grow up?” it was not “I want to be a CEO,” it was “I want to work on something that matters.”",
+      "zh": "当我刚开始担任CEO时，很多人都会问我：“你为什么要接受这份工作？”我当时很困惑，心里想：你在开玩笑吧？对我来说，这恰恰是最好的选择。我们是一家在一个非常重要的行业里长期表现不佳的公司，而我有机会带领这个团队去做一件我认为很重要的事。如果你问我“你长大后想成为什么”，那不是“我想当CEO”，而是“我想去做一件有意义的事情”。"
+    },
+    {
+      "id": "p026",
+      "en": "At that time, everyone was comparing us to Intel, and we would have to defend that. And my comments to the team are, “Look, we know what we can do, and let’s just show the world what we can do.” And so I mean, this notion of when, I don’t love this. I know the media loves this. It’s always A versus B, is that right? That’s what you guys—",
+      "zh": "当时每个人都在拿我们和英特尔做比较，我们必须为此辩护。于是我对团队说：\"你们看，我们知道自己能做什么，让我们向全世界展示我们到底能做到什么。\" 所以我想说的是，这种对立式的说法，我不太喜欢。我知道媒体喜欢这种叙事。总是在A对B，是吗？这就是你们——"
+    },
+    {
+      "id": "p027",
+      "en": "I wouldn’t say it’s A versus B. I mean, I think AMD is more nuanced in some ways, because you still have so many clients and customers who are reliant on x86 and CPUs. And you have this fast-growing data center business, which you grew from $6 billion in 2022 to $12.6 billion last year. But Nvidia is the big question right now.",
+      "zh": "我不会说这是A对B。我是说，从某些方面看，AMD更具细微差别，因为你仍然有大量客户和用户仍然依赖x86和CPU。你们还拥有这个增长非常快的数据中心业务，我们把它从2022年的60亿美元增长到去年126亿美元。但英伟达目前才是最重要的变量。"
+    },
+    {
+      "id": "p028",
+      "en": "Look, my point is I don’t necessarily want to be compared against Intel or Nvidia. My vision, our vision, has always been, “There’s no one-size-fits-all.” You need the best in the data center. You need the best CPUs. You need the best AI accelerators. You need the best in your personal computing. We have this portfolio that is quite broad, and the market is humongous. It’s more than $500 billion over the next three to four years. We have plenty of opportunities.",
+      "zh": "你看，我的意思是我并不一定想让自己被拿来和英特尔或英伟达相比。我的愿景，也始终是我们的愿景：\"没有‘一把尺码适合所有’这样的方案。\" 在数据中心，你需要最强的处理能力。你需要最强的CPU。你需要最强的AI加速器。你也需要个人计算领域最强的产品。我们拥有一个非常广泛的产品组合，而这个市场极其庞大。未来三到四年将超过5000亿美元。我们有大量机会。"
+    },
+    {
+      "id": "p029",
+      "en": "So, Sam Altman was at your AMD AI event in June, and you talked about working with OpenAI. You’re working with Meta. You’re working with Elon Musk’s companies, Tesla and xAI. But the reality with AMD is that companies like that love their Nvidia GPUs, and you’re an “also.” Do you want to get to the point where you’re like, “No, we are the primary partner?”",
+      "zh": "所以，Sam Altman 在六月来到了你们的 AMD AI 活动，你谈到了与 OpenAI 的合作。你在与 Meta 合作。你也在与埃隆·马斯克的两家公司 Tesla 和 xAI 合作。但现实是，像这样的公司都很依赖英伟达的 GPU，而你们只是“陪跑”。你难道不想走到这样一个阶段：也就是“我们才是主要合作伙伴”吗？"
+    },
+    {
+      "id": "p030",
+      "en": "Of course. That’s where we are today in CPUs. So if you were to ask many of those same companies, I think they would say that AMD is their strategic CPU partner. And absolutely, we expect to be there in AI as well. But I’m not impatient with this.",
+      "zh": "当然。如今在 CPU 领域，我们已经是这样了。因此，如果你问同样的这些公司中的许多家，他们很可能会说 AMD 是他们的战略性 CPU 合作伙伴。并且毫无疑问，我们也期待在 AI 领域也能做到同样地位。但我并不急于去推动。"
+    },
+    {
+      "id": "p031",
+      "en": "You don’t want to put a time stamp on it.",
+      "zh": "你不希望给这件事贴上明确的时间表。"
+    },
+    {
+      "id": "p032",
+      "en": "Look at it this way: When I first joined AMD in 2012, Microsoft was just an early partner for us in gaming. Over the past 10-plus years we’ve built a lot of trust, and now we’re cocreating with them, so Microsoft just announced they’re using AMD not only for their next-generation Xbox consoles but across their entire cloud.",
+      "zh": "你可以这样看：当我在 2012 年第一次加入 AMD 时，微软只是我们在游戏领域的早期合作伙伴。过去十多年里，我们建立了大量信任，而现在我们正与他们共同协作，所以微软刚刚宣布，他们不仅会在下一代 Xbox 主机中使用 AMD 的技术，还会在整个云基础设施中全面采用。"
+    },
+    {
+      "id": "p033",
+      "en": "Our work with Meta has been absolutely the same way. I remember the first conversation I had with Meta, and I said, “Just give me a shot. I don’t have to tell you that I’m going to be the best in the world. I know that I’m going to prove that to you. I’m going to be your best partner. Not just your best technology partner but also your best partner in helping you get your technology infrastructure together.” And that’s what we do.",
+      "zh": "我们与 Meta 的合作也完全是这样开始的。我记得和 Meta 的第一次谈话时我说过： “给我一个机会。我不必向你们夸口自己会是世界上最棒的，我会向你们证明这一点。我会成为你们最好的合作伙伴，不只是你们最好的技术合作伙伴，也是最能帮助你们搭建技术基础设施的伙伴。” 而这正是我们所做的。"
+    },
+    {
+      "id": "p034",
+      "en": "At the AMD AI event in June you talked a fair amount about DeepSeek, the large language model that came out of China and reportedly cost a lot less money and computing power to train. How are AI models like that changing the way you’re thinking about computing power?",
+      "zh": "你在六月的 AMD AI 论坛上详细讨论了 DeepSeek——这个来自中国的大模型，据报道其训练成本和算力需求都更低。像这样的 AI 模型正在如何改变你对算力的思考方式？"
+    },
+    {
+      "id": "p035",
+      "en": "Well, it’s another example of just how much workloads have been changing in AI. People were previously all focused on large-scale training, and now with reasoning models and fine-tuning, the industry has transitioned to a place where inference-type computing is actually growing faster. It’s why you have to have very flexible hardware.",
+      "zh": "嗯，这只是又一个例子，说明 AI 工作负载正在发生巨大变化。人们过去都把重点放在大规模训练上，但随着推理模型和微调的发展，行业已经转向了一个推理型算力增长更快的阶段。这就是为什么你必须拥有非常灵活的硬件。"
+    },
+    {
+      "id": "p036",
+      "en": "So it’s not changing the way we’re thinking about it, because we always thought inference was going to be more important. I guess that means we were right in betting on that. We’ve optimized for memory capacity and other key things that are important for inference computing.",
+      "zh": "因此这并没有改变我们原有的思考方式，因为我们一直认为推理将变得更重要。我想这也证明我们当初的判断是对的。我们已经优化了内存容量以及推理计算所需的其他关键要素。"
+    },
+    {
+      "id": "p037",
+      "en": "I’m going to bring up Nvidia again: Nvidia has been training some of its own models and offers a framework, NeMo, for developers to build their own generative AI models. How seriously have you thought about AMD training its own models?",
+      "zh": "我再提一次Nvidia：Nvidia一直在训练一些自有模型，并推出了一个名为 NeMo 的框架，让开发者能够构建自己的生成式AI模型。你对AMD训练自有模型这件事认真思考过吗？"
+    },
+    {
+      "id": "p038",
+      "en": "We are training our own AI models. We have an AI models team. But we’re not training our models for the sake of competing with big model builders. We train them to learn from them. The more we dog-food our own stuff, the more we learn, and then we can accelerate our building.",
+      "zh": "我们正在训练自己的AI模型。我们有一支AI模型团队。不过，我们训练模型并不是为了去和大型模型厂商正面竞争。我们训练它们是为了向这些模型学习。我们越是‘自己先用自己做的东西’进行实践，就能学得越多，进而加快我们的研发速度。"
+    },
+    {
+      "id": "p039",
+      "en": "Analysts and even some of your customers have told me that AMD is incredibly customer-oriented. On the other hand, folks who are deep in the technical weeds say that ROCm, the set of software tools for programming AMD’s hardware, still isn’t as good as Nvidia’s CUDA. What specific steps do you plan to make to lure in more developers?",
+      "zh": "分析师甚至你们的一些客户都告诉我，AMD非常以客户为中心。另一方面，那些深耕技术细节的人却说，ROCm——也就是用于编程AMD硬件的一整套软件工具——仍然没有Nvidia的CUDA做得好。你打算采取哪些具体步骤来吸引更多开发者？"
+    },
+    {
+      "id": "p040",
+      "en": "Yeah, I mean, I agree that the software is the most critical layer, because it’s what developers see. And when you think about ROCm and CUDA, it’s not that one is better than the other. It’s that CUDA has been around for a long time. People have gotten used to a certain ecosystem, and so we’re actually teaching them a different ecosystem. That’s the way to think of ROCm.",
+      "zh": "是的，我的意思是，我同意软件是最关键的一层，因为这是开发者最先接触到的东西。再看ROCm和CUDA，它们并不是谁更好谁更差的问题，而是CUDA已经存在很久了。人们已经习惯了某个生态系统，所以我们其实是在教他们去适应一个不同的生态系统。这就是理解ROCm的方式。"
+    },
+    {
+      "id": "p041",
+      "en": "What I hear is that it’s not just entrenchment, though. Developers say, “The compilers don’t work as well” or “The performance libraries aren’t as good” or “We want more portability.”",
+      "zh": "我听到的情况不只是“守旧”这么简单。开发者会说：“编译器用起来没那么好”或者“性能库不够好”，再或者“我们想要更强的可移植性”。"
+    },
+    {
+      "id": "p042",
+      "en": "Sure. But the reason for that is because, hey, things are done a certain way in Nvidia’s CUDA, and they would like to have it done a very similar way in ROCm. I have not yet met an AI customer that we haven’t been able to get working, performant, and all of that stuff. We don’t necessarily have all the libraries yet. There are lots of, let’s call it special kernels, that have been written. So to your question of, What are we doing? I mean, we’re running faster. That’s the best answer: We are running faster.",
+      "zh": "当然可以理解。但原因在于，Nvidia 的 CUDA 有很多是按某种方式实现的，他们希望在 ROCm 里也几乎用同样的方式来做。我还没遇到过一个我们不能让其正常运行、跑得足够快以及实现全部这些需求的 AI 客户。我们并不一定已经拥有全部的库。比如说，已经写好了很多“特殊内核”。所以对于你那个问题——我们到底在做什么？我的意思是，我们跑得更快。这是最好的回答：我们就是在跑得更快。"
+    },
+    {
+      "id": "p043",
+      "en": "I learned very early that you don’t have to agree with criticism, but you have to understand it’s a perspective. And then you decide what you’re going to do on top of it. There’s still a lot to do. And we’re hiring like crazy. We’re acquiring, and we’re listening to developers. And I think what we’ve seen is you can actually make progress pretty quickly.",
+      "zh": "我很早就明白，你不需要认同批评，但你要理解那是一种观点。然后你再决定接下来要做什么。还有大量工作要完成。我们正在疯狂招聘。我们在并购，也在认真听取开发者意见。我认为我们已经看到，实际上进展可以非常快。"
+    },
+    {
+      "id": "p044",
+      "en": "What do you make of the Meta Superintelligence Lab and Mark Zuckerberg reportedly offering AI talent people up to nine figures to go work for Meta? What does that kind of compensation do to hiring in the Valley?",
+      "zh": "你怎么看待 Meta 超级智能实验室和 Mark Zuckerberg 传闻中以高达九位数年薪去挖走 AI 人才并让他们去 Meta？这种补偿水平会对硅谷的人才招聘产生什么影响？"
+    },
+    {
+      "id": "p045",
+      "en": "I can’t say I have direct experience with it, frankly. I think competition for talent is fierce. I am a believer, though, that money is important, but frankly, it’s not necessarily the most important thing when you’re attracting talent. I think it’s important to be in the zip code [of those numbers], but then it’s super-important to have people who really believe in the mission of what you’re trying to do.",
+      "zh": "说实话，我不能说我有过直接的亲身经历。坦率地说，我相信金钱很重要，但在吸引人才时，它未必是最关键的因素。我认为身处“这些数字所在的薪酬区间”确实重要，但更重要的是，有没有人真心相信你们正在做的事业和使命。"
+    },
+    {
+      "id": "p046",
+      "en": "I think people have done relatively well here, because the stock’s done OK. But from a recruitment standpoint, it’s always like, “Do you want to be part of our mission?” Because the ride is really what we’re trying to attract people to. It’s the ride of, “Look, if you want to come do important technology, make an impact, you’re not just a cog in the wheel, but you’re actually someone who’s going to drive the future of our road map, then you want to be at AMD.”",
+      "zh": "我想说这里的人们总体上发展得不错，因为股票表现也还可以。但从招聘的角度来看，答案总是这样：‘你想成为我们使命的一部分吗？’因为真正想吸引人的，是这段“旅程”本身。它的核心是——‘如果你想做有分量的技术、产生真正影响，你不是一颗普通的齿轮，而是那位将推动我们路线图未来的人，那么你应该来AMD。’"
+    },
+    {
+      "id": "p047",
+      "en": "Do you envision ever offering anyone a nine-figure compensation package to come build out your software ecosystem?",
+      "zh": "你是否能想象，某一天会向某个人提供一份九位数的薪酬方案，让对方来帮你建设软件生态？"
+    },
+    {
+      "id": "p048",
+      "en": "Because you’d have to answer to shareholders or make a case to your board?",
+      "zh": "因为你最终要向股东负责，或者向董事会做出说明？"
+    },
+    {
+      "id": "p049",
+      "en": "Because it’s not really about one person in our world. I mean, it’s really about great people, don’t get me wrong—we have some incredible people. We acquired Nod.ai, and Anush Elangovan, who was the CEO of that, has now become the head of our software ecosystem work. He’s just absolutely phenomenal with his passion. He’ll go after every single person who has an issue with ROCm. And I’m like, “Anush, how do you do that?” So that’s what I mean. We’re looking for people who have that type of passion for the work that we do, and there are lots of those people around.",
+      "zh": "这并不是说，我们这个世界真正围绕着某一个人展开。我的意思是，当然也是因为这些非常优秀的人，我们要说得更清楚——我们确实拥有一些令人难以置信的人才。我们收购了 Nod.ai，而前任 CEO Anush Elangovan 现在已经成为我们软件生态系统工作的负责人。他对这件事的热情真的非常惊人。凡是有人对 ROCm 有问题，他都会逐一盯上去解决。然后我就会说：“Anush，你是怎么做到的？”我说的就是这个意思。我们正在寻找的人，就是那种对自己工作的投入和热情都如此强烈的人，而且我们周围有很多这样的人。"
+    },
+    {
+      "id": "p050",
+      "en": "What is “superintelligence” to you?",
+      "zh": "你心目中的“超级智能”是什么？"
+    },
+    {
+      "id": "p051",
+      "en": "I think the idea that AI can make all of us superintelligent is a wonderful vision, and we’re still in the very early innings of how to do that.",
+      "zh": "我认为，人工智能能够让我们每个人都变得更聪明，这是一个非常美好的愿景，而我们离如何实现它还只是刚刚起步。"
+    },
+    {
+      "id": "p052",
+      "en": "One of the areas that I’m most personally passionate about is health care, because I have had experience with the health care system, and I think it should be much, much better than it is today. We should be able to cure these diseases. We shouldn’t have to do trial and error like we sometimes do. This is a perfect use case for AI. Being able to stitch all those pieces together to go from drug discovery to therapeutics to inpatient care, all of that is ripe for—let’s call it transformation. I don’t know if you call that “superintelligence.”",
+      "zh": "我个人最热衷的领域之一是医疗健康，因为我有过在医疗体系中的经历，我认为它应该比现在好得多。我们应该能够治愈这些疾病。我们不该像有时那样反复试错。这个领域正是 AI 的理想应用场景。把所有这些环节连起来——从药物研发到治疗方案，再到住院期护理——这一整套流程都已经到了可以说是“转型”最成熟的阶段。我不知道你是否会把这称为“超级智能”。"
+    },
+    {
+      "id": "p053",
+      "en": "There’s this idea floating around that AI is going to be so smart that it’s going to eventually be able to delete humanity. How do you think about those kinds of predictions? Do you believe in AGI?",
+      "zh": "人们常常在谈论一种观点：人工智能会发展到如此聪明，最终能够消灭人类。你怎么看这种预测？你相信AGI（通用人工智能）吗？"
+    },
+    {
+      "id": "p054",
+      "en": "I do believe in AGI, but I don’t believe in the idea that AI will be smarter than people. I also am not a big doomsday person or believer, either. Look, I mean, technology is great, but technology is as great as the people who build it and create it and channel it in the right direction. So I find those conversations a little bit esoteric. And our focus is, “The tech is good, but it’s not great yet. How do we make it great?”",
+      "zh": "我确实相信AGI，但我并不相信人工智能会比人类更聪明。我也不是那种末日论者或狂热的预言信徒。说实话，技术很好，但技术的好坏取决于创造它、构建它，并把它引向正确方向的人。因此，我觉得这类讨论有点空想。我们更关心的是：“这项技术很好，但还没真正优秀。我们该如何把它做得更好？”"
+    },
+    {
+      "id": "p055",
+      "en": "How do you measure “great”?",
+      "zh": "我们如何衡量“优秀”呢？"
+    },
+    {
+      "id": "p056",
+      "en": "I think this idea of having AI solve real hard problems is when it gets great. And we talk about agents as one of the next big things. I think agents right now are doing, let’s call it, relatively more of the mundane tasks of the world.",
+      "zh": "我认为，当人工智能能够解决真正艰难的问题时，它才算“优秀”。我们正在把智能体（agent）称为下一件大事。我认为，目前智能体做的更多是，打个比方，世界上相对更日常、更琐碎的任务。"
+    },
+    {
+      "id": "p057",
+      "en": "Lisa Su outside of AMD's headquarters.",
+      "zh": "Lisa Su 在 AMD 总部外部的照片。"
+    },
+    {
+      "id": "p058",
+      "en": "Putting things in your shopping cart.",
+      "zh": "把东西放进购物车。"
+    },
+    {
+      "id": "p059",
+      "en": "Right. I think there’s two directions AI goes. One is pure productivity, you know, how do I remove some of, let’s call it the menial work that people do, so that they can work on more interesting things? That’s one aspect of it, and we’re using that.",
+      "zh": "对。我的观点是，AI 发展有两个方向。一个是纯粹的效率提升，也就是把人们所做的一些体力化、重复性的工作去掉，让他们能去做更有趣的事情。这个方向我们正在推动。"
+    },
+    {
+      "id": "p060",
+      "en": "But the other aspect of it is when AI can solve really, really hard problems. It can take what would’ve taken us 10 years to figure out and do that in six months. I think about a world where it normally takes us three years to design a chip, and what does that look like if I could do that in six months?",
+      "zh": "但 AI 的另一方面，是它可以解决非常、非常困难的问题。它能够把我们原本需要十年才能破解的问题，在六个月内完成。我会想象这样一个场景：通常我们需要三年时间来设计一颗芯片，那么如果我能在六个月内完成，它会是什么样？"
+    },
+    {
+      "id": "p061",
+      "en": "Does humanity just not keep up at some point, though?",
+      "zh": "可是人类总有那么一刻会跟不上吗？"
+    },
+    {
+      "id": "p062",
+      "en": "I don’t know. I would bet on humanity being OK.",
+      "zh": "我不知道。我更愿意打赌人类会没问题。"
+    },
+    {
+      "id": "p063",
+      "en": "Technology can be a little bit overwhelming now.",
+      "zh": "现在科技有点让人应接不暇。"
+    },
+    {
+      "id": "p064",
+      "en": "Well, but Lauren, I think that’s the point. When technology is good enough, you don’t have to think about it. Today, you still have to think about when you go and ask—what’s your favorite? Do you use ChatGPT or Grok?",
+      "zh": "不过，劳伦，我想这正是重点。技术做到足够好时，你不需要去想它。可现在，你出去一问的时候还是得想：你更喜欢哪个？你用的是 ChatGPT 还是 Grok？"
+    },
+    {
+      "id": "p065",
+      "en": "I use ChatGPT, yeah. Not every day, but—",
+      "zh": "我会用 ChatGPT。是的，不是每天都会用，但——"
+    },
+    {
+      "id": "p066",
+      "en": "Often enough. I mean, I’m obligated to test these things.",
+      "zh": "用得也不少。我的意思是，我有义务去测试这些东西。"
+    },
+    {
+      "id": "p067",
+      "en": "Yeah, but you still have to make sure, “Hey, did it give me the right answer?”",
+      "zh": "是啊，不过你还是得确认一下：‘喂，它是不是给了我正确答案？’"
+    },
+    {
+      "id": "p068",
+      "en": "Oh, absolutely. I mean, as a journalist in particular. I don’t use it for my writing in any capacity. We draw a very hard line between using it for learning how to cook a steak versus using it for our journalism.",
+      "zh": "完全是这样。尤其作为一名记者来说，我尤其这么做。我们和它的关系有着非常明确的界限：用它来学习怎么煎牛排可以，但不能拿来做我们的新闻写作。"
+    },
+    {
+      "id": "p069",
+      "en": "But you use it for research.",
+      "zh": "但你把它用于科研。"
+    },
+    {
+      "id": "p070",
+      "en": "Sometimes, but the hallucinations are concerning.",
+      "zh": "有时会，但这些幻觉现象令人担忧。"
+    },
+    {
+      "id": "p071",
+      "en": "But that’s the point of it’s not good enough yet. At some point, it’s going to be good enough. You’d want to be able to take your AI at face value.",
+      "zh": "但这正说明它还不够好。总有一天，它会变得足够可靠。你希望能够直接把 AI 的回答当真。"
+    },
+    {
+      "id": "p072",
+      "en": "You mentioned health care. When we’re older and infirm, will the generation of folks who are treating us be ChatGPT doctors?",
+      "zh": "你提到了医疗。等我们年纪大了、身体虚弱时，为我们提供治疗的这一代人会不会是 ChatGPT 医生？"
+    },
+    {
+      "id": "p073",
+      "en": "I would like there to be a generation of folks treating us who have the vast amount of data that ChatGPT will have, so that they’re better informed to make diagnoses.",
+      "zh": "我希望有这样一代人，他们在为我们做判断和诊断时能够利用 ChatGPT 拥有的海量数据，让决策更有依据。"
+    },
+    {
+      "id": "p074",
+      "en": "When you think about AI philosophically, is it like the internet all over again? Is it more comparable to Linux, like it’s going to be some operating system that runs on everything that we own? Is it electricity? Is it fire? I think Sundar Pichai has compared AI to fire, in terms of how transformative it is.",
+      "zh": "如果从哲学层面来看人工智能，它是不是像互联网那样重现一次？它是否更像 Linux，会变成运行在我们所有设备上的一种操作系统？它是不是电？它是不是火？我认为桑达尔·皮查伊把 AI 比作火，这个比喻在于它所带来的改变性。"
+    },
+    {
+      "id": "p075",
+      "en": "The internet is not a bad comparison, but I think AI is much more than the internet. Because, if you think about it, the internet was a lot about moving traffic. AI is more about something foundational in terms of productivity. Sometimes people compare it to the Industrial Revolution, and that’s not a bad comparison, actually.",
+      "zh": "互联网当然不是一个坏的类比，但我认为人工智能远不止于互联网。因为如果你仔细想想，互联网更多是关于“流量”；而人工智能更像是关于生产力层面的基础性东西。有时人们把它比作工业革命，这其实也不算错。"
+    },
+    {
+      "id": "p076",
+      "en": "With other revolutions we weren’t overwhelmed so much with thinking about what was true and real and what was not.",
+      "zh": "在其他革命中，我们并没有被“什么是真、什么是真实，什么又不真实”这类问题压得那么窒息。"
+    },
+    {
+      "id": "p077",
+      "en": "You can choose two ways to think about it. One is you try to hold back on AI because it could be dangerous, or you try to go as fast as you can but put the right lens on the information. I’m a big believer in the second camp. And as a result I don’t believe in these cases where you’re not going to need lots and lots of people. Because in the end, people are the judge of what truth is. We’re still hiring more and more engineers, because they’re the final arbiters of our engineering.",
+      "zh": "你可以从两种方式来理解这个问题。一种是因为人工智能可能有危险而选择放慢脚步，另一种是尽可能快地前进，但要用正确的视角来解读信息。我坚定地站在第二种立场。于是我并不认同那种不需要大量工程师的设想，因为最终判断真相的还是人。我们仍在不断招募更多工程师，因为他们是我们工程决策的最终裁判。"
+    },
+    {
+      "id": "p078",
+      "en": "I am hopeful that humanity will figure it out.",
+      "zh": "我希望人类最终能想出办法。"
+    },
+    {
+      "id": "p079",
+      "en": "And it will be so much better. It will be like the internet is to us today, which is you just take it for granted. We shouldn’t evaluate the technology based on this point in time. We should evaluate it on the slope of what we’re going to be capable of doing. We’re going to get these things right. But we may have a few bumps in the road.",
+      "zh": "而且情况会好得多。它会像今天我们对互联网的态度一样，成为一种理所当然的存在。我们不应只根据当前这个时间点去评价这项技术。我们应该从未来我们能够做到的能力这个方向去评估它。我们会把这些事情做好。但途中可能会遇到一些波折。"
+    },
+    {
+      "id": "p080",
+      "en": "You seem a little concerned about AI. Are you just playing devil’s advocate?",
+      "zh": "你似乎对人工智能有些担忧。你是在故意唱反方吗？"
+    },
+    {
+      "id": "p081",
+      "en": "I tend to think the people who stand to benefit the most from these technologies are the ones who have the luxury of being a little bit more optimistic about it and who are hyping it up. There’s that famous line: The future is not distributed evenly. Even with the advancements in medicine, we’re going to see biases emerge that lead to people getting denied health care or insurance coverage. We’ve already seen this.",
+      "zh": "我倾向于认为，从这些技术中获益最大的人，往往是那些有条件对其保持更乐观并且把它宣传得很响亮的人。正如那句名言所说：未来的分配并不均等。即使在医疗领域不断进步，我们也将看到偏见仍然会出现，进而导致人们被拒绝医疗服务或保险保障。我们已经见过这一点。"
+    },
+    {
+      "id": "p082",
+      "en": "Health care, for me, is quite personal, because my mom was quite ill. For a while. And so I got to watch her journey going through that. And I realized, like, it doesn’t matter who you are. You can’t guarantee the best health care, because it’s really an art right now. It’s not a science. And I believe it should be a science.",
+      "zh": "对我来说，医疗问题非常私人化，因为我妈妈曾经病得很重。于是我有机会看到她走过那一段路。于是我意识到：不管你是谁，都没有办法保证得到最好的医疗。因为现在它实际上更像一门艺术，而不是一门科学。我相信它应该是科学。"
+    },
+    {
+      "id": "p083",
+      "en": "Why do you think it’s an art?",
+      "zh": "你为什么认为它现在是一门艺术？"
+    },
+    {
+      "id": "p084",
+      "en": "The body is a very complex system. So you have specialists, like a heart specialist or a kidney specialist. But there are not that many generalists that can pull it all together. And that, to me, is a travesty. I’m like, come on—this is solvable.",
+      "zh": "人体是一个非常复杂的系统。所以你会有心脏专家、肾脏专家这样的专科医生，但能把这些内容整合起来的人——泛医学科医生——并不多。在我看来，这是一种讽刺。我想说的是，得了吧，这个问题是可以解决的。"
+    },
+    {
+      "id": "p085",
+      "en": "That’s what we do in tech, right? We take complex systems and put them together, and we make them work. But we’re often only looking at one aspect of health, and it’s my firm belief that if we can use technology to help pull all of that expertise together, we’ll be able to treat people better. I watched it firsthand. So, anyways, in my next life when I have time to do something other than this—",
+      "zh": "这就是我们在科技领域的做法，不是吗？我们把复杂的体系拼接起来，并让它们运转起来。但我们常常只盯着健康的某一个维度；我始终坚信，如果能借助技术把这些专业知识整合在一起，我们就能更好地治疗病人。我是亲眼见到这一点的。所以，不管怎样，在我下一段人生里——等我有机会做点别的事情的时候——"
+    },
+    {
+      "id": "p086",
+      "en": "I won’t be a doctor, but I hope to be someone who can help bridge the divide and use technology for what it’s actually capable of.",
+      "zh": "我不会去当医生，但我希望成为一个能弥合鸿沟的人，把技术用在它真正能够发挥作用的地方。"
+    },
+    {
+      "id": "p087",
+      "en": "You could do that in this lifetime, too.",
+      "zh": "你也可以在这一生中做到这一点。"
+    },
+    {
+      "id": "p088",
+      "en": "I have a few things to do right now.",
+      "zh": "我现在还有几件事要做。"
+    },
+    {
+      "id": "p089",
+      "en": "Was your mother able to recover?",
+      "zh": "你的母亲恢复得怎么样了？"
+    },
+    {
+      "id": "p090",
+      "en": "But you know what I mean? I just realized that—wow.",
+      "zh": "但你知道我的意思吧？我刚刚才意识到——天哪。"
+    },
+    {
+      "id": "p091",
+      "en": "You realized, it could happen to any of us.",
+      "zh": "你也意识到了，这件事可能发生在我们任何一个人身上。"
+    },
+    {
+      "id": "p092",
+      "en": "Yes, but it’s about the quality of care, even with the best doctors.",
+      "zh": "是的，但关键在于护理质量，即使是对最好的医生也是如此。"
+    },
+    {
+      "id": "p093",
+      "en": "About a year ago my own mother had some really serious health issues, and she ended up in the ICU on a ventilator. Doctors kept coming in and looking at scans and couldn’t figure out what was going on. And I was sitting in the hospital thinking, I’m so deep in the world of reporting on AI, where people are touting incredible medical advancements, but we can’t tell what’s happening from these scans?",
+      "zh": "大约一年前，我自己的妈妈生了非常严重的病，最后被放进加护病房，靠呼吸机维持呼吸。医生们不断进来查看影像，始终弄不清到底发生了什么。而我坐在医院里想：我身处报道AI的世界，天天听到人们宣传令人难以置信的医疗进步，但仅凭这些检查结果，我们却看不出病因吗？"
+    },
+    {
+      "id": "p094",
+      "en": "So you know. You know exactly what I mean. It’s infuriating for me to think my mom was in the ICU for 60 days, and people said, “Nobody walks out of that.” They were like, “She’s not going to be able to do it.” And I was like, “Yes, she is. I know she is.” I wasn’t the one qualified to make those calls, right? And she did. She survived another two years after that.",
+      "zh": "你知道的，你完全懂我意思。想到妈妈在ICU里躺了60天，让人说“从这里几乎没人能活着离开”，这点让我很恼火。他们说“她不可能撑过去”。我当时却说“会的，我知道她能。”我又不是有资格下这种断言的人，对吧？但她真的做到了。那之后她又活了两年。"
+    },
+    {
+      "id": "p095",
+      "en": "You talk often about resilience. How do you personally—not the company, but you—stay resilient? Is it Starbucks? I noticed you had one at your AI event.",
+      "zh": "你经常谈到韧性。你是如何保持个人韧性的？不是公司层面的，而是你个人——是星巴克吗？我注意到你在AI活动上有一杯。"
+    },
+    {
+      "id": "p096",
+      "en": "Yes, this is a passion tea lemonade, and it does a lot for me. I’m not a big caffeine drinker, so this and a bit of exercise does it for me. I go in waves [with Starbucks]. Sometimes I have a lot, and sometimes I cut myself off.",
+      "zh": "是的，这是一款百香果茶柠檬饮，对我很有帮助。我本身不怎么喝含咖啡因的饮料，所以它加上一点运动就足够了。我会有起伏地喝（像喝星巴克一样）。有时喝很多，有时又会主动停掉。"
+    },
+    {
+      "id": "p097",
+      "en": "Same. What’s your preferred form of exercise?",
+      "zh": "当然。你最喜欢的锻炼方式是什么？"
+    },
+    {
+      "id": "p098",
+      "en": "I like to box. I have a trainer that comes to the house, and he lets me hit him. Well, not him, but mitts.",
+      "zh": "我喜欢打拳击。我请了个教练来家里，而且他让给我出拳。不是打他本人，而是打护具。"
+    },
+    {
+      "id": "p099",
+      "en": "How long have you been doing that?",
+      "zh": "你做这个有多久了？"
+    },
+    {
+      "id": "p100",
+      "en": "I don’t know. Seven, eight years, something like that.",
+      "zh": "我不太清楚，大概七、八年吧。"
+    },
+    {
+      "id": "p101",
+      "en": "So two to three years after you became CEO, you were like, “I need to work some stuff out here.”",
+      "zh": "所以，在你上任 CEO 后两三年，你会想：\"我得把这件事想清楚。\""
+    },
+    {
+      "id": "p102",
+      "en": "How much do you sleep per night?",
+      "zh": "你每晚通常睡几个小时？"
+    },
+    {
+      "id": "p103",
+      "en": "Five, six hours. Six is a really good number. On weekends, I might be seven.",
+      "zh": "五六个小时。六个小时其实是个不错的数字。周末我可能会睡七个小时。"
+    },
+    {
+      "id": "p104",
+      "en": "What impresses you most as a leader? When you have your first meeting with someone, what impresses you?",
+      "zh": "你最佩服领导者身上的什么品质？当你和一个人第一次会面时，什么最打动你？"
+    },
+    {
+      "id": "p105",
+      "en": "Passion for what they’re doing. Because I think that stays with you through good times and bad times. Things are always going to go wrong, but if you’re truly passionate about what you do, then I think you shine.",
+      "zh": "对自己所做之事的热爱。因为我认为，这种热爱会在你身上一路伴随，无论顺境还是逆境。事情总会出错，但如果你真正热爱自己正在做的事，那我想你就会脱颖而出。"
+    },
+    {
+      "id": "p106",
+      "en": "Well, I can’t say people who ask me about Jensen being my cousin?",
+      "zh": "嗯，关于“杰森是我表亲”这种问法，我不能说……"
+    },
+    {
+      "id": "p107",
+      "en": "You can totally say that.",
+      "zh": "你完全可以这么说。"
+    },
+    {
+      "id": "p108",
+      "en": "To tell you the truth, it doesn’t really irritate me, but it’s more like, “Really? Is that the most important thing we have to talk about?”",
+      "zh": "说实话，这并没有让我真正生气，更像是在想：‘真的吗？这就是我们最该谈的话题吗？’"
+    },
+    {
+      "id": "p109",
+      "en": "What is it you feel like people don’t really know about you, that you want them to understand about you?",
+      "zh": "你觉得人们其实并不真正了解你的一点是什么，你希望他们能够理解？"
+    },
+    {
+      "id": "p110",
+      "en": "I feel like people know me. No? Well … I get up every day because I believe our products can change the world, and they can make the world a better place. So there’s always noise—this, that, export controls, whatever. Those are noise.",
+      "zh": "我觉得人们还是知道我的。不是吗？唔……我每天起床，是因为我相信我们的产品能够改变世界，而且能让世界变得更美好。所以总会有各种噪音——这是那个，那是这个，出口管制之类的。那些都只是噪音。"
+    },
+    {
+      "id": "p111",
+      "en": "So is it that you’re a supreme optimist?",
+      "zh": "那你算不算是一个天生的乐观主义者？"
+    },
+    {
+      "id": "p112",
+      "en": "I don’t think of myself that way, but I’m probably a supreme technology optimist. I’m actually quite pragmatic. So I’m a pragmatic supreme technology optimist. How does that sound?",
+      "zh": "我不这么形容自己，但我或许算是技术乐观主义者中的“顶级”。其实我很务实。所以我是一个务实的顶级技术乐观主义者。听起来怎么样？"
+    },
+    {
+      "id": "p113",
+      "en": "It sounds like ChatGPT generated it.",
+      "zh": "这听起来像是 ChatGPT 自动生成的。"
+    },
+    {
+      "id": "p114",
+      "en": "That was not a programmed response.",
+      "zh": "但这并不是预设好的回复。"
+    },
+    {
+      "id": "p115",
+      "en": "How would I describe myself? I do believe tech has the opportunity to change so much of how we experience life in a very, very positive way. So in that case, I am a supreme technology optimist. But I’m pragmatic in how you get there. And how you get there is every day, step by step. We learn, we listen, we adjust. We apply what we learn. That’s just what we do.",
+      "zh": "怎么来形容我自己呢？我确实相信技术有机会以非常积极的方式，改变我们生活体验的许多方面。所以，在这种情况下，我是一个非常坚定的技术乐观主义者。不过，我对“怎么做到”却很务实。实现目标的方法是每天一点点、一步一步来。我们学习、我们倾听、我们调整。我们把学到的东西付诸实践。我们一直都是这样做的。"
+    },
+    {
+      "id": "p116",
+      "en": "Let us know what you think about this article. Submit a letter to the editor at [email protected].",
+      "zh": "欢迎告诉我们你对本文的看法。请向编辑部来信： [email protected]。"
+    }
+  ],
+  "translated_at": "2026-07-22T17:57:42+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "005-quiz-will-ai-destroy-your-career",
+  "source_href": "feed_0/article_4/index_u1.html",
+  "publication": "wired",
+  "issue": "2026-06-02",
+  "issue_published_at": "2026-06-02",
+  "article_published_at": "2026-05-26T06:00:00-04:00",
+  "published_at": "2026-05-26T06:00:00-04:00",
+  "published_date_source": "article",
+  "order": 5,
+  "section": "Maddy Varner",
+  "title_en": "Quiz: Will AI Destroy Your Career?",
+  "title_zh": "测验：人工智能会毁掉你的职业吗？",
+  "rubric_en": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
+  "rubric_zh": "有些工作可能要“完蛋”了，有些会继续生存。点击你的答案，看看你的命运。",
+  "date": "2026-05-26T06:00:00-04:00",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "This spring, a team of top academic and think tank researchers tried to forecast AI’s effects on the economy between now and 2030. They surveyed dozens of economists, AI experts, and “superforecasters” about various scenarios, including one in which AI becomes so advanced that it can both write a “Pulitzer-caliber” book and negotiate its own publishing rights.",
+      "zh": "今年春天，一支由顶尖学术界和智库研究人员组成的团队尝试预测人工智能在现在到2030年间对经济的影响。他们调研了数十位经济学家、AI专家和“超级预测者”关于多种情景的看法，其中包括一个场景：AI已经进化到足以同时写出“普利策奖级”图书并协商自己的出版版权。"
+    },
+    {
+      "id": "p002",
+      "en": "In the survey, most experts said that higher-ranking occupations—CEO, administrative manager, senior official, legislator—would continue to grow, even under the “rapid” AI scenario. For most other people working a white-collar job, the forecast was murky.",
+      "zh": "在这项调查中，大多数专家表示，即使在“快速”AI情景下，职位层级更高的职业——首席执行官（CEO）、行政经理、高级官员、立法者——仍将继续增长。对大多数从事白领工作的其他人来说，预测则非常模糊。"
+    },
+    {
+      "id": "p003",
+      "en": "Researchers are in broad agreement that AI is doing something to the economy and that whatever it’s doing is very complex. Real numbers are hard to come by. That’s why WIRED has developed this thoroughly unscientific quiz, based on factors that researchers say might help determine who’s at risk.",
+      "zh": "研究人员普遍认同，AI确实正在影响经济，而且这种影响非常复杂。可靠的真实数据很难获得。这就是 WIRED 开发这个彻底不严谨的测验的原因。它基于研究人员认为可能决定谁面临风险的一些因素。"
+    },
+    {
+      "id": "p004",
+      "en": "Is your job being affected by AI in ways this quiz didn’t capture? Contact Maddy securely on Signal at mvarner.01 or let us know in the comments below. Alternatively, you can submit a letter to the editor at [email protected].",
+      "zh": "你的工作是否正受到本测验未涵盖的AI影响？你可以通过 Signal 安全联系 Maddy，账号为 mvarner.01，或在下方评论区告诉我们。或者，你也可以向编辑部投稿，邮箱是 [email protected]。"
+    }
+  ],
+  "translated_at": "2026-07-22T16:44:08+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

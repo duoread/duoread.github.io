@@ -1,0 +1,34 @@
+{
+  "id": "013-ten-thousand-things-arising",
+  "source_href": "feed_4/article_0/index_u7.html",
+  "publication": "atlantic",
+  "issue": "2026-06-02",
+  "issue_published_at": "2026-06-02",
+  "article_published_at": "",
+  "published_at": "2026-06-02",
+  "published_date_source": "issue",
+  "order": 13,
+  "section": "Poetry",
+  "title_en": "Ten Thousand Things Arising",
+  "title_zh": "万物初起",
+  "rubric_en": "A poem",
+  "rubric_zh": "一首诗",
+  "date": "2026-06-02",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "Not even if is a wildfire in close enough range. Not even the present is within breath. For years the answers came, the same answer, or not the same at all, spotted in a different tongue, then none at all. The soft filling of the future tense that would not fit into a grid, one I could name. And right in the midpoint of what I thought was mid- life, a new character padded onto the page. Who traveled from the long after. Leaking the afterlife. And all that year, I couldn’t read, knowing language could be directional, drawing close. Moving away. But the character was recurring, then the main figure. His mouth loaded, the bababa. Between his diaphragm and hard palate: phonic vibration and smear. Strained visage behind my 37th year. And how did we get here—you and I, I mean. My child whose modifiers I tend and prune on the screen. You were a no and then one of ten thousand things arising in the mind’s snow. Stay, you bid me, stay. And from that point on there was no question laid and there I was, now dragged by the endless itching of the clock’s hands, around and around the now, now, now. Was there ever a chase? It’s getting late. I shiver, touching you here on the page.",
+      "zh": "不是即使有一场野火，距离也未必够近。现在也不在呼吸之间。多年来，答案一次又一次地到来：要么是同样的答案，要么完全不同，在另一种语言里出现，再之后则什么都没有。未来时态那种柔软的填充始终装不进一个网格里，我本以为可以为之命名。就在我以为自己正处于中年的中点时，页面上又添上了一个新人物。是他从漫长彼岸而来。正在泄漏着来世。那整整一年里，我读不进去，因为我知道语言可以是有方向的，靠得很近，也可以远离。可是那个字形反复出现，后来成了主角。他的嘴唇负重而压着，像“babab a”。在我的三十七岁背后，是拉紧的面孔。我们怎么会走到这里——我是指你和我。我的那个孩子，我在屏幕上照看并修剪他的修饰语。你曾是‘不’——然后又成了心灵雪野里涌现的万千事物之一。留下来，你劝我留下来。自那一刻起，就再也没有任何问题可问，我就这样被钟表指针无尽地搔痒着，拖拽着在此刻、此刻、此刻之间来回打转。那真的是一场追逐吗？天色已经晚了。我在你身上轻轻一抖，在这页纸上触到你。"
+    },
+    {
+      "id": "p002",
+      "en": "This poem appears in the June 2026 print edition.",
+      "zh": "这首诗出现在2026年6月的印刷版中。"
+    }
+  ],
+  "translated_at": "2026-07-22T16:37:55+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

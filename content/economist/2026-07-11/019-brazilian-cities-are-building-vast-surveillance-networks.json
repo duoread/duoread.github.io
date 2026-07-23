@@ -1,0 +1,89 @@
+{
+  "id": "019-brazilian-cities-are-building-vast-surveillance-networks",
+  "source_href": "67f4353d-a9d9-4fc2-8a62-fefc504e65dc.html",
+  "publication": "economist",
+  "issue": "2026-07-11",
+  "issue_published_at": "2026-07-11",
+  "article_published_at": "July 9th 2026",
+  "published_at": "July 9th 2026",
+  "published_date_source": "article",
+  "order": 19,
+  "section": "The Americas",
+  "title_en": "Brazilian cities are building vast surveillance networks",
+  "title_zh": "巴西城市正在建设庞大的监控网络",
+  "rubric_en": "Can they combat the country’s biggest security threats?",
+  "rubric_zh": "它们能否遏制该国最大的安全威胁？",
+  "date": "July 9th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "In “Brazil”, Terry Gilliam’s film about a dystopian society, eyeball-shaped surveillance bots hover over citizens’ shoulders, watching their every move. In Brazil, the country, something a bit similar is afoot. That is evident in the heart of São Paulo’s historic centre, where a giant electronic counter known as the “prisonometer” records arrests attributed to Smart Sampa: a network of 50,000 cameras enhanced with clever tech.",
+      "zh": "在影片《巴西》中，特里·吉列姆描绘的反乌托邦社会里，那些眼球形状的监控机器人盘旋在市民肩膀上方，监视他们的每一个动作。而在巴西这个国家，也正发生着有点类似的事情。这在圣保罗历史中心就一目了然：那里有一个巨大的电子计数器，名为“prisonometer”（监狱人数计量器），记录了由“Smart Sampa”执行的逮捕情况；这个系统由一个由50,000个摄像头组成的网络构成，并配备了巧妙的技术增强。"
+    },
+    {
+      "id": "p002",
+      "en": "The system, introduced in 2024, uses facial recognition to spot people wanted by police on São Paulo’s streets. It issues alerts and officers are dispatched to pick them up. The system can also locate people who have been reported missing, identify stolen vehicles and provide footage to police investigations. Streamed to its control room in the city centre, information flows not just from lenses on street corners but in health centres, on buses and mounted on police motorbikes. By 2028 the number of cameras in the network is supposed to double, to 100,000.",
+      "zh": "这套于2024年推出的系统使用人脸识别，在圣保罗街头识别警方通缉人员。它会发出警报，并派遣警员前去抓捕。该系统还可以定位报失踪人员、识别被盗车辆，并向警方调查提供影像资料。画面被实时传输到市中心的指挥室，信息流不只来自街角的镜头，也来自卫生中心、公交车以及安装在警用摩托车上的摄像设备。到2028年，网络中的摄像头数量预计将翻倍，达到100,000个。"
+    },
+    {
+      "id": "p003",
+      "en": "São Paulo is one of many Brazilian cities spending big on crime-fighting technology. As in other countries, police are investing in body-worn cameras and networks of microphones that detect the sound of gunshots. What sets Brazil apart from many democracies is its enthusiasm for face-spotting tech. Researchers for O Panóptico, a watchdog, count 560 active facial-recognition projects in more than 20 Brazilian states. These include police-run initiatives but also experiments in schools, for example, where cameras are increasingly being used to take attendance. They gaze upon some 99m people, more than 47% of Brazil’s population.",
+      "zh": "圣保罗只是众多大力投入打击犯罪技术的巴西城市之一。与其他国家一样，警方正在投资于执法人员佩戴式摄像机和用于探测枪声的麦克风网络。让巴西与许多民主国家不同的是，它对人脸识别技术的热情。监督机构“O Panóptico”的研究人员统计，在20多个巴西州有560个正在运行的人脸识别项目。其中既包括警方主导的计划，也包括学校里的试点，例如，摄像头越来越多地被用于签到。它们盯着大约9900万人，占巴西人口的47%以上。"
+    },
+    {
+      "id": "p004",
+      "en": "The main impetus for the likes of Smart Sampa is Brazilians’ persistent fear of crime. Policing is largely the responsibility of states and municipalities. Their governors and mayors are embracing high-tech kit as a way of showing they are cracking down on insecurity. The spread accelerated during the pandemic, when cities bought cameras to enforce lockdowns and track public-health measures. Many were later repurposed for public security.",
+      "zh": "推动诸如Smart Sampa等项目的主要动力，是巴西人持续存在的犯罪恐惧感。警务主要由各州和市政当局负责。各州州长和市长把高科技设备当作向公众展示自己正在收紧安全治理、遏制不安全局面的手段。疫情期间，这种扩张加速了，当时许多城市购买了摄像头来执行封锁并追踪公共卫生措施。之后，许多摄像头被改为用于公共安全。"
+    },
+    {
+      "id": "p005",
+      "en": "It helps that high-resolution, internet-connected cameras are becoming cheaper—and that software capable of wringing insight from their footage is growing more effective. As well as governments, companies and individuals now deploy smart surveillance systems, says Erick Coser of Gabriel, a security-technology firm. Smart Sampa relies heavily on cameras put up by landlords, such as the firms that operate in São Paulo’s shopping centres or manage apartment and office buildings, who link their sensors into the system. Ricardo Nunes, the city’s mayor, says that already more than half the cameras in the network are privately owned.",
+      "zh": "这一点很容易理解，因为高分辨率、联网的摄像头越来越便宜，而且从录像中提取有价值信息的软件也越来越有效。正如安全技术公司 Gabriel 的 Erick Coser 所说，除政府外，企业和个人也都在部署智能监控系统。Smart Sampa 在很大程度上依赖由房东安装的摄像头，例如在圣保罗商场经营并管理公寓和写字楼的公司，这些公司会把它们的传感器接入该系统。该市市长 Ricardo Nunes 表示，在该网络中的摄像头里，已有超过一半是由私人机构所有。"
+    },
+    {
+      "id": "p006",
+      "en": "The authorities paint these developments as a success. São Paulo’s government says more than 3,000 fugitives have been arrested after being spotted by its system, and that the cameras have let them catch nearly 6,000 people in the act of committing crimes. The use of facial recognition has won broad support across Brazil’s political spectrum, says Rafael Ch of Signum Global Advisors, a consultancy.",
+      "zh": "当局把这些发展视为成功。圣保罗政府称，在其系统识别后，已有三千多名逃犯被逮捕，并且摄像头帮助抓获了近 6,000 名正在犯罪现场实施犯罪的人。Signum Global Advisors 的咨询专家 Rafael Ch 表示，人脸识别的应用在巴西政治光谱上得到了广泛支持。"
+    },
+    {
+      "id": "p007",
+      "en": "Yet privacy advocates and some security experts are alarmed. They question the effectiveness of the surveillance systems, and their fairness. São Paulo has been hauling people in on warrants later found to have expired or been withdrawn. A persistent worry is that face-spotting systems are not uniformly accurate when identifying people of different ethnicities. According to Agência Brasil, a state news agency, roughly 80% of wrongful arrests linked to facial-recognition systems in Rio de Janeiro involve black Brazilians. Though the country’s privacy and data-protection laws are some of the strongest in Latin America, public security gets big carve-outs. In other places that have invested heavily in surveillance technology, such as Britain, there are stricter legal safeguards.",
+      "zh": "然而，隐私倡导者和一些安全专家对此表示担忧。它们质疑这些监控系统的有效性以及公平性。圣保罗一直在对一些持有逮捕令的人进行抓捕，但这些逮捕令后来被发现已经过期或被撤回。一个长期的担忧是，人脸识别系统在识别不同族裔人群时并不一致准确。根据国家通讯社 Agência Brasil 的报道，在里约热内卢，约有 80% 的误捕与人脸识别系统有关，而且都涉及黑人巴西人。虽然该国的隐私和数据保护法在拉丁美洲属于较为严格的一类，但公共安全却有较大的例外条款。在其他重金投资监控技术的地方，例如英国，法律保障更为严格。"
+    },
+    {
+      "id": "p008",
+      "en": "Surveillance tech cannot make up for underlying failures in the criminal-justice system, says Pablo Nunes of the Centre for Security and Citizenship Studies (CESeC), a think-tank. Many crimes in Brazil are never properly investigated (only a third of murders are ever solved; in São Paulo state, police solve only around 2% of recorded thefts). Sensors that help pull wanted people off the street are no use in cases where no suspects have been identified.",
+      "zh": "安全与公民研究中心（CESeC）智库的 Pablo Nunes 指出，监控技术无法弥补刑事司法体系的根本缺陷。巴西许多案件从未得到妥善调查（仅有约三分之一的凶杀案得到侦破；在圣保罗州，警方仅解决约 2% 的登记盗窃案）。在嫌疑人尚未确定的案件中，能够帮助从街头捉拿在逃人员的传感器就没有作用。"
+    },
+    {
+      "id": "p009",
+      "en": "Capturing more crimes on camera will surely be helpful. But police often lack the skills and resources to sift through reams of footage. The CESeC recently compared crime trends in São Paulo during Smart Sampa’s first year with those in other municipalities and found no reduction in thefts, robberies or homicides, nor any increase in police productivity as measured by the number of arrests.",
+      "zh": "更多犯罪被摄像头拍到当然有帮助。但警方往往缺乏筛选海量监控录像的技能和资源。CESeC最近将圣保罗在“Smart Sampa”第一年的犯罪趋势，与其他市政当局进行了对比，结果发现盗窃、抢劫和凶杀案件都没有下降，警方以逮捕人数衡量的执法效率也没有提高。"
+    },
+    {
+      "id": "p010",
+      "en": "Official claims about effectiveness also tend to ignore the fact that Brazil’s streets were growing safer before new crime-fighting technologies became widespread. Murders, robberies and thefts have fallen markedly since 2018. In São Paulo, robberies reached a 25-year low in 2025; its murder rate is now among the lowest of any large city in Latin America. One reason is that crime is changing: large organised crime groups are becoming less like street gangs and more like lawless conglomerates. They infiltrate legal markets, seize control of their supply chains and launder money through legitimate businesses. According to the Brazilian Forum of Public Security, a think-tank, gangs generated 147bn reais ($29bn) from fuel, gold, cigarettes and drinks in 2022, compared with only 15bn reais from trafficking cocaine. None of this is easy to capture with cameras, no matter how smart they may be.",
+      "zh": "关于成效的官方说法也常常忽视了这样一个事实：在新型打击犯罪技术普及之前，巴西的街头已经在变得更安全。自2018年以来，谋杀、抢劫和盗窃都明显下降。在圣保罗，抢劫案件在2025年降到了25年来最低水平；其谋杀率目前已位居拉美所有大城市中最低之一。其一原因是犯罪形态正在变化：大型有组织犯罪团伙正变得不再像街头帮派，而更像无政府化的财团。他们渗透合法市场，控制供应链，并通过合法企业洗钱。根据智库巴西公共安全论坛的说法，这些帮派在2022年从燃料、黄金、香烟和酒类中获得了1470亿雷亚尔（290亿美元）的收入，而从可卡因贩运中仅有150亿雷亚尔。无论这些技术有多先进，这些都不容易被摄像头捕捉。"
+    },
+    {
+      "id": "p011",
+      "en": "All this raises questions about costs. Smart Sampa now requires at least 118m reais a year to run. The state of Rio de Janeiro has spent more than 670m reais on facial-recognition technologies for public security. The opportunity costs are highest in poorer parts of Brazil. In Goiás, a central state, lawmakers have splurged on whizzy security systems for towns where less than half of households have basic sanitation and violent crime is rare.",
+      "zh": "所有这些都引出了成本问题。Smart Sampa现在每年至少需要1.18亿雷亚尔来运行。里约热内卢州已在公共安全的人脸识别技术上投入超过6.7亿雷亚尔。机会成本在巴西更贫困地区最高。在戈亚斯州，这个巴西中部州，立法者在城镇里大肆采购炫目的安全系统，而这些城镇不到一半家庭拥有基本卫生设施，而且暴力犯罪并不常见。"
+    },
+    {
+      "id": "p012",
+      "en": "Courts are beginning to push back. But even if new rules are adopted, enforcing them will be hard, says Caitlin Bishop of Privacy International, a digital-rights group. “Officials often lack the technical expertise needed to verify rules are being respected.” Security will be an important issue in general elections in October. As the “prisonometer” shows, Brazilian politicians love eye-catching ways to look like they are tough on crime. ■",
+      "zh": "法院开始有所回击。但隐私国际（Privacy International）数字权利组织的凯特琳·毕晓普（Caitlin Bishop）表示，即使新规则被采纳，执行起来也会很难：“官员常常缺乏必要的技术专长来核验规则是否被遵守。”安全问题将在10月的大选中成为重要议题。正如“prisonometer”所显示的那样，巴西政客很喜欢用吸睛的方式来塑造自己“打击犯罪”的形象。■"
+    },
+    {
+      "id": "p013",
+      "en": "Sign up to El Boletín, our subscriber-only newsletter on Latin America, to understand the forces shaping a fascinating and complex region.",
+      "zh": "请订阅《El Boletín》，这是我们面向订阅者的拉丁美洲通讯，以更好理解这一令人着迷且复杂地区的塑造力量。"
+    }
+  ],
+  "translated_at": "2026-07-22T23:06:41+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

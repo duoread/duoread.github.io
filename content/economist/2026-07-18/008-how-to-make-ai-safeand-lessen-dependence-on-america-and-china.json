@@ -1,0 +1,74 @@
+{
+  "id": "008-how-to-make-ai-safeand-lessen-dependence-on-america-and-china",
+  "source_href": "0e9e4978-2408-4c06-9317-3b839c8266da.html",
+  "publication": "economist",
+  "issue": "2026-07-18",
+  "order": 8,
+  "section": "Leaders",
+  "title_en": "How to make AI safe—and lessen dependence on America and China",
+  "title_zh": "如何让 AI 更安全，并减少对美国和中国的依赖",
+  "rubric_en": "State-backed efforts to catch up with frontier models are doomed",
+  "rubric_zh": "由国家支持、试图追赶前沿模型的努力注定会失败",
+  "date": "July 16th 2026",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "PROGRESS IS rapidly being made towards regulating the release of powerful new AI models in America. Its government is set to soon outline its plan, after taking suggestions from the industry. Speaking to The Economist this week Sir Demis Hassabis, the boss of Google DeepMind, pitched a hybrid public-private regulator for the industry, echoing our own thoughts. The regulator is modelled on the agency that regulates brokers and stock markets.",
+      "zh": "美国在监管强大新 AI 模型发布方面正迅速取得进展。美国政府在听取行业建议后，预计很快将公布其计划。本周，Google DeepMind 负责人德米斯·哈萨比斯爵士在接受《经济学人》采访时，提出为该行业设立一个公私混合监管机构，这与我们的想法相呼应。这个监管机构以监管经纪商和股票市场的机构为蓝本。"
+    },
+    {
+      "id": "p002",
+      "en": "Rules are needed because the newest frontier models possess some dangerous powers—from hacking critical digital infrastructure to writing recipes for new bioweapons. Without any organised way of dealing with such risks, the government has taken to making up the rules as it goes along in order to control access to Mythos and Sol, Anthropic and OpenAI’s latest offerings. Ideally, predictable rules would be agreed on internationally, especially between America and China, whose models surpass everyone else’s. But time is short. Sir Demis thinks that, if America moves unilaterally, the rest of the world will sign up to its system.",
+      "zh": "之所以需要规则，是因为最新的前沿模型具备一些危险能力，从入侵关键数字基础设施到编写新型生物武器的配方，不一而足。在没有任何有组织方式来应对这些风险的情况下，政府为了控制对 Mythos 和 Sol 的访问，开始边走边制定规则；这两者分别是 Anthropic 和 OpenAI 的最新产品。理想情况下，各国应就可预期的规则达成国际共识，尤其是美国和中国之间，因为它们的模型领先于其他所有国家。但时间紧迫。德米斯爵士认为，如果美国单方面行动，世界其他国家会加入其体系。"
+    },
+    {
+      "id": "p003",
+      "en": "He may be right. Yet safety is only one part of the problem. It is increasingly clear that America and China will also restrict access to their models for economic and strategic reasons. Under President Donald Trump, America has had no qualms about using its allies’ military dependence as negotiating leverage; it could one day try to exploit their AI dependence, too. China has treated other exports, such as rare earths, as sources of geopolitical advantage, and probably views AI the same way.",
+      "zh": "他也许是对的。然而，安全只是问题的一部分。越来越明显的是，美国和中国还会出于经济和战略原因限制他国使用自己的模型。在唐纳德·特朗普总统任内，美国毫不避讳地把盟友对其军事上的依赖当作谈判筹码；有朝一日，它也可能试图利用盟友对其 AI 的依赖。中国曾把稀土等其他出口品视为地缘政治优势来源，并且很可能也以同样方式看待 AI。"
+    },
+    {
+      "id": "p004",
+      "en": "The control that these two governments exert over frontier AI puts other countries in a very tight spot, especially as the technology spreads. If America cuts off a country from its models and data centres, “Are your factories going to still run?” asks Arthur Mensch, head of Mistral AI, Europe’s best model maker, on this week’s “Inside Tech” show. Access to AI will also be increasingly important for security.",
+      "zh": "这两个政府对前沿 AI 的控制，使其他国家处于非常被动的境地，尤其是在这项技术不断扩散之际。如果美国切断一个国家对其模型和数据中心的访问，“你的工厂还能继续运转吗？”欧洲最佳模型制造商 Mistral AI 的负责人阿瑟·门施在本周的《Inside Tech》节目中问道。获得 AI 的能力对安全也将变得越来越重要。"
+    },
+    {
+      "id": "p005",
+      "en": "What, then, can other countries do? A state-backed effort to catch up with America’s frontier models would be doomed. OpenAI and Anthropic have each raised well over $100bn in funding so far. Any effort that spends much less is not credible. Even if politicians find the cash, AI research is the sort of endeavour—involving expensive researchers and risky bets—in which governments have a feeble record. Who today remembers Quaero, the rival to Google that the French and German governments announced in 2005?",
+      "zh": "那么，其他国家能做什么？由国家支持、试图追赶美国前沿模型的努力注定会失败。到目前为止，OpenAI 和 Anthropic 各自筹集的资金都远超 1000 亿美元。任何投入远低于这一水平的努力都难以令人信服。即便政客们能找到这笔钱，AI 研究也属于那种政府记录乏善可陈的事业：它需要昂贵的研究人员，还要承担高风险押注。今天还有谁记得 Quaero 呢？那是法国和德国政府在 2005 年宣布推出的 Google 竞争对手。"
+    },
+    {
+      "id": "p006",
+      "en": "Other countries can, though, build data centres. Most will need some of them, to run AI on sensitive data. Local data centres offer insurance against being suddenly cut off from processing power, or “compute”. They also make it easier to maintain a credible ability to switch to open-weight models, which anyone can run if access to frontier capabilities is cut off.",
+      "zh": "不过，其他国家可以建设数据中心。多数国家都需要一些数据中心，以便在敏感数据上运行 AI。本地数据中心可以作为一种保险，防止突然被切断处理能力，也就是“算力”。它们还使一国更容易保持一种可信的切换能力：如果前沿能力的访问被切断，就转向开放权重模型，因为任何人都可以运行这类模型。"
+    },
+    {
+      "id": "p007",
+      "en": "Unfortunately, much of the world is far behind the data-centre buildouts in America and China. Usually, the biggest problems are regulation and access to power. By delaying revenues and locking up capital, procedural snafus can have enormous effects: a nine-month delay worsens the economics of a data centre as much as would doubling its lifetime electricity bill, according to the Carnegie Endowment, a think-tank. The average delay before being connected to the grid is three years in India and Britain and three-and-a-half in Germany and South Korea, compared with two years in America.",
+      "zh": "遗憾的是，世界许多地区在数据中心建设方面远远落后于美国和中国。通常，最大的问题是监管和电力获取。程序上的混乱会推迟收入并占用资本，因此可能造成巨大影响：智库卡内基国际和平基金会称，九个月的延误对数据中心经济性的损害，相当于其整个生命周期电费翻倍。接入电网前的平均等待时间在印度和英国为三年，在德国和韩国为三年半，而美国为两年。"
+    },
+    {
+      "id": "p008",
+      "en": "Speeding up regulatory approval, offering fast-tracks through connection queues and allowing power generation that bypasses the grid would all help. There is no need for subsidies: AI companies are desperate for compute and will pay to get it. There is even the enticing possibility of agreements where AI developers promise to offer a country the same models as America in return for data centres. Simply becoming a big customer of America’s AI labs, by encouraging the diffusion of the technology, could itself build leverage. Model makers need revenue to justify their gigantic investments; they will have a reason to lobby against American protectionism that hurts foreign buyers.",
+      "zh": "加快监管审批、为电网接入排队提供快速通道，以及允许绕过电网的发电方式，都会有所帮助。没有必要提供补贴：AI 公司极度渴求算力，并且愿意为此付费。甚至还有一种诱人的可能性：达成协议，让 AI 开发商承诺向某个国家提供与美国相同的模型，以换取数据中心。只要通过鼓励这项技术扩散，成为美国 AI 实验室的大客户，本身就可能建立谈判筹码。模型制造商需要收入来证明其巨额投资是合理的；因此，他们会有理由游说反对损害外国买家的美国保护主义。"
+    },
+    {
+      "id": "p009",
+      "en": "Some countries are in the fortunate position of having their own choke points. Taiwan has chipmaking; the Netherlands has ASML; South Korea has memory technology. These specialisms should be prized. But even the lucky few cannot build fully sovereign AI capabilities. So countries must prepare to deal transactionally with the AI superpowers. Democratic America is a better partner than authoritarian China. Even so, every source of negotiating leverage will count. ■",
+      "zh": "一些国家幸运地拥有自己的关键卡点。台湾有芯片制造；荷兰有 ASML；韩国有存储技术。这些专长应当受到珍视。但即便是少数幸运者，也无法建立完全自主的 AI 能力。因此，各国必须准备好以交易方式同 AI 超级大国打交道。民主的美国是比威权的中国更好的伙伴。即便如此，每一种谈判筹码都将很重要。■"
+    },
+    {
+      "id": "p010",
+      "en": "Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.",
+      "zh": "《经济学人》的订阅用户可以订阅我们的 Opinion 新闻简报，该简报汇集了我们社论、专栏、客座文章和读者来信中的最佳内容。"
+    }
+  ],
+  "translated_at": "2026-07-21T14:29:58+08:00",
+  "translation_provider": "codex",
+  "translation_model": "codex-default",
+  "issue_published_at": "2026-07-18",
+  "article_published_at": "July 16th 2026",
+  "published_at": "July 16th 2026",
+  "published_date_source": "article"
+}
