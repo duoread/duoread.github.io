@@ -1,9 +1,14 @@
-import { readdir, readFile, writeFile } from "node:fs/promises";
+import { mkdir, readdir, readFile, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
+import { pathToFileURL } from "node:url";
 
-export async function rebuildSiteIndex(textsRoot = "texts") {
+export async function rebuildSiteIndex(textsRoot = "texts", options = {}) {
   const issues = [];
+  const publicContentRoot = options.publicContentRoot ?? path.join("public", "content");
   const publications = await safeReaddir(textsRoot);
+
+  await rm(publicContentRoot, { recursive: true, force: true });
+  await mkdir(publicContentRoot, { recursive: true });
 
   for (const publicationEntry of publications) {
     if (!publicationEntry.isDirectory()) continue;
@@ -21,7 +26,23 @@ export async function rebuildSiteIndex(textsRoot = "texts") {
         const articleJson = await readJsonIfExists(
           path.join(publicationPath, issueEntry.name, article.path),
         );
-        if (articleJson) hydratedArticles.push(articleJson);
+        if (!articleJson) continue;
+
+        const contentPath = articleContentPath(
+          publicationEntry.name,
+          issueEntry.name,
+          articleJson.id,
+        );
+        const { paragraphs, ...articleMeta } = articleJson;
+        hydratedArticles.push({
+          ...articleMeta,
+          paragraph_count: paragraphs?.length ?? article.paragraph_count ?? 0,
+          content_path: contentPath,
+        });
+        await writeJsonIfChanged(
+          path.join(publicContentRoot, publicationEntry.name, issueEntry.name, `${articleJson.id}.json`),
+          articleJson,
+        );
       }
 
       issues.push({ ...issue, articles: hydratedArticles });
@@ -36,12 +57,20 @@ export async function rebuildSiteIndex(textsRoot = "texts") {
     return String(a.publication).localeCompare(String(b.publication));
   });
 
-  await writeJson(path.join(textsRoot, "site-index.json"), {
+  const indexPath = path.join(textsRoot, "site-index.json");
+  const previousIndex = await readJsonIfExists(indexPath);
+  const nextIndex = {
     publication: "multi",
     current_issue: issues[0]?.issue ?? "",
-    generated_at: localTimestamp(),
+    generated_at: previousIndex?.generated_at ?? localTimestamp(),
     issues,
-  });
+  };
+
+  if (!sameIndexContent(previousIndex, nextIndex)) {
+    nextIndex.generated_at = localTimestamp();
+  }
+
+  await writeJsonIfChanged(indexPath, nextIndex);
 }
 
 async function safeReaddir(directory) {
@@ -62,8 +91,26 @@ async function readJsonIfExists(filePath) {
   }
 }
 
-async function writeJson(filePath, data) {
-  await writeFile(filePath, `${JSON.stringify(data, null, 2)}\n`, "utf8");
+async function writeJsonIfChanged(filePath, data) {
+  const next = `${JSON.stringify(data, null, 2)}\n`;
+  try {
+    const current = await readFile(filePath, "utf8");
+    if (current === next) return;
+  } catch (error) {
+    if (error.code !== "ENOENT") throw error;
+  }
+
+  await mkdir(path.dirname(filePath), { recursive: true });
+  await writeFile(filePath, next, "utf8");
+}
+
+function sameIndexContent(previous, next) {
+  if (!previous) return false;
+  return JSON.stringify({ ...previous, generated_at: "" }) === JSON.stringify({ ...next, generated_at: "" });
+}
+
+function articleContentPath(publication, issue, articleId) {
+  return `/content/${publication}/${issue}/${articleId}.json`;
 }
 
 export function localTimestamp() {
@@ -80,4 +127,8 @@ export function localTimestamp() {
   const minute = String(date.getMinutes()).padStart(2, "0");
   const second = String(date.getSeconds()).padStart(2, "0");
   return `${yyyy}-${month}-${day}T${hour}:${minute}:${second}${sign}${hh}:${mm}`;
+}
+
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  await rebuildSiteIndex(process.argv[2] ?? "texts");
 }

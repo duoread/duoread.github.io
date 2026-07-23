@@ -48,4 +48,5 @@ next-env.d.ts
 *.pdf
 /data/tmp/
 /texts/**/.translation-cache/
+/public/content/
 /.agent/dev-server.log

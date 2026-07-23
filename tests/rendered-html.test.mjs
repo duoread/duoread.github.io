@@ -38,10 +38,11 @@ test("renders the bilingual magazine reader", async () => {
   assert.match(html, /<span>Magazine<\/span>/);
   assert.match(html, /<span>Issue<\/span>/);
   assert.match(html, /<span>Article<\/span>/);
-  assert.match(html, /data-paragraph-index="0"/);
   assert.match(html, /Politics/);
   assert.match(html, /漫画：霍尔木兹海峡局势持续不明朗/);
-  assert.match(html, /深入了解这幅漫画涉及的主题/);
+  assert.match(html, /文章载入中/);
+  assert.doesNotMatch(html, /data-paragraph-index="0"/);
+  assert.ok(Buffer.byteLength(html) < 1_000_000);
   assert.doesNotMatch(html, /<span>Search<\/span>/);
   assert.doesNotMatch(html, /date-label/);
   assert.doesNotMatch(html, /<small>Articles<\/small>|<small>Translated<\/small>/);
@@ -60,6 +61,16 @@ test("site data is generated from texts", async () => {
   assert.equal(issue.article_count, 70);
   assert.ok(siteIndex.issues.length >= 1);
   assert.ok(issue.articles.length >= 60);
-  assert.ok(issue.articles[0].paragraphs.length > 5);
-  assert.equal(issue.articles[0].paragraphs[0].id, "p001");
+  assert.equal(issue.articles[0].paragraphs, undefined);
+  assert.match(issue.articles[0].content_path, /^\/content\/economist\/2026-07-18\//);
+  assert.ok(issue.articles[0].paragraph_count > 5);
+
+  const article = JSON.parse(
+    await readFile(
+      new URL(`../public${issue.articles[0].content_path}`, import.meta.url),
+      "utf8",
+    ),
+  );
+  assert.ok(article.paragraphs.length > 5);
+  assert.equal(article.paragraphs[0].id, "p001");
 });

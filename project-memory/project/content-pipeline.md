@@ -10,7 +10,8 @@ The project converts authorized magazine EPUB files into reviewable bilingual te
 - `texts/` stores cleaned text outputs and is committed.
 - Each article keeps `en.md`, `zh.md`, and `bilingual.json`.
 - `bilingual.json` is the source of truth for paragraph alignment.
-- `texts/site-index.json` is generated for the website bundle.
+- `texts/site-index.json` is a generated lightweight metadata index for the website bundle. It intentionally omits paragraph text.
+- `public/content/` is a generated, ignored static asset directory containing one JSON file per article. It is rebuilt from `texts/` before site builds and is copied into the deployed static site.
 
 ## Display Model
 
@@ -23,6 +24,7 @@ The reader displays one language per original paragraph.
 - Magazine and issue are separate selectors. Selecting a magazine moves to that publication's first available issue, and selecting an issue moves to that issue's first readable article.
 - Desktop navigation uses a scrollable article list. Mobile navigation hides the long list and uses an article selector.
 - The current issue and article are persisted in the `duoread_selection` cookie; saved values are validated against currently available readable articles before restoration.
+- The reader loads article paragraphs on demand from the article's `content_path` instead of embedding every paragraph in the homepage HTML.
 
 ## Publication Dates
 

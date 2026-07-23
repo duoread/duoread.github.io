@@ -20,7 +20,9 @@ type Article = {
   published_at?: string;
   published_date_source?: string;
   translation_status: string;
-  paragraphs: Paragraph[];
+  paragraph_count?: number;
+  content_path: string;
+  paragraphs?: Paragraph[];
 };
 
 type Issue = {
@@ -54,6 +56,8 @@ export function ReaderApp({ content }: { content: SiteContent }) {
   const [readingMode, setReadingMode] = useState<ReadingMode>("interleaved");
   const [interleavedLanguage, setInterleavedLanguage] = useState<Language>("zh");
   const [singleLanguage, setSingleLanguage] = useState<Language>("zh");
+  const [articleCache, setArticleCache] = useState<Record<string, Article>>({});
+  const [articleLoadError, setArticleLoadError] = useState("");
   const paragraphsRef = useRef<HTMLDivElement | null>(null);
   const pointerStartRef = useRef<{ x: number; y: number } | null>(null);
   const pendingScrollAnchorRef = useRef<{ index: string; top: number } | null>(null);
@@ -68,8 +72,12 @@ export function ReaderApp({ content }: { content: SiteContent }) {
   const readableArticles = readableIssueArticles(issue);
   const firstReadableArticle = readableArticles[0];
 
-  const activeArticle =
+  const activeArticleMeta =
     readableArticles.find((article) => article.id === activeId) ?? firstReadableArticle;
+  const activeArticleKey = articleKey(issue, activeArticleMeta);
+  const cachedArticle = activeArticleKey ? articleCache[activeArticleKey] : undefined;
+  const activeArticle =
+    cachedArticle ?? (activeArticleMeta?.paragraphs ? activeArticleMeta : undefined);
 
   useLayoutEffect(() => {
     const anchor = pendingScrollAnchorRef.current;
@@ -84,6 +92,34 @@ export function ReaderApp({ content }: { content: SiteContent }) {
     const nextTop = paragraph.getBoundingClientRect().top;
     window.scrollBy({ top: nextTop - anchor.top, behavior: "auto" });
   }, [activeArticle?.id, interleavedLanguage, readingMode, singleLanguage]);
+
+  useEffect(() => {
+    if (!activeArticleMeta || !activeArticleKey) return;
+    if (articleCache[activeArticleKey] || activeArticleMeta.paragraphs) return;
+
+    const controller = new AbortController();
+    setArticleLoadError("");
+
+    fetch(activeArticleMeta.content_path, {
+      cache: "force-cache",
+      signal: controller.signal,
+    })
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error(`${response.status} ${response.statusText}`);
+        }
+        return response.json() as Promise<Article>;
+      })
+      .then((article) => {
+        setArticleCache((cache) => ({ ...cache, [activeArticleKey]: article }));
+      })
+      .catch((error) => {
+        if (controller.signal.aborted) return;
+        setArticleLoadError(error instanceof Error ? error.message : "文章载入失败");
+      });
+
+    return () => controller.abort();
+  }, [activeArticleKey, activeArticleMeta, articleCache]);
 
   useEffect(() => {
     const savedSelection = readSelectionCookie();
@@ -102,14 +138,14 @@ export function ReaderApp({ content }: { content: SiteContent }) {
   }, [content.issues]);
 
   useEffect(() => {
-    if (!selectionLoaded || !issue || !activeArticle) return;
+    if (!selectionLoaded || !issue || !activeArticleMeta) return;
     writeSelectionCookie({
       issue: issueKey(issue),
-      article: activeArticle.id,
+      article: activeArticleMeta.id,
     });
-  }, [activeArticle, issue, selectionLoaded]);
+  }, [activeArticleMeta, issue, selectionLoaded]);
 
-  if (!issue || !activeArticle) {
+  if (!issue || !activeArticleMeta) {
     return (
       <main className="empty-shell">
         <h1>DuoRead</h1>
@@ -210,7 +246,7 @@ export function ReaderApp({ content }: { content: SiteContent }) {
         <label className="control-field article-picker">
           <span>Article</span>
           <select
-            value={activeArticle.id}
+            value={activeArticleMeta.id}
             onChange={(event) => setActiveId(event.target.value)}
           >
             {readableArticles.map((article) => (
@@ -224,7 +260,9 @@ export function ReaderApp({ content }: { content: SiteContent }) {
         <nav className="article-list">
           {readableArticles.map((article) => (
             <button
-              className={article.id === activeArticle.id ? "article-link active" : "article-link"}
+              className={
+                article.id === activeArticleMeta.id ? "article-link active" : "article-link"
+              }
               key={article.id}
               onClick={() => setActiveId(article.id)}
               type="button"
@@ -242,11 +280,11 @@ export function ReaderApp({ content }: { content: SiteContent }) {
       <article className="article-reader">
         <header className="article-header">
           <div>
-            <p className="section-label">{activeArticle.section}</p>
-            <h2>{activeArticle.title_zh || activeArticle.title_en}</h2>
-            <p className="english-title">{activeArticle.title_en}</p>
-            {activeArticle.rubric_zh || activeArticle.rubric_en ? (
-              <p className="rubric">{activeArticle.rubric_zh || activeArticle.rubric_en}</p>
+            <p className="section-label">{activeArticleMeta.section}</p>
+            <h2>{activeArticleMeta.title_zh || activeArticleMeta.title_en}</h2>
+            <p className="english-title">{activeArticleMeta.title_en}</p>
+            {activeArticleMeta.rubric_zh || activeArticleMeta.rubric_en ? (
+              <p className="rubric">{activeArticleMeta.rubric_zh || activeArticleMeta.rubric_en}</p>
             ) : null}
           </div>
 
@@ -271,28 +309,36 @@ export function ReaderApp({ content }: { content: SiteContent }) {
           onPointerDown={handleReaderPointerDown}
           onPointerUp={handleReaderPointerUp}
         >
-          {activeArticle.paragraphs.map((paragraph, index) => {
-            const showChinese =
-              readingMode === "single"
-                ? singleLanguage === "zh"
-                : interleavedLanguage === "zh"
-                  ? index % 2 === 0
-                  : index % 2 === 1;
-            const text = showChinese
-              ? paragraph.zh || "（待翻译）此段中文译文尚未生成。"
-              : paragraph.en;
-            return (
-              <p
-                className={showChinese ? "paragraph paragraph-zh" : "paragraph paragraph-en"}
-                data-paragraph-index={index}
-                key={paragraph.id}
-                lang={showChinese ? "zh-CN" : "en"}
-              >
-                <span className="paragraph-index">{String(index + 1).padStart(2, "0")}</span>
-                {text}
-              </p>
-            );
-          })}
+          {activeArticle?.paragraphs ? (
+            activeArticle.paragraphs.map((paragraph, index) => {
+              const showChinese =
+                readingMode === "single"
+                  ? singleLanguage === "zh"
+                  : interleavedLanguage === "zh"
+                    ? index % 2 === 0
+                    : index % 2 === 1;
+              const text = showChinese
+                ? paragraph.zh || "（待翻译）此段中文译文尚未生成。"
+                : paragraph.en;
+              return (
+                <p
+                  className={showChinese ? "paragraph paragraph-zh" : "paragraph paragraph-en"}
+                  data-paragraph-index={index}
+                  key={paragraph.id}
+                  lang={showChinese ? "zh-CN" : "en"}
+                >
+                  <span className="paragraph-index">{String(index + 1).padStart(2, "0")}</span>
+                  {text}
+                </p>
+              );
+            })
+          ) : articleLoadError ? (
+            <p className="reader-state" role="alert">
+              文章载入失败，请稍后重试。
+            </p>
+          ) : (
+            <p className="reader-state">文章载入中...</p>
+          )}
         </div>
       </article>
     </main>
@@ -312,6 +358,11 @@ function findParagraphElement(target: EventTarget) {
 function issueKey(issue?: Issue) {
   if (!issue) return "";
   return `${issue.publication}:${issue.issue}`;
+}
+
+function articleKey(issue?: Issue, article?: Article) {
+  if (!issue || !article) return "";
+  return `${issueKey(issue)}:${article.id}`;
 }
 
 function uniquePublications(issues: Issue[]) {
