@@ -39,7 +39,7 @@ test("renders the bilingual magazine reader", async () => {
   assert.match(html, /<span>Issue<\/span>/);
   assert.match(html, /<span>Article<\/span>/);
   assert.match(html, /Politics/);
-  assert.match(html, /漫画：霍尔木兹海峡局势持续不明朗/);
+  assert.doesNotMatch(html, /漫画：霍尔木兹海峡局势持续不明朗/);
   assert.match(html, /文章载入中/);
   assert.doesNotMatch(html, /data-paragraph-index="0"/);
   assert.ok(Buffer.byteLength(html) < 1_000_000);
@@ -61,6 +61,10 @@ test("site data is generated from texts", async () => {
   assert.equal(issue.article_count, 70);
   assert.ok(siteIndex.issues.length >= 1);
   assert.ok(issue.articles.length >= 60);
+  assert.equal(
+    issue.articles.some((article) => /^cartoon\b\s*:/i.test(article.title_en)),
+    false,
+  );
   assert.equal(issue.articles[0].paragraphs, undefined);
   assert.match(issue.articles[0].content_path, /^\/content\/economist\/2026-07-18\//);
   assert.ok(issue.articles[0].paragraph_count > 5);

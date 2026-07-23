@@ -27,6 +27,7 @@ export async function rebuildSiteIndex(textsRoot = "texts", options = {}) {
           path.join(publicationPath, issueEntry.name, article.path),
         );
         if (!articleJson) continue;
+        if (isVisualOnlyArticle(articleJson)) continue;
 
         const contentPath = articleContentPath(
           publicationEntry.name,
@@ -111,6 +112,13 @@ function sameIndexContent(previous, next) {
 
 function articleContentPath(publication, issue, articleId) {
   return `/content/${publication}/${issue}/${articleId}.json`;
+}
+
+export function isVisualOnlyArticle(article) {
+  const id = String(article.id ?? "");
+  const titleEn = String(article.title_en ?? "");
+  const titleZh = String(article.title_zh ?? "");
+  return /^cartoon\b\s*:/i.test(titleEn) || /^漫画\s*[:：]/.test(titleZh) || /^\d+-cartoon-/.test(id);
 }
 
 export function localTimestamp() {

@@ -2,7 +2,7 @@
 
 - Site scaffold is implemented with Vinext/React and runs locally at `http://localhost:3000/` when `npm run dev` is active.
 - 8 issues have been extracted and translated: The Economist `2026-07-18` and `2026-07-11`, The New Yorker `2026-07-20` and `2026-07-13`, The Atlantic `2026-06-02` and `2026-05-02`, and Wired `2026-06-02` and `2026-05-02`.
-- The current corpus has 324 translated articles and 10,356 aligned paragraphs, with zero pending articles.
+- The current corpus has 324 translated articles and 10,356 aligned paragraphs, with zero pending articles. The website currently exposes 322 article entries because 2 pure cartoon pages are filtered from the site index while retained in `texts/` for auditability.
 - `scripts/sync-latest-magazines.mjs` can check the upstream GitHub source for the latest downloadable issue of The Economist, The New Yorker, The Atlantic, and Wired; prioritize the latest issue tier; and when that tier is complete, backfill older tiers up to `MAGAZINE_BACKFILL_DEPTH` before running download, extraction, Codex Spark translation, validation, static export, source commit, and Pages publish.
 - `scripts/run-daily-magazines.sh` is the cron wrapper for the remote machine. It logs under `/root/aicode/runs/multi_language/logs/`, uses a lock file, pulls the source branch when clean, supports `GIT_REMOTE` for remote-name differences, runs Codex Spark with `TRANSLATION_CHUNK_SIZE=4`, enables one-issue backfill by default, and uses `MAGAZINE_INSTALL_DEPS=auto` so dependency installation runs only when `node_modules` is missing or `package-lock.json` changed.
 - The reader currently passes only translated articles to the frontend, so the preview does not show untranslated placeholders.
