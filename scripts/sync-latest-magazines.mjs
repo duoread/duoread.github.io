@@ -161,20 +161,20 @@ run("npm", ["run", "validate:texts"]);
 run("npm", ["run", "audit:translations"]);
 run("npm", ["run", "export:pages"]);
 
-if (!changed || !hasGitChanges()) {
+if (!hasGitChanges()) {
   console.log(`[${localTimestamp()}] No source changes to commit.`);
 } else {
   run("git", ["add", "texts"]);
   run("git", [
     "commit",
     "-m",
-    `data: add magazine translations ${completedIssues.join(", ")}`,
+    `data: add magazine translations ${completedIssues.join(", ") || "pending updates"}`,
   ]);
   run("git", ["push", sourceRemote, `HEAD:${sourceBranch}`]);
 }
 
 if (publish) {
-  await publishStaticSite(completedIssues.at(-1) ?? "no content changes");
+  await publishStaticSite(completedIssues.at(-1) ?? "content updates");
 }
 
 console.log(`[${localTimestamp()}] Magazine sync complete.`);
