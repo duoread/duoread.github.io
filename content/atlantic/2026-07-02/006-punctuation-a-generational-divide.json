@@ -1,0 +1,104 @@
+{
+  "id": "006-punctuation-a-generational-divide",
+  "source_href": "feed_2/article_0/index_u8.html",
+  "publication": "atlantic",
+  "issue": "2026-07-02",
+  "issue_published_at": "2026-07-02",
+  "article_published_at": "",
+  "published_at": "2026-07-02",
+  "published_date_source": "issue",
+  "order": 6,
+  "section": "Culture & Critics",
+  "title_en": "Punctuation: A Generational Divide",
+  "title_zh": "标点：代际鸿沟",
+  "rubric_en": "Can parents ever learn to text like their kids? Should they even try?",
+  "rubric_zh": "父母真的有可能学会像孩子一样发短信吗？他们应该尝试吗？",
+  "date": "2026-07-02",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "I was a novice editor, he was an experienced writer, and the first article he turned in revealed a virtuosic command of comma placement. He opened with long, slow clauses; picked up speed with shorter ones; withheld all commas for a gloriously terse thesis statement; and then, crash! A mass-casualty pileup of appositive phrases. Grammarians, I married him.",
+      "zh": "我还是个新手编辑，他却是老练的作家，他递交的第一篇文章展现了逗号使用的娴熟功力：开头是长而慢的分句；随后改用更短的句子加快节奏；在一个漂亮简洁的论点上他暂时不加任何逗号；然后，啪的一下，接连而至一堆同位语短语。语法学家啊，我嫁给了他。"
+    },
+    {
+      "id": "p002",
+      "en": "Now our son is the family authority on punctuation. His expertise lies in using it in texts and on social media, where commas and periods go to die. Semicolons too, decades after Kurt Vonnegut tried to banish them. “First rule: Do not use semicolons,” he pronounced in 2005. “All they do is show you’ve been to college.” Exclamation points and emoji reign supreme. (Does an emoji count as punctuation or rate as a paralinguistic element—that is, a relative of a wink or an eye roll? My son shrugs.) Online punctuation is for torquing emotion, he told me, not for making yourself clear: “The ultimate goal is not efficiency but maximum attention.”",
+      "zh": "现在，我们儿子成了家里的标点“权威”。他的拿手本领是把标点用在短信和社交媒体里——在那里逗号和句号几乎“去世”了。连分号也不例外，几十年后，库尔特·冯内古特曾经呼吁废除它们。“第一条规则：不要用分号，”他在2005年说，“它们只是在显示你上过大学。”感叹号和表情符号才是王者。（表情符号算标点吗，还是算副语言元素——比如眨眼、翻白眼这样的非语言信号的亲属？我儿子耸肩。）他对我说，在线标点是为了扭转情绪表达，不是为了把意思说得清楚：“最终目标不是效率，而是最大化注意力。”"
+    },
+    {
+      "id": "p003",
+      "en": "Little marks can make big things happen, Florence Hazrat reminds us in her new book, On the Mark: From Periods to Interrobangs, How Punctuation Remade the World. Take the one-sentence Second Amendment, whose commas have been responsible for a great deal of trouble: “A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.” Until the 21st century, all parts of the amendment were given equal weight regardless of commas, so that the gun rights granted in its second half were limited to the militias referred to in the first half. In 2008, however, Supreme Court Justice Antonin Scalia affirmed an unusual interpretation that used a comma to downplay the clause about militias, leaving “the people” with an individual right to bear arms.",
+      "zh": "弗洛伦斯·哈兹拉特在她的新书《划重点：从句号到反问感叹号——标点如何重塑世界》中提醒我们：小小的符号能引发大变化。看那条只有一句话的第二修正案，它的逗号曾经引发过不少麻烦：“A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed。”在21世纪之前，这一修正案的各个部分被赋予了同等权重，逗号不影响解读，所以条文后半部分授予人民的持枪与携带武器权利，会被限制在第一句提到的民兵范围内。然而在2008年，最高法院大法官安东宁·斯卡利亚确认了一种少见的解释：他用一个逗号来弱化“民兵”那一分句，从而把“the people”理解为每个人都拥有个人持枪权。"
+    },
+    {
+      "id": "p004",
+      "en": "But the eminent originalist—of all people!—failed to acknowledge an important historical fact. The version of the amendment on which Scalia based his reading, found in the National Archives, is only one among many. “Each state ratified a different version of this amendment,” Hazrat writes, “some with two, some with three, and some with four commas.” Punctuation was not standardized in the Founders’ time, so the best course of action, she says, is not to read too much into those commas.",
+      "zh": "但这位最杰出的“原意主义者”——最不应该如此的那种人——却未承认一条重要的历史事实。哈兹拉特写道：“斯卡利亚依据的那份修正案文本，藏在美国国家档案馆里，只是其中之一。”她补充道：“每个州批准的版本都不一样，有的有两个逗号，有的有三个，有的有四个逗号。”在开国元勋时代，标点还没有统一标准，所以她说，最好的做法是别对那些逗号过度解读。"
+    },
+    {
+      "id": "p005",
+      "en": "The rules of punctuation have been codified since then, but they have never stopped evolving. Indeed, thanks to the advent of technologies that have us typing more and more, the rules have been hyper-evolving. Marks do more than fit parts of a sentence together; they re-create the pace, emphasis, and tone of voice that we rely on to make our meaning plain when we talk in person or by phone. Now that we can react to a friend’s needy text or an enemy’s infuriating post in real time and with minimal reflection, we need reliable substitutes for extraverbal cues more than ever. But if online punctuation is about maximum attention rather than mutual comprehension, and is mutating so rapidly, you have to wonder about the future of communication.",
+      "zh": "标点规则自那时起就一直有了规范化处理，但从未停止过演变。事实上，随着我们越来越依赖打字技术，这些规则正在高速变化。标点符号不仅仅是把句子的各个部分连接起来；它们还能重现说话时的节奏、语气和语调，而这些正是我们在面对面或电话交流时用来让意思说得更清楚的依靠。如今，我们可以几乎实时地回应朋友的诉求式消息或敌人的恼人帖子，而且思考时间很少，这使得我们比以往更需要可靠的“非语言线索”替代物。但是，如果线上标点关注的是“最大化注意力”而不是“互相理解”，并且变化如此之快，那么我们就不得不怀疑，沟通的未来会走向哪里。"
+    },
+    {
+      "id": "p006",
+      "en": "In the beginning was the written word, and the word flowed into other words. Roughly 5,000 years ago, WRITINGLOOKEDLIKETHIS. Then, slowly, graphic signposts emerged to make reading easier. Hazrat takes us through this history: Babylonians arranged words into boxes, creating proto-paragraphs. Old Assyrian and Old Persian put triangles between words. The demands of empire spurred invention. In the second century B.C.E., the head librarian of the world’s most ambitious collection of writings, the Library of Alexandria, hired linguists and scholars from far-flung lands, and, to help them read Greek, came up with a system of accents to guide pronunciation and dots to indicate pauses.",
+      "zh": "起初是文字，文字又衍生出其他文字。大约五千年前，书写是这样的。后来，图形式的标识缓慢出现，以便于阅读。哈兹拉特（Hazrat）带我们梳理了这段历史：巴比伦人把词语排成方框，形成了原始的段落结构。古亚述语和古波斯语在词与词之间加上了三角形。帝国的扩张需求催生了这种发明。公元前2世纪，世界上最宏伟的藏书机构——亚历山大图书馆的首席馆长聘请了来自遥远地区的语言学家和学者，并为了帮助他们阅读希腊语，设计出了一套重音符号和用来标示停顿的点号系统。"
+    },
+    {
+      "id": "p007",
+      "en": "Those dots were forgotten after the decline of Rome, but they reappeared in different guises with the spread of monotheistic religions: The word of God demands proper punctuation. The printing press brought an explosion of published material, and soon the modern book was born, set in different typefaces and organized with many of the marks still used today. Renaissance humanists discovered the literary potential of punctuation, inventing nuanced marks such as the exclamation point, the semicolon, dashes, and parentheses (“little moons,” the Dutch scholar Erasmus fondly called them). These new devices allowed sentences to ramble along twisty paths of thought, opening up new realms of the self.",
+      "zh": "罗马衰落后，那些点号一度被遗忘，但在一神教传播过程中却以不同形式重现：上帝的话语需要正确的标点。活字印刷术带来了出版物数量的爆发，不久现代图书诞生了，它使用了不同字体，并使用了许多今天仍在使用的符号。文艺复兴时期的人文主义者发现了标点的文学潜能，发明了更细腻的符号，例如感叹号、分号、破折号和括号（荷兰学者伊拉斯谟曾亲切地称它们为“月亮符号”）。这些新工具让句子能够沿着曲折的思路路径流淌，打开了自我表达的新天地。"
+    },
+    {
+      "id": "p008",
+      "en": "Ever since, poets and novelists have been developing punctuation into a high art, as Lee Clark Mitchell shows in Mark My Words: Profiles of Punctuation in Modern Literature (2020). Emily Dickinson wielded dashes like a fencer in her poems, slicing phrases apart, creating islands of heightened meaning. The dashes were edited out after her death and not restored until 1955; Hazrat reports that Dickinson used dashes of different sizes and shapes—curving upward and downward and back on themselves—that modern typography still hasn’t captured. Humbert Humbert, the narrator of Vladimir Nabokov’s Lolita, directs 450 parenthetical asides to the reader, giving us all-too-intimate access to the thoughts of a floridly narcissistic pedophile. Pulling readers into a different dark world, the 2026 Pulitzer Prize winner for fiction, Daniel Kraus’s Angel Down, never uses a single period. Set in the trenches of World War I, the novel careens from scene to scene, “gasping with too many commas,” Kraus has written, “a sentence doomed to loop back on itself to form a terrible black wheel that, sooner or later, will drag each and every person to their grave.”",
+      "zh": "从那时起，诗人和小说家就把标点雕琢成一门高超的艺术，李·克拉克·米切尔（Lee Clark Mitchell）在《标记我的文字：当代文学中的标点画像》（2020）中正是如此展示这一历程。艾米莉·狄金森在她的诗中像击剑选手一样运用破折号，切开短语，营造出意义更为集中的“孤岛”。她的破折号在她去世后被编辑删去，直到1955年才得以恢复；哈兹拉特提到，狄金森使用过不同大小和形状的破折号——向上、向下、再回旋的形态——而现代排版仍未完全复现。弗拉基米尔·纳博科夫《洛丽塔》的叙事者洪博特·洪博特（Humbert Humbert）对读者做出450次括号式旁注，让我们过于近距离地窥见一个华而不实的自恋性恋童癖者的思维。2026年普利策小说奖得主丹尼尔·克劳斯（Daniel Kraus）的《天使坠落》（Angel Down）在把读者拉入一个阴暗世界的同时，整部小说里一次逗号都没有使用。该书以第一次世界大战的战壕为背景，从一个场景猛然切入下一个场景，克劳斯写道，它“像是被太多逗号扼住了呼吸”，是一句注定不断自我回环、最终形成黑色轮盘、迟早把每个人拖入坟墓的句子。"
+    },
+    {
+      "id": "p009",
+      "en": "Today’s online punctuation styles cycle in and out of fashion with manic speed. To digital natives, periods at the end of text messages signify passive-aggressiveness. They’re “the texting equivalent of your mother calling your full name,” the Gen Z language expert Adam Aleksic, who goes by Etymology Nerd, explained in a 2024 TikTok. Except it’s not that simple: My son and his friends do sometimes end texts with periods—to convey faux disapproval. “Correct punctuation itself is a signal of irony,” he told me.",
+      "zh": "当今的网络标点风格更替得快得几乎失控。对数字原住民来说，短信末尾的句号意味着一种“被动攻击”。20世纪初数字原住民语言专家亚当·阿列克西奇（Adam Aleksic，网名 Etymology Nerd）在2024年 TikTok 中解释说，这相当于你母亲给你打电话时“完整喊出你的全名”。不过情况没有这么简单：我儿子和他朋友有时也会在短信结尾加句号——用来表达一种假装的、不真心的“不满”。“准确地使用标点本身就是一种反讽信号”，他对我说。"
+    },
+    {
+      "id": "p010",
+      "en": "That figures. Every generation has to come up with its own way of subverting norms. The quest to punctuate irony goes back to at least the late 16th century, when a printer proposed a backward-facing question mark. A scientist later suggested using the upside-down exclamation point. Nothing stuck. A 20th-century French novelist suggested the Greek letter psi—Ψ. It looked fittingly like an arrow in the air. (“Irony stings,” Hazrat comments.) Only the hashtag, which rose to prominence on Twitter, has had some staying power as an irony marker—a punch line, a self-deprecating remark.",
+      "zh": "这不奇怪。每一代人都会想出自己的方式来颠覆惯例。将反讽写进标点的探索可追溯到至少16世纪末期，当时有位印刷工人提出过反向问号。后来又有一位科学家建议使用倒置的感叹号。都没有流行开来。20世纪的一位法国小说家曾提出用希腊字母 Psi——Ψ。它像一支朝空中指去的箭，很贴切地承载了意思。（“反讽很尖锐，”Hazrat 评论道。）真正长期作为反讽标记留下来的，只有在 Twitter 上兴起的 hashtag——一个笑点、一个自嘲的注解。"
+    },
+    {
+      "id": "p011",
+      "en": "Hazrat worries that in our disembodied age, communication demands punctuation that can do more emotional labor than our current marks can handle. She has a point: Think of all the micro-adjustments we have to make as we go from texting family and friends to slacking colleagues to emailing to posting. But I think the problem with online punctuation is that it does too much, not too little. At any rate, my stabs at punctuating like someone in the know generally make me look silly.",
+      "zh": "Hazrat 担心，在这个去身体化的时代，沟通需要一种能承载比现有标点更多情绪劳动的标点系统。她说得很有道理：想想看，我们在从给家人和朋友发短信，到给同事发 Slack，再到写邮件、发帖时，需要做多少细微的语气调节。但是我认为，网络标点的问题恰恰在于它做得太多，而不是太少。总之，我每次想装作懂得这些“行内人用法”来打点的时候，往往反而显得很尴尬。"
+    },
+    {
+      "id": "p012",
+      "en": "I’m not alone. A genre has materialized in which children critique parents’ cringey misuse of marks. Madeline Cash, in Granta, puzzles over her mother’s habit of ending innocuous statements with an ominous ellipsis. “OK …” her mother writes when Cash says she’s coming home to visit. Cash wonders: “Is she going to say more? Is my coming home for Christmas an imposition?” My son sent me a viral 2025 TikTok in which a perky young man gives his parents a slide-deck presentation on when to use the double-exclamation-point iMessage reaction, called the emphasis. He lays out three rules; his mother’s emphases follow none of them.",
+      "zh": "我并不孤单。已经出现了一个文学体裁：孩子们在其中批评父母尴尬地误用标点。马德琳·卡什（Madeline Cash）在《Granta》里困惑地写到，母亲总爱在一些无害的陈述后面加上不祥的省略号。卡什的母亲在她说“我会回家探望”时，会写下“OK …”，卡什便会想：“她是不是还要说什么？难道我来过圣诞节会被当成打扰吗？”我的儿子给我发过一个2025年走红的 TikTok 视频，里面一个元气满满的年轻人给父母做了一场幻灯片式汇报，讲解何时应该使用 iMessage 的双感叹号回应反应，被称为“强调”。他提出了三条规则；而他母亲的“强调”完全不符合任何一条。"
+    },
+    {
+      "id": "p013",
+      "en": "Hey! My emphases don’t either. Why hadn’t my son ever told me that? “Because I’m resigned to old people using it wrong,” he texted, plus he’s not in the business of making me look cool. Anyway, the standard emoji and text reactions are becoming passé. His crowd uses an inexhaustible idiolect of personalized symbols—memes, memoji (customizable avatars), stickers (emoji made from random images and photographs), GIFs.",
+      "zh": "嘿！我的重音也不行。为什么我儿子以前从没跟我提过这件事？“因为我早就心甘情愿地接受‘老一辈会用错它’，”他发来短信，并说他也不是想让我看起来很“酷”。总之，标准的表情符号和文字回复也在过时了。像他这一代人，正在使用取之不尽的个体化符号体系——模因（memes）、memoji（可自定义的头像）、贴纸（由随机图片和照片拼成的 emoji）、GIF。"
+    },
+    {
+      "id": "p014",
+      "en": "From the August 2025 issue: What are emoji?",
+      "zh": "《大西洋月刊》2025年8月号：什么是 emoji？"
+    },
+    {
+      "id": "p015",
+      "en": "My son sent me an example: a sticker of Dora the Explorer with a glowing third eye. She’s lying on a pink pillow, wearing a CPAP mask. The meaning was nonobvious, to say the least. He explained: Dora is achieving nirvana while plugged into a machine that delivers a steady flow of air, a metaphor for being connected to the internet. Oh. How did he know that? “How could you not?” he wrote. Dora’s bliss was several levels of meta beyond my age group, but I guess that’s as it should be. For now, I’ll work on not putting periods at the end of my texts.",
+      "zh": "我儿子给我发了一个例子：一张《Dora the Explorer》（《爱探险的朵拉》）戴着发光第三只眼的贴纸。她躺在粉色枕头上，戴着 CPAP 面罩。这是什么意思，一点都不明显。他解释说：Dora 在接入一台持续供氧的机器时达到了“涅槃”状态，这比喻的是人们与互联网的连接。哦。你怎么会知道这个？他写道：“你怎么会不知道呢？”朵拉那种层层递进的“meta”状态，已经超出我的年龄层了，不过这大概是理所当然的。总之，我先努力不在短信末尾打句号。"
+    },
+    {
+      "id": "p016",
+      "en": "This article appears in the August 2026 print edition with the headline “Full Stop.” When you buy a book using a link on this page, we receive a commission. Thank you for supporting The Atlantic.",
+      "zh": "这篇文章刊登于《大西洋》2026年8月纸质版，标题是“Full Stop”。当你通过本页链接购买一本书时，我们会获得一笔佣金。感谢你支持《The Atlantic》。"
+    }
+  ],
+  "translated_at": "2026-07-23T23:41:29+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

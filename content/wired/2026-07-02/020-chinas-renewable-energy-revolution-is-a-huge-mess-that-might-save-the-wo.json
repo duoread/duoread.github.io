@@ -1,0 +1,169 @@
+{
+  "id": "020-chinas-renewable-energy-revolution-is-a-huge-mess-that-might-save-the-wo",
+  "source_href": "feed_0/article_19/index_u24.html",
+  "publication": "wired",
+  "issue": "2026-07-02",
+  "issue_published_at": "2026-07-02",
+  "article_published_at": "2026-01-20T06:00:00-05:00",
+  "published_at": "2026-01-20T06:00:00-05:00",
+  "published_date_source": "article",
+  "order": 20,
+  "section": "Jeremy Wallace",
+  "title_en": "China’s Renewable Energy Revolution Is a Huge Mess That Might Save the World",
+  "title_zh": "中国的可再生能源革命是一场可能拯救世界的大混乱",
+  "rubric_en": "A global onslaught of cheap Chinese green power is upending everything in its path. No one is ready for its repercussions.",
+  "rubric_zh": "廉价的中国绿色电力正全球开疆扩土，所及之处皆被重塑。没有人为其连锁反应做好准备。",
+  "date": "2026-01-20T06:00:00-05:00",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "There’s a particular kind of sci-fi nerd who equates fusion tech with utopia. If we could only harness the engine of the stars, it would uncork near limitless energy and neatly sweep away a whole mess of humanity’s problems. But how would that work exactly? What would the transition look like?",
+      "zh": "有一类特定的科幻迷，会把聚变技术等同于乌托邦。如果我们只能像驾驭恒星发动机那样利用它，就能释放几乎无限的能源，从而整齐地扫除人类的一大堆难题。但这到底会如何发生？过渡会是什么样子？"
+    },
+    {
+      "id": "p002",
+      "en": "You don’t have to wonder. It’s happening now. Solar panels and wind turbines capture the fusion of the sun and convert it to electricity. And at the scale and pace that China is producing them, plenty of things stand to be swept away—including, quite possibly, the once seemingly intractable problems of energy poverty and fossil-fuel dependence. In 2024, the total installed electricity capacity of the planet—every coal, gas, hydro, and nuclear plant and all of the renewables—was about 10 terawatts. The Chinese solar supply chain can now pump out 1 terawatt of panels every year.",
+      "zh": "你不必再去猜了。它现在就正在发生。太阳能电池板和风力涡轮捕捉太阳的聚变反应并将其转化为电力。随着中国生产规模和速度的扩大，许多问题都有可能被“扫掉”——包括曾被认为几乎无法解决的能源贫困和对化石燃料依赖问题。到2024年，全球总装机容量（包含所有煤电、天然气、水电、核电以及全部可再生能源电站）约为10太瓦。中国的光伏供应链如今每年就能产出1太瓦的电池板。"
+    },
+    {
+      "id": "p003",
+      "en": "In China itself, vast energy megabases combining solar and wind stretch for miles in the country’s western deserts and Tibetan highlands, each producing the power of multiple nuclear plants and connecting to population centers in the country’s east via ultrahigh-voltage power lines. At the smaller end of the scale, panels have sprouted on rooftops all over the more populated eastern half of the country, thanks to policies that standardize the process and paperwork required to install and tie them into the grid. Huge factories, urban apartment buildings, and humble village homes are plastered with panels. In Europe, Chinese-made photovoltaic panels are so cheap that they cost less than fencing materials. Globally, the glut of solar has lowered the average cost of generating electricity to 4 cents a kilowatt hour—perhaps the cheapest form of energy ever.",
+      "zh": "在中国本土，规模巨大的太阳能和风能“能源巨集群”在西部沙漠和青藏高原上绵延数十公里、数百公里，每座设施都相当于多座核电站的发电量，并通过超高压输电线路与东部人口密集区相连。再往小规模看，得益于标准化安装流程和并网所需材料、文件手续的政策推进，电池板已长满东部更有人口的地区屋顶。大型工厂、城市住宅楼和普通村庄的房屋都被贴满了电池板。在欧洲，中国制造的光伏板便宜到低于栅栏材料的价格。全球范围内，太阳能过剩把发电平均成本拉低到每千瓦时4美分左右——这可能是人类历史上最便宜的能源形态。"
+    },
+    {
+      "id": "p004",
+      "en": "By now, major headlines have begun to catch on to the reality that China’s renewable energy revolution is one of the biggest stories in the world, while Donald Trump’s anti-renewable vision of American energy dominance is a backward sideshow by comparison. But chroniclers of this green tech revolution almost always understate its chaos. At this point, it is far less a tightly managed, top-down creation of state subsidies than a runaway train of competition. The resulting, onrushing utopia is anything but neat. It is a panorama of coal communities decimated, price wars sweeping across one market after another, and electrical grids destabilizing as they become more central to the energy system. And absolutely no one—least of all some monolithic “China” at the control switch—knows how to deal with its repercussions.",
+      "zh": "到现在为止，主流头条已经开始意识到，中国的可再生能源革命是当今世界最大的新闻之一，而唐纳德·特朗普那种反可再生、追求美国能源“主导地位”的愿景，在对比下不过是一个倒退的边缘戏码。然而，记录这场绿色技术革命的人往往都低估了它的混乱。此刻，这更像是一列失控的竞争列车，而不是国家补贴精心自上而下托举出来、层层收口的产物。由此呼啸而来的“乌托邦”并不整洁。眼前是一幅煤炭社区被摧毁、接连不断的价格战席卷各个市场，以及电网在能源体系中比重上升后变得更不稳定的全景图。而且几乎没有人——尤其是那些把中国想象成单一“开关控制者”的人——知道如何处理其后果。"
+    },
+    {
+      "id": "p005",
+      "en": "In the United States, 2024 was a record-breaking year for solar. Across the entire country, those 12 months saw some 50 gigawatts of new solar capacity added. (Solar projects are typically measured by their power output, not their square footage.)",
+      "zh": "在美国，2024年是一个突破纪录的太阳能年。整整一年来，新增了约50吉瓦的太阳能装机容量（通常不会按占地面积来衡量太阳能项目，而是按其发电能力来衡量）。"
+    },
+    {
+      "id": "p006",
+      "en": "Here are 23 ways China is rewiring the future.",
+      "zh": "以下是中国重塑未来的23种方式。"
+    },
+    {
+      "id": "p007",
+      "en": "Now consider some different numbers, for scale and contrast. In China, the first three months of 2025 alone saw 60 gigawatts of new solar capacity added to the national grid. Then April packed in 45 more gigawatts. Finally, May added an eye-watering 92 gigawatts of new capacity, or 3 gigawatts every day.",
+      "zh": "为了体会这种规模和反差，再看一组数字：在中国，2025年前三个月就向全国电网新增了60吉瓦太阳能装机容量。随后4月又新增了45吉瓦。最后，5月又新增了惊人的92吉瓦新装机，相当于每天3吉瓦。"
+    },
+    {
+      "id": "p008",
+      "en": "The reason for this brain-warping mad dash of solar development? At the start of 2025—in an attempt to rein in the renewables sector—Beijing announced that it would discontinue a long-standing policy that had effectively propped up renewable energy prices, pegging them to that of the “baseline” coal power in each province. Any solar capacity that went in after May 2025, Beijing declared, would no longer get this deal. So the all-out solar installation frenzy was simply a mass attempt to get in under the old terms.",
+      "zh": "这场让人难以置信的疯狂太阳能建设热潮，为什么会发生？原因在于，在2025年初，为了遏制可再生能源行业，北京宣布将取消一项长期执行的政策，这项政策一直通过把新能源发电价格锚定在每个省份的“基准”煤电价格上，实际上支撑着可再生能源的价格水平。北京宣称，自2025年5月以后并网的任何太阳能装机都不再享受这一待遇。因此，全面爆发的太阳能安装热潮，实质上就是一场在旧规则生效前“抢跑”的集体行动。"
+    },
+    {
+      "id": "p009",
+      "en": "After May, sure enough, new solar deployments plummeted. The ensuing four months each added just 10 gigawatts of new solar on average, half of the prior year’s pace—but that’s still considerably faster than America at its peak.",
+      "zh": "果不其然，5月之后，新增太阳能装机量开始急剧下滑。随后四个月的平均新增装机量仅约为10吉瓦，只有上一年的一半速度——但这仍明显快于美国的增长高峰。"
+    },
+    {
+      "id": "p010",
+      "en": "In China, one problem with all this burgeoning, majestic new solar is that it’s completely overwhelming the national electrical grid, technically and economically. For electricity markets to work, grid managers must constantly balance supply and demand—but the former can’t always be throttled back when it exceeds the latter. Nuclear power plants can’t just be switched on and off whenever solar power floods the grid. And some Chinese coal plants provide heat to communities through steam—so they need to run even if the electricity they generate is superfluous.",
+      "zh": "在中国，所有这场蓬勃发展的宏伟太阳能建设面临的一个问题是，它在技术上和经济上都在彻底压垮全国电网。要让电力市场运转，电网调度员必须持续平衡供需——但当供应超过需求时，供给并不总能被压低。核电厂不能像需要时那样在太阳能洪流来临时随时开关。还有一些中国煤电厂通过蒸汽向社区供热，所以即使它们发出的电力是多余的，也必须继续运行。"
+    },
+    {
+      "id": "p011",
+      "en": "One perverse result of all this energetic over-supply is that a lot of solar power simply gets wasted, or “curtailed,” to make way for dirty forms of energy that are harder to turn off. Another is that the inherently intermittent power of renewables simply makes it more challenging for managers to keep the grid stable. In August 2024, in China’s far western region of Xinjiang—where the renewables build-out is at its most grandiose—poorly handled voltage fluctuations from solar and wind caused a regional blackout and even threatened the national electrical system, according to the South China Morning Post.",
+      "zh": "这种能量过剩带来的一项反常结果是，许多太阳能电力只能被“限电”“弃用”，以便为更难关闭的高污染能源让路。另一个后果是，可再生能源固有的间歇性本身就让电网管理者更难维持系统稳定。2024年8月，在中国最西部的新疆——也是可再生能源建设最宏伟的地区——由于光伏和风电导致的电压波动处理不当，引发了区域性停电，并一度威胁到全国电网系统，南华早报据此报道。"
+    },
+    {
+      "id": "p012",
+      "en": "As challenging as the glut is to manage at the technical level, its economics are even more vexing. As Econ 101 teaches, prices go down when supply rises faster than demand. But in most markets, there’s an end point to this process: free. Electricity markets are different. Some power-generating entities (like the aforementioned coal and nuclear plants) are so loath to ramp down their production that they offer to pay for the privilege of continuing to generate power. This, combined with the absolute imperative to keep the grid balanced, can create negative prices, which have become common in China’s heavily populated Shandong Province. It’s an untenable situation, but energy-hungry industrial firms are happy to milk it. Decades ago, the metals giant Weiqiao Aluminum left the Shandong grid in favor of running its own captive coal fleet to power its smelters; this past year it plugged back into the grid to take advantage of cheaper rates coming from green tech.",
+      "zh": "从技术层面看，这种过剩难以管理就已经很棘手，而其经济后果更让人头疼。经济学基础课告诉我们，供给增长快于需求时，价格会下跌。但在大多数市场中，这一过程有个下限：零元。电力市场则不同。一些发电主体（比如前述煤电和核电厂）几乎不愿降负荷发电，以至于它们反而愿意为持续发电买单。再加上维持电网平衡的刚性要求，这会导致负电价，在人口密集的山东省已很常见。这是种难以持续的局面，但用电量大、吃得下低价的工业企业却乐在其中。数十年前，金桥铝业离开山东电网，改为自备煤电车队供给其电解铝炉；而今年，它又重新接入电网，借助绿色技术带来的更低电价。"
+    },
+    {
+      "id": "p013",
+      "en": "What’s more, Chinese solar manufacturers—who, if you’ll remember, might just be saving the world—are not even making money for their troubles. They’re struggling to survive a gauntlet of competition. At the root of the solar supply chain are makers of polysilicon, the purified silicon substrate base of panels. Oversupply of this product has caused prices and profits to collapse. The Chinese government has tried to get supply under control by pushing the strongest polysilicon firms to form a cartel and squeeze out lesser players who refuse to exit the market. But so far, this seems to be a long shot.",
+      "zh": "更重要的是，中国太阳能制造商——你可能还记得，他们或许正在拯救世界——甚至还没能靠此获利。它们正艰难地在一轮又一轮竞争中求生存。太阳能供应链的底层是多晶硅制造商，即光伏组件的纯化硅基底原料。该产品供应过剩，导致价格和利润双双崩塌。中国政府试图通过推动最强的多晶硅企业组建卡特尔、挤出那些不愿退出市场的小企业来控制供应，但迄今看起来这更像是一个希望不大的策略。"
+    },
+    {
+      "id": "p014",
+      "en": "Workers in Zhejiang Province manufacture solar infrastructure to be exported to Southeast Asia.",
+      "zh": "浙江省的工人正在制造出口到东南亚的太阳能基础设施。"
+    },
+    {
+      "id": "p015",
+      "en": "The story is similar higher up the supply chain: Manufacturing capacity to produce solar ingots, wafers, and panels exceeds demand, sparking profit-killing price wars as firms try to keep their market share. Meanwhile, rapid technological innovation keeps forcing firms to invest in expansion with the latest and greatest designs, lest they get left behind by their competitors. When a completely new breed of solar panels yields a 10 percent difference in generation capacity, manufacturers who fail to quickly set up new production lines do so at their own peril. For the consumer, this added capacity means more energy with less real estate, perhaps a smaller parcel of land to purchase for your solar farm. For the manufacturer, it means the difference between commanding a viable price versus being dumped in the remainder bin.",
+      "zh": "供应链上游的局面也大致相似：用于生产太阳能锭、硅片和组件的产能已超过需求，企业为了守住市场份额而引发了吞噬利润的价格战。同时，技术快速迭代持续迫使企业投入资金扩产，采用最新最先进的设计，否则就会被竞争对手抛在后面。当一整代全新的太阳能组件带来高出10%的发电能力时，未能迅速建成新产线的制造商将自食其果。对消费者而言，更多产能意味着更少的实际占地，也许是你自己的光伏电站所需土地更小了。对制造商而言，则意味着能否拿到有利可图的价格，还是会被压到“剩余品”桶里。"
+    },
+    {
+      "id": "p016",
+      "en": "As the oversupply of Chinese panels has spilled into the international market, the bizarre dynamics have spread with them. Just as in Shandong Province, negative prices for electricity have also become common in Germany, thanks to Chinese panels. Or take Pakistan. Around 2022, a global spike in natural gas prices made the Pakistani electrical grid even more expensive and less reliable than usual. But instead of just suffering or firing up diesel generators, millions of Pakistanis installed solar panels to free themselves from the grid. The country imported so many Chinese solar panels that the grid as a whole began to fall into what is called a death spiral. Customers started opting out, leaving the grid to charge ever higher prices, which led even more people to flee, and so on.",
+      "zh": "随着中国组件的过剩流入国际市场，这种离奇的供需逻辑也随之扩散。就像山东省的情况一样，德国也出现了电价负值的情况，这在很大程度上与中国光伏面板有关。再看巴基斯坦。大约在2022年前后，全球天然气价格飙升使巴基斯坦电网比平常更昂贵、更不稳定。许多人没有选择继续受苦或开启柴油发电机，而是安装了太阳能板以摆脱电网依赖。全国进口了如此多的中国太阳能组件，导致电网整体进入所谓的“死亡螺旋”：用户开始退网用电，让电网不得不抬高电价，进而迫使更多人离网，周而复始。"
+    },
+    {
+      "id": "p017",
+      "en": "Who benefits, aside from the environment? It’s actually hard to say. The Chinese government is one of the Pakistani grid’s major creditors. So Chinese firms are undermining the economics of major development projects funded by state-owned banks.",
+      "zh": "除了环境以外，谁真正受益？这个问题其实很难下定论。中国政府是巴基斯坦电网的主要债权方之一。因此，中国企业正在蚕食由国有银行出资的重大开发项目的经济性。"
+    },
+    {
+      "id": "p018",
+      "en": "If only there was more electrical storage—technology that holds solar power generated during the day and releases it in the evening—then a lot of the issues that torture China’s renewables market would be resolved. Solar panels would become more valuable to the grid, their generation wouldn’t have to be curtailed, and the producers would be able to sell more of their products at better prices. Of course, China has come to dominate this fast-growing sector as well: It is by far the world’s largest battery maker. But China’s electrical system hasn’t figured out the rules and pricing to push battery capacity onto the grid fast enough to keep up. And besides, the vast majority of the batteries that China is churning out do not end up in grid storage. They’re revolutionizing another increasingly Chinese-dominated green industry that is going fast, cheap, and out of control: automobiles.",
+      "zh": "如果能有更多电力储能技术——也就是把白天产生的太阳能储存起来、傍晚再释放出来——那么中国可再生能源市场上许多令人头疼的问题就能迎刃而解。太阳能电池板在电网中的价值会更高，发电量不必被大幅削减，生产者也能以更好的价格卖出更多产品。当然，中国在这个快速增长的领域也已经占据主导地位：它是世界上最大的电池制造国。但中国的电力系统尚未建立起足够的规则和定价机制，无法让足够多的电池储能容量以足够快的速度并网。更何况，中国大量生产的电池中，绝大多数并没有用于电网储能，而是正在改造另一项增长更快、价格更低、且失控加速的绿色产业：汽车。"
+    },
+    {
+      "id": "p019",
+      "en": "In 2018, the city of Shanghai lured Tesla in to build a gigafactory with what seemed like an especially attractive offer. For years, foreign automakers like Ford, GM, Volkswagen, and Toyota had dominated the Chinese car market—the world’s largest—but were required to form joint ventures with Chinese firms for the privilege of doing business in the country. Shanghai told Tesla it could fully own its Chinese operations. Subsidies for land and cheap loans were proffered as well.",
+      "zh": "2018年，上海以当时看似尤其有吸引力的条件吸引特斯拉建设超级工厂。多年来，福特、通用汽车、 大众和丰田等外国汽车制造商在全球最大的中国汽车市场占据主导，但要在中国经营它们必须与本土企业成立合资企业。上海则告诉特斯拉，它可以完全控股其在华业务。当地也提供了土地补贴和低息贷款。"
+    },
+    {
+      "id": "p020",
+      "en": "A major solar farm in Shandong Province.",
+      "zh": "山东省的一处大型太阳能发电场。"
+    },
+    {
+      "id": "p021",
+      "en": "Tesla’s Shanghai gigafactory was completed in 168 days. It quickly became Tesla’s largest in the world. And it was fed by a network of local component suppliers that cropped up around it. The only problem—for Tesla, anyway—was that those local firms eventually became the basis for a Chinese supply chain that supercharged the nascent electric vehicle sector in the country. Nearly overnight, firms like Nio and BYD were producing plug-in cars that could rival Tesla in cost and quality. As with solar, a wave of entrants battled for market share, causing profits to evaporate but giving consumers great choices at excellent prices.",
+      "zh": "特斯拉上海超级工厂在 168 天内建成，并很快成为特斯拉全球最大的工厂。它又依赖了一个在其周边迅速形成的本地零部件供应商网络。对特斯拉来说，问题在于，这些本地企业最终成为了中国供应链的基础，反过来又推动了这个国家初生的电动车行业。几乎一夜之间，像 Nio 和 BYD 这样的公司开始生产在成本和质量上都能与特斯拉竞争的插电式汽车。与太阳能行业类似，一波又一波的新进者争夺市场份额，导致利润迅速消失，却让消费者以很低的价格享受到更多优质选择。"
+    },
+    {
+      "id": "p022",
+      "en": "By 2024, nearly half of all cars sold in China had plugs. Internal combustion automakers in China are suffering or shuttering. And the reverberations are perhaps even stronger abroad. China shifted from an also-ran to the world’s dominant auto exporter over the past five years, displacing Japan, South Korea, and Germany. It shipped more than 5.5 million cars overseas in 2024. Other countries have begun to panic that their own auto sectors could be eviscerated by the competition of cheaper, cleaner vehicles from China. The United States has effectively banned imports from China, while Europe has imposed serious tariffs.",
+      "zh": "到 2024 年，中国销售的汽车中，几乎一半都已经是插电式车型。中国的传统内燃机汽车制造商正在承受痛苦，甚至被迫停产倒闭。其余波及效应在海外可能更为强烈。过去五年里，中国已经从“跟跑者”变成了世界上最强大的汽车出口国，取代了日本、韩国和德国。2024 年它向海外出口了超过 550 万辆汽车。其他国家已经开始恐慌，担心本国汽车产业会被来自中国更便宜、更清洁的汽车竞争力“掏空”。美国几乎已经禁止了来自中国的进口，而欧洲则对其征收了严厉关税。"
+    },
+    {
+      "id": "p023",
+      "en": "Yet just like in the solar sector, where thin profits and high debts have turned some firms into sprinting zombies, the Chinese EV space is full of failed and failing enterprises. Even BYD, the biggest player globally, seems to be dangerously close to spinning out of control. Its sales over the past few months have faltered badly compared with the previous year, and murmurs about its debt burden lead some to wonder if it too might collapse—even as people around the world are still dying to get their hands on these cars, and other automakers strain to compete.",
+      "zh": "然而，就像太阳能领域一样，利润微薄和高负债让一些企业沦为“冲刺中的僵尸”，中国的电动车赛道也充满了已经倒闭和即将倒闭的企业。即便是全球最大的参与者 BYD，也似乎危险地接近失控。过去几个月，它的销量与去年同期相比大幅放缓，而关于其债务负担的传闻让一些人开始担心它也可能崩溃——即便在世界各地，消费者仍然抢着买这些汽车，而其他汽车制造商则在努力跟进竞争。"
+    },
+    {
+      "id": "p024",
+      "en": "Indeed, the greatest beneficiaries of China’s renewables revolution may, in fact, be consumers, both inside and outside of China. In sun-blessed Australia, where rooftop solar panels sit atop nearly a third of all households, the country’s energy minister, Chris Bowen, proposed a “solar sharer program” to offer three hours of free electricity on sunny days. Solar and battery systems have allowed Hawaii to close its final coal power plant, and such systems are similarly helping other islands like Jamaica to reduce their need for imported fossil fuels.",
+      "zh": "事实上，中国新能源革命的最大受益者，也许正是消费者，无论在中国境内还是境外。在日照充足的澳大利亚，近三分之一的家庭屋顶都安装了太阳能电池板，该国能源部长克里斯·鲍文（Chris Bowen）提出了一个“太阳能共享计划”，旨在晴天提供三小时的免费电力。太阳能和储能系统帮助夏威夷关闭了其最后一座燃煤发电厂，类似系统也在帮助牙买加等其他岛屿减少对进口化石燃料的依赖。"
+    },
+    {
+      "id": "p025",
+      "en": "One country—one leader, especially—is trying to buck this trend. Donald Trump hates many people and things, but wind turbines and solar panels seem to hold a special place of contempt in his heart. His administration has attempted to cancel major offshore and onshore wind projects, along with plans for Esmerelda 7, a solar megabase slotted for the Nevada desert that would have been worthy of Western China. Trump and his energy secretary, Chris Wright, often speak of American energy dominance, but they are crippling American firms’ ability to deploy and build the cheapest sources of electricity in the history of this planet, in favor of a combination of long-in-the-tooth arguments about fossil inevitability and long-shot bets on small modular nuclear reactors and, yes, fusion.",
+      "zh": "一个国家——尤其是一位领导人——正在试图逆着这一趋势。唐纳德·特朗普讨厌许多人和许多事物，但风力涡轮机和太阳能电池板似乎在他心里有一种特别的轻蔑。其政府试图取消一些重大海上和陆上风电项目，还包括“艾斯梅雷达7”——一个原本将落地于内华达沙漠、规模堪比中国西部的太阳能超级基地。特朗普与其能源部长克里斯·赖特经常谈论美国的能源主导地位，但他们却在削弱美国企业部署和建设地球历史上最廉价电力来源的能力，转而以一种古老的“化石燃料必然性”论点和对小型模块化核反应堆，以及，没错，对聚变的远期赌注作为替代。"
+    },
+    {
+      "id": "p026",
+      "en": "Even among billionaires who don’t share Trump’s belief that climate change is a hoax, this latter affinity for far-out, breakthrough technologies has long been a hallmark of American climate investment and philanthropy. This attitude is epitomized by Bill Gates, who once dismissed existing green technologies like solar and wind power as “cute.” Instead, Gates has always preferred a lordly, capital-intensive variety of decarbonization, plowing dollars into sci-fi technologies that remain in a perpetual state of being just five years away—not the rapid, messy approach involving solar panels sprouting on every rooftop and recalibrating electricity pricing schemes. (Recently, just as it was becoming clear that the transition to renewables was spiraling from success to success, Gates wrote a memo saying he was pulling back from climate funding altogether.)",
+      "zh": "即便是在不认同特朗普“气候变化是骗局”这一观点的亿万富翁中，这种偏爱看似遥远、突破性技术的取向，也长期是美国气候投资与慈善事业的一个标志。比尔·盖茨最能体现这一心态，他曾把现有的绿色技术，如太阳能和风能，斥为“可爱”。盖茨始终偏好一种“君主般”且资本密集的脱碳路径，把资金投入科幻般的技术，这些技术总处在“只差五年就会成熟”的永恒状态——而不是那种在每个屋顶上快速、混乱地铺设太阳能板，并重新校准电价机制的务实方式。（最近，正当向可再生能源转型似乎从成功走向更大成功之际，盖茨写了一份备忘录，称他将整体退出气候领域的资助。)"
+    },
+    {
+      "id": "p027",
+      "en": "Mao Zedong famously declared that a revolution is not a dinner party. It is an insurrection, an act of violence by which one class overthrows another. The green tech revolution—whose violence is principally financial, a withering assault on the value of fossil firms’ assets—is not a dinner party. Nor is it inevitable. It could still be held back or slowed down. Yes, it is the result of the conscious choices made by people, firms, and governments, many of the most critical ones made in China. But it is happening now, and faster than our systems—electricity grids, industrial sectors, labor, geopolitics, and more—are ready for.",
+      "zh": "毛泽东曾著名地说过，革命不是一场宴会。它是一次暴动，是一个阶层推翻另一个阶层的暴力行为。绿色技术革命也是如此，它的“暴力”主要是金融性的——对化石能源企业资产价值的急剧毁灭性打击——它也不是一场宴会。它也并非不可避免。它仍有可能被阻挡或放慢。确实，它是人、企业和政府做出的有意识选择的结果，而其中许多关键选择都出自中国。但它正在发生，而且速度快于我们的各套系统——电网、工业部门、劳动市场、地缘政治等等——所能承受的节奏。"
+    },
+    {
+      "id": "p028",
+      "en": "And it’s a good thing, too, because there is another force powered by the sun’s fusion that is also arriving at a force and scale that we are not prepared for: climate change. When the Category 5 Hurricane Melissa tore through Jamaica, Haiti, Cuba, and the Dominican Republic in late October, killing more than 90 and leaving tens of thousands homeless, most government investments in protecting people from the storm were not up to the challenge. What did provide some refuge were rooftop solar panels, which kept the lights on when the sun rose the next morning. A global energy system undergirds modern life. Through all the chaos, that system is getting a major upgrade.",
+      "zh": "这其实也是一件好事，因为还有另一股由太阳核聚变孕育的力量，也正在以我们未曾准备好的规模和力度到来：气候变化。当“梅丽莎”五级飓风在十月下旬横扫牙买加、海地、古巴和多米尼加共和国，夺走九十多人生命并让数万人无家可归时，大多数政府在保护民众免受风暴伤害方面的投资都经不起考验。真正能提供些许避难的是屋顶太阳能电池板，它们让次日晨曦升起时，仍能让灯光亮起。一个支撑现代生活的全球能源系统，此前一直默默运行，如今在所有混乱之下，正经历一场重大升级。"
+    },
+    {
+      "id": "p029",
+      "en": "Let us know what you think about this article. Submit a letter to the editor at [email protected].",
+      "zh": "请告诉我们您对这篇文章的看法。请通过 [email protected] 向编辑部投稿。"
+    }
+  ],
+  "translated_at": "2026-07-24T00:08:50+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

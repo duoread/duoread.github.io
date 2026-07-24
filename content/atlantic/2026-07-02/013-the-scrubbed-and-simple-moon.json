@@ -1,0 +1,34 @@
+{
+  "id": "013-the-scrubbed-and-simple-moon",
+  "source_href": "feed_4/article_1/index.html",
+  "publication": "atlantic",
+  "issue": "2026-07-02",
+  "issue_published_at": "2026-07-02",
+  "article_published_at": "",
+  "published_at": "2026-07-02",
+  "published_date_source": "issue",
+  "order": 13,
+  "section": "Poetry",
+  "title_en": "The Scrubbed and Simple Moon",
+  "title_zh": "洗净而朴素的月亮",
+  "rubric_en": "A poem",
+  "rubric_zh": "诗",
+  "date": "2026-07-02",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "Watchless, wordless, compassless. Isn’t that when mountains open and light roars through, as when in the delivery room, slammed by a lot of meaningless brightness, you cried and were held and forgot? In your nursery, did you reach for the moon? Many babies do. Moon, your mother said, and soon enough you were grown.",
+      "zh": "无表盘、无言语、无指南针。难道不是在那一刻，群山张开，光芒咆哮着冲入——就像你在产房里，被一阵毫无意义的炫白亮光撞击，哭泣着，被抱起，又迅速忘却？在你的婴儿床里，你是否伸手去摸那个月亮？许多孩子都这么做。妈妈说：‘月亮’，而不久你就长大了。"
+    },
+    {
+      "id": "p002",
+      "en": "This poem appears in the August 2026 print edition.",
+      "zh": "这首诗刊登于2026年8月的印刷版。"
+    }
+  ],
+  "translated_at": "2026-07-23T23:45:02+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

@@ -1,0 +1,489 @@
+{
+  "id": "042-the-real-stakes-and-real-story-of-peter-thiels-antichrist-obsession",
+  "source_href": "feed_0/article_41/index.html",
+  "publication": "wired",
+  "issue": "2026-07-02",
+  "issue_published_at": "2026-07-02",
+  "article_published_at": "2025-09-30T12:05:07-04:00",
+  "published_at": "2025-09-30T12:05:07-04:00",
+  "published_date_source": "article",
+  "order": 42,
+  "section": "Laura Bullard",
+  "title_en": "The Real Stakes, and Real Story, of Peter Thiel’s Antichrist Obsession",
+  "title_zh": "彼得·泰尔“反基督”执念中的真实利害与真实故事",
+  "rubric_en": "Thirty years ago, a peace-loving Austrian theologian spoke to Peter Thiel about the apocalyptic theories of Nazi jurist Carl Schmitt. They’ve been a road map for the billionaire ever since.",
+  "rubric_zh": "三十年前，一位信奉和平的奥地利神学家向彼得·泰尔谈起了纳粹法学家卡尔·施密特的末世论。此后，这套理论就一直是这位亿万富翁的路线图。",
+  "date": "2025-09-30T12:05:07-04:00",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "Peter Thiel’s Armageddon speaking tour has—like the world—not ended yet. For a full two years now, the billionaire has been on the circuit, spreading his biblically inflected ideas about doomsday through a set of variably and sometimes visibly perplexed interviewers. He has chatted onstage with the economist podcaster Tyler Cowen about the katechon (the scriptural term for “that which withholds” the end times); traded some very awkward on-camera silences with the New York Times columnist Ross Douthat; and is, at this very moment, in the midst of delivering a four-part, off-the-record lecture series about the Antichrist in San Francisco.",
+      "zh": "彼得·泰尔的“末日”巡回演讲尚未结束——就像世界本身一样。过去整整两年里，这位亿万富翁一直在跑场子，通过一群反应不一、时而明显困惑的采访者，传播他那些带有圣经色彩的末日观念。他曾在舞台上与经济学播客主播泰勒·考恩聊过“基督教世界观中的遏制者”（katechon，即“阻止终局到来之物”）；与《纽约时报》专栏作家罗斯·道塞特进行过若干尴尬的镜头前沉默；而此刻他正在旧金山进行一场四部分的闭门讲座，主题是反基督。"
+    },
+    {
+      "id": "p002",
+      "en": "Depending on who you are, you may find it hilarious, fascinating, insufferable, or horrifying that one of the world's most powerful men is obsessing over a figure from sermons and horror movies. But the ideas and influences behind these talks are key to understanding how Thiel sees his own massive role in the world—in politics, technology, and the fate of the species. And to really grasp Thiel’s katechon-and-Antichrist schtick, you need to go back to the first major lecture of his doomsday road show—which took place on an unusually hot day in Paris in 2023. No video cameras recorded the event, and no reporters wrote about it, but I’ve been able to reconstruct it by talking to people who were there.",
+      "zh": "根据不同的人，这位世界最有权势的人物沉迷于讲道和恐怖电影里的人物——或许令人觉得滑稽、着迷、令人无法忍受，或令人恐惧——都可以理解。但这些演讲背后的思想与来源，才是理解泰尔如何看待自己在世界中的巨大角色的关键——无论是政治、科技，还是整个物种的命运。要真正理解他关于“katechon”与“反基督”的整套说法，你需要回到他末日路演的第一场核心讲座，那是在 2023 年巴黎一个异常炎热的日子里举办的。没有录像机记录这场活动，也没有记者报导过它，但我已通过采访当时在场的人，把它重建了出来。"
+    },
+    {
+      "id": "p003",
+      "en": "The venue was a yearly conference of scholars devoted to Thiel’s chief intellectual influence, the late French-American theorist René Girard. (Thiel identifies as a “hardcore Girardian.”) On the evening of the unpublicized lecture, dozens of Girardian philosophers and theologians from around the world filed into a modest lecture hall at the Catholic University of Paris. And from the dais, Thiel delivered a nearly hourlong account of his thoughts on Armageddon—and all the things he believed were “not enough” to prevent it.",
+      "zh": "活动场地是一次每年一次的学术会议，参会者皆致力于研究泰尔最主要的思想来源——已故法裔美国理论家雷内·吉拉尔（René Girard）。（泰尔自认是“铁杆吉拉尔主义者”。）在那场不公开宣传的讲座当晚，来自世界各地的数十位吉拉尔哲学家和神学家走进巴黎天主教大学一间简朴的讲堂。泰尔在讲台上花了近一个小时，讲述了他对“末日”以及所有他认为“不足以”阻止末日到来的事物的看法。"
+    },
+    {
+      "id": "p004",
+      "en": "By Thiel’s telling, the modern world is scared, way too scared, of its own technology. Our “listless” and “zombie” age, he said, is marked by a growing hostility to innovation, plummeting fertility rates, too much yoga, and a culture mired in the “endless Groundhog Day of the worldwide web.” But in its neurotic desperation to avoid technological Armageddon—the real threats of nuclear war, environmental catastrophe, runaway AI—modern civilization has become susceptible to something even more dangerous: the Antichrist.",
+      "zh": "按泰尔自己的说法，现代社会对自身科技充满恐惧，恐惧得过头了。他说，处在“萧条”与“僵尸”般状态的时代，表现为对创新日益强烈的敌意、持续下滑的生育率、过度的瑜伽热，以及一种陷在“互联网无尽《土拨鼠之日》循环”中的文化。然而，出于神经质般的绝望而试图躲避技术性末日——包括核战争、环境灾难和失控人工智能等真实威胁——现代文明却反而变得容易受到更危险之物的侵蚀：反基督。"
+    },
+    {
+      "id": "p005",
+      "en": "According to some Christian traditions, the Antichrist is a figure that will unify humanity under one rule before delivering us to the apocalypse. For Thiel, its evil is pretty much synonymous with any attempt to unite the world. “How might such an Antichrist rise to power?” Thiel asked. “By playing on our fears of technology and seducing us into decadence with the Antichrist's slogan: peace and safety.” In other words: It would yoke together a terrified species by promising to rescue it from the apocalypse.",
+      "zh": "根据某些基督教传统，反基督将是一个统一人类、实行单一统治、并最终将我们带向末日的人物。对蒂尔来说，这种邪恶几乎等同于任何试图统一世界的努力。“这样的反基督将如何上台？”蒂尔问道。“就是靠利用我们对技术的恐惧，并用反基督的口号——和平与安全——把我们引诱进颓废。’换句话说，就是通过许诺拯救人类于末日来绑架这个惶恐的物种。”"
+    },
+    {
+      "id": "p006",
+      "en": "For our politics issue, WIRED examines the state of tech’s influence on governmental power—and the people who will change everything in the future.",
+      "zh": "在本期《WIRED》政治特刊中，我们审视了科技对政府权力的影响现状，以及那些未来将改变一切的人。"
+    },
+    {
+      "id": "p007",
+      "en": "By way of illustration, Thiel suggested that the Antichrist might appear in the form of someone like the philosopher Nick Bostrom—an AI doomer who wrote a paper in 2019 proposing to erect an emergency system of global governance, predictive policing, and restrictions on technology. But it wasn’t just Bostrom. Thiel saw potential Antichrists in a whole zeitgeist of people and institutions “focused single-mindedly on saving us from progress, at any cost.”",
+      "zh": "为了说明这一点，蒂尔举例说，反基督可能以像哲学家尼克·博斯特罗姆这样的人物形式出现——这位“AI 末日论者”在2019年写过一篇论文，主张建立一套紧急的全球治理体系、预测性警务体系以及对技术的限制。可这并不只是博斯特罗姆。蒂尔还在一整个时代精神中看到了潜在的反基督：那是一群人和机构，他们“单一地专注于以任何代价把我们从进步中拯救出来”。"
+    },
+    {
+      "id": "p008",
+      "en": "So humanity is doubly screwed: It has to avoid both technological calamity and the reign of the Antichrist. But the latter was far more terrifying for the billionaire at the podium. For reasons grounded in Girardian theory, Thiel believed that such a regime could only—after decades of sickly, pent-up energy—set off an all-out explosion of vicious, civilization-ending violence. And he wasn’t sure whether any katechons could hold it off.",
+      "zh": "因此人类问题重重：既要避免技术灾难，也要避免反基督的统治。而对这位讲坛上的亿万富翁来说，后者更让他感到恐惧。基于吉拉尔迪安理论，蒂尔认为这种政体只能在数十年压抑且扭曲的能量堆积后，爆发一场全面而残酷、足以终结文明的暴力。并且他并不确定是否有任何“护教者”（katechons）能够把它挡住。"
+    },
+    {
+      "id": "p009",
+      "en": "When Thiel was finished, a moderator kicked off the Q&A session by noting, in so many words, that the speech had been a huge bummer. If the world was hurtling toward an apocalyptic crisis, he asked, what might the billionaire suggest we do?",
+      "zh": "演讲结束后，主持人在问答环节开场时几乎直言不讳地说，这场演讲让人非常失望。若世界正加速走向末日危机，他问道：这位亿万富翁会建议我们该怎么办？"
+    },
+    {
+      "id": "p010",
+      "en": "Fend off the Antichrist, came the reply. But beyond that, Thiel said that he—like Girard—wasn’t really in the business of offering practical advice.",
+      "zh": "“避开反基督。”答复是如此。蒂尔又说，除此之外，他——像吉拉德一样——并不真正以提供实用建议为己任。"
+    },
+    {
+      "id": "p011",
+      "en": "A few moments later, someone in the audience stood and offered a correction. “It’s not true what you said about Girard,” a man’s voice said.",
+      "zh": "几分钟后，现场一位听众起身提出了纠正。“你刚刚关于吉拉德的说法不对。”有个男人的声音说道。"
+    },
+    {
+      "id": "p012",
+      "en": "Thiel—who often has a tendency to stonewall or steamroll his interlocutors—squinted in the speaker’s direction, trying to determine exactly who was pushing back. The voice had the rounded vowels and soft Rs of a recognizably Austrian accent and conveyed a quiet, familiar authority. “On many occasions,” the speaker went on, “young people asked Girard, ‘What should we do?’ And Girard told them to go to church.”",
+      "zh": "蒂尔——这位常常有时会对谈话对象闭口不谈、或以雷霆手段压过对方的人——眯起眼睛朝发言者的方向看，试图弄清楚究竟是谁在反驳。那声音带有奥地利口音里圆润的元音和轻柔的卷舌音，听上去带着一种安静却熟悉的权威感。发言者接着说：“在许多场合，年轻人问吉拉德：‘我们应该怎么做？’吉拉德就告诉他们：去教堂。”"
+    },
+    {
+      "id": "p013",
+      "en": "Thiel finally seemed to recognize who was speaking. He leaned in toward the microphone: “Wolfgang?”",
+      "zh": "蒂尔终于似乎认出了对方是谁。他凑近麦克风说：“沃尔夫冈？”"
+    },
+    {
+      "id": "p014",
+      "en": "The voice belonged to Wolfgang Palaver, a 64-year old theologian from Innsbruck, Austria, whom Thiel had last seen in 2016, the year they both delivered eulogies at Girard’s funeral. Palaver has a round face, a bookish white mustache, and eyes permanently crinkled at the corners by laugh lines. But that night in Paris, there was no trace of humor in his voice. And he evidently commanded the billionaire’s respect.",
+      "zh": "这声音来自于沃尔夫冈·帕拉弗（Wolfgang Palaver），一位64岁的奥地利因斯布鲁克（Innsbruck）神学家，蒂尔上次见到他还是2016年，那一年他们都在吉拉德（Girard）的葬礼上致辞。帕拉弗有一张圆脸、一本正经的白色小胡子，和因笑纹而在眼角长期出现的细皱褶。但那晚在巴黎，他的声音里完全没有一点幽默感。显然，他赢得了这位亿万富翁的尊敬。"
+    },
+    {
+      "id": "p015",
+      "en": "Six months later, Thiel delivered his Armageddon lecture again, now at The Catholic University of America. According to a recap posted by one attendee, Thiel’s argument was pretty much the same. Except this time Thiel told his listeners how they might personally navigate the slender path between Armageddon and the Antichrist: “Go to church.”",
+      "zh": "六个月后，蒂尔在美国天主教大学（The Catholic University of America）再次发表了他的“哈米吉多顿”讲座。根据一位出席者发布的摘要，蒂尔的论点几乎完全相同。只是这一次，蒂尔告诉听众：他们如何在“哈米吉多顿”与“反基督”之间走出一条细微的生存路径：“去教堂。”"
+    },
+    {
+      "id": "p016",
+      "en": "In an October interview at the Hoover Institution, Thiel echoed the line again: “Girard always said you just need to go to church, and I try to go to church.” This spring, during one of the podcaster Jordan Peterson’s many failed attempts to interject, Thiel cut him off: “Girard’s answer would still be something like: You should just go to church.”",
+      "zh": "在10月于胡佛研究所（Hoover Institution）的采访中，蒂尔再次重复了这句话：“吉拉德总是说你只需要去教堂，我也尽量去教堂。”今年春天，在播客主持人乔丹·彼得森多次试图插话之际，蒂尔打断了他：“吉拉德的答案现在大概还是这样的：你应该去教堂。”"
+    },
+    {
+      "id": "p017",
+      "en": "It’s not just that line. Although Thiel has never publicly acknowledged Wolfgang Palaver, the Austrian theologian’s influence arguably runs through nearly everything Thiel has ever said or written about the Antichrist and the katechon. In the 1990s, Palaver wrote a series of papers about Carl Schmitt, the German legal theorist tapped by the Nazis to justify Germany’s slip from democracy to dictatorship. Palaver’s papers critiqued a lesser-known, theological, and apocalyptic line of Schmitt’s thinking—and they seem to have fascinated Thiel ever since the two men first met in 1996. In his recent doomsday lectures and interviews, Thiel’s language often mirrors Palaver’s scholarship directly, sometimes closely paraphrasing it. (Thiel did not respond to WIRED's requests for comment.)",
+      "zh": "这不只是那句话。尽管蒂尔从未公开承认沃尔夫冈·帕拉弗（Wolfgang Palaver）对自己的影响，但可以说，这位奥地利神学家的影响几乎贯穿了蒂尔关于反基督（Antichrist）和“基督被遏制者”（kontechon）所说过或写过的一切。在1990年代，帕拉弗写过一系列关于卡尔·施密特的论文。施密特是那位被纳粹利用的德国法理学家，他的理论被用来为德国从民主滑向独裁的过程提供合理性。帕拉弗的论文批判了施密特较少为人知但又神学化、末世论化的一条思想脉络；而且在两人于1996年首次见面后，蒂尔似乎就一直被这些观点所吸引。在他最近的末日式演讲和采访中，蒂尔的措辞往往直接对应于帕拉弗的学术论述，甚至时常是贴近原文的改写。（蒂尔未回应WIRED的置评请求。）"
+    },
+    {
+      "id": "p018",
+      "en": "You know you live in strange times when one of the most influential billionaires in the world—an investor who lit the financial fuses on both Facebook and the AI revolution, who cofounded PayPal and Palantir and launched the career of an American vice president—starts dedicating his public appearances primarily to a set of ideas about Armageddon borrowed heavily from a Nazi jurist. (As in: the guy who rapidly published the most prominent defense of Hitler’s Night of the Long Knives.)",
+      "zh": "当你看到世界上最具影响力的亿万富翁之一——一位点燃了Facebook金融引爆点、并推动了AI革命、共同创立PayPal和Palantir并一手开启了美国副总统政治生涯的投资人——却把公开露面的重心主要放在一套严重借鉴纳粹法学家的“末日世界大战”观念上时，你就知道这个时代有多么诡异了。 （就这位快速撰写并发表了对希特勒“长刀之夜”最知名辩护的法学家。）"
+    },
+    {
+      "id": "p019",
+      "en": "But the times have been even weirder for Palaver. A lifelong peace activist, he first wrote about Schmitt’s apocalyptic theories in hopes of driving a stake through their heart. Yet for years now, Palaver has watched as his own Girardian take on Schmitt seems to have provided a roadmap not only for Thiel’s speaking tour but for his considerable strategic interventions in global politics—from his investments in military tech to his role in shaping the careers of JD Vance and Donald Trump to his support of the National Conservatism movement. If Thiel takes his own thinking seriously, he seems to regard these moves as interventions in the end of human history.",
+      "zh": "但对帕拉弗来说，时代更诡异。作为终生的和平活动人士，他最初写施密特末世论理论，目的正是想一击穿透这些思想的“要害”。然而这些年里，帕拉弗看着自己对施密特的吉拉德式诠释似乎不仅成了蒂尔巡回演讲的路线图，也成了他在全球政治中一系列重大战略介入的依据——从他对军事技术的投资，到他在塑造JD·万斯和唐纳德·特朗普政治道路中的作用，再到他对“国家保守主义”运动的支持。如果蒂尔认真对待自己的思考，他似乎把这些举措都视作对人类历史终局的主动干预。"
+    },
+    {
+      "id": "p020",
+      "en": "For the past year or so, the two men have been in regular touch, meeting together once at Thiel’s home and debating with each other over text and email. In August, Palaver even hosted Thiel at the University of Innsbruck for a two-day, closed-door “dress rehearsal” of the billionaire’s four-part San Francisco Antichrist lecture series. In an interview with the Austrian news outlet Falter, Palaver said he’d agreed to the event with Thiel “in the hope of getting him to reconsider his positions.” In my own months of conversation with Palaver, he has said he fears that the investor has arrived at a potentially catastrophic interpretation of Schmitt.",
+      "zh": "过去一年多来，这两人一直保持着持续往来，曾在蒂尔的家中会面，并通过短信和电子邮件展开辩论。今年8月，帕拉弗还在因斯布鲁克大学为蒂尔举办了为期两天、闭门的“四天湾区反基督”系列演讲会“彩排”。在接受奥地利媒体Falter采访时，帕拉弗说，他同意举办这场活动，是“希望促使他重新审视自己的立场”。在我与帕拉弗长时间的交谈中，他也说自己担心这位投资人已经形成了对施密特一种可能具有灾难性后果的解读。"
+    },
+    {
+      "id": "p021",
+      "en": "And believe it or not, the nature of Palaver and Thiel’s relationship gets even more complicated. Palaver has been reluctant to oppose Thiel publicly, and in our conversations he sometimes downplays his own influence and disagreements with the billionaire. Perhaps that’s because, as followers of Girard, both men believe that any two figures who oppose each other strongly enough—as Palaver has opposed Schmitt, as Thiel opposes the Antichrist—are bound to mimic each other and become entangled. As Thiel himself has said, “Perhaps if you talk too much about Armageddon, you are secretly pushing the agenda of the Antichrist.”",
+      "zh": "更妙的是，Palaver 与蒂尔的关系比想象中更复杂。Palaver 一直不愿公开反对蒂尔，在我们的对话中他也有时淡化自己对这位亿万富翁的影响力和分歧。也许这与两人都受雷内·吉拉尔（Girard）思想影响有关：两位对立到足以彼此抗衡的人——正如 Palaver 反对施密特，蒂尔反对反基督——往往注定会彼此模仿、缠绕在一起。正如蒂尔本人所说，“也许你若是过于频繁地谈论末日审判，某种程度上就在暗地里替反基督推进议程。”"
+    },
+    {
+      "id": "p022",
+      "en": "In some ways, Palaver and Thiel have always been mirror images of each other.",
+      "zh": "在某种意义上，Palaver 与蒂尔一直是彼此的镜像。"
+    },
+    {
+      "id": "p023",
+      "en": "Palaver grew up in a small town in the Austrian Alps, less than an hour from the German border. The landscape of his childhood was idyllic: rolling valleys and meadows, dotted with small churches and boxed in by towering, snow-capped mountain ranges. The historical context was less so. Palaver was born 13 years after the Allies dropped their last bombs on Austria, and within a month of his fourth birthday, the Cuban Missile Crisis brought the world to the brink of nuclear war.",
+      "zh": "Palaver 诞生于奥地利阿尔卑斯山脚下的一个小镇，离德国边境不足一小时车程。童年的风景如画：连绵起伏的山谷与草地，点缀着小教堂，被高耸的白雪覆盖山脉环抱着。历史背景却并不那么安宁。Palaver 出生于盟军在奥地利投下最后一颗炸弹的十三年后，他四岁生日一个月后，古巴导弹危机一度将世界推向核战争边缘。"
+    },
+    {
+      "id": "p024",
+      "en": "From a young age, Palaver was a peace activist, registering as a conscientious objector at 18 and then organizing against nuclear weapons in college. It was in a class about the roots of human violence where he came to study the work of Rene Girard—whose unusual theories were generating buzz in parts of Europe.",
+      "zh": "Palaver 从小就投身和平运动，18 岁时注册成为良心拒服兵役者，后来在大学里组织反核武器活动。正是在一门探讨人类暴力根源的课程里，他开始研究雷内·吉拉尔的著作——这位思想家的独特理论当时在欧洲一些地区正引起热议。"
+    },
+    {
+      "id": "p025",
+      "en": "Mimetic rivalry: The violence that results from humans’ fundamental tendency to imitate each other—specifically to mimic each other’s desires. A key concept for Rene Girard, Thiel’s biggest intellectual influence.",
+      "zh": "模仿性竞争：人类具有一种根本倾向，即彼此模仿，尤其是模仿彼此的欲望，由此引发的暴力。它是雷内·吉拉尔对蒂尔最重要的思想影响之一的核心概念。"
+    },
+    {
+      "id": "p026",
+      "en": "Scapegoat mechanism: The process by which humans find unity—and relief from mimetic rivalry—in ganging up on one target who gets blamed for all the community’s problems. According to Girard, scapegoating has provided less and less cohesion since the time of Christ.",
+      "zh": "替罪羊机制：人类通过把所有社区问题都归咎于一个共同目标对象并集体围剿他，从而获得团结感和对模仿性竞争压力的缓解。根据吉拉尔的观点，自基督以来，替罪羊化提供的社会凝聚力正逐渐减弱。"
+    },
+    {
+      "id": "p027",
+      "en": "The Antichrist: The figure, described briefly in the Bible, who ushers in the end times. For Thiel and the Nazi theorist Carl Schmitt, the Antichrist’s evil is pretty much synonymous with any attempt to unify the world.",
+      "zh": "敌基督：圣经简要提到的、将主导末世的那个人物。对蒂尔和纳粹理论家卡尔·施米特而言，敌基督的邪恶几乎可以视为一切“统一世界”尝试的同义词。"
+    },
+    {
+      "id": "p028",
+      "en": "Apocalypse: For some Girardians, the final explosion of violence that will result from unchecked mimetic rivalry in an age of world-killing weaponry.",
+      "zh": "启示录式终局：在一些吉拉尔学者看来，这是人类社会在拥有能够毁灭世界的武器时代里，若任由模仿性竞争不受约束，最终爆发的暴力灾变。"
+    },
+    {
+      "id": "p029",
+      "en": "The katechon: A Greek term, appearing in just two sentences of the Bible, for “that which withholds” the Antichrist and the end times. After World War II, Schmitt’s vision of the katechon was for a fragmented world of nationalist states, with no global unity. Thiel seems to envision something similar.",
+      "zh": "“卡提霍（kathēkon）”一词来自希腊语，在《圣经》仅出现过两句话中，意指“遏制”反基督和末日到来之物。二战后，施密特对卡提霍的构想是：世界应是由民族国家组成、彼此分裂、缺乏全球一体化的局面。蒂尔似乎也在构想类似的图景。"
+    },
+    {
+      "id": "p030",
+      "en": "Girard’s core insight, Palaver would learn, is that all humans are imitators, beginning with their wants. “Once their natural needs are satisfied, humans desire intensely,” Girard wrote, “but they don’t know exactly what they desire.” So people mimic the aspirations of their most impressive neighbors—“thus ensuring for themselves lives of perpetual strife and rivalry with those they simultaneously hate and admire.”",
+      "zh": "帕拉弗会了解到，吉拉德的核心洞见是：所有人都在模仿，而且这种模仿始于欲望本身。吉拉德写道：“当人的自然需求被满足后，就会转向强烈的欲望；但他们并不确切知道自己真正想要什么。” 因而人们会模仿自己最让自己钦佩的邻人的追求——“从而为自己确保了与那些既厌恶又崇拜的人长期处于冲突与竞争之中。”"
+    },
+    {
+      "id": "p031",
+      "en": "According to Girard, this “mimesis”—this relentless copying—builds as it ricochets across relationships. In groups, everyone starts to look alike as they converge on a few models, ape the same desires, and furiously compete for the same objects. And the only reason this “mimetic rivalry” ever fails to break out into omnidirectional warfare is that, at some point, it tends to get channeled into a war of all against one. Via something Girard called the “scapegoat mechanism,” everyone aligns against an unfortunate target who is held responsible for the group’s ills. This mechanism is so essential to cultural cohesion, Girard wrote, that scapegoat narratives are the founding myths of every archaic culture.",
+      "zh": "按照吉拉德的说法，这种“拟像模仿”——这种无休止的复制——会在关系网中反弹扩散、层层累积。在群体里，人人逐渐变得相似，因为他们都围绕少数模型趋同，模仿同样的欲望，并为争夺同一对象而激烈竞争。唯一使这种“拟像竞争”没有演变为全面四面楚歌式战争的原因，是在某个节点，它往往会被导向“对一个人的战争”。也就是通过吉拉德所说的“替罪羊机制”，所有人共同指向一个不幸的对象，把群体的灾祸归咎于他。这种机制对文化凝聚力至关重要，吉拉德写道，替罪羊叙事是每一种古代文化的开场神话。"
+    },
+    {
+      "id": "p032",
+      "en": "But the arrival of Christianity, Girard believed, marked a turning point in human consciousness—because it revealed, once and for all, that scapegoats are actually innocent and mobs are depraved. In the crucifixion narrative, Jesus is murdered in a heinous act of collective violence. But unlike nearly every other sacrificial myth, this one is told from the perspective of the scapegoat, and the audience cannot help but understand the injustice.",
+      "zh": "但吉拉德认为，基督教的到来在人类意识史上是一个转折点，因为它终于揭示了：替罪羊其实是无辜的，而暴民是堕落的。在基督受难记中，耶稣被害，是一次邪恶的集体暴力行为。然而，与几乎所有其他牺牲神话不同，这一故事是从替罪羊的视角讲述的，听众不可能不意识到其不公。"
+    },
+    {
+      "id": "p033",
+      "en": "With this epiphany, Girard wrote, the old scapegoating rituals instantly started to lose their effectiveness, having been unmasked and discredited. Humanity no longer gets the same relief from collective acts of violence. Communities still scapegoat all the time, but with less and less unifying cohesion to show for it. What awaits us at the end of history, then, is the unchecked, contagious, and ultimately apocalyptic violence of mimetic rivalry.",
+      "zh": "吉拉德写道，这种顿悟使得旧有的替罪羊仪式在一瞬间失去了效力，因为它们被揭穿并遭到否定。人类不再从集体暴力行为中获得同样的慰藓。社群仍然会不断地找替罪羊，但随之带来的凝聚力越来越薄弱。由此，历史尽头等待我们的是无止境、迅速蔓延且最终走向末世的模仿性竞争暴力。"
+    },
+    {
+      "id": "p034",
+      "en": "The upside of the crucifixion narrative, however, is that it offers humanity moral redemption. For Girard, the conclusion was clear: No matter the endgame, one must wholly reject scapegoating. Imitation remains inescapable, but we can choose our models. And the sound path forward, as he saw it, is to mimic Jesus—the one model who will never become a “fascinating rival”—in leading lives of Christian non-violence.",
+      "zh": "不过，受难叙事的积极意义在于它为人类提供了道德上的救赎。对吉拉德来说，结论是明确的：无论结果如何，都必须彻底拒绝替罪羊机制。模仿是不可避免的，但我们可以选择模仿的对象。正如他所看到的，正确的前进道路，是效仿耶稣——那位永远不会变成“迷人对手”的榜样——过一种基督教式的非暴力生活。"
+    },
+    {
+      "id": "p035",
+      "en": "Girard’s theory almost immediately became a lodestar for the young Palaver, who recognized it as a bridge between his peace activism and theology. “You discover Girard,” Palaver says, “and you suddenly have a perfect tool to criticize all the scapegoaters.” And the young activist already had certain major scapegoaters in his sights.",
+      "zh": "吉拉德的理论几乎立刻就成了年轻的帕拉弗（Palaver）的指路星，他将其视为自己和平行动主义与神学之间的桥梁。“你一旦接触吉拉德，”帕拉弗说，“就会突然拥有一把锋利的工具来批评所有制造替罪羊的人。”而这位年轻的活动家当时已经锁定了几个重要的替罪羊对象。"
+    },
+    {
+      "id": "p036",
+      "en": "In 1983—the same year as that first class on Girard—the bishop of Innsbruck tried to stop Palaver from rallying a group of young Catholics to join the largest-ever protest against American missiles in Europe. Dismissing Palaver’s views as geopolitical naivete, the bishop told him to read a German essay collection called Illusions of Brotherhood: The Necessity of Having Enemies. The book, Palaver realized, was full of references to an idea—coined by Carl Schmitt—that politics is grounded in distinguishing friends from enemies. Reading the book, Palaver realized he was “more or less against every sentence.”",
+      "zh": "1983年——也是他第一次上吉拉德课程的那一年——因斯布鲁克主教试图阻止帕拉弗拉拢一群年轻天主教徒，参加欧洲历史上规模最大的反对美国导弹示威。主教把帕拉弗的观点斥为地缘政治上的天真，并要求他阅读一本名为《兄弟情谬误：需要有敌人的原因》的德国文集。帕拉弗后来意识到，这本书里充满了对一个由卡尔·施密特提出的观点的引用，即政治建立在区分朋友和敌人之上。读完这本书后，帕拉弗意识到，他“几乎对每一句都持异议”。"
+    },
+    {
+      "id": "p037",
+      "en": "So as a doctoral candidate, the young Austrian decided to write a Girardian critique of Schmitt. He would use Girardian theory against a legal architect of Europe’s last great calamity, who was now inspiring the Cold Warriors stoking its next. “Focusing upon Schmitt,” he explained, “meant for me turning against the archenemy of my pacifist attitude.”",
+      "zh": "于是，作为博士候选人的这位年轻奥地利人决定写一篇对施密特的“吉拉尔迪亚式”批判。他将吉拉尔迪理论用来反击一位欧洲最后一场大灾难的法理设计者，而这位设计者又正在激励冷战斗士去煽动下一场灾难。“我把焦点放在施密特身上，”他解释道，“对我来说，这意味着反过来对抗我和平主义态度的头号敌人。”"
+    },
+    {
+      "id": "p038",
+      "en": "By the late 1980s, Palaver had become one of a small cadre of Girardian devotees on faculty at the University of Innsbruck. Girard’s ideas were also picking up steam in academic circles elsewhere in Europe. But Girard himself continued to develop his theories in relative obscurity across the Atlantic, at Stanford University.",
+      "zh": "到20世纪80年代末，帕拉弗已经成为因斯布鲁克大学一小群吉拉尔迪信奉者中的一员。与此同时，吉拉德的思想也在欧洲其他学术圈里逐步升温。不过，吉拉德本人仍在大西洋彼岸的斯坦福大学，在相对默默无闻中继续发展自己的理论。"
+    },
+    {
+      "id": "p039",
+      "en": "When Thiel arrived at Stanford in the mid 1980s, he was a teen libertarian with a zeal for Reagan-era anti-communism, a hatred for conformity stemming from his time in a draconian South African prep school, and a drive, as he has described it, to win “one competition after another.” He quickly filled the role of a classic overachieving conservative campus gadfly. He played on the Stanford chess team, maintained excellent grades, and was the founding editor of The Stanford Review, a right-wing student publication—which heaped scorn on the trendy politics of diversity and multiculturalism at a time when mass student demonstrations were railing against the Western canon and South African apartheid.",
+      "zh": "当蒂尔于20世纪80年代中期来到斯坦福时，他还是个青少年般的自由主义者，带着对里根时代反共的热情、源自在南非严苛预备学校生活的厌恶从众心理，以及他自己所说的“赢下一场又一场比赛”的驱动力。他很快就成了典型的“超常发挥的保守派校园刺客”。他在斯坦福象棋队效力，成绩优异，还创办了《斯坦福评论》并担任主编，这是一份右翼学生刊物——在当时，大学校园内有大规模示威反对西方经典与南非种族隔离制度之际，它嘲讽了当时流行的多样性和多元文化政治。"
+    },
+    {
+      "id": "p040",
+      "en": "So it’s not surprising that Thiel found himself drawn to Robert Hamerton-Kelly, a cantankerous, theologically conservative Stanford campus minister who once referred to himself as a “bumpkin from South Africa armed with fascist boarding school education.” Hamerton-Kelly taught classes on Western Civilization and, according to the school newspaper, was booed on at least one occasion by anti-Apartheid audiences on campus. According to several people who knew them both, Thiel came to see Hamerton-Kelly as a mentor. And it was through him that Thiel got to know Girard personally.",
+      "zh": "所以，蒂尔会被罗伯特·哈默顿-凯利吸引也就不足为奇了。哈默顿-凯利是斯坦福的一位脾气难伺候、在神学上偏保守的校园牧师，曾自嘲自己是“一个来自南非、接受过法西斯式寄宿学校教育的乡下佬”。他在校园里讲授《西方文明》课程，并且据学校报纸称，曾在至少一次反种族隔离观众的集会上被观众起哄嘘声。根据多位同时认识两人的人回忆，蒂尔把哈默顿-凯利视作自己的导师。正是通过他，蒂尔得以亲自结识吉拉德。"
+    },
+    {
+      "id": "p041",
+      "en": "Hamerton-Kelly was one of Girard’s closest friends at Stanford and one of mimetic theory’s loudest champions in the United States. He also led a biweekly Girardian study group in a trailer on campus, and at his invitation, Thiel became a regular fixture in the early 1990s. By Thiel’s own admission, his initial attraction to Girard’s mimetic thinking was simply contrarian. “It was very much out of temper with the times,” Thiel said in a 2009 interview, “so it had a sort of natural appeal to a somewhat rebellious undergraduate.” Beyond that, Thiel’s first impression was that mimetic theory was “crazy.”",
+      "zh": "哈默顿-凯利是斯坦福大学吉拉尔最亲密的朋友之一，也是模仿理论在美国最响亮的支持者之一。他还在校园的一间活动房车里主持每两周一次的吉拉尔主义学习小组，并在他的邀请下，蒂尔于20世纪90年代初期成为常客。蒂尔自己承认，他最初被吉拉尔的“模仿”思想吸引，纯粹是因为叛逆心理。“它在当时非常不合时宜，”蒂尔在2009年的一次采访中说，“所以对一个相当叛逆的本科生来说有一种天然吸引力。”除此之外，蒂尔最初的第一印象是：模仿理论听起来“疯狂”。"
+    },
+    {
+      "id": "p042",
+      "en": "But at some point, Thiel came to realize that—contrary to Ayn Rand’s fantasy of a few heroic, self-determined individualists striding against a backdrop of pale conformists—no one is immune to imitative desire and its frustrations. After graduating from Stanford law school, Thiel landed a highly coveted job as a securities lawyer at a prestigious Wall Street firm—and almost instantly hated it. “From the outside it was a place where everybody wanted to get in,” Thiel would later say. “On the inside, it was a place where everybody wanted to get out.” Then, when he applied to clerk under the conservative US Supreme Court justices Anthony Kennedy and Antonin Scalia, both men turned him down. By his own account, Girard’s theory of rivalry was gradually hitting home for the hyper-mimetic Thiel. “As I had this rolling quarter-life crisis in my twenties,” he has said, “there was something about this intense competition and desire to win that I came to question.”",
+      "zh": "但在某个时点，蒂尔逐渐意识到——与安·兰德关于少数英雄式、独立自主的个人在一片苍白顺从者背景中奋斗的幻想相反——没有人能免于模仿欲望及其带来的挫折。毕业于斯坦福法学院后，蒂尔在华尔街一家知名律师事务所得到了一份备受追捧的证券律师工作，但他几乎立刻就厌恶这份工作。“从外面看，那是一个人人都想进去的地方，”蒂尔后来回忆道，“但在内部，却是一个人人都想出来的地方。”后来，当他申请在美国保守派最高法院大法官安东尼·肯尼迪和安东宁·斯卡利亚手下担任法官助理时，这两位法官都拒绝了他。按他的说法，吉拉尔关于竞争关系的理论，正逐步在这个高度“模仿型”的蒂尔身上引起强烈共鸣。“当我在二十多岁经历一连串阶段性危机时，”他表示，“我开始质疑那种强烈竞争、渴望赢的心理。”"
+    },
+    {
+      "id": "p043",
+      "en": "Finally, after a brief stint as a derivatives trader at Credit Suisse Group, Thiel headed home to the Bay Area to launch the career in tech that would make him famous. But in returning to California, Thiel was also coming back to Girard. In the summer of 1996, the 28-year old Thiel attended the annual conference of Girardians, held at Stanford that year. On the final day of the event, he found a seat in a lecture hall. Wolfgang Palaver—whom Thiel had never met—was squaring up to present one of the first English-language critiques of Carl Schmitt’s theories about the Antichrist and the katechon. It would help set a new course for Thiel’s thinking for the next 30 years.",
+      "zh": "最终，在瑞士信贷集团做了一段时间衍生品交易员之后，蒂尔回到湾区，开启了让他成名的科技事业。然而，当他重返加州时，也是在回归吉拉尔。1996年夏天，28岁的蒂尔参加了当年在斯坦福举行的吉拉尔年会。大会最后一天，他在一间讲堂里找到一个座位。沃尔夫冈·帕拉弗——蒂尔从未见过的人——站起来要发表对卡尔·施米特“反基督”与“基督遮蔽者（katechon）”理论最早的英文批评之一。这将为蒂尔未来30年的思想走向定下新方向。"
+    },
+    {
+      "id": "p044",
+      "en": "As a theorist, Schmitt is best remembered for two things: his incisive Weimar-era critique of liberalism and his decision to join the Nazi party in the run-up to the Second World War (before being cast aside by the Reich in 1936). Schmitt’s embrace of the Nazis, Palaver told his audience, stemmed from his fear of “the satanic unification of the world” under a global state, which Schmitt treated as synonymous with the reign of the Antichrist.",
+      "zh": "作为一位理论家，施米特最广为人知的是两件事：他对魏玛共和国时期自由主义的锐利批判，以及他在第二次世界大战前加入纳粹党（后来又在1936年被帝国政府边缘化）。帕拉弗对听众说，施米特之所以会拥抱纳粹，源于他对“世界在撒旦式统一”之下沦为一体化全球国家的恐惧，而施米特将这种局面视为与“反基督”统治同义的状态。"
+    },
+    {
+      "id": "p045",
+      "en": "During the Second World War, Schmitt saw the globalist ambitions of the USSR as presenting precisely this kind of apocalyptic risk, according to Palaver. Schmitt, he said, was desperate to locate a katechon—the shadowy figure, referenced in Paul’s second letter to the Thessalonians, who stands in the way of the Antichrist in order to hold off the end of the world. Schmitt’s “greatest failure,” Palaver told his audience, “had been to think that Hitler was a katechon able to prevent the coming of a destructive world state.”",
+      "zh": "据帕瓦弗（Palaver）介绍，在第二次世界大战期间，施米特将苏联的全球主义野心视为正是这种末日风险。施米特本人急切地想要找到一位“katoron”（按保罗在《帖撒罗尼迦后书》中的说法，阻挡反基督到来、延缓世界终结的那位神秘人物）。帕瓦弗告诉听众，施米特“最大的失败”在于他误以为希特勒是能够防止毁灭性世界国家降临的 katechon。"
+    },
+    {
+      "id": "p046",
+      "en": "According to Girard’s mimetic theory, Schmitt was trying to solve an unsolvable political problem. Schmitt’s support of Hitler was effectively a bet that cranking up the volume on the scapegoat mechanism could work—that Germany would achieve social stability by channeling all of its fury toward Jews, the Roma, foreign powers, and all the other enemies that the Nazis designated as poisonous to the Reich. But Schmitt’s katechon, Palaver said, was doomed from the start.",
+      "zh": "根据吉拉德的“模仿欲理论”，施米特试图解决的是一个无法解决的政治难题。施米特对希特勒的支持，本质上是在押注：把替罪机制推向极致是否可行——德国可以通过把全部怒火引向犹太人、吉普赛人、外国势力以及纳粹定义为毒害德意志国的所有其他敌人，从而实现社会稳定。但帕瓦弗说，施米特的 katechon 从一开始就注定失败。"
+    },
+    {
+      "id": "p047",
+      "en": "“Far too late did Schmitt realize that his support of Hitler was actually serving the Antichrist,” Palaver told the Girardians. Schmitt was correct to warn against “the totalitarian dangers of a unified world,” but the old scapegoating rituals were no longer sustainable. Schmitt relied on a brutal nationalist ethos that saw countrymen as friends and everyone else as vile enemies. Girard had proved the world was evolving beyond the workability of such a scheme. So ultimately, Schmitt’s plan backfired. The atrocities perpetrated by the Nazi party had been so revolting, they’d prompted the spontaneous formation of the first truly global institution in human history. The Holocaust paved the way for the United Nations. His katechon had been an Antichrist all along.",
+      "zh": "“施米特太晚意识到，他支持希特勒实际上是在为反基督效力，”帕瓦弗对吉拉德派说，“他提醒我们警惕‘统一世界所带来的极权危险’是正确的，但旧有的替罪仪式已不再可持续。施米特依赖的是一种残酷的民族主义伦理，认为同胞是朋友，而其他人皆为卑劣的敌人。吉拉德已经证明，世界正在超越这种模式仍能运作的阶段。因此，施米特的计划最终适得其反。纳粹党犯下的暴行之所以令人震惊，正是促成了人类历史上第一个真正全球性机构自发形成。大屠杀为联合国铺平了道路。施米特的 katechon 一直以来就是反基督。"
+    },
+    {
+      "id": "p048",
+      "en": "This is the Girardian conundrum. If the old structures for containing violence no longer work, a violent world-ending apocalypse seems all but inevitable. For anyone who wants to shape history, Palaver suggested, there are two available courses of action: Follow in the footsteps of Schmitt or follow in the footsteps of Jesus. To follow Schmitt would be to invest in the katechon. By creating systems that permit violence against scapegoats, one might be able to postpone the far greater violence of the apocalypse. But for Palaver, the only morally acceptable answer was clear. Even if scapegoating could hold off the apocalypse for a time, we should not scapegoat. He ended his paper by quoting Girard’s call for “the definitive renunciation of violence.”",
+      "zh": "这就是吉拉德式难题：当遏制暴力的旧结构失灵时，一个以暴制终的末日似乎几乎不可避免。对任何想要塑造历史的人来说，帕瓦弗提出只有两条路可走：追随施米特，或追随耶稣。追随施米特意味着投入于 katechon。通过建立允许对替罪羊施暴的制度，人们也许能够把末日更巨大、更可怕的暴力延后。但在帕瓦弗看来，唯一道德上可接受的答案是明确的。即使暂时能靠替罪而暂缓末日，我们也不应替罪。"
+    },
+    {
+      "id": "p049",
+      "en": "After the presentation ended, Thiel rushed to introduce himself to Palaver. “He was familiar with Schmitt,” Palaver told me, because he knew Schmitt had been important to Leo Strauss, a key intellectual influence among conservatives around the time Thiel was running the Stanford Review. But much of Schmitt’s writing, taboo as it was, had never been translated into English. Now here was Palaver’s scholarship, bridging the gap between Thiel’s interest in conservative political theory and the work of René Girard, and Thiel was eager to discuss it.",
+      "zh": "演讲结束后，蒂尔急着走上前向帕拉弗自我介绍。帕拉弗告诉我，他“对施密特很熟悉”，因为他知道施密特对列奥·施特劳斯很重要，而施特劳斯在蒂尔经营《斯坦福评论》时期是保守派中的重要思想影响力人物。但施密特的许多著作在当时因禁忌色彩而从未被完整译成英文。如今帕拉弗的学术研究正好架起了一座桥，连接了蒂尔对保守政治理论的兴趣与雷内·吉拉尔的思想工作，而蒂尔急于与他讨论这些内容。"
+    },
+    {
+      "id": "p050",
+      "en": "That day, they joined around 20 other participants for an after-party at Girard’s house. “There, we talked for one and a half hours about how I see Strauss and Schmitt,” Palaver told me. The young Austrian was thrilled to learn that someone in the audience had found his presentation interesting. “Usually in academia, not many people will eagerly listen,” he said. “ So I was happy to find a conversation partner who was really interested in the topic.” It would be years before Palaver started to realize how much their fascinations with the same subject diverged.",
+      "zh": "那天，他们又与大约20位与会者一起，在吉拉尔家里参加了晚宴。帕拉弗告诉我：“在那儿，我们谈了一个半小时，讨论我如何看待施特劳斯和施密特。”这位年轻的奥地利人很激动，因为他发现观众中有人觉得他的演讲有意思。“通常在学术界，很少有人会热心倾听，”他说，“所以我很高兴能找到一位真正对这个话题感兴趣的讨论伙伴。”要过好几年，帕拉弗才开始意识到，他们对同一主题的沉迷其实差异很大。"
+    },
+    {
+      "id": "p051",
+      "en": "In the summer of 2004, Thiel and his old mentor Hamerton-Kelly organized a weeklong Girardian seminar at Stanford and invited Girard and Palaver to take part. The gathering was a small, closed symposium with only eight participants and served as Thiel’s self-orchestrated debut as a Girardian intellectual. Newly wealthy after having sold PayPal in a deal valued at $1.5 billion, he footed the bill for the week and also helped underwrite the publication of a book that would collect all the papers presented at the seminar.",
+      "zh": "2004年夏天，蒂尔和他旧日导师哈默顿-凯利在斯坦福大学组织了一个为期一周的吉拉尔研讨会，并邀请吉拉尔和帕拉弗参加。这个聚会是一个只有八名参与者的封闭小型研讨会，也是蒂尔自我策划的、以吉拉尔思想作为身份标签的首次公开亮相。蒂尔在刚刚以15亿美元的交易出售PayPal后刚致富，他支付了这周活动的全部费用，并帮助担保出版了一本汇集该研讨会上全部论文的书。"
+    },
+    {
+      "id": "p052",
+      "en": "At Palaver’s suggestion, the theme of the conference was “Politics and Apocalypse.” It had been three years since 9/11, and mimetic theorists were still processing whether the terror attacks augured history’s final explosion of “planetary mimetic rivalry.” But for Thiel—who sat at the head of the seminar table—the attacks mainly exposed the West’s deep and pathetic inability to protect itself.",
+      "zh": "研讨会的主题在帕拉弗的建议下定为“政治与末世论”。9·11事件已经过去三年，模仿理论学者们还在思考这场恐怖袭击是否预示了历史最终一次“行星级模仿竞争”的爆发。然而对蒂尔而言——他坐在研讨会桌子的主位——这场袭击主要暴露了西方深层且令人痛惜的、无法保护自身的无力。"
+    },
+    {
+      "id": "p053",
+      "en": "“The brute facts of September 11 demand a reexamination of the foundations of modern politics,” Thiel wrote in the paper he presented that July. “Today, mere self-preservation forces all of us to look at the world anew, to think strange new thoughts, and thereby to awaken from that very long and profitable period of intellectual slumber and amnesia that is so misleadingly called the Enlightenment.”",
+      "zh": "“9·11 的赤裸事实要求我们重新审视现代政治的基础，”蒂尔在他1997年7月发表的那篇论文中写道。“今天，仅凭自保的本能就迫使我们所有人以全新视角看待世界、思考截然不同的新观念，从而从被误称为‘启蒙’的那段漫长而轻松获利的思想沉睡与记忆缺失中醒来。”"
+    },
+    {
+      "id": "p054",
+      "en": "It would quickly become apparent that Thiel had spent some time considering the paper Palaver presented the day the two men met in 1996. The “strange new thoughts” Thiel wanted his audience to entertain were, it turned out, largely those of Carl Schmitt.",
+      "zh": "很快就会显而易见，蒂尔早已花时间认真研读那篇帕拉弗在1996年两人会面时提交的论文。蒂尔希望听众“去想一些新奇想法”的，结果在很大程度上，正是卡尔·施密特的思想。"
+    },
+    {
+      "id": "p055",
+      "en": "Where Palaver had been repulsed, Thiel extolled Schmitt’s “robust conception of the political,” in which “humans are forced to choose between friends and enemies,” and everything else is delusion. “The high points of politics,” he quotes Schmitt as saying, “are the moments in which the enemy is, in concrete clarity, recognized as the enemy.” In Thiel’s mind, Osama bin Laden was capable of this kind of politics. The West, with its fetish for individual rights and procedures, was not.",
+      "zh": "在帕拉弗曾感到厌恶的内容上，蒂尔却赞美了施密特的“坚实的政治观”，即“人类被迫在朋友与敌人之间作出选择”，其余一切皆为幻象。他引用施密特的话说：“政治的高峰，是指那一刻敌人被清晰地、具体地识别为敌人的时刻。”在蒂尔看来，奥萨马·本·拉登能够进行这种政治；而以个人权利和程序为偶像的西方则做不到。"
+    },
+    {
+      "id": "p056",
+      "en": "Schmitt, Thiel conjectured, would have responded to 9/11 by calling for a holy crusade against Islam. But the West was instead slipping beyond politics altogether, Thiel seemed to fear, toward the creation of a bland “world-embracing economic and technical organization.” This was Schmitt’s nightmare scenario. In such a world, Thiel said, “a representation of reality might appear to replace reality: Instead of violent wars, there could be violent video games; instead of heroic feats, there could be thrilling amusement park rides; instead of serious thought, there could be ‘intrigues of all sorts,’ as in a soap opera.” But that counterfeit reality, Thiel argued, would just be the “brief harmony that prefigures the final catastrophe of the Apocalypse”—the harmony, in Schmitt’s telling, of the Antichrist.",
+      "zh": "蒂尔猜测，施密特会对9/11的回应是呼吁对伊斯兰发起神圣十字军东征。但他似乎担心的是，西方却正越过政治秩序本身，滑向一种乏味的“包罗万象的经济技术组织”。这正是施密特心中的噩梦情景。在这样的世界里，蒂尔说，“现实的再现可能会取代现实本身：原本应有的激烈战争可能变成激烈的视频游戏；原本应有的英雄壮举可能变成惊险刺激的过山车；原本应有的严肃思考可能变成一场场“各类阴谋”，就像肥皂剧里的那样。”但蒂尔认为，那种伪造的现实，不过是“末日灾变前的短暂和谐”，这就是施密特口中的反基督世界秩序中的和谐。"
+    },
+    {
+      "id": "p057",
+      "en": "Thiel’s discussion of Schmitt didn’t mention Hitler or the Nazis once.",
+      "zh": "蒂尔在讨论施密特时一次也没有提到希特勒或纳粹。"
+    },
+    {
+      "id": "p058",
+      "en": "Then, about halfway through his paper, Thiel switched gears completely. As if having second thoughts, he ruled out Schmitt’s “drastic solutions” as “fraught with far too much violence” in an age of nuclear weapons. Then he shifted toward imagining “a way to fortify the modern West” that involved working around democratic institutions via misdirection, hidden meanings, and a lack of transparency—an approach he identified with the theorist Leo Strauss. (He titled his paper “The Straussian Moment.”)",
+      "zh": "接着，在文章大约中段，蒂尔彻底改了方向。仿佛又重新考虑过，他在一个核武时代把施密特的“激烈方案”排除了出去，称其“充满了过多的暴力”。随后他转而设想一种“巩固现代西方”的方式，通过误导、隐喻和缺乏透明度来绕开民主制度——他把这种做法归于思想家列奥·施特劳斯（Leo Strauss）的理论体系。（他将这篇论文命名为《斯特劳斯时刻》。）"
+    },
+    {
+      "id": "p059",
+      "en": "“A direct path forward is prevented by America’s constitutional machinery,” Thiel said. “Still, there are more possibilities for action than first appear.” Strangely for someone so suspicious of global unity, Thiel saw one such possibility for action in the creation of a worldwide surveillance network. “Instead of the United Nations, filled with interminable and inconclusive parliamentary debates that resemble Shakespearean tales told by idiots,” Thiel said, “we should consider … the secret coordination of the world’s intelligence services, as the decisive path to a truly global pax Americana.” This surveillance supersystem, Thiel wrote, could act as “a political framework that operates outside the checks and balances of representative democracy as described in high school textbooks.”",
+      "zh": "“美国的宪政机器阻止了一条直接的前进路径，”蒂尔说。“尽管如此，仍有比起初看上去更多可供行动的可能。”对于一个对全球一体化如此猜疑的人来说，这种行动可能却出奇地来自建立一个全球监控网络。蒂尔说：“我们应该考虑……世界情报机构之间的秘密协调，作为通往真正全球‘美国式和平’（pax Americana）的决定性道路，而不是联合国那种充满无休止且无法结论化的议会式辩论——那像是在听一出由白痴讲述的莎士比亚戏剧。”蒂尔写道，这套监督超系统可以成为“一个政治框架，在高中的政治学课本里所称的代议制民主的权力制衡体系之外运作。”"
+    },
+    {
+      "id": "p060",
+      "en": "Sitting down the seminar table from Thiel, Palaver had no idea that Thiel had more than an academic interest in spycraft. Just a year earlier, Thiel had quietly incorporated a new company called Palantir Technologies, where he would spend the next two decades developing some of the most sophisticated surveillance infrastructure in human history. At the time of the conference, the firm was still in its infancy. But it would soon land its first major client: the CIA.",
+      "zh": "在研讨会圆桌上与蒂尔对坐的帕拉沃并不知道，蒂尔对间谍技术并不只是出于学术兴趣。就在一年前，蒂尔悄悄成立了一家名为 Palantir Technologies 的新公司，在接下来的二十年里，他将在那里开发出人类历史上最先进的监控基础设施之一。会议召开时，这家公司还处于起步阶段，但很快便拿下了首个大客户：美国中央情报局（CIA）。"
+    },
+    {
+      "id": "p061",
+      "en": "As Palaver recalls it, Thiel’s paper received little pushback from the Girardians around the table in 2004. “I reread it recently,” Palaver tells me. “You can feel the anxiety. You feel that he was worried.” After 9/11, Palaver sighs, “I think Thiel’s first reaction was: We have to build tools to never again be in a situation where people can sneak into the United States without discovery.”",
+      "zh": "正如帕拉弗（Palaver）回忆的那样，蒂尔的论文在2004年与会的吉拉尔德派学者中几乎没有引发任何反对。“我最近又重读了一遍，”帕拉弗告诉我，“你能感到其中的焦虑感。你能感觉到他其实很担忧。”在9·11事件之后，帕拉弗叹了口气说：“我想蒂尔的第一反应是：我们必须建造这样的工具，再也不要出现让人能偷偷潜入美国却不被发现的局面。”"
+    },
+    {
+      "id": "p062",
+      "en": "About a month after the symposium, Thiel committed his most famous act of putting his money where his Girardian mouth was. In August of 2004, he put $500,000 in TheFacebook.com, becoming Mark Zuckerberg’s first major investor. On numerous occasions, Thiel has described this as a wager on the explanatory power of Girardian theory. “I bet on mimesis,” Thiel would later say. LinkedIn intellectuals began referring to Girard as “the godfather of the Like button.” One critic even speculated that Thiel saw Facebook as “a mechanism for the containment and channeling of mimetic violence.”",
+      "zh": "在这次研讨会后大约一个月，蒂尔兑现了他最著名的“言行一致”式投资——以吉拉尔德理论为依据。2004年8月，他向 TheFacebook.com 投入了50万美元，成为马克·扎克伯格最早的重要投资人之一。蒂尔在多个场合都把这笔投资描述为对吉拉尔德理论解释力的押注。“我是在赌模仿欲望（mimesis），”蒂尔后来说。LinkedIn上的知识界人士开始把吉拉尔德称为“点赞按钮的教父”。甚至有评论者推测，蒂尔把Facebook视为“一种遏制并引导模仿性暴力的机制”。"
+    },
+    {
+      "id": "p063",
+      "en": "But that wasn’t the only investment Thiel would make based on the power of his favorite theories.",
+      "zh": "但这并不是蒂尔基于其最爱理论所做出的唯一投资。"
+    },
+    {
+      "id": "p064",
+      "en": "After World War II, according to Palaver, Schmitt himself eventually soured on the idea that Hitler was the katechon. Clearly, the Führer had been a bad bet.",
+      "zh": "根据帕拉弗的说法，二战后，施密特本人也逐渐不再认可“希特勒就是卡特赫通（kathēkon）”这一观点。显然，这位元首并不是一项好赌注。"
+    },
+    {
+      "id": "p065",
+      "en": "In Schmitt’s postwar book The Nomos of the Earth, he pitched a new kind of katechon. This would be a world order “based on the equilibrium of several independent large blocs,” as Palaver summarized it in 1996. In Schmitt’s multipolar world order, each hegemonic power would have its own distinct “culture, race, language, and national heritage.” The world would be disunified by design. There would be no global regulatory bodies and no global enforcement mechanisms—no United Nations, no International Criminal Court.",
+      "zh": "在施密特的战后著作《大地法则》中，他提出了一种新型的“枷克顿（katechon）”概念。这一构想被《帕拉弗》杂志在1996年概括为一个建立在“几个独立大集团均势”之上的世界秩序。在施密特的多极世界秩序中，每个霸权大国都将拥有自己独特的“文化、种族、语言和国家传统”。该世界秩序在设计上就不追求统一。那里不会有全球监管机构，也不会有全球执法机制——既没有联合国，也没有国际刑事法院。"
+    },
+    {
+      "id": "p066",
+      "en": "In July of 2019, Thiel went onstage to present a keynote lecture at the inaugural US conference of a new international political force: the National Conservatism movement. Established that year by the Israeli political theorist Yoram Hazony, National Conservatives are opposed to “universalist ideologies” and want to “see a world of independent nations—each pursuing its own national interests and upholding national traditions that are its own—as the only genuine alternative.”",
+      "zh": "2019年7月，蒂尔登上舞台，在新生的国际政治力量——“国家保守主义”运动——首届美国大会上发表主题演讲。该运动由以色列政治理论家约拉姆·哈佐尼（Yoram Hazony）在当年创立，国家保守主义者反对“普世主义意识形态”，并认为“应看到由独立国家构成的世界——每个国家追求本国利益，并坚持自身独有的国家传统——是唯一真正的替代方案”。"
+    },
+    {
+      "id": "p067",
+      "en": "Thiel has presented a lecture at all but two US-based conferences of the National Conservatives, where illiberal world leaders meet with their international counterparts and where right-leaning intellectuals from across the globe gather to give talks on the failures of liberalism, the necessity of reevaluating the separation of church and state, and the virtues of closed borders and self-interested, soil-deep nationalism. In 2021, Thiel was listed among the conference’s biggest donors of $50,000 or more.",
+      "zh": "迄今为止，蒂尔几乎参加了国家保守主义者几乎所有在美国举办的大会，只有两次缺席。那些会议上，非自由主义的世界领导人会见其国际同行，来自世界各地的右翼知识分子聚集一堂，讨论自由主义的失败、重新评估政教分离的必要性，以及封闭边界和利益驱动、与土地紧密相连的民族主义价值。在2021年，蒂尔被列为该大会捐款金额五万美元及以上的主要捐助人之一。"
+    },
+    {
+      "id": "p068",
+      "en": "Almost since the beginning, observers have noted that Hazony’s theories—and those of the National Conservatives in general—appear to be “suffused with the ideas of the German jurist Carl Schmitt,” though Hazony has disavowed the connection. Among the relatively few people associated with National Conservatism who do cite Schmitt openly in their own work are Thiel and Michael Anton, the essayist and sometime Trump administration official.",
+      "zh": "自近乎创立伊始以来，观察者便注意到，哈佐尼的理论以及国家保守主义者总体上，都似乎“充满了德国法学家卡尔·施密特的思想”，尽管哈佐尼本人已公开否认这种关联。在国家保守主义圈子里，公开在自己作品中引述施密特的关联者并不多，较为明确的例子包括蒂尔与迈克尔·安东——这位散文家和特朗普政府时期的前官员。"
+    },
+    {
+      "id": "p069",
+      "en": "In 2023, Thiel returned to Schmitt’s ideas yet again when he gave his first major lecture on the Antichrist before the Girardians in Paris. This time he did refer obliquely to Schmitt’s “misadventure in nationalism”—a cute way of referring to his vigorously prosecuted Nazism—and gave much more air to the idea of the katechon.",
+      "zh": "2023年，蒂尔再次回到施密特思想，在巴黎向“基拉尔迪学者”做了他首次重要的反基督专题演讲。这一次，他间接提到了施密特的“民族主义误入歧途”（一个可爱的说法，用来指代他那一度被大力推行的纳粹主义）并且更大幅度地展开了“katechon”这一概念。"
+    },
+    {
+      "id": "p070",
+      "en": "After Thiel finished his talk—and Palaver issued his “go to church” correction from the audience—the Austrian went up to Thiel to say hello and make sure there were no hard feelings. As Palaver recalls it, Thiel responded that, in fact, he hoped they could discuss the substance of his lecture more deeply. So a year later, at Thiel’s invitation, Palaver flew to California to meet with Thiel in his sprawling Los Angeles home.",
+      "zh": "在蒂尔结束演讲、帕拉弗从观众席喊出“去教堂吧”（go to church）这句更正之后，这位奥地利神学家走向蒂尔，打招呼并确认彼此没有留下成见。帕拉弗回忆，蒂尔回应说，他其实希望两人能更深入讨论这场演讲的实质。于是，一年后应蒂尔邀请，帕拉弗飞往加州，在蒂尔位于洛杉矶的宏大宅邸与他会面。"
+    },
+    {
+      "id": "p071",
+      "en": "Before he arrived, the theologian was surprised to learn that Thiel had already decided what they would discuss: one of Palaver’s old papers critiquing Schmitt. “I had to reread it myself,” Palaver told me, “and I was partly astonished by what I had collected there and had to address.” It had been years since he’d thought about his mid-’90s scholarship. By the evening’s end, Palaver realized the same could not be said for his host.",
+      "zh": "在他到达之前，这位神学家惊讶地得知，蒂尔已经先一步确定了他们将讨论的内容：帕拉弗的一篇旧文，对施密特的批判。“我不得不把那篇文章自己再重读一遍，”帕拉弗告诉我，“而我对自己当年写下、整理过的那些内容感到部分惊讶，还得对它们逐项作出回应。”自他上世纪90年代中期的那些学术研究以来，已经过了许多年。到了当晚结束时，帕拉弗意识到，这一点对他的东道主来说显然不成立。"
+    },
+    {
+      "id": "p072",
+      "en": "As time went on, Palaver realized that he may have become a major vehicle for his once-taboo archenemy’s thought. “Some of those crazy ideas were really presented by myself for the first time,” Palaver says in his somewhat broken English. “And now they are all over the place.”",
+      "zh": "时间一久，帕拉弗逐渐意识到，他可能已经成了这位曾经被视为禁忌的“头号思想敌人”观点的主要传播媒介。帕拉弗用他略显生硬的英语说：“那些疯狂的观点，其实是由我本人首次提出的。”随后他补充道：“而现在它们几乎已经到处都是了。”"
+    },
+    {
+      "id": "p073",
+      "en": "As the National Conservatism movement picked up steam, its members began angling to have a man in the White House by 2024. They pinned their early hopes on Ron DeSantis, but when his campaign fizzled out, all eyes turned toward Ohio senator JD Vance.",
+      "zh": "随着国家主义保守主义运动升温，其成员开始谋划在 2024 年将一名自己人送入白宫。他们起初把希望寄托在罗恩·德桑蒂斯身上，但当他的竞选热度熄灭后，所有人都把目光转向俄亥俄州参议员 JD·万斯。"
+    },
+    {
+      "id": "p074",
+      "en": "It’s no secret that Vance is largely a product of Thiel—the billionaire has helped architect nearly every professional endeavor of Vance’s adult life, including his meteoric political rise. After Vance converted to Catholicism in 2019, he published an essay in the Catholic magazine The Lamp, partly attributing his conversion to the influence of two men: Peter Thiel (“he was possibly the smartest person I’d ever met”) and the late René Girard. “His theory of mimetic rivalry—that we tend to compete over the things that other people want—spoke directly to some of the pressures I experienced at Yale,” Vance wrote. “But it was his related theory of the scapegoat—and what it revealed about Christianity—that made me reconsider my faith.”",
+      "zh": "毫无秘密可言：万斯在很大程度上是蒂尔的“产品”——这位亿万富翁几乎参与设计了万斯成年后几乎所有职业生涯的重要举措，包括他那飞速上升的政治之路。2019 年万斯皈依天主教后，在天主教杂志《The Lamp》上发表了一篇文章，部分把自己的转变归因于两位男性：彼得·蒂尔（“他可能是我所遇见过最聪明的人”）以及已故的雷内·吉拉尔。“他的拟态竞争理论——即我们往往会争夺他人想要的东西——直接回应了我在耶鲁时经历的一些压力，”万斯写道，“但更让我重新思考信仰的，是他那相关的替罪羊理论，以及它所揭示的基督教真谛。”"
+    },
+    {
+      "id": "p075",
+      "en": "As Vance put it, “Christ is the scapegoat who reveals our imperfections, and forces us to look at our own flaws rather than blame our society’s chosen victims.” In applying this to his own life, Vance focused mainly on his generation’s petty online habits in the 2010s. “Mired in the swamp of social media, we identified a scapegoat and digitally pounced,” he wrote. “We were keyboard warriors, unloading on people via Facebook and Twitter, blind to our own problems.”",
+      "zh": "正如万斯所说： “基督是揭示我们不完美的替罪羊，迫使我们去看见自身缺陷，而不是把问题归咎于社会挑选出的受害者。”在将这一理论应用到自己生活时，万斯主要着重批判自己这一代人在 2010 年代的某些琐碎网络习惯。“沉溺于社交媒体这片沼泽，我们会先找一个替罪羊并在网上猛扑上去，”他写道。“我们是键盘战士，通过 Facebook 和 Twitter 对人发泄，完全看不到自己的问题。”"
+    },
+    {
+      "id": "p076",
+      "en": "It was a fairly shallow gloss on Girard’s theory. But to many Girardians, it suggested Vance knew exactly what he was doing when—two months after Donald Trump selected him as a running mate—the nominee began tweeting that immigrants in Springfield, Ohio, were eating domestic pets. And when, on the campaign trail and in televised debates, he contorted himself to blame nearly every American crisis on immigrants.",
+      "zh": "这只是对吉拉尔理论的相当肤浅的演绎。但是在许多吉拉尔研究者看来，这恰恰说明万斯早已心知肚明自己在做什么——就在唐纳德·特朗普选中他为搭档的两个月后，这位副总统候选人开始在推特上发文称，俄亥俄州斯普林菲尔德的移民正在吃宠物。后来在竞选活动和电视辩论中，他又不断把几乎所有美国危机都扭曲地归咎于移民。"
+    },
+    {
+      "id": "p077",
+      "en": "For some Girardians, this was a breaking point. The mimetic theorist Bernard Perret lambasted Vance and his billionaire mentor in a French political journal, accusing them of “casting a shadow over Girard’s legacy.” Within months, several more prominent Girardians followed suit. “It’s difficult to claim Girard, who fundamentally believes that violence is linked to exclusion, and at the same time to accuse Haitians of eating dogs,” Girardian scholar Paul Dumouchel told a Canadian newspaper. “Either you didn’t understand Girard, or you’re a liar.”",
+      "zh": "对一些吉拉德主义者来说，这成了一个分水岭。模仿理论家伯纳德·佩雷特在一家法语政治杂志上痛斥Vance及其亿万富翁导师，指责他们“给吉拉德的遗产蒙上阴影”。几个月内，更多更有影响力的吉拉德主义者随后效仿。加拿大一家报纸上，吉拉德学者保罗·杜穆歇尔说：“你很难一方面宣称支持吉拉德——吉拉德从根本上认为暴力与排斥相关联——同时又指责海地人吃狗。” “要么你并未真正理解吉拉德，要么你就是在说谎。”"
+    },
+    {
+      "id": "p078",
+      "en": "It’s possible that Vance may have genuinely misunderstood the scapegoat mechanism. Or he may have been familiar enough with Girardian mimetic theory to recognize that, while the old sacred rituals might not work perfectly, they aren’t entirely broken yet. Collective acts of violence still bind people together somewhat—perhaps enough to win an election. “They feel relieved of their tensions and they coalesce into a more harmonious group,” Girard wrote. “They now have a single purpose, which is to prevent the scapegoat from harming them by expelling and destroying him.”",
+      "zh": "Vance可能确实误解了替罪羊机制。也可能他对吉拉德的模仿理论已经足够熟悉，意识到旧有的圣化仪式虽然可能已不再完美运作，但并未完全失效。集体的暴力行为仍然在某种程度上把人群绑定在一起——或许足以赢得一场选举。吉拉德写道：“他们会感到紧张得以缓解，并且聚拢成一个更和谐的群体。” “他们此刻有了一个统一的目标：通过驱逐并摧毁替罪羊，防止其伤害他们。”"
+    },
+    {
+      "id": "p079",
+      "en": "By February of 2025, Thiel’s Armageddon tour had gotten to the point where he was handing out T-shirts that said “Don’t Immanentize the Katechon.” (This was a nerdy Thielian play on the anti-utopian quote, “Don’t immanentize the eschaton”—meaning don’t try to manifest heaven on Earth.) In a recent interview, Thiel was asked whether or not Donald Trump might be the katechon, and he refused to answer. His reticence to name a katechon is a lesson he seems to take directly from Palaver’s account of Schmitt and Hitler. “If you identify too much as one thing, that can go very wrong,” Thiel told Cowen. “There’s always a risk that the katechon becomes the Antichrist,” he said, echoing Palaver’s 1996 paper.",
+      "zh": "到2025年2月，蒂尔的“末世巡回”已发展到他发放印有“Don’t Immanentize the Katechon（不要将卡特洪在世化）”字样的T恤。 （这是一种蒂尔式的内行玩笑，改编自反乌托邦格言“Don’t immanentize the eschaton”，意指“不要在尘世显现天堂”。）在一次近来的采访中，蒂尔被问及唐纳德·特朗普是否可能就是卡特洪，他拒绝作答。他不愿点明“卡特洪”这一身份的慎重态度，似乎直接源于他从帕拉弗的施密特与希特勒叙述中领会到的教训。 “若你将某一身份理解得过于单一，便可能走向大错，”蒂尔对库文说。 “总有风险让卡特洪反过来成为反基督，”他如同回响起帕拉弗1996年的论文那样说道。"
+    },
+    {
+      "id": "p080",
+      "en": "Throughout Thiel’s strange circuit as an itinerant preacher, he and Palaver have been in frequent touch. The first time I spoke with Palaver, he’d recently emailed Thiel to express his disgust over JD Vance’s speech at the Munich Security Conference, where the vice president called for greater inclusion of nationalist populist parties like Germany’s far-right Alternative for Germany. Thiel engaged with Palaver's criticism of Vance without really conceding it, Palaver says. Whether the message trickled down to the vice president is unclear.",
+      "zh": "在蒂尔那段诡异的巡回活动中，他与帕拉弗几乎一直保持着频繁联系。第一次与帕拉弗交谈时，帕拉弗刚刚给蒂尔发过邮件，表达了他对JD·文斯在慕尼黑安全会议上的讲话所引起的厌恶——文斯在会上呼吁更广泛吸纳民族主义民粹主义政党，例如德国极右翼的“德国选择联盟”。蒂尔与帕拉弗对文斯的批评进行过互动，但并未真正承认其合理性，帕拉弗说。至于这则讯息是否传达到副总统那里，则仍不清楚。"
+    },
+    {
+      "id": "p081",
+      "en": "Last summer, I signed up to attend the 35th annual Girardian conference in Rome so I could spend time with Palaver in person. In the days leading up to it, I had dozens of unplanned conversations with mimetic theorists—in between lectures, in the back seats of taxis, and over espressos and cigarettes at tiny Roman cafés. The Girardians are a remarkably welcoming bunch, and many were reasonably eager to express how misrepresented they felt by the media. Several noted how disturbed they’d been to see a recent illustration, which accompanied a story in the Financial Times, of a smirking carved bust of Girard wearing a bright red MAGA hat.",
+      "zh": "去年夏天，我报名参加了在罗马举行的第35届Girardian会议，只为能当面与Palaver相处。会前几天里，我与许多模仿理论（mimetic）学者进行了数十次临时交谈；有时在讲座之间，有时在出租车后座，有时在罗马狭小的咖啡馆里一边喝意式浓缩咖啡一边抽烟。Girardian们极其热情，许多人都颇为乐意表达自己觉得媒体对他们误导、误报的感受。好几个人都提到，他们对最近《金融时报》上一篇文章配图中那尊“奸笑”雕像感到十分不安——那是一个刻着吉拉尔的雕像，戴着一顶明亮的红色MAGA帽。"
+    },
+    {
+      "id": "p082",
+      "en": "By virtue of his enormous fortune (and his tendency to name-drop Girard whenever he speaks to the media), Thiel is easily the most well-known Girardian on the planet. He does not, however, speak for the vast majority of mimetic theorists—particularly the European contingent. Certainly, none of the Girardians I spoke with seemed remotely interested in constructing katechons.",
+      "zh": "凭借巨额财富（以及他在接受媒体采访时习惯性地抛出Girard这一名字），蒂尔无疑是地球上最知名的Girardian。然而，他并不代表绝大多数模仿理论学者，尤其不是欧洲那一支。可以肯定的是，我所接触到的Girardian没有一个人表现出哪怕一点点兴趣去构建katechons。"
+    },
+    {
+      "id": "p083",
+      "en": "It’s not that they aren’t thinking about the apocalypse. There’s no way to take Girard’s mimetic theory seriously without acknowledging his conclusion: As scapegoating becomes less and less effective, the world begins to fall apart. It was just that the Girardians I met seemed to be at peace with the thought that we might be living through the denouement of human history.",
+      "zh": "这并不是说他们没有在思考末世。认真对待吉拉德的模仿理论，就无法回避他的结论：随着替罪机制越来越难以奏效，世界便开始走向崩解。问题只是我遇到的这些Girardian似乎心里很平静，他们似乎能够接受这样一个想法——也许我们正在经历的是人类历史的尾声。"
+    },
+    {
+      "id": "p084",
+      "en": "They were not interested in building katechons, they told me, because they do not want innocent people to get hurt. Their work is concerned with scapegoating less, not scapegoating more. Come what may. “Christ allows us to face this reality without sinking into madness,” Girard wrote. “The apocalypse does not announce the end of the world; it creates hope.”",
+      "zh": "他们告诉我，他们不想建设katechons，不是因为他们对末世麻木，而是因为他们不愿意让无辜的人受伤。与其让替罪更加泛滥，他们更关注如何减少替罪。无论接下来会怎样。正如Girard写道：“基督让我们能够正视这一现实，而不陷入疯狂。”“末世并不意味着世界终结；它孕育的是希望。”"
+    },
+    {
+      "id": "p085",
+      "en": "Palaver wanted to make sure I understood that he, too, was concerned with scapegoating less—he seemed worried that I might be scapegoating Peter Thiel. It was a lesson he himself had learned over and over. “Schmitt was the type of thinking I was fighting against,” Palaver told me. “And partly I’m still fighting against Schmitt.” But over the years, Girard had prodded him to see that he was becoming mimetically entangled with his opponent. “To understand mimetic theory properly means to reflect also on your own possible scapegoats.” So when I wanted to talk to him about Thiel’s hand in Palantir and National Conservatism, Palaver kept steering the conversation back to the condition of the billionaire’s soul.",
+      "zh": "帕拉弗想让我明白，他同样关注“替罪羊”问题——他似乎担心我会把彼得·蒂尔当成替罪羊。这是他自己反复领悟到的一课。帕拉弗对我说：“施密特就是我曾经反对的那种思维方式，而我现在仍然在与施密特作斗争。”但多年来，吉拉德一直在提醒他，他自己也在与对手发生模仿性纠缠。“要真正理解模仿理论，就必须也反思自己可能制造的替罪羊。”所以当我想和他谈蒂尔在Palantir和“国家保守主义”中的影响时，帕拉弗却不断把话题拉回到这位亿万富翁的灵魂状态上。"
+    },
+    {
+      "id": "p086",
+      "en": "In a June interview, the conservative columnist Ross Douthat asked Thiel whether he—with his heavy investments in AI, military tech, and the data analysis firm Palantir—is actually building tools that work in the service of the Antichrist. The halting six seconds the men subsequently devoted to unpacking the idea, which immediately became a meme, were remarkably underwhelming.",
+      "zh": "在一次六月的采访里，保守派专栏作家罗斯·道森问蒂尔：你如今在人工智能、军事技术和数据分析公司Palantir上的巨额投资，是否真的在打造服务于“敌基督”的工具。随后这两位人物用时仅六秒讨论这个想法，这一瞬间随后成为了网络梗，却出人意料地平淡无奇。"
+    },
+    {
+      "id": "p087",
+      "en": "Thiel: I obviously don’t think that that’s what I’m doing.",
+      "zh": "蒂尔：我当然不认为我在做那样的事。"
+    },
+    {
+      "id": "p088",
+      "en": "Douthat: I mean, to be clear, I don’t think that’s what you’re doing either.",
+      "zh": "道森：也就是说，清楚起见，我也不认为你在做那件事。"
+    },
+    {
+      "id": "p089",
+      "en": "Less than a month before Douthat spoke with Thiel, I posed the exact same question to Palaver, and it elicited more of a response. Why was Thiel, given his fixation on preventing a one-world state, building surveillance tools that a totalitarian dictator could use to seize power? Was he on the side of the katechon or the Antichrist?",
+      "zh": "在多思特与蒂尔交谈前不足一个月，我向帕拉弗尔提出了同样的问题，他给出的回应更多一些。既然蒂尔一心想阻止统一世界秩序的出现，却又在打造监控工具，使专制独裁者能够据此夺权，他到底是站在“基督的遏制者”一边，还是“反基督”一边？"
+    },
+    {
+      "id": "p090",
+      "en": "Palaver told me he wasn’t entirely sure. “There’s a tension between those two things, and in some ways he goes along with both of them,” he told me. “It’s a good strategy, if you have the means—to have something at stake on all the sides.” In other words, maybe the billionaire is hedging his bets—investing heavily in both the katechon and the one-world, totalitarian Antichrist.",
+      "zh": "帕拉弗尔告诉我他并不完全确定。“这两者之间确实存在张力，而且在某种程度上他两边都在走，”他说。“如果你有足够的手段，这是一种很聪明的策略——在所有阵营上都押上筹码。”换句话说，这位亿万富翁可能是在对冲风险：一边重仓投入“护持者”（katechon）的一面，另一边又重仓投入那种一体化、极权式的反基督。"
+    },
+    {
+      "id": "p091",
+      "en": "But to understand why Thiel may be willing to take that risk, Palaver says you need to first understand that he’s human. “What I’ve observed are traces of deep fear,” he told me. “Fear of death, fear of terrorism.” It all comes down to a lack of trust and a craving for security, Palaver suspects. “There are so many cases where he expresses fears and concerns and a need for protection,” Palaver says. “And if your main thing is seeking protection, you play with fire.”",
+      "zh": "但帕拉弗尔说，要理解蒂尔为何会愿意承担这种风险，首先要先承认他是个普通人。“我观察到的是深层的恐惧，”他告诉我，“对死亡的恐惧，对恐怖主义的恐惧。”这根源于缺乏信任以及对安全感的渴求，帕拉弗尔怀疑是这样。“有许多案例都显示他不断表达担忧、焦虑以及对保护的需要，”帕拉弗尔说，“而如果你最在意的就是‘寻求保护’，那你就已经是在玩火了。”"
+    },
+    {
+      "id": "p092",
+      "en": "Palaver has decided that he has to pick his battles with Thiel. “We have different political views of the world. That's quite clear for him and for me,” he says. But matters of religion are different. “That’s where I hopefully can have an influence on him,” Palaver says. Ultimately, Thiel needs to choose who he is going to imitate. “In the end, you have to decide: Are you really going to be a Christian in a proper sense? Or are you a Schmittian?”",
+      "zh": "帕拉弗尔决定自己必须与蒂尔在某些问题上划定界限。“我们对世界的政治看法并不一致，对他和我都很清楚，”他说。但宗教问题则不同。“希望在这点上，我还能对他产生影响，”帕拉弗尔说。最终，蒂尔要做出选择：他要仿效谁。“归根结底，你必须决定——你真的是一个真正意义上的基督徒吗？还是一个施米特主义者？”"
+    },
+    {
+      "id": "p093",
+      "en": "Let us know what you think about this article. Submit a letter to the editor at [email protected].",
+      "zh": "欢迎告诉我们您对这篇文章的看法，可向编辑部致信至[email protected]。"
+    }
+  ],
+  "translated_at": "2026-07-24T00:40:51+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}
