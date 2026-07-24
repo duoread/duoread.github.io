@@ -12,6 +12,7 @@ The project converts authorized magazine EPUB files into reviewable bilingual te
 - `bilingual.json` is the source of truth for paragraph alignment.
 - `texts/site-index.json` is a generated lightweight metadata index for the website bundle. It intentionally omits paragraph text.
 - `public/content/` is a generated, ignored static asset directory containing one JSON file per article. It is rebuilt from `texts/` before site builds and is copied into the deployed static site.
+- Pure visual-only articles, currently detected by `Cartoon:` / `漫画：` titles or generated cartoon ids, are retained under `texts/` but filtered out of `texts/site-index.json` and `public/content/`. Do not remove their source text unless the user explicitly asks for destructive cleanup.
 
 ## Display Model
 
@@ -51,3 +52,4 @@ The remote daily job uses `scripts/run-daily-magazines.sh`, which calls `scripts
 - Extracted and translated text under `texts/` is committed to the `source` branch.
 - The static export from `dist/client` is published to the `main` branch for `https://duoread.github.io/`.
 - If the newest upstream directory has a README with a dead EPUB link, the sync scans older directories until it finds a downloadable EPUB.
+- Recovery is state-based: after validation and translation audit pass, existing generated `texts/` changes should be committed and published even when the current process did not translate new articles. This matters after a previous run fails after writing translated text.
