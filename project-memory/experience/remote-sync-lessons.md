@@ -31,6 +31,20 @@ You've hit your usage limit for GPT-5.3-Codex-Spark. Switch to another model now
 
 The message did not specify a timezone. Until the quota resets or another translation backend is configured, do not overwrite the remote partial `texts/` worktree. Let a later recovery run resume from the existing translated articles.
 
+The completed subset was published on 2026-07-24: Atlantic `2026-07-02` exposes all 13 translated articles, and Wired `2026-07-02` exposes its 49 translated articles. The remaining 8 Wired articles stay in `texts/` with pending status and are filtered out of the website.
+
+The remote crontab was paused on 2026-07-24 so it does not repeatedly hit the Spark quota limit. The backup is:
+
+```text
+/root/aicode/runs/multi_language/crontab-before-pause-20260724T100524+0800.txt
+```
+
+To resume after quota recovery, restore or uncomment:
+
+```cron
+30 23 * * * GIT_REMOTE=origin /root/aicode/multi_language/scripts/run-daily-magazines.sh
+```
+
 ## Recovery Runs
 
 Recovery should be based on repository state, not only on the current process's `changed` flag. If translated text already exists from a failed run, rerun validation and audit; once they pass, commit and publish the actual git changes.

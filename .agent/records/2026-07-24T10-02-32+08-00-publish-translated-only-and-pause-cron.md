@@ -14,6 +14,10 @@
 - Kept the existing visual-only cartoon filter.
 - Updated tests to assert that non-translated articles are absent from the generated site data.
 - Verified locally with `volta run --node 22.13.0 npm test`.
+- Committed the remote completed and partial `2026-07-02` text work to source.
+- Published the completed subset to Pages: Atlantic `2026-07-02` exposes 13 translated articles, and Wired `2026-07-02` exposes 49 translated articles.
+- Confirmed generated site output has 10 issues, 384 visible articles, and 0 non-translated visible articles.
+- Paused the remote cron entry by commenting it out. The previous crontab was backed up at `/root/aicode/runs/multi_language/crontab-before-pause-20260724T100524+0800.txt`.
 
 ## Remote Facts
 
@@ -23,7 +27,6 @@
 - It translated Wired `2026-07-02` through 49 of 57 articles, then stopped on `050-the-baby-died-whose-fault-is-it`.
 - Codex reported the `gpt-5.3-codex-spark` usage limit and said to try again at `2026-07-29 10:40 AM`, without specifying a timezone.
 
-## Next Steps
+## Remaining Work
 
-- Commit and publish the completed text work from the remote.
-- Pause the remote cron entry so it does not repeatedly hit the Spark limit before quota recovery.
+- Resume the remote cron after Spark quota recovery, or configure a different translation backend, to finish the remaining 8 Wired `2026-07-02` articles.
