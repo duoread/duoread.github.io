@@ -12,7 +12,7 @@ The project converts authorized magazine EPUB files into reviewable bilingual te
 - `bilingual.json` is the source of truth for paragraph alignment.
 - `texts/site-index.json` is a generated lightweight metadata index for the website bundle. It intentionally omits paragraph text.
 - `public/content/` is a generated, ignored static asset directory containing one JSON file per article. It is rebuilt from `texts/` before site builds and is copied into the deployed static site.
-- Pure visual-only articles, currently detected by `Cartoon:` / `漫画：` titles or generated cartoon ids, are retained under `texts/` but filtered out of `texts/site-index.json` and `public/content/`. Do not remove their source text unless the user explicitly asks for destructive cleanup.
+- Only articles with `translation_status: "translated"` enter `texts/site-index.json` and `public/content/`. Pure visual-only articles, currently detected by `Cartoon:` / `漫画：` titles or generated cartoon ids, are retained under `texts/` but filtered out of the website output. Do not remove their source text unless the user explicitly asks for destructive cleanup.
 
 ## Display Model
 

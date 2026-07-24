@@ -65,6 +65,12 @@ test("site data is generated from texts", async () => {
     issue.articles.some((article) => /^cartoon\b\s*:/i.test(article.title_en)),
     false,
   );
+  assert.equal(
+    siteIndex.issues
+      .flatMap((candidate) => candidate.articles)
+      .some((article) => article.translation_status !== "translated"),
+    false,
+  );
   assert.equal(issue.articles[0].paragraphs, undefined);
   assert.match(issue.articles[0].content_path, /^\/content\/economist\/2026-07-18\//);
   assert.ok(issue.articles[0].paragraph_count > 5);

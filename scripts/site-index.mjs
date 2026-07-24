@@ -27,6 +27,7 @@ export async function rebuildSiteIndex(textsRoot = "texts", options = {}) {
           path.join(publicationPath, issueEntry.name, article.path),
         );
         if (!articleJson) continue;
+        if (articleJson.translation_status !== "translated") continue;
         if (isVisualOnlyArticle(articleJson)) continue;
 
         const contentPath = articleContentPath(
