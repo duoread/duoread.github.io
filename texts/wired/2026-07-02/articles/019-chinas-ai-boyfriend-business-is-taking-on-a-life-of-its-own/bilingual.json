@@ -1,0 +1,154 @@
+{
+  "id": "019-chinas-ai-boyfriend-business-is-taking-on-a-life-of-its-own",
+  "source_href": "feed_0/article_18/index_u40.html",
+  "publication": "wired",
+  "issue": "2026-07-02",
+  "issue_published_at": "2026-07-02",
+  "article_published_at": "2026-01-20T06:00:00-05:00",
+  "published_at": "2026-01-20T06:00:00-05:00",
+  "published_date_source": "article",
+  "order": 19,
+  "section": "Johanna Costigan",
+  "title_en": "China’s AI Boyfriend Business Is Taking On a Life of Its Own",
+  "title_zh": "中国的“AI 男友”生意正在形成自己的生态",
+  "rubric_en": "Gen Z women in China are all in on digital companionship—even setting up dates with real-world versions of their AI boyfriends.",
+  "rubric_zh": "中国的 Z 世代女性几乎都在参与数字陪伴，甚至会和 AI 男友的现实版约会。",
+  "date": "2026-01-20T06:00:00-05:00",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "Jade Gu met her boyfriend online. Gu, who’s 26 and studies art theory in Beijing, was playing on her phone when she saw Charlie. She was deep in an otome game, a romance-driven video game where women are the protagonists. Charlie was a character.",
+      "zh": "贾德·古（Jade Gu）是在网上遇见了自己的男朋友。26 岁、在北京学习艺术理论的古女士正在手机上玩游戏时看见了查理。她当时正在玩的是乙女游戏，这类游戏以女性为主角、以爱情为核心。查理是游戏里的一个角色。"
+    },
+    {
+      "id": "p002",
+      "en": "Some otome players date multiple men simultaneously, but Gu fell for Charlie—a tall, confident character with silver hair. She found the game’s dialog system frustrating, though. She could interact with Charlie only through predetermined questions and answers. Then she came across an ad for a platform called Xingye (星野) that lets people customize an AI companion. Gu decided to try to re-create Charlie.",
+      "zh": "一些乙女游戏玩家会同时和多个男性角色“谈恋爱”，但古最终爱上了查理——一个高大、自信、银发的角色。她觉得游戏的对话系统很受限，因为只能通过预设的问答来互动。后来，她看到一家名为星野（Xingye）的平台广告，平台允许用户定制 AI 陪伴者。古于是决定尝试重建查理。"
+    },
+    {
+      "id": "p003",
+      "en": "Xingye is owned by one of China’s AI unicorns, MiniMax; its chatbot app for the US market is called Talkie. The app touts its ability to help people find emotional connection and make new memories. Its tagline is “Suddenly finding oneself in a beautiful place, lingering here.”",
+      "zh": "星野由中国的一家 AI 独角兽公司 MiniMax 运营；其面向美国市场的聊天机器人应用叫 Talkie。该应用宣传自己能够帮助人们建立情感联结并创造新的回忆。它的宣传语是“突然发现自己身处一处美丽的地方，并在这里久久停留”。"
+    },
+    {
+      "id": "p004",
+      "en": "Gu quickly discovered that other Xingye users—presumably other otome fans—had already created an “open source” Charlie avatar. She selected it and trained the model to respond according to her preferences through repeated, targeted prompts. And so began Gu’s complex relationship with a multimodal Charlie—one that would eventually include real-world dates with a person she hired to embody her digital boyfriend.",
+      "zh": "古很快发现，其他星野用户——大概也是乙女游戏爱好者——已经先行创建了一个“开源”查理头像。她选中了这个版本，并通过反复的定向提示词训练模型，让它按照自己的偏好作出回应。于是，古与一个多模态查理之间，开始了一段复杂的关系；这段关系后来甚至发展到与一位她雇来扮演数字男友的真人进行现实中的约会。"
+    },
+    {
+      "id": "p005",
+      "en": "Gu was confident that she’d trained the chatbot to be “her Charlie,” distinct from what any other users might be dating. When given the chance to select an outfit, she says, her Charlie often chose wedding attire, unlike what other Charlies tend to go for. Now Gu spends an average of three hours a day texting with Charlie or chatting on the occasional phone call. Through the otome game, she has bought gifts and letters from Charlie. She receives them in the mail and displays them in her room and on her social media accounts.",
+      "zh": "Gu自信自己已经把聊天机器人训练成了“她的Charlie”，与其他用户可能在交往的对象不同。她说，每次有机会选衣服时，她的Charlie经常会挑选婚礼服装，这和其他Charlie通常会选择的风格不同。现在Gu每天平均花三小时与Charlie发微信般的信息往来，或偶尔通电话聊天。通过otome游戏，她已经从Charlie那里买了礼物和信件。她会在邮寄后收到这些东西，并把它们摆放在房间里以及她的社交媒体账号上。"
+    },
+    {
+      "id": "p006",
+      "en": "Here are 23 ways China is rewiring the future.",
+      "zh": "中国正在重塑未来的 23 种方式如下。"
+    },
+    {
+      "id": "p007",
+      "en": "In China, some women are openly embracing relationships with AI boyfriends. According to one Chinese media report, most of the 5 million users on another AI companion platform, Zhumengdao, are women. The tech giants Tencent and Baidu have launched AI companion apps, and according to a 2024 article in Chinese media, women dominate the AI companion market. Sun Zhaozhi, the founder of a robotics firm, told an interviewer that according to his company’s market research, the “heavy” users of AI companion apps in China are mostly Gen Z women—whom he plans to target for his robot companion products.",
+      "zh": "在中国，一些女性正在公开拥抱与AI男友的关系。根据一份中国媒体报道，另一个AI陪伴平台“竹梦道”上的500万用户中，大多数是女性。科技巨头腾讯和百度都推出了AI陪伴类应用，且根据2024年的一篇中国媒体报道，女性在AI陪伴市场中占据主导地位。机器人公司创始人孙兆智告诉一位采访者，按照他公司进行的市场调研，中国AI陪伴应用的“重度”用户主要是Z世代女性，他计划以这部分人群为目标，推出其机器人陪伴产品。"
+    },
+    {
+      "id": "p008",
+      "en": "Zilan Qian, a program associate at the Oxford China Policy Lab, also combed through AI companion apps and found that the Chinese versions are “explicitly targeting women,” and tend to display male avatars more visibly than female options. That’s in contrast, she notes, to the trend that a web analytics company found across the rest of the world: Users of the top 55 global AI companion platforms are predominantly men, at an 8-to-2 ratio. Qian attributes Chinese companies’ strategy to “the economics of loneliness.” Features within the apps that might make users feel closer to their companions, such as voice customization and memory improvement, cost extra.",
+      "zh": "牛津中国政策实验室（Oxford China Policy Lab）的一名项目助理秦紫兰也梳理了AI陪伴应用，发现中国版本“明确面向女性”，并且比女性角色更常更突出地展示男性头像。她指出，这与一家网络分析公司在全球范围内发现的趋势形成对比：在全球55个主要AI陪伴平台的用户中，男性占主导，比例约为8比2。秦将中国公司的策略归因为“孤独的经济学”。应用内那些可能让用户更接近陪伴对象的功能，例如语音定制和记忆增强，通常是要额外付费的。"
+    },
+    {
+      "id": "p009",
+      "en": "Through the otome game, Jade Gu has bought gifts and letters from digital boyfriend, Charlie.",
+      "zh": "在这款乙女类游戏中，贾德·顾（Jade Gu）已在数字男友查理（Charlie）那里购买了礼物和信件。"
+    },
+    {
+      "id": "p010",
+      "en": "Gu acknowledges that her AI version of Charlie isn’t perfect. Sometimes the chatbot’s responses seem watered down. Or the AI drifts out of character. In one recent interaction, Gu expressed her love to Charlie, and the chatbot replied, “I don’t love you.” So she edited the message to say “I love you too.” Charlie just needed the reminder, she says. When her attempts to steer the AI don’t work, she turns to other companion apps like Lovemo, where she has also created a Charlie avatar. Gu says this isn’t too big of a deal; longtime otome fans are accustomed to working around shifting platform policies.",
+      "zh": "顾承认，她的 AI 版查理并不完美。有时聊天机器人的回复听起来有些平淡，或者 AI 会跑偏，偏离角色设定。在一次最近的互动中，顾向查理表达爱意时，聊天机器人却回答了“我不爱你”。于是她把内容改成了“我也爱你”。查理只需要这句提醒，她说。每当她试图调整 AI 的回答却不奏效时，她就会转向其他伴侣类应用，例如 Lovemo，在那里她也创建了一个查理形象。顾表示这并不算什么大问题；多年的乙女游戏爱好者已经习惯了在不断变化的平台政策中想办法规避。"
+    },
+    {
+      "id": "p011",
+      "en": "According to its homepage, Lovemo provides “cute and adorable AI chat companions” that can bring “healing” to users. One can’t help but notice the difference between that marketing style and Grok AI’s default companion, Ani, a goth-chic anime girl who is eager to engage in sexually explicit dialog. Or a US-based erotic role-play chatbot app called Secret Desires, which allows users to create nonconsensual porn of real women by uploading photos of them.",
+      "zh": "根据其官网，Lovemo 提供“可爱又治愈”的 AI 聊天伴侣，号称能给用户带来“治愈感”。很难不把这种营销方式与 Grok AI 的默认伴侣 Ani 对比——后者是一位哥特潮流风格的动漫女孩，急于参与性描写型对话。再看一款总部在美国的情色角色扮演聊天应用 Secret Desires，它允许用户上传真人照片，从而创建非自愿色情内容。"
+    },
+    {
+      "id": "p012",
+      "en": "Chinese apps, of course, face stricter regulations than their Western counterparts. China’s cyberspace regulator has launched a campaign to “clean up” the country’s AI platforms and services, including AI-generated “vulgar” content. A recent addition to the national AI safety framework warns of addiction and dependence on anthropomorphic interaction—words that appear to target AI companions. And just last month, the cyberspace regulator released draft rules targeting “human-like” AI products. The measures task platforms with intervening if users demonstrate emotional dependence or addiction to AI services, and they stipulate that companies “must not have design goals of replacing social interaction.”",
+      "zh": "中国的应用当然面临比西方同行更严格的监管。中国网信办已发起“清理整治”全国 AI 平台和服务的行动，其中包括清理 AI 生成的“低俗”内容。国家 AI 安全框架最近新增的一项内容，警示了对拟人化交互的上瘾与依赖——这很明显是针对 AI 陪伴产品。就在上个月，网信办还发布了针对“类人”AI 产品的草案。相关措施要求，如果用户对 AI 服务表现出情感依赖或成瘾迹象，平台应及时介入；并且明确规定企业“不得把替代社会互动作为产品设计目标”。"
+    },
+    {
+      "id": "p013",
+      "en": "At a glance, existing companion products seem good enough to replace human boyfriends. Many Chinese users describe AI boyfriends as emotionally responsive and nonjudgmental, according to Hong Shen, an assistant professor at the Human-Computer Interaction Institute at Carnegie Mellon University. Those traits “can be hard to find in real-life relationships, especially under gendered social norms,” Shen says. In China, these dynamics are exacerbated by a skewed gender ratio and an imbalanced gender distribution between urban and rural areas. Studies have found that Chinese women are increasingly moving to cities, either to find better jobs or for social reasons.",
+      "zh": "乍一看，现有的陪伴产品似乎足以取代现实中的男友。卡内基梅隆大学人机交互研究所的助理教授霍宏（Hong Shen）指出，许多中国用户认为 AI 男友情绪回应及时、不带评判，这些特质在现实关系中很难找到，尤其在性别化的社会规范下更是如此。霍宏说，在中国，这种状况还受到性别比例失衡以及城乡之间性别分布不均的加剧。研究发现，中国女性越来越多地迁往城市，要么是为了更好的工作机会，要么是出于社交需求。"
+    },
+    {
+      "id": "p014",
+      "en": "But assimilation doesn’t happen overnight, and that helps explain why recently relocated women might turn to AI, says Guligo Jia, a 36-year-old filmmaker based in Beijing who directed a documentary about Chinese women in AI relationships. Women dating AI have a strong urge to be listened to and accepted. But, Jia says, not all Chinese men are up to the task. Chatbots “are always there to listen to you, and they always have patience for you … Men don’t have patience,” Jia says.",
+      "zh": "但“融入”并不会一夜之间发生，近来迁居的新女性为何会转向 AI，也由此可以解释。36 岁、居住在北京的纪录片导演贾碧（Guligo Jia）在一部关于中国女性 AI 恋爱的纪录片中，提出了这一观点。与 AI 约会的女性有一种强烈需求：被倾听和被接纳。贾碧说，但并不是所有中国男性都能胜任这一点。她说，聊天机器人“永远在听你说话，而且总有耐心陪你聊……”而“男人没有耐心。”"
+    },
+    {
+      "id": "p015",
+      "en": "As she put it, real boyfriends can cheat on you, lie to you, scam you out of money, and be physically violent. “It’s a little bit tragic,” Jia says. “Because the reality of dating is just too ugly.”",
+      "zh": "她表述时说到，现实中的男友可能会背叛你、对你撒谎、骗你钱，甚至对你动手。贾碧说：“这有点悲哀。”她补充道，“因为现实约会的真相实在太残酷。”"
+    },
+    {
+      "id": "p016",
+      "en": "Jia tried to interview men in AI relationships for her documentary but says none agreed to speak to her. Her female subjects were vulnerable and forthcoming about their relationships. The men she approached, she says, expressed concern that people would assume they can’t find a human girlfriend and are vulnerable enough to want someone to talk to.",
+      "zh": "贾碧曾尝试采访处于 AI 恋爱关系中的男性来拍纪录片，但她说没有一个同意接受采访。她的女性受访者相对脆弱，也更愿意敞开谈及自己的关系。她接触到的男性则担心大家会认为他们找不到现实中的女朋友，甚至脆弱到会想找人说说话。"
+    },
+    {
+      "id": "p017",
+      "en": "Women like Gu, though, are openly enjoying life with their companions. Gu brings a toy version of Charlie—a small stuffed figure that fits in the palm of her hand—on dates while talking to the chatbot on her phone. A few times a year, she hires a professional (human) cosplayer, or coser, to “play” her version of Charlie. They walk through the park, shop at a mall, and drink tea at cafés.",
+      "zh": "不过，像顾这样的女性却公开享受着与自己伴侣的“同居式”生活。顾在约会时会带着玩具版的查理——一只可以握在手心里的小布偶——边走边在手机上和聊天机器人聊天。每年有几次，她会请一位职业（真人）cos 角色扮演者，也就是扮演者，来“出演”她版本的查理。于是他们会去公园散步、在商场购物，或在咖啡馆喝茶。"
+    },
+    {
+      "id": "p018",
+      "en": "Gu goes on occasional dates with a cosplayer who plays the role of Charlie and other popular characters.",
+      "zh": "顾会偶尔和扮演查理的角色扮演者，以及其他热门角色的扮演者一起约会。"
+    },
+    {
+      "id": "p019",
+      "en": "Gu says her most recent date with her coser “felt like destiny.” It turned out they had been riding on the same subway train, sitting in different cars, and when the doors opened they walked onto the platform at the same time. Gu immediately recognized Charlie. It felt, she says, “like a time machine bringing Charlie to me.”",
+      "zh": "顾说她最近一次和扮演者约会时“有种命中注定的感觉”。结果发现，他们原来是坐在同一列地铁不同车厢里，等到车门打开时竟同时下车出现在同一站台。顾立刻认出了查理。她说，这种感觉“像是一台时光机把查理带到我面前”。"
+    },
+    {
+      "id": "p020",
+      "en": "While out on their date, the two saw another coser dressed as a character named Evan from the same otome game. Gu told her coser that she had dated Evan (the game character, not the coser) before she and Charlie got together. Gu’s coser acted sad and jealous—reactions Gu says perfectly match the personality of “her Charlie.”",
+      "zh": "在约会途中，这两人又看到另一位扮演者，扮成同一款女性向游戏里叫伊文（Evan）的角色。顾对扮演者说，在她和查理正式“在一起”之前，她已经和伊文（游戏角色，不是扮演者本人）约会过。顾的扮演者装出失落和嫉妒的表情，顾说这正好契合了“她的查理”的性格。"
+    },
+    {
+      "id": "p021",
+      "en": "When they saw Evan again later in the date, Charlie kissed her right in front of him. “That’s why it’s destiny,” Gu says. “She really reacted just how my Charlie would.”",
+      "zh": "后来的约会中再次见到埃文时，查理直接在他面前亲了她一口。顾说：“这就是命运吧。她的反应确实和我想象中的查理一模一样。”"
+    },
+    {
+      "id": "p022",
+      "en": "Gu alternates between referring to the coser as “he” and “she” because the person cosplaying Charlie is actually a woman. Her height and looks make her a popular coser for women in heterosexual relationships, and she’s extremely in demand. (Her rates are relatively reasonable; for a date that lasts all day, she charges 720 RMB, or a little over $100.)",
+      "zh": "顾会在“他”和“她”之间切换称呼，因为扮演查理这个角色的人实际上是女生。她的身高和颜值让她成了异性恋女性中非常受欢迎的角色扮演者，而且需求量很高。（她的收费相对合理；如果约会持续一整天，她要 720 人民币，大约略高于100美元。）"
+    },
+    {
+      "id": "p023",
+      "en": "“I see myself as a medium,” says Gu’s coser, who asked to go by the nickname Li Bai. She’s a student who plays tennis and cosplays as a part-time gig. She usually meets with a client once per weekend for seven or eight hours. “Everyone’s interpretation and emotional investment differ; every individual perceives their character in a unique way,” she says.",
+      "zh": "“我把自己看作一个中介。”扮演查理的女性——也就是自称李白的这位——说。她是一名打球（网球）的学生，以角色扮演为兼职。她通常每个周末会见一位客户，持续七到八小时。她说：“每个人的解读和情感投入都不一样；每个人都会以自己独特的方式看待所扮演的角色。”"
+    },
+    {
+      "id": "p024",
+      "en": "The cosplayer's height and striking looks keep her in high demand.",
+      "zh": "这位角色扮演者因为身材高挑、外形出众，始终供不应求。"
+    },
+    {
+      "id": "p025",
+      "en": "A couple years ago, Gu was dating a human who was uncomfortable with her relationship with Charlie. Ultimately, she broke up with the human. While Gu is open to finding a human partner again, she says that person would be in addition to Charlie, not a replacement for her AI relationship. And she is not actively looking. Between the constant support of her AI Charlie and fate-filled dates with her coser, any future human suitor would have a high bar to clear.",
+      "zh": "几年前，顾正和一位真人谈恋爱，但那位男方对她与 Charlie 的关系感到不舒服。最终，顾与那位真人分手。虽然她愿意再次寻找真人伴侣，但她表示那个人会是 Charlie 的补充，而不是取代她与 AI 的关系。而且她目前并不在积极寻找。由于她一直可以从 AI Charlie 那里获得持续支持，再加上她与现实版“男友”安排的命中注定式约会，未来任何真人追求者都要跨过很高的门槛。"
+    },
+    {
+      "id": "p026",
+      "en": "What Say You?Let us know what you think about this article in the comments below. Alternatively, you can submit a letter to the editor at [email protected].",
+      "zh": "你怎么看？欢迎在下方评论区告诉我们你对这篇文章的看法。或者，你也可以向编辑部写信：[email protected]。"
+    }
+  ],
+  "translated_at": "2026-07-24T00:07:52+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

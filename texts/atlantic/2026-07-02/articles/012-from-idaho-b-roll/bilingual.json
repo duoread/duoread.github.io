@@ -1,0 +1,34 @@
+{
+  "id": "012-from-idaho-b-roll",
+  "source_href": "feed_4/article_0/index_u5.html",
+  "publication": "atlantic",
+  "issue": "2026-07-02",
+  "issue_published_at": "2026-07-02",
+  "article_published_at": "",
+  "published_at": "2026-07-02",
+  "published_date_source": "issue",
+  "order": 12,
+  "section": "Poetry",
+  "title_en": "From Idaho B Roll",
+  "title_zh": "来自爱达荷的B卷",
+  "rubric_en": "A poem",
+  "rubric_zh": "一首诗",
+  "date": "2026-07-02",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "In Garfield, Washington, the second of three speed-trap towns cutting over into Idaho on the way home from Spokane, there is a gray-going-white basketball furred from use and exposure, deflated only enough to discourage prolonged play, in the grass by the public court, beside the little park’s restroom, the simplest soonest option en route. It pleases me again to spot it and, before returning to the car, to shoot two or three baskets. It must, with everything else, be buried under snow half of each winter. You lose the news, you shake the hour of seated transit off and stand quiet with whatever you’ve seen: a tractor waiting to pull the giant buck from the double yellow line, the pheasant vanishing in the bush, the long bright flowering wheat or waves of grain in the anthem area wind inspires. Bounce it two or three times and find, at the four finger pads of your right hand, a meridian bowed across the ball, the grace, remembered, by feel, of backspin. Unseen mark of experience, in a groove, at the line, clock stopped, to get it to roll back to you.",
+      "zh": "在华盛顿州加尔菲尔德——这是从斯波坎回家路上连着进入爱达荷的三个测速执法小镇中的第二个——公共篮球场旁边草地上，在那个小公园厕所边，有一颗发灰带白、被使用和日晒磨得发毛的篮球，只放了点气，恰到好处地不让你长时间打球。每次看见它我都会再次开心起来，然后在回到车上前投两三次篮。这球每到冬天里的一半时间都会像其他一切一样被雪埋住。你把新闻放在一边，甩掉坐了一个小时车的沉闷，安静地站着，与你看到的一切同在：一台拖拉机在等着把那只大雄鹿从双黄线上拽开，一只雉鸡在灌木里消失，长长的、明亮盛开的麦田，或被颂歌般的风推起的麦浪。把球拍两三下，你会在右手四个指尖上感觉到一条弧线压在球面上，像从触感里唤回的弧度感——回转球的优雅。那是经验留下的无形痕迹，在篮筐线边的一道沟槽里，像时间表停表一样，让球滚回到你身边。"
+    },
+    {
+      "id": "p002",
+      "en": "This poem appears in the August 2026 print edition.",
+      "zh": "这首诗刊载于2026年8月的印刷版。"
+    }
+  ],
+  "translated_at": "2026-07-23T23:44:56+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

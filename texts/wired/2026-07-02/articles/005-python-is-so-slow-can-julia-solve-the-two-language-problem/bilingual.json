@@ -1,0 +1,119 @@
+{
+  "id": "005-python-is-so-slow-can-julia-solve-the-two-language-problem",
+  "source_href": "feed_0/article_4/index_u43.html",
+  "publication": "wired",
+  "issue": "2026-07-02",
+  "issue_published_at": "2026-07-02",
+  "article_published_at": "Jul 13, 2026 7:00 AM",
+  "published_at": "Jul 13, 2026 7:00 AM",
+  "published_date_source": "article",
+  "order": 5,
+  "section": "Sheon Han",
+  "title_en": "Python Is So Slow. Can Julia Solve the Two-Language Problem?",
+  "title_zh": "Python太慢了吗？Julia 能解决“两语言问题”吗？",
+  "rubric_en": "",
+  "rubric_zh": "",
+  "date": "Jul 13, 2026 7:00 AM",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "As a genre, the “award acceptance lecture” is little more than a formality and a banality. But there is at least one charming exception to this rule—the talks given by the foremost computer scientists on the occasion of their Turing Awards.",
+      "zh": "“得奖致辞”这个体裁通常不过是礼节性的形式和陈词滥调。不过至少有一个迷人的例外——就是那些顶尖计算机科学家在获得图灵奖时所做的演讲。"
+    },
+    {
+      "id": "p002",
+      "en": "Some read like manifestos: John Backus’ “Can Programming Be Liberated From the von Neumann Style?” (1977) inspired a new paradigm that begat functional languages like Haskell. Others are warnings: In his “Reflections on Trusting Trust” (1984), Ken Thompson demonstrated the peril of backdoored compilers, likely preventing scads of security vulnerabilities. Edsger Dijkstra, in “The Humble Programmer” (1972), urged his ilk to be wary of cleverness and acknowledge “the intrinsic limitations of the human mind.”",
+      "zh": "有些听起来像宣言：约翰·巴卡斯在1977年的《编程是否能从冯·诺依曼风格中解放出来？》中，启发了一个新范式，进而孕育了像Haskell这样的函数式语言。另一些则是告诫：肯·汤普森在1984年的《信任信任的反思》中展示了后门编译器的危险，可能从而避免了大量安全漏洞。埃德加·迪克斯特拉在1972年的《谦逊程序员》中，提醒同行警惕聪明的捷径，并承认“人类思维的固有局限性”。"
+    },
+    {
+      "id": "p003",
+      "en": "For our purposes, consider Kenneth Iverson’s heady 1979 lecture, “Notation as a Tool of Thought.” In it, he demonstrated that mathematical notations aren’t just convenient shorthand—CO2 for carbon dioxide, 3,888 for MMMDCCCLXXXVIII—they also make new insights readily discoverable. As the mathematician Alfred North Whitehead once put it: “By relieving the brain of all unnecessary work, a good notation sets it free to concentrate on more advanced problems.”",
+      "zh": "就我们的目的而言，肯尼斯·艾弗森1979年的那次催人深思的演讲《表示法即思想工具》很有代表性。在这次演讲中，他证明了数学符号不仅仅是方便的简写——比如“CO2”代表二氧化碳、“3,888”代表MMMDCCCLXXXVIII——它们也能让新的洞见更容易被发现。正如数学家阿尔弗雷德·诺斯·怀特海德曾经说过：“一套优秀的符号系统，通过消除大脑所有不必要的工作，让大脑得以集中处理更高阶的问题。”"
+    },
+    {
+      "id": "p004",
+      "en": "Iverson won his Turing Award for APL, a spooky-looking programming language that began its life as a system of notation for bridging between languages. In the early days of scientific computing, programmers had to think in one language (mathematical notation) but then program in another (e.g., Fortran). APL was designed so that unwieldy operations could be written as compactly as equations—lines of code collapsed into a couple of symbols like + or ×. APL turned out to be more influential than adopted, but no matter: It showed that two languages could be fused into one.",
+      "zh": "艾弗森因APL获得了图灵奖，这是一种看起来有些诡异的编程语言，起初是作为一种“符号系统”诞生，用来在不同语言之间架起桥梁。在早期的科学计算中，程序员不得不用一种语言思考（数学符号），但却要用另一种语言去编程（例如Fortran）。APL的设计目标是让笨拙的操作也能像公式那样紧凑地书写——一行代码被压缩成像+或×这样几个符号。APL最终影响力大于实际采用程度，但这并不重要：它证明了两种语言是可以融合成一种的。"
+    },
+    {
+      "id": "p005",
+      "en": "The year 2026 marks 60 years since the introduction of APL, and a new kind of two-language problem bedevils the field of scientific computing. The ruling programming language is Python, but it reigns not as a muscular conqueror so much as a doddering king. Python, in other words, is terribly slow—a flaw that even its most ardent defenders would not deny.",
+      "zh": "2026年是 APL 推出 60 周年的年份，而科学计算领域正被一种新型的“两语言”困境困扰。当前主导的编程语言是 Python，但它更像一位步履蹒跚的老国王，而不是真正强悍的征服者。换言之，Python 非常慢——即便是最热烈的支持者也不会否认这一点。"
+    },
+    {
+      "id": "p006",
+      "en": "Hence the two-language problem: Researchers prototype in slow, friendly Python but, for performance-critical parts, rewrite in faster, less friendly languages like C++ or Rust. This limitation can’t be solved by spinning up a platoon of AI coding agents, because no matter how much you optimize a slow language, a faster one will outperform it.",
+      "zh": "因此出现了两语言问题：研究人员在速度较慢但上手友好的 Python 中做原型开发，而在性能关键部分，则改用更快但不那么友好的语言，如 C++ 或 Rust。这个限制无法靠组建一支 AI 编码代理部队来解决，因为无论你如何优化一种慢语言，始终会有更快的语言占据优势。"
+    },
+    {
+      "id": "p007",
+      "en": "These binary trade-offs exist in other domains. You could say that construction, for instance, has a two-material problem. Wood is a pliable material for prototyping a structure—even an amateur can saw and nail together a functional building. But it’s no good for erecting a skyscraper. This raises an obvious question: What if there were a material as manipulable as wood but as strong as steel? What if there were a language as ergonomic as Python but as fast as C?",
+      "zh": "这种两难选择在其他领域也很常见。你可以说，建造领域也有“两材料问题”。木材是很容易操作的材料，哪怕是业余者也能锯木钉钉搭出一座可用的建筑；但它不适合修建摩天大楼。这个明显的问题是：如果有一种材料像木头一样易于操作，却像钢一样坚固，会怎样？如果有一种语言既像 Python 那样符合人体工学，又像 C 一样快，会怎样？"
+    },
+    {
+      "id": "p008",
+      "en": "In 2012, four computer scientists with strong mathematical bona fides came together to address the modern-day two-language problem. In a short essay called “Why We Created Julia,” they said they took up the project “because we are greedy.” Their text begins like a valentine to programming languages:",
+      "zh": "2012 年，四位数学功底扎实的计算机科学家携手，共同应对当代的两语言问题。他们在一篇名为《我们为何创造 Julia》的短文中说，他们之所以发起这个项目，是因为“我们很贪心”。文章开篇就像是一封写给编程语言的情书："
+    },
+    {
+      "id": "p009",
+      "en": "We are power Matlab users. Some of us are Lisp hackers. Some are Pythonistas, others Rubyists, still others Perl hackers … We’ve generated more R plots than any sane person should. C is our desert island programming language.",
+      "zh": "我们是 Matlab 的重度用户，有人是 Lisp 黑客，有人是 Python 爱好者，还有些人是 Ruby 爱好者，另一些则是 Perl 黑客……我们生成过比常人更离谱更多的 R 图。C 是我们在荒岛上也会带在身边的编程语言。"
+    },
+    {
+      "id": "p010",
+      "en": "But every one of these languages, they wrote, “is perfect for some aspects of the work and terrible for others.” Greedy as they were, they wanted “a language that’s open source, with a liberal license … Something that is dirt simple to learn, yet keeps the most serious hackers happy.” Julia would be the one language to unite them all.",
+      "zh": "但这些语言都有人写道：“在某些方面，它们是完美的；在其他方面，则糟糕透顶。” 这些人既挑剔又不满足，他们想要的是“一种开源、带有宽松许可证的语言……一种学习起来极其简单，却又能让最严肃的黑客满意的语言。” Julia 将会成为把它们统一起来的一门语言。"
+    },
+    {
+      "id": "p011",
+      "en": "I first encountered Julia by happenstance in 2017—a year before its syntax stabilized—when I attended lectures by Sebastian Seung, a neuroscientist who was using it to map connectomes, the complete map of neural pathways in the brain. My first impression was of its delightful, winsome name, which defied the clumsy nomenclature common in the field: the inelegant (PL/I), the ugly (Erlang), the typographically ungainly (C++), and the literally pathological (MUMPS—which, if you can believe it, forms the backbone of the American health care system).",
+      "zh": "我第一次“偶然”接触 Julia 是在 2017 年，那时它的语法还没正式稳定下来。那一年我听了神经科学家 Sebastian Seung 的课程，他当时用 Julia 来绘制 connectome，即大脑中神经通路的完整图谱。我的第一印象是它那悦耳可爱的名字，颠覆了该领域常见的笨拙命名：难看得要命的 PL/I、怪模怪样的 Erlang、排版笨拙的 C++，以及字面上“病态”的 MUMPS——如果你能相信的话，它构成了美国医疗体系的脊梁。"
+    },
+    {
+      "id": "p012",
+      "en": "I could also see that serious thought had gone into designing Julia. After studying the many pitfalls other languages had fallen into, the creators marshaled neat ideas from different languages—a testament to the fact that careful observation must come before embarking on so fine an enterprise as creating a new one.",
+      "zh": "我也能看出，Julia 的设计确实花了不少心思。创作者在研究了其他语言曾踩过的众多坑之后，吸纳了来自不同语言的精巧思想，这正证明了一个事实：在着手像创建一门新语言这样精细而浩大的工程之前，必须先进行细致的观察。"
+    },
+    {
+      "id": "p013",
+      "en": "As of 2026, Julia has come to attract a sober community of grown-ups—which can’t be said of many language communities. Language nerds are an emotional, clamorous bunch (many a friendship has been broken over a difference of opinion on syntax), but the Julia community has yet to be convulsed by any major drama. It leans academic, drawing scientists more than hackers. But unlike other languages also used by academics, Julia doesn’t get too fanciful (like Haskell), nor does it attract worshipful fans (also like Haskell) or engage in intellectual gamesmanship (like, say, Haskell). At the annual Julia-Con, you’ll hear triumphant stories of rewriting MATLAB code in Julia and gaining 60X speedups. By some benchmarks, Julia code can run 10X to 1,000X faster than Python.",
+      "zh": "截至 2026 年，Julia 已经吸引到一批沉稳务实的开发者社区——这是许多语言社区做不到的。语言爱好者往往情绪化、吵闹（许多友谊都因语法观点不同而破裂），但 Julia 社区至今还没被任何大事件搅乱。它更偏学术，吸引的更多是科学家而不是“黑客”。但不同于其他也常被学术界使用的语言，Julia 不会变得过于花哨（像 Haskell 那样），也不容易招致狂热粉丝（也像 Haskell），更不会沉迷于那种智力炫技（例如 Haskell）。在每年的 Julia-Con 上，你常能听到把 MATLAB 代码重写为 Julia 后获得 60 倍提速的成功故事。按某些基准测试，Julia 代码的运行速度可以比 Python 快 10 倍到 1000 倍。"
+    },
+    {
+      "id": "p014",
+      "en": "But you won’t find Julia on Stack Overflow’s annual survey chart of the most popular languages. It didn’t replace Python, in the end—not even close. Why not? What went wrong?",
+      "zh": "但在 Stack Overflow 每年的最受欢迎语言榜单上，你不会看到 Julia。最终它并未取代 Python——甚至远远没那样。为什么？到底出了什么问题？"
+    },
+    {
+      "id": "p015",
+      "en": "First, just as a human language depends on the corpus of texts written in it, a programming language is only as good as its ecosystem and tooling. Python’s is far too robust to dislodge. Second, Julia has not been adopted by Big Tech. In the past, when a minor language was plucked from obscurity and rose to prominence, it was thanks to this kind of corporate patronage: Objective-C by Apple for iOS development, Kotlin by Google for Android development.",
+      "zh": "首先，就像人类语言依赖其文字语料库，编程语言的价值也取决于生态系统和工具链。Python 的生态系统太成熟，难以被取代。其次，Julia 没有得到大型科技公司的采用。过去，许多小众语言之所以从冷门走向主流，往往得益于这种公司背书：例如苹果在 iOS 开发中的 Objective-C，以及谷歌在 Android 开发中的 Kotlin。"
+    },
+    {
+      "id": "p016",
+      "en": "But third, and this is my answer: Nothing went wrong. Julia is a niche language, and for what it’s doing, it’s plenty successful. In all probability, Julia will live on, small but beloved. It is used for Herculean work at institutions like ASML, CERN, and NASA and in serious ventures like drug discovery and advanced machine learning.",
+      "zh": "但第三点，也是我的答案：并没有出错。Julia 是一门小众语言，而就它承担的任务而言，它已经相当成功了。很可能，Julia 会继续存在，体量不大却备受喜爱。它被用于 ASML、CERN、NASA 等机构的艰巨任务，也被用于药物发现和高级机器学习等严肃领域。"
+    },
+    {
+      "id": "p017",
+      "en": "Even if Julia does replace Python someday, I’m not convinced it can solve the two-language problem—or that any language can. While the problem is commonly referenced in scientific computing, it exists in every software domain. In gaming, engines are written in C++ but scripted in Lua. In server backends, there is a panoply of easier languages—Python, Ruby, JavaScript—but when real performance is needed, the work is done in Go or Rust. Conversely, valiant efforts to use Go or Rust for frontend development have utterly failed.",
+      "zh": "即使 Julia 总有一天取代 Python，我也并不相信它能真正解决“两语言问题”——甚至我怀疑任何语言都能。虽然这个问题在科学计算领域常被提及，但它存在于每一个软件领域。在游戏领域，主引擎是用 C++ 编写的，而脚本通常是 Lua。到了服务器后台时，虽然有一整套更容易上手的语言可选，比如 Python、Ruby、JavaScript，但一旦需要真正的性能，工作就会改用 Go 或 Rust。相反，许多试图用 Go 或 Rust 来做前端开发的雄心壮举，最终都彻底失败了。"
+    },
+    {
+      "id": "p018",
+      "en": "But who am I to say we’ll be stuck here forever? Perhaps one day someone as insightful as Iverson will figure out how to bridge the gap once and for all. When that happens, make sure to tune in to their Turing lecture.",
+      "zh": "但我又凭什么说我们会永远被困在这里呢？也许有一天，会有人像 Iverson 那样足够有见识，终于想出一次性弥合这道鸿沟的方法。等那一天来临时，记得去听他的图灵演讲。"
+    },
+    {
+      "id": "p019",
+      "en": "This is the second installment in a three-part Machine Readable series on AI-enabling languages.",
+      "zh": "这是关于 AI 赋能语言的 Machine Readable 三部曲的第二篇。"
+    }
+  ],
+  "translated_at": "2026-07-23T23:52:08+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}

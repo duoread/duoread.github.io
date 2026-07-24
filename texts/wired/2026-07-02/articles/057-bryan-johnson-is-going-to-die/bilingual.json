@@ -1,0 +1,571 @@
+{
+  "id": "057-bryan-johnson-is-going-to-die",
+  "source_href": "feed_0/article_57/index_u13.html",
+  "publication": "wired",
+  "issue": "2026-07-02",
+  "issue_published_at": "2026-07-02",
+  "article_published_at": "Jul 21, 2025 6:00 AM",
+  "published_at": "Jul 21, 2025 6:00 AM",
+  "published_date_source": "article",
+  "order": 57,
+  "section": "Katie Drummond",
+  "title_en": "Bryan Johnson Is Going to Die",
+  "title_zh": "",
+  "rubric_en": "",
+  "rubric_zh": "",
+  "date": "Jul 21, 2025 6:00 AM",
+  "origin_url": "",
+  "translation_status": "pending",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "At first, the two bowls of fruit on Bryan Johnson’s kitchen island look perfect. They’re brimming with plump kiwis, hardy avocados, and ripened bananas. These are the food of the gods, I figure, for a man who aspires to live like one. But then I look closer. A lone orange, its skin flecked with mold, sits adjacent to two lemons, both almost entirely consumed by a layer of white fuzz. Something, it seems, is rotten in the estate of Johnson.",
+      "zh": ""
+    },
+    {
+      "id": "p002",
+      "en": "The line between science and wellness has been blurred beyond recognition. WIRED is here to help.",
+      "zh": ""
+    },
+    {
+      "id": "p003",
+      "en": "That estate, it’s worth noting, is a predictable one. Johnson’s home in Venice, California, is the angular, concrete-floored template of a dwelling you’d assume is owned by a man. Specifically a man who worked in tech, made his millions, and subsequently embarked on a midlife, post-wealth search for purpose. All of which Johnson is, and did, and still appears to be doing: After selling his web payments company, Braintree, for $800 million in 2013, Johnson parted ways with both his wife and his lifelong Mormon religion. In 2021 he announced Project Blueprint, an effort designed to reverse his own body’s aging process. This involves an all-consuming, unproven regimen including but not limited to daily exercises, blood tests, a doctrinal sleep routine, MRIs, plasma transfers, scalp stimulants, urine tests, several dozen supplements, Dexa scans, light therapy, and caloric restriction.",
+      "zh": ""
+    },
+    {
+      "id": "p004",
+      "en": "If the rotting fruit didn’t give it away, then no, this is not a kitchen where household memories are made over milk and cookies—although a collage of candid photos taped above Johnson’s stove offers hints of familial warmth. (Johnson has three kids, one of whom is infamous for donating data on his youthful erections and his own plasma to his father’s anti-aging efforts.) This is a kitchen, after all, that shares a home with specimen cups of semen and coolers of Johnson’s blood; where pills and powders, which I find meticulously stocked in Johnson’s walk-in pantry, are mixed, optimized, and consumed; where food is not eaten so much as nutrition is performed.",
+      "zh": ""
+    },
+    {
+      "id": "p005",
+      "en": "Performance, of course, is Johnson’s specialty. There’s the performance of his body, which Johnson claims is now the single healthiest on Earth. And there’s how that body shows up to the viewing public, which it does quite often. Johnson has been the subject of dozens of profiles and interviews, as well as a Netflix documentary released earlier this year. He has amassed more than 4 million followers across YouTube, Instagram, and X, and he posts an ongoing stream of content about his sleep habits (sublime), his diet (meticulous), and his erections (trigger warning). Johnson has also used his online reach to push back against recent controversies, including a legal battle with his former fiancée Taryn Southern, and a New York Times investigation into his extensive use of confidentiality agreements to prevent, among other things, Blueprint employees from publicly talking about Johnson as well as his business dealings.",
+      "zh": ""
+    },
+    {
+      "id": "p006",
+      "en": "Over a 90-minute conversation, Johnson spoke at length about his longevity protocol, his assessment of RFK Jr.’s MAHA movement, and those agreements that he continues to enforce. He also took great pains to convince me—and all of you—that this wasn’t just about health and longevity. No, like most tech men living in boxy modernist homes and saddled with illusions of grandeur, Johnson has a new holy grail with which to galvanize his faithful following: artificial intelligence, baby.",
+      "zh": ""
+    },
+    {
+      "id": "p007",
+      "en": "This interview has been edited for length and clarity.",
+      "zh": ""
+    },
+    {
+      "id": "p008",
+      "en": "KATIE DRUMMOND: I’m going to ask you a very simple true-or-false question that you can answer however you want. Ready?",
+      "zh": ""
+    },
+    {
+      "id": "p009",
+      "en": "True or false: You, Bryan Johnson, the man sitting across from me, one day at some point in the future, will die.",
+      "zh": ""
+    },
+    {
+      "id": "p010",
+      "en": "Death has always been inevitable, so we have made all these preparations. We talk about immortality in professional achievements. We talk about life after death. There are the ways that we’ve dealt with death up to this point. And now we have this real possibility of extending our lifespans to some unknown horizon. So that’s extension. But we also have the ability to begin moving ourselves to computational systems. So currently, in a very crude form, I have a Bryan AI that has digested everything I’ve ever said.",
+      "zh": ""
+    },
+    {
+      "id": "p011",
+      "en": "You do currently have this?",
+      "zh": ""
+    },
+    {
+      "id": "p012",
+      "en": "And that Bryan AI is pretty good. As the technology gets better and better, the most prized asset is going to be existence; immortality as we thought about it before, through accomplishment or through offspring or the afterlife, will be devalued relative to existing. And that’s my fundamental bet on the future.",
+      "zh": ""
+    },
+    {
+      "id": "p013",
+      "en": "If there was a world where, let’s say in five years, you could upload Bryan into an AI—and AI Bryan is pretty much as good as Bryan Bryan—does Bryan Bryan eat the cheeseburger?",
+      "zh": ""
+    },
+    {
+      "id": "p014",
+      "en": "Let’s think about your question in a different way. Most people today spend every waking moment pursuing wealth; and the time they’re not spending pursuing wealth, they’re pursuing some sort of status or prestige. When you give birth to superintelligence, you can start extending lifespans to some unknown horizon: 200 years, 1,000 years, 10,000 years. Millions of years. We don’t know. When that happens, the entire game of humanity shifts from that singular focus on wealth accumulation and status and prestige to existence. Now, embedded in existence, we may still play games of power, but it will be conditioned that existence itself is the highest virtue. That’s the shift that’s starting to happen right now.",
+      "zh": ""
+    },
+    {
+      "id": "p015",
+      "en": "Let’s move the conversation to your immediate existence. You’ve talked at length about your protocol. Walk us through a day in the life right now.",
+      "zh": ""
+    },
+    {
+      "id": "p016",
+      "en": "OK, cool. I have built my entire existence around sleep. My sleep profile is that of an early twentysomething. I’ve worked very hard at this. So it’s eight hours and 34 minutes. I’m up less than one time per night on average, I go to bed within two to three minutes of my head hitting the pillow, and I have 94 percent sleep efficiency. Typically, most people’s sleep signal is like the stock market, and mine is just flat.",
+      "zh": ""
+    },
+    {
+      "id": "p017",
+      "en": "But to do that, you can’t just show up and say, “I’m going to put my head on the pillow and fall asleep.” You have to build your whole life system around that. So my day begins the night before when I go to sleep, and then I wake up around 4:30 or 5:00. First thing when I wake up, I get out of bed. I try to get up within one minute of waking.",
+      "zh": ""
+    },
+    {
+      "id": "p018",
+      "en": "I try to avoid the “10 more minutes” or pull the phone up and start scrolling. I get up, I will get light in my eyes within a few minutes of waking—I wake up before the sun, so it’s 10,000 lux light. I’ll take my inner ear temperature. One thing we’ve noticed, as I’ve done this for the past four years, my body temperature has dropped almost 4 degrees Fahrenheit. And there’s good evidence that species with lower basal temperatures live longer.",
+      "zh": ""
+    },
+    {
+      "id": "p019",
+      "en": "I will then put a serum on my hair, my scalp. Rub my scalp with a silicone scrubber for hair growth. I’ll take a quick shower, and then I’ll come downstairs. I have a morning drink. I will eat something, I’ll work out for an hour. I’ll do red light therapy, then hyperbaric oxygen therapy, then some sauna, then I’ll rinse off, and then get ready for work.",
+      "zh": ""
+    },
+    {
+      "id": "p020",
+      "en": "That is quite a regimen. And then you stop eating for the day at …?",
+      "zh": ""
+    },
+    {
+      "id": "p021",
+      "en": "Really quickly, rapid fire, ask me a couple questions about myself, and then tell me how I’m doing in the Bryan Johnson universe.",
+      "zh": ""
+    },
+    {
+      "id": "p022",
+      "en": "What is your resting heart rate?",
+      "zh": ""
+    },
+    {
+      "id": "p023",
+      "en": "48 beats per minute.",
+      "zh": ""
+    },
+    {
+      "id": "p024",
+      "en": "What is your most recent body inflammation blood test result, your hsCRP?",
+      "zh": ""
+    },
+    {
+      "id": "p025",
+      "en": "Bryan, I have no idea.",
+      "zh": ""
+    },
+    {
+      "id": "p026",
+      "en": "What is your blood glucose level?",
+      "zh": ""
+    },
+    {
+      "id": "p027",
+      "en": "OK. How many continuous push-ups can you do?",
+      "zh": ""
+    },
+    {
+      "id": "p028",
+      "en": "OK. If you stood on one foot and closed your eyes, how long could you stay standing?",
+      "zh": ""
+    },
+    {
+      "id": "p029",
+      "en": "Yeah. Try me. Not right now.",
+      "zh": ""
+    },
+    {
+      "id": "p030",
+      "en": "What is the length of your telomeres?",
+      "zh": ""
+    },
+    {
+      "id": "p031",
+      "en": "OK. What are your omega levels?",
+      "zh": ""
+    },
+    {
+      "id": "p032",
+      "en": "These are very involved questions.",
+      "zh": ""
+    },
+    {
+      "id": "p033",
+      "en": "What is your speed of aging?",
+      "zh": ""
+    },
+    {
+      "id": "p034",
+      "en": "Well, according to the skin test I took earlier, Bryan, it was 1.9.",
+      "zh": ""
+    },
+    {
+      "id": "p035",
+      "en": "I thought you were just going to ask me if I smoke. Or exercise. Or sleep enough.",
+      "zh": ""
+    },
+    {
+      "id": "p036",
+      "en": "I can pose a question, like “How’s your sleep?” And you can give me a generic answer like “I sleep great,” but if you look at the actual data of your telomere length, it tells me the story of your overall health. These are readouts of your biology. They just say, “This is me in raw form.” There’s no storytelling. It’s just the data.",
+      "zh": ""
+    },
+    {
+      "id": "p037",
+      "en": "I’m relieved that I don’t have that data for you right now. Now, you were a successful entrepreneur. You felt like you weren’t living your healthiest life. You parted ways with Mormonism. You got divorced. You went through all of these seismic life changes. A lot of people make major changes to their lives. Exceedingly few people—very, very, very, very, very few people—go as far as you have. What made you take this to such an extreme?",
+      "zh": ""
+    },
+    {
+      "id": "p038",
+      "en": "I’m really motivated by having read various biographies of people throughout time and place. In their moment, they were able to identify the most far-ranging ambition identifiable in that moment. You couldn’t have sequenced the genome in the year 1800. You probably couldn’t have gone to space in the 1920s. In any given time, a new emergent possibility is present. Then two questions arise. One is: What is it? And two is: Will somebody do it?",
+      "zh": ""
+    },
+    {
+      "id": "p039",
+      "en": "The year 2021 was the first time in human history where a person could say “We are the first generation who won’t die” and not be ridiculed. I saw that and I thought, this is a moment when it comes together, where you see it and you can do something about it.",
+      "zh": ""
+    },
+    {
+      "id": "p040",
+      "en": "If you talk to people who know me, if you ask my husband, poor guy, they would say that I’m a very controlled person. I wake up at the same time every day. I do the same exercise. I tend to eat a lot of very similar foods. There’s a lot of routine and structure to my life. When I hear about the way you live, I, as a very controlled person, am astounded at how controlled your life is. Was control always something that was a defining characteristic?",
+      "zh": ""
+    },
+    {
+      "id": "p041",
+      "en": "I would reframe it and say you’re actually a really smart engineer; you realize that the metabolic cost of you having to make these decisions every single day is so expensive that you say, “You know what? It’s not worth it. I’m just going to systematize this so that my brain can be allocated toward other higher-level thinking.” I view it the same way: Why would I fight these daily, miscellaneous, ultimately irrelevant decisions on a moment-to-moment basis when they can just be automated? I’d rather spend my scarce brain capacity thinking of higher-level things—about the future of the human race, for example.",
+      "zh": ""
+    },
+    {
+      "id": "p042",
+      "en": "In 2023 I was leading the newsroom at Vice, and we published a story on you. You talked about your body image from decades ago. You talked about how hard it was at that time to control yourself around food at night. You said you now often go to bed hungry, and you’ve learned to find joy in that. You eat mostly plants. If I stripped your name out and looked at a bulleted list of those comments, that sounds a lot like me 20 years ago with a very serious eating disorder. It wasn’t about the number on the scale. It wasn’t about how I looked. It was about being able to systematize and control my environment. I think if you were to ask some doctors and psychiatrists, they would say, “Well, that sounds like disordered behavior. That sounds like an eating disorder.” How do you respond to that? Particularly when we’re talking about you as a public figure advocating for a certain approach to health, do you have concerns about what you’re advocating for?",
+      "zh": ""
+    },
+    {
+      "id": "p043",
+      "en": "Most people I know in America have an eating disorder. I rarely meet somebody who doesn’t find themselves, late in the evening, powerless to stop themselves from eating the ice cream or the cookies or the chips. I clearly struggled with controlling my food intake. I would say it’s really more of a widespread societal problem, that we have an addiction problem with food, our phones, and our entertainment, our scrolling. I don’t know if my addiction is more excessive than other people’s addictions or if it’s just weighted more toward food versus the phone, but I’d say I’m probably pretty average on a population-level addiction scale.",
+      "zh": ""
+    },
+    {
+      "id": "p044",
+      "en": "So you’ve taken what used to manifest in one way, which was an inability to control what you were eating and when you were eating it, and essentially adopted a new approach, which is saying, “I eat these things at these times, and I eliminate the variables. I take the choice out of it, and that is how I am going to manage this part of my health.”",
+      "zh": ""
+    },
+    {
+      "id": "p045",
+      "en": "Exactly. And I guess more broadly it’s a cultural commentary, where I’m saying the most powerful forces in all of society—corporations—are pointing their power at getting you to be addicted to their thing. Whether it’s scrolling their app, eating their food, watching their show—all their intelligence is pointed at you and trying to get you to be addicted.",
+      "zh": ""
+    },
+    {
+      "id": "p046",
+      "en": "I don’t want to be addicted to anything. I want to have agency and freedom over my existence as much as possible, so that’s what I’m trying to build. I realize that people on the outside looking in, they say, “He’s working through his childhood trauma. He’s working through a food addiction.” I’m open to all those explanations. I would be the first person to be self-deprecating and be like, “This guy has got issues.” Unquestionably.",
+      "zh": ""
+    },
+    {
+      "id": "p047",
+      "en": "You’re addicted to longevity.",
+      "zh": ""
+    },
+    {
+      "id": "p048",
+      "en": "I mean, there’s probably no way of actually getting over addiction other than controlling where your addiction is pointed.",
+      "zh": ""
+    },
+    {
+      "id": "p049",
+      "en": "I want to ask you about MAHA. When President Trump won the election, you congratulated him on social media. You were photographed with RFK Jr. What is your assessment of RFK Jr. and the Trump administration vis-à-vis American health? How do you rate the administration so far?",
+      "zh": ""
+    },
+    {
+      "id": "p050",
+      "en": "RFK is certainly not a status quo person.",
+      "zh": ""
+    },
+    {
+      "id": "p051",
+      "en": "The status quo in the US is not working. If you look at the data around the health of our citizenry, it’s embarrassingly bad. I think we spend 1.8 times our peer countries in health care: $13,000 per person versus $7,000 or so in the other developed countries. We spend more and we get less. Whether RFK is the solution or not, what we’re doing is not working, so I’m open to change, and I’m open to a variety of possibilities. It’s not to say that everything he’s doing is correct, but I do support the idea that we definitely need to change.",
+      "zh": ""
+    },
+    {
+      "id": "p052",
+      "en": "Do you worry about medical research being delayed by years or decades if it’s curtailed right now?",
+      "zh": ""
+    },
+    {
+      "id": "p053",
+      "en": "Oftentimes, when one path is discontinued, everybody thinks it’s an end of something; but actually, that change produces a new path that people didn’t anticipate. So no, I support the creative destruction. I think it could have some positive outcomes. Clearly, there could be some drawbacks. When you break things like this, it goes both ways. It’s not a clean win or loss.",
+      "zh": ""
+    },
+    {
+      "id": "p054",
+      "en": "I think what would be cool is if we as a country said, “We want to be number one in the entire world for life expectancy.” That is a very clear goal.",
+      "zh": ""
+    },
+    {
+      "id": "p055",
+      "en": "Let’s talk about faith, because for so many people, religion or faith is fundamental in informing how they think about life and death. They think about the afterlife, they think about heaven or hell or whatever version of an afterlife exists. If you are not a person of faith, and I am not, you think, “Well, my body disintegrates and goes into the ground and then it helps the trees grow and that’s just how this works. I am a biological organism.” How do you contemplate the idea of an afterlife or what happens after we die, given that you spend a lot of time focused on not dying?",
+      "zh": ""
+    },
+    {
+      "id": "p056",
+      "en": "This is the biggest question. This is the one that everybody has to grapple with, which is, What is existence? But for the history of humanity we have not had an opening to ask the question, What does existence mean? Right now is the first opening in literally tens or hundreds of thousands of years. The new answer to existence is that existence itself is the highest virtue.",
+      "zh": ""
+    },
+    {
+      "id": "p057",
+      "en": "Sounds like you now have a religion.",
+      "zh": ""
+    },
+    {
+      "id": "p058",
+      "en": "When did that become an idea, and ultimately … why? You’ve got your public persona, you have your protocol, you have a business. Why bring religion into this?",
+      "zh": ""
+    },
+    {
+      "id": "p059",
+      "en": "Companies come and go. Countries come and go. Religions have endured for millennia. Confucius built a system of ethics. Muhammad received visions. Jesus was the son of God. Adam Smith wrote about the invisible hand. Karl Marx wrote Das Kapital. The American founding fathers wrote a constitution. Satoshi dropped the White Paper.",
+      "zh": ""
+    },
+    {
+      "id": "p060",
+      "en": "If you look at the major ideological and technological phenomena of the world, they’ve landed in different ways. It’s very obvious that right now, in this age of AI, a new ideology is going to drop. It always drops in answer to technological disruption. An ideology must help humans make sense of the world. When I look at the world right now, I can’t see any ideology that helps explain this moment, that helps me make practical day-to-day decisions. You can’t go to Christianity and say, “Tell me how I behave in this moment.” You can’t even go to democracy. You can’t go to capitalism.",
+      "zh": ""
+    },
+    {
+      "id": "p061",
+      "en": "I want to make sure I understand. Your premise here is that AI will be this transformational technology that will extend our lifespan in some way, and there is not an ideology that supports mankind at that moment?",
+      "zh": ""
+    },
+    {
+      "id": "p062",
+      "en": "I’m saying nobody knows what’s going to happen. All we know is that AI is improving at a rate that is unfathomable to our minds. Now, that doesn’t stop humans from saying, “I will explain to you what’s going to happen. It’s going to make the world an abundant place, and we humans are going to be able to do whatever we want, and we’re going to have one day a week where we work.”",
+      "zh": ""
+    },
+    {
+      "id": "p063",
+      "en": "To be clear, I think that’s a very utopian and very unlikely scenario.",
+      "zh": ""
+    },
+    {
+      "id": "p064",
+      "en": "I agree. I don’t believe any human knows what’s going to happen. I only believe we have an event horizon. Nobody can see past it. This thing is moving very fast. We as a species don’t move that fast. We can’t move that fast. We can’t change our society at that speed. So there’s going to be some kind of dislocation. And I’m trying to say we need to prepare ourselves in the most basic way we can.",
+      "zh": ""
+    },
+    {
+      "id": "p065",
+      "en": "My solution for this is we choose to not die. That’s it. I’m not arguing for immortality. I’m not arguing for utopia. We as a species, our existence is at risk. We do not know if humans have a role in the future. We do not know if we’re going to survive this moment. We are already at each other’s throats. We have nuclear annihilation as a possibility. It’s a moment where we evolve into a species who say: The single thing we have in common is that nobody wants to die right now. That’s it.",
+      "zh": ""
+    },
+    {
+      "id": "p066",
+      "en": "What is required for someone to be a disciple of this religion?",
+      "zh": ""
+    },
+    {
+      "id": "p067",
+      "en": "At a foundational level, it’s a humility to say we don’t know what’s coming. Therefore, the most sober and practical thing to do is lock in our individual and shared behaviors. I’m not going to do things that kill myself. We’re not going to kill each other. We don’t kill the planet.",
+      "zh": ""
+    },
+    {
+      "id": "p068",
+      "en": "And then we align AI with Don’t Die. Right now you’ve got the US developing AI, and China developing AI, and open-source models, and closed-source models, and we’re basically just putting it all into this coliseum where everyone’s going to fight it out for power. I don’t think we want to give birth to AI in a warlike scenario.",
+      "zh": ""
+    },
+    {
+      "id": "p069",
+      "en": "So wouldn’t aligning your movement, in the context of AI, have more to do with making sure the AIs don’t kill us than taking supplements? You’re saying that so much of what you do is not about health, but so much of what you put into the world is about health.",
+      "zh": ""
+    },
+    {
+      "id": "p070",
+      "en": "I do feel like this is legitimately an opening that we haven’t seen for a few thousand years, for a new global ideology to emerge rapidly and be the fastest-growing ideology in history. Something’s going to rise and fill this void, whether it’s Don’t Die or something else. So I was trying to figure out, how do you actually talk about this? People don’t care about philosophy. They don’t really care about ideas, not until it’s really important. What they do care about is their health, how they feel in the morning, how they look. I tried to approach this conversation in a way that would be understandable, where Don’t Die as a philosophy is going to bed on time and eating nutritious foods and saying no to junk food. Once you get people in, and they can understand health is a really good thing, you can bridge to philosophy and be like, “There’s this bigger thing going on that we can talk about.”",
+      "zh": ""
+    },
+    {
+      "id": "p071",
+      "en": "So you are the founder of a religion. You are also the CEO of Blueprint; you sell supplements and a variety of products. You sell a finger pinprick aging test. Where do the religion and the commercial business start and stop? Where do they overlap? And why run a commercial enterprise off the back of this?",
+      "zh": ""
+    },
+    {
+      "id": "p072",
+      "en": "I agree with you a hundred percent. And honestly, I am so close to either shutting it down or selling it.",
+      "zh": ""
+    },
+    {
+      "id": "p073",
+      "en": "I’ve been talking to people about this. I don’t need the money, and it’s a pain-in-the-ass company. Practically, I was having to solve these basic problems myself, like how do I find clean protein powder that is tested by a third-party lab and has low heavy metals? I need it for my body. Once I started doing it, friends were like, “Can I have some?” I’m like, “Sure.” It just evolved in a way where I was trying to do people a solid. The problem is now people see the business and give me less credibility on the philosophy side. I will not make that trade-off. It is not worth it to me. So yeah, I don’t want it.",
+      "zh": ""
+    },
+    {
+      "id": "p074",
+      "en": "The New York Times published a story about you recently, and that story included reporting about the integrity of the products that you sell and about the financial health of the company. Is the decision to potentially sell or shut the company down informed by that, either that controversy or the fact that the company isn’t working the way you had hoped?",
+      "zh": ""
+    },
+    {
+      "id": "p075",
+      "en": "It has nothing to do with The New York Times. I am not hiding from the New York Times article. I’m happy to take, head-on, every single allegation they made. I will say [their reporting on] the business, that was fucking made up. They take things and they contort it to fit their narrative, but anybody who’s been on the side of a hit piece knows it’s bullshit. You know it. I know it. [“We are confident about the accuracy of our story,” says New York Times spokesperson Danielle Rhoades Ha, “which included reviewing legal and internal documents as well as interviewing 30 people close to Mr. Johnson and his company.” —Ed.]",
+      "zh": ""
+    },
+    {
+      "id": "p076",
+      "en": "As a journalist, I believe that our industry operates in good faith. I respect The New York Times. I read them every day. I know a lot of great journalists who work there. Obviously I had nothing to do with reporting that piece. Is the company right now a profitable company? Are you running a profitable company, whether you sell it or disband it?",
+      "zh": ""
+    },
+    {
+      "id": "p077",
+      "en": "They painted it like we are in some kind of emergency financial situation. That is not the case. We are break-even, and I’ve said that publicly many times. We’ve had profitable months, we’ve had loss months. I’ve been very clear, we priced our products at the exact level to basically be break-even. Additional margin is just not worth it to me. It’s been a consistent strategy the entire time.",
+      "zh": ""
+    },
+    {
+      "id": "p078",
+      "en": "The thrust of the New York Times piece was around how you use confidentiality agreements. You have a former fiancée who was also a former employee, and at least two other former employees, who have filed complaints with the National Labor Relations Board about confidentiality agreements that sound very extensive. In some cases, they’re 20-plus pages. Sometimes there’s an additional opt-in agreement.",
+      "zh": ""
+    },
+    {
+      "id": "p079",
+      "en": "You’re so transparent about yourself publicly. I know so much about your body—more than I would like to—and that’s my choice. I can close the tab if I don’t want to hear more about your penis. But you are so transparent, and then you’re essentially saying to your employees, “Support me in my transparency, but don’t fucking say anything yourself,” right?",
+      "zh": ""
+    },
+    {
+      "id": "p080",
+      "en": "I grew up poor. My mom made my clothes for me. I was poor until I was 34, and then I made a couple hundred million dollars. I’m new money. In that moment, when I made that money, I did not understand what it means to have money and how it fundamentally changes your relationship with the entire world.",
+      "zh": ""
+    },
+    {
+      "id": "p081",
+      "en": "Over the past 12 years, I’ve learned what it means to have money. I will tell you, and anyone who’s been in this situation will tell you the same, it changes everything. My fiancée attempted to extract $9 million from me, and she used, quote-unquote, “the most feared law firm” in the whole world. They sent me this really scary 13-page letter and said, “Look, we’re going to say these terrible things about you, but you can make it all go away if you just pay us $9 million this week.” It was the first legitimate attempt on [my money]. [Quinn Emanuel, the law firm, declined to comment. In its settlement offer, it proposed that Southern would “enter into a full mutual release of all claims” against Johnson and “give up rights to use her life experiences” with him for the flat sum. —Ed.]",
+      "zh": ""
+    },
+    {
+      "id": "p082",
+      "en": "This is at the tail end of “Me Too,” where I had friends and others losing their entire professional life over something, right? So it was a very high-risk situation for many people, who were seeing very serious consequences for public allegations.",
+      "zh": ""
+    },
+    {
+      "id": "p083",
+      "en": "Often deservedly so.",
+      "zh": ""
+    },
+    {
+      "id": "p084",
+      "en": "Sure. Whether deserved or not, when a phenomenon like that emerges, a cottage industry will emerge and people will say, “This is an opportunistic time for me.” We know there’s a variety of legitimate and not-legitimate situations. Do I cave and pay $9 million to make this go away quietly, or do I stand my ground? I slept on it and said, “I’m going to stand my ground. What they’re saying is not true, and I’m not going to buckle. I’m not going to pay for this.”",
+      "zh": ""
+    },
+    {
+      "id": "p085",
+      "en": "To be clear, the allegations in the letter, in your view, were false?",
+      "zh": ""
+    },
+    {
+      "id": "p086",
+      "en": "After two years of legal disputes, if you read the report, the arbitrator and then the superior court judge said there was no evidence for what she said. That whole legal process vindicated me, after millions of dollars in legal fees. Five years later, it’s resurfaced through The New York Times, and they don’t mention any of that. They don’t mention that she was discredited as a truth-telling person through this legal process, that she’s on record having said things that are just fundamentally not true. [LTL Attorneys, which represented Southern in her 2021 lawsuit against Johnson, declined to comment on litigation. According to court documents, the arbitrator did not adjudicate Southern’s claims, as she found that Southern “had not raised a triable issue.” Similarly, the state judge ruled Southern had “not established grounds to vacate the arbitration award,” which she had contested. —Ed.]",
+      "zh": ""
+    },
+    {
+      "id": "p087",
+      "en": "When I’m walking into this world of Blueprint, I’m saying, “OK, now I’ve seen a few patterns here where people use things as an advantage for their own gain, and sometimes it ends up in an extortion-like effort.” So I said, “To address this, I’m going to be incredibly transparent. I’m going to say: When you come and work in my environment, this is what you could expect.” It was the most fair gesture possible.",
+      "zh": ""
+    },
+    {
+      "id": "p088",
+      "en": "I understand this idea that you amass wealth and people see opportunity in that. And that if you want to come work at a company where someone is talking about their erections on the internet, they should sign something testifying that they are OK with that. What I’m not quite clear on is placing intensive limitations and restrictions on what employees can and cannot say about their work environment and their company. How does that tie into what you’re describing?",
+      "zh": ""
+    },
+    {
+      "id": "p089",
+      "en": "I think you would agree that that is standard practice for a corporation. When you are a corporate entity, and even when you’re a married couple, there’s things you discuss in private which you don’t discuss in public. Corporations have boundary conditions around information, whether it’s IP, whether it’s product development. But everybody has rules and systems for how you control information. Almost nobody in society operates with complete transparency, because everybody has learned life lessons that things go wrong. People will use this to their advantage and to other people’s detriment. What I’m doing is not atypical at all.",
+      "zh": ""
+    },
+    {
+      "id": "p090",
+      "en": "In your view, do you run a safe and supportive workplace?",
+      "zh": ""
+    },
+    {
+      "id": "p091",
+      "en": "Is this a good place to work?",
+      "zh": ""
+    },
+    {
+      "id": "p092",
+      "en": "You feel very confident in that?",
+      "zh": ""
+    },
+    {
+      "id": "p093",
+      "en": "We have three goals at the company. The first goal is that our customers write us love letters. That’s the most important goal. Number two is that people say it’s the best job they’ve ever had. And three is that we say we are the best in the industry at what we do. I say this every single week in our company meetings. And on number two, I’ll say, “What this means, you guys, is if you’ve got an issue that you’re dealing with, if something is causing you to not like your circumstance, if it’s a process that’s annoying, if it’s something that doesn’t make sense to you, if your screen is too small, whatever the issue is, you have the opportunity to raise it. And when you raise it, we’re going to show you we have the organizational capacity to address it.”",
+      "zh": ""
+    },
+    {
+      "id": "p094",
+      "en": "Most of the time when people experience things that they’re not happy about, the course of action is to talk to the coworker and be like, “I’m going to gossip about these things.” I don’t like it. I call this pebbles in the shoe.",
+      "zh": ""
+    },
+    {
+      "id": "p095",
+      "en": "Do you have an HR person who helps with the pebbles?",
+      "zh": ""
+    },
+    {
+      "id": "p096",
+      "en": "Yes. We call this person out and we say, for any issue you have, you can go directly to her; anything you have, you can raise it.",
+      "zh": ""
+    },
+    {
+      "id": "p097",
+      "en": "Do you like being famous? From when we assigned that story at Vice in 2023 to now, you have become much more famous. I think the more famous someone becomes, to some degree, the less they can control the narrative out there about them.",
+      "zh": ""
+    },
+    {
+      "id": "p098",
+      "en": "Do you worry about a level of fame where you can’t systematically address the entire world and what’s being said? In the Netflix documentary, you seemed to take great joy and almost glee in reading nasty shit people say about you on the internet.",
+      "zh": ""
+    },
+    {
+      "id": "p099",
+      "en": "I’ll take all the dunks about me all day long. It’s when they say something about you that challenges your trustworthiness—that’s what I would isolate. It’s trust that I deeply care about, and being respected by the 25th century. Maybe humans are not around, but whatever form of intelligence is around, I really care about them saying, “You know what? We’re grateful that there was a guy who tried to piece this thing together.” If my trust is in question, I can’t go after these bigger goals.",
+      "zh": ""
+    },
+    {
+      "id": "p100",
+      "en": "On fame, I think it’s fantastic. If I had to choose between fame and a billion dollars, I would choose fame 100 times out of 100. It’s very hard to achieve. It’s uniquely valuable. I get access to almost anyone in the entire world at this point. If the goal is to create the fastest-growing ideology in the history of the human race and to pair it with the time when the species is evolving into something else, you need fame.",
+      "zh": ""
+    },
+    {
+      "id": "p101",
+      "en": "So you’re not thinking about your legacy in a 10-year, 20-year, 50-year timeline, you’re thinking about hundreds of years?",
+      "zh": ""
+    },
+    {
+      "id": "p102",
+      "en": "It’s the only time that makes sense to me. I did a thought experiment where I imagined being present in the 25th century. I’m sitting with them, and they’re talking in whatever form they’re talking, and they are looking back on the early 21st century. Just like we look back at other centuries and we compress them into a few major things but otherwise we don’t get into the details, they will do the same thing for the 21st century.",
+      "zh": ""
+    },
+    {
+      "id": "p103",
+      "en": "So if they do that, what do they say? I thought about this question for years. One: They would say that’s when humanity gave birth to superintelligence. Two: That’s when humanity figured out that they were the first generation who wouldn’t die. And so I thought, how can you possibly act now on that information? You could build a biotech company, or you could try to pass governmental policy. But it’s very obvious we need a new ideological framework, and what’s more powerful than religion?",
+      "zh": ""
+    },
+    {
+      "id": "p104",
+      "en": "So in the 25th century, when people are sitting somewhere talking about that guy Bryan who did this and that and the other thing, what are you doing?",
+      "zh": ""
+    },
+    {
+      "id": "p105",
+      "en": "I joke that I am inevitably going to die from this ironic thing.",
+      "zh": ""
+    },
+    {
+      "id": "p106",
+      "en": "I mean, that tree right there is about to fall, and it’s going to be over right now.",
+      "zh": ""
+    },
+    {
+      "id": "p107",
+      "en": "Exactly. At least you will have been witness to it.",
+      "zh": ""
+    },
+    {
+      "id": "p108",
+      "en": "It would be an amazing story.",
+      "zh": ""
+    },
+    {
+      "id": "p109",
+      "en": "The article would be a banger. That’s the thing: It’d be good for business for you.",
+      "zh": ""
+    },
+    {
+      "id": "p110",
+      "en": "Let us know what you think about this article. Submit a letter to the editor at [email protected].",
+      "zh": ""
+    }
+  ]
+}

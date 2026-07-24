@@ -1,0 +1,199 @@
+{
+  "id": "003-im-a-normie-can-normies-really-vibe-code",
+  "source_href": "feed_0/article_2/index_u3.html",
+  "publication": "wired",
+  "issue": "2026-07-02",
+  "issue_published_at": "2026-07-02",
+  "article_published_at": "May 18, 2026 6:00 AM",
+  "published_at": "May 18, 2026 6:00 AM",
+  "published_date_source": "article",
+  "order": 3,
+  "section": "Chris Colin",
+  "title_en": "I’m a Normie. Can Normies Really Vibe Code?",
+  "title_zh": "我算“普通人”。普通人真的能 vibe code 吗？",
+  "rubric_en": "",
+  "rubric_zh": "",
+  "date": "May 18, 2026 6:00 AM",
+  "origin_url": "",
+  "translation_status": "translated",
+  "paragraphs": [
+    {
+      "id": "p001",
+      "en": "The dog that ushered me into the technological future was “low and thick.” That’s all my mother registered before it T-boned her in a city park earlier this year: dense, heavy, and traveling fast enough to fracture her right tibia. But enough about her. Let’s discuss what this set in motion in my life: Having successfully learned nothing about coding for two and a half decades, I would soon be attempting my very first software development project.",
+      "zh": "把我带进科技未来的那条狗“矮矮、壮壮的”。我妈妈在今年年初被它在城市公园里正面撞中之前，先看到的只是这个特点：又矮又厚、身体很结实，而且速度快到足以把她的右胫骨打断。但这不再展开讲她的事。我们来谈谈这件事给我人生带来的连锁反应：在我整整两年半都没真正学会编程之后，我很快就要开始做我的第一个软件开发项目了。"
+    },
+    {
+      "id": "p002",
+      "en": "If you’ve ever had a low and thick dog break your mom’s shin bone, you know the stream of lesser indignities that follows. Case in point: the hours my father spent navigating phone trees, trying to manage my mom’s medical care. Are frustrating telephone calls significant in the grand scheme of things? No. But that stupid dog had chosen a technologically interesting moment to do its thing. For the first time in history, a problem no longer needed to be serious to bring serious tools to bear.",
+      "zh": "如果你也被一条“矮矮、壮壮”的狗撞断了妈妈的胫骨，你就会知道接下来一连串小小的尴尬和麻烦。比如我爸爸在电话树系统里来回打转、试着处理我妈妈医疗事宜的那些小时。从大局上看，这些让人抓狂的电话到底算不算大事？算不了。但那条笨狗偏偏在一个很“技术化”的时刻把事搞砸了。历史上第一次，问题不必非常严重，也能迫使我们动员起一整套严肃的工具。"
+    },
+    {
+      "id": "p003",
+      "en": "For as long as Silicon Valley has been selling a frictionless tomorrow, we ordinary people have been its passive shoppers—scrolling the App Store, hoping someone has gone to the trouble of building whatever we need. Enter AI and its democratizing sidekick: vibe coding. If the promise is real, suddenly we can build our own apps, as niche and trifling as we please, with zero programming skills. We merely gesture toward whatever irks us and a constellation of large language models, code generators, and development environments will click their heels.",
+      "zh": "只要硅谷开始兜售“零摩擦的明天”，我们这些普通人就一直是它的被动消费者——在应用商店里滑来滑去，指望总有人替我们做出想要的一切。直到 AI 和它那副“民主化”副驾驶登场：vibe coding。若这一承诺属实，那我们几乎可以零编程基础地，随心所欲地做出自己的一批小众且微不足道的应用。我们只要指出那些让我们烦恼的需求，一套由大型语言模型、代码生成器和开发环境组成的系统就会立刻开工。"
+    },
+    {
+      "id": "p004",
+      "en": "Niche and trifling? That’s me! Where others vibe code résumé reviewers and inventory trackers and automated assistants to boost their work productivity, I had a different target in mind. Over the past couple years I’ve grown particularly fixated, personally and professionally, on what the policy world calls sludge: the rising tide of tiny administrative obligations that increasingly seems to define modern existence—and corrode our ability to get anything done. The hassle of dealing with insurance, or connecting that insurance to your doctor, or staying on top of airline miles, or navigating your kid’s school portal. The steps required to dispute a charge, or unsubscribe from a streaming service you forgot you had. Each of these feels like its own discrete assault on our time. But they’re not discrete. They’re separate mushrooms sprouting from the same mycorrhizal network.",
+      "zh": "小众且微不足道？那不就是我吗！当别人用 vibe code 做简历筛选、库存追踪、自动化助手来提高工作效率时，我心里盯着的目标完全不同。过去几年里，我在个人和职业层面都越来越困在一个叫作 sludge（“沉没负担”）的议题上：一股细碎行政义务的浪潮，它正越来越像是定义现代生活的方式，并不断侵蚀我们的行动能力。是处理保险，还是把保险和医生对接，或是追踪航空里程，或者在孩子的学校门户网站上办事。要对一笔账单提出异议，或取消你早已不记得自己还在用的某个流媒体订阅。每一项都像是对时间的一次独立袭击。可它们并不独立，而是从同一片菌根网络里冒出的不同蘑菇。"
+    },
+    {
+      "id": "p005",
+      "en": "In a way this is a calibration issue. While bigger problems might at least theoretically attract attention—legislation, journalism, a Senate hearing—the smaller ones, too petty to litigate, simply become a fact of life. The arc of history may bend toward justice, but when it comes to fighting a one-dollar bank fee, it bends toward hold music.",
+      "zh": "在某种程度上，这是一个校准问题。虽然更大的问题至少在理论上可能吸引人关注——立法、新闻报道、参议院听证会——但那些太小、没到可以起诉程度的问题，就只会变成生活的一部分。历史的大趋势或许会朝向正义弯曲，但当你去对抗一美元的银行手续费时，它却更像是朝着不断重复的等待音乐方向弯曲。"
+    },
+    {
+      "id": "p006",
+      "en": "Which is where the fantasy of vibe coding captured my attention. Those hassles aren’t just accidental byproducts of complexity; they’re often features. A confusing portal, a dropped call, a process just opaque enough to discourage follow-through. At scale, they function less like bugs than like policy. The app I envisioned would expose this phenomenon, make the cumulative weight of these obligations a little harder to ignore. The image I’d like you to summon is a field of mushrooms trembling.",
+      "zh": "这正是“vibe coding”这种幻想吸引我的地方。这些麻烦并非复杂性的偶然副产物；它们往往本身就是设计好的功能。一个让人困惑的门户、一次掉线、一个故意模糊到让人想半途而废的流程。大规模放大后，它们的作用不太像是“漏洞”，更像是既定政策。 我设想的应用会把这种现象显露出来，让这些义务的累积负担更难被忽略。我想让你脑海中浮现的是一片颤抖的蘑菇田。"
+    },
+    {
+      "id": "p007",
+      "en": "What my mom lacks in healthy legs, she makes up for in a Claude Pro subscription. Having needled her repeatedly over the past couple years about AI’s environmental, political, and economic implications, I brushed all that aside on a recent Sunday and drove to her house. After a little tibia talk, I opened her computer and began emitting vibes.",
+      "zh": "我妈妈虽然缺少一双健康的腿，但她却用一份 Claude Pro 订阅来弥补。过去几年我反复在她面前提起人工智能在环境、政治和经济上的影响，但最近一个周日我把这些都放在一边，开车去她家。聊了会儿她的胫骨问题后，我打开了她的电脑，开始“发 vibes”。"
+    },
+    {
+      "id": "p008",
+      "en": "Take this mandatory AI workplace training right now—or else.",
+      "zh": "现在就接受这项强制性的 AI 职场培训——不然的话。"
+    },
+    {
+      "id": "p009",
+      "en": "I’d like to create a communally shared app that gathers and shares information related to how much time and energy we devote to fighting burdensome administrative tasks, bureaucratic sludge, Kafka-esque unsubscribe mazes, byzantine insurance portals, wrongful charges, denied claims, confusing membership plans, and the like.",
+      "zh": "我想做一个大家共同使用的应用，汇总并分享我们在处理繁重行政事务、官僚体系的烂摊子、卡夫卡式的退订迷宫、错综复杂的保险门户、错误收费、被拒理赔、看起来让人困惑的会员方案等等事上花费了多少时间和精力。"
+    },
+    {
+      "id": "p010",
+      "en": "With as much clarity and detail as I could muster, I proceeded to describe a dashboard that would record the scale and scope of our collective sludge. Users would log frustrating incidents from their lives, entering how much time they’d spent, how annoying it was, and what they’d rather have been doing. Every submission would be dopaminally rewarded with an inspiring resistance quote and a photo of a kitten, puppy, or baby chimp. I’d train Claude to generate some “wider context”—a paragraph discussing how the frustrating incident fits into systemic sludge patterns—and a complaint letter to the relevant regulatory bodies.",
+      "zh": "我尽可能清楚、尽可能详细地描述了一个仪表盘，记录我们集体负担的这种“垃圾”到底有多大、有多广。用户会把生活中的烦人事件记下来，填写自己花了多少时间、烦得多严重，以及本来更想做些什么。每次提交都能得到一份“多巴胺式”奖励：一句励志又不失反讽的反抗格言，以及一张小猫、小狗，或者小黑猩猩宝宝的照片。然后我会训练 Claude 生成一段“更广泛语境”——解释这个烦人事件如何嵌入了更大的系统性“烂摊子”模式——并自动写一封给相关监管机构的投诉信。"
+    },
+    {
+      "id": "p011",
+      "en": "Claude noodled. Not for the first time, I feared my vibes would simply manifest an error page. I recalled, dimly, some of the advice I’d seen in Reddit forums: “I’d learn how computers and code works first.” “I’d look into going through harvards CS50.” “Instead of learning AWS or servers, use something like Kuberns.” I began to worry that vibe coding was a kind of stone soup: Sure, anyone can do it, you just first need a Harvard-level understanding of several dozen programming languages and cloud platforms.",
+      "zh": "Claude 开始犹豫。并非第一次，我担心我的“vibe”会直接变成一张报错页。我模糊地想起在 Reddit 论坛上看到的一些建议：\\“先把电脑和代码的原理学清楚。\\”“考虑去上 Harvard 的 CS50。\\”“不要先去学 AWS 或服务器，先用像 Kuberns 这样的工具。\\”我开始担心，vibe coding 可能只是“炫技鸡汤”：当然任何人都能做，但你先得先掌握哈佛级别、涉及几十种编程语言和云平台的知识。"
+    },
+    {
+      "id": "p012",
+      "en": "That worry lasted about three Kuberns of a second. Claude stopped thinking and proceeded to explore what, by nature, it had to concede was an amazing concept: “This is a fantastic idea—genuinely useful, with a clear mission and a great sense of humor about a real problem. Let me give you an honest lay of the land before we dive in.”",
+      "zh": "这种担心只持续了大约三个“Kuberns”这么长的瞬间。Claude 停止了思考，随后开始展开分析，并说到本质上它必须承认这是个了不起的想法：\\“这是个非常棒的点子——真正实用，有清晰的目标，而且对一个真实问题有很好的幽默感。我们先在深入之前，先把全盘情况讲实在。\\”"
+    },
+    {
+      "id": "p013",
+      "en": "A couple clarifying questions later, I was staring at a real interface. The “Log Incident” and “Dashboard” tabs didn’t work yet, we hadn’t arranged for the entries to be saved anywhere, and I still needed to teach Claude the wider context part. But the beginnings of an online app had materialized.",
+      "zh": "又问了几个澄清问题后，我面前已经是一个真正的界面了。“Log Incident”和“Dashboard”两个标签页还没法用，我们还没把条目保存到任何地方，而且我还得继续给Claude讲解更完整的上下文。不过，一个在线应用的雏形已经出现了。"
+    },
+    {
+      "id": "p014",
+      "en": "I spent the next hour ironing out kinks. Some fixes Claude could make, some it had me make. I understood nothing and was merely following orders (while also being the one who gave out the orders). But steadily we made headway, and help—confident, reassuring, clear—was always a whimper away:",
+      "zh": "接下来的一个小时，我一直在把问题细节都理顺。Claude可以处理一些修正，也有一些是它让我来做的。我什么也不太懂，只是在照着它的指令操作（尽管我也是下达指令的人）。但我们确实在稳步推进，帮助是——自信、让人安心、说得清楚——总是唾手可得："
+    },
+    {
+      "id": "p015",
+      "en": "ME: I got through step 3 above, but I’m getting confused at step 4. Here’s a screen shot of what I’m seeing after I clicked Settings.",
+      "zh": "我：我已经完成了上面第三步，但到第四步就开始困惑了。下面是我点击“设置”后看到的界面截图。"
+    },
+    {
+      "id": "p016",
+      "en": "CLAUDE: Good news - you’re in the right place, and very close. But I can see Supabase has updated their interface since I wrote those instructions. What you’re looking at is their new API keys screen, which is slightly different from what I described …",
+      "zh": "CLAUDE：好消息，你的位置是对的，而且已经很接近了。不过我可以看到，Supabase自从我写那份说明后已经更新了他们的界面。你现在看到的是新的API密钥页面，和我描述的那版略有不同……"
+    },
+    {
+      "id": "p017",
+      "en": "The experience was akin to building an elaborate Lego creation: You don’t know what each individual Ribbed Hose or Flared Mudguard does, but if you follow the directions to a tee, the thing does get built.",
+      "zh": "这种体验很像搭建一个复杂的乐高作品：你并不知道每一根带肋护套或每一片外鼓式挡泥板具体有什么作用，但只要你完全按说明一步一步来，作品就会被搭出来。"
+    },
+    {
+      "id": "p018",
+      "en": "Linus Torvalds, Steve Wozniak, Bill Gates: I assume these guys could only borrow their moms’ computers for so long. After a couple hours, I told Claude we’d pick up again soon.",
+      "zh": "Linus Torvalds、Steve Wozniak、Bill Gates：我猜这些人也只能借了妈妈的电脑一段时间后就不行了。几个小时后，我告诉 Claude，我们很快再继续。"
+    },
+    {
+      "id": "p019",
+      "en": "I drove home giddy—a giddiness I recognized from a brief arc-welding phase in my twenties. I can’t believe I, a regular person, can make this! For all the websites and apps I whip through on a given day, they’ve always been mysterious to me—pyramids erected by an unfathomable priesthood. Suddenly I was a pyramid builder.",
+      "zh": "我开开心心地开车回家——这种兴奋让我想起我二十多岁时短暂的电弧焊接时期。我简直不敢相信自己，一个普通人，居然能做出这样的事！对于我每天能快速完成的那些网站和应用，它们一直对我来说都像谜一般，像是由一群神秘修士建起的金字塔。突然间，我变成了一个建金字塔的人。"
+    },
+    {
+      "id": "p020",
+      "en": "I wasn’t alone. Someone in Florida had recently built something called Stratus, a guitar pedal that lets players describe an effect in plain English—“give me a wobbly tremolo with a warm Mellotron feel”—and generates it. Elsewhere a guy named Justin had built a Plywood Cutting Visualizer—enter the dimensions of a sheet, get back the cuts. Someone else had made MIXCARD, which turns your Spotify playlists into physical postcards. The barrier between idea and creation had, for a certain kind of person with a certain kind of afternoon, effectively dissolved.",
+      "zh": "我并不孤单。佛罗里达有人最近做了一个叫 Stratus 的东西——一种吉他效果器，玩家可以用英语直接描述音效，比如“给我一个带温暖 Mellotron 感的抖动颤音（wobbly tremolo）”，它就能生成声音。别处有个叫 Justin 的人做了一个 Plywood Cutting Visualizer，输入板材尺寸就能直接得到切割方案。还有人做了 MIXCARD，把你的 Spotify 歌单变成了实物明信片。对某些人来说，在某个下午，想法与创造之间的壁垒实际上已经消失了。"
+    },
+    {
+      "id": "p021",
+      "en": "But this was also the catch. What happens when anyone with a passing itch builds their own app? Those environmental, political, and economic concerns came roaring back—accompanied by a new worry.",
+      "zh": "但这也是个问题所在：当任何有点心血来潮的人都能自己做应用时，会发生什么？那些环境、政治和经济方面的担忧又再次卷土重来——而这次，伴随着一个新的担忧。"
+    },
+    {
+      "id": "p022",
+      "en": "Before the pandemic, I began having friends over for a ritual I called Admin Night. The idea is to power through your personal sludge in communion with others. One thing I noticed is that many of today’s administrative tasks are the residue of yesterday’s tech solutions—systems that promised to streamline our productivity or organize our memories, then broke or expired or began charging $14.99 a month. Would AI be different, or was I just assisting in the creation of more sludge?",
+      "zh": "在疫情前，我就开始请朋友来家里参加我称作“Admin Night”的仪式。这个仪式的想法是，与他人同行，狠下心清理你个人堆积的“垃圾”，把烦人的杂务一次性处理掉。我发现，如今的许多行政性任务其实是昨天地解决方案的残留——那些曾经承诺能提升效率或整理记忆的系统，后来要么坏了、要么过期了、要么开始按月收取 14.99 美元。我就在想，AI 会不会不同，还是我只是在帮它帮着制造更多“垃圾”？"
+    },
+    {
+      "id": "p023",
+      "en": "A couple days later, I visited Mom again. My app was coming along, but the final stretch seemed to be taking as long as the first 90 percent. I needed accounts at GitHub (to store my code), Supabase (to store users’ sludge records), and Netlify (to serve the app), each straightforward, each an opportunity for error. I left my API key exposed in the public GitHub repository, for instance. Claude caught it and moved the key somewhere safe. Then there was security to ponder. My Instagram algorithm having grown wise to my new hobby, I’d been served a suggested prompt for app builders, one explaining how to compel Claude to run a security audit. Sure enough, we found that user-submitted text was being inserted into the page’s HTML unsanitized, meaning anyone could submit malicious code as their company name and it would execute in every visitor’s browser. Easy fix.",
+      "zh": "几天后我又去看妈妈。我的应用已经有了进展，但最后这段路似乎花了和前面 90% 的工作同样长的时间。我需要在 GitHub（存放代码）、Supabase（存储用户的“垃圾记录”）和 Netlify（部署应用）上创建账号——每一项都很直观，却也都是出错点。比如我把 API Key 暴露在公开的 GitHub 仓库里。Claude 发现了这个问题，并把密钥移到了安全位置。接着又要考虑安全性。由于 Instagram 算法已经“懂”了我这个新爱好，我看到一个给应用开发者的提示词，教你如何让 Claude 进行安全审计。果不其然，我们发现用户提交的文本会未经清理直接插入页面 HTML，这意味着任何人都能把恶意代码伪装成公司名称提交，并在所有访问者的浏览器里执行。很容易修复。"
+    },
+    {
+      "id": "p024",
+      "en": "The tasks were menial but doable: ferrying credentials between services, clicking Deploy, watching something fail, pasting the error back to Claude, repeating. Assembly, not engineering—think Ikea daybed. I made three more visits to my mom’s house, and by the time her tibia was strong enough to try out crutches, my app was ready for a trial run.",
+      "zh": "这些任务都很琐碎，却都能完成：在各个服务之间来回传递凭据，点“Deploy”，看着某个环节失败，把报错贴回 Claude，再重复一遍。更像是组装，而不是工程开发——有点像拼装宜家床垫。之后我又去妈妈家三次，在她的胫骨恢复到足够稳固、可以试着用拐杖之前，我的应用已经可以试运行了。"
+    },
+    {
+      "id": "p025",
+      "en": "I invited my dad over to the computer, interviewed him about that phone tree and typed his answer into the app—cathartic already for him, I noticed.",
+      "zh": "我把爸爸叫到电脑前，让他讲了讲这个电话菜单系统，并把他的回答打进了应用程序——我发现，这一过程对他来说本身就有一种发泄的感觉。"
+    },
+    {
+      "id": "p026",
+      "en": "Whenever I call to make a doctor’s appointment, I have to sit through options that aren’t likely choices for patients calling to make an appointment—the very first being information for sending a fax. Also the claim that the menu options have changed recently seems unlikely. The whole system feels less efficient than it could be, and sitting through this recording again and again starts to add up and feel crazy-making over time.",
+      "zh": "每次我打电话预约医生，都得听一大堆选项提示，而这些选项几乎都不是来预约的病人真正会选的，比如最先出现的就是“如何发送传真”的信息。再加上界面上那句菜单最近改动了的提示也不太可信。整个系统看起来远没有发挥出应有的效率，而一遍又一遍地听着这段录音，时间久了会让人越听越发狂。"
+    },
+    {
+      "id": "p027",
+      "en": "How much time had he spent navigating this stuff? Three hours. How annoying was it? Three out of 10. What would he rather have been doing? Gardening.",
+      "zh": "他在这上面花了多少时间？三小时。烦躁程度有多高？十分制的三分。那他更愿意做什么？做园艺。"
+    },
+    {
+      "id": "p028",
+      "en": "My dad’s submission was rewarded with an Ursula K. Le Guin quote—“We live in capitalism. Its power seems inescapable. So did the divine right of kings.”—accompanied by a tiny dachshund napping beside a stream.",
+      "zh": "我爸爸的提交最后得到了乌苏拉·勒古恩的一句引言作为奖励——“我们生活在资本主义中，它的力量似乎势不可挡；而国王的君权神授也曾是如此。”——配图是一只小腊肠犬在小溪边打盹。"
+    },
+    {
+      "id": "p029",
+      "en": "From there my auto-context generator went to work:",
+      "zh": "于是我的自动上下文生成器就开始运转起来："
+    },
+    {
+      "id": "p030",
+      "en": "Automated phone systems typically front-load options based on call volume data or administrative convenience rather than user intent, which is why fax transmission—likely a legacy option serving a small percentage of callers—sits ahead of the appointment-booking function that probably generates most inbound traffic.",
+      "zh": "自动电话系统通常会根据通话量数据或行政管理上的便利性来优先排列选项，而不是按用户意图，所以才会出现传真发送——这个大概只是少数来电者会用到的遗留选项——排在了很可能带来最大来电量的预约功能之前。"
+    },
+    {
+      "id": "p031",
+      "en": "What’s more, it continued, the company could fix that dubious “menu options have changed recently” bit with some simple tweaks “that would cost little beyond someone’s time to implement but require treating patient friction as an actual problem worth solving.”",
+      "zh": "而且，它还补充说，公司完全可以通过一些简单的调整来修复那个可疑的“最近菜单选项已更改”提示，这些调整“除了要花点人力时间去落实外几乎不费钱，但前提是把用户操作摩擦当作一个真正值得解决的问题来对待”。"
+    },
+    {
+      "id": "p032",
+      "en": "My father, while also just generally dazzled that I can operate a computer, was particularly impressed by this conjuring of perspective. But there was still an automated content moderation process for Claude and me to cook up. Now, before users’ submissions display in the public dashboard, they go through some fairly rigorous filters. (Good luck getting through, CrotchGoblin69.) Two days later I sent the URL to my Admin Night community; we exist because the sludge problem is communal, and any real answer has to be communal too. Soon they were submitting complaints about Audible’s credit policy, getting double-billed by Hulu, the log-in gymnastics required to buy a daughter’s prom ticket. One member, Danielle, likened the whole thing to a “grievance dragnet.” Another, Amy, told me it was “like a friend who comes over to listen to you cry about your latest breakup and then, while you are in the shower she’s strongly recommended, creates a new dating profile crafted to avoid all the things she has just heard you complain about.” Seeing the other entries in the app, she added, “was a reminder that it’s not you, it’s the system.”",
+      "zh": "我父亲虽然对我会操作电脑这件事本身就感到眼前一亮，但他对我这番“换位思考式”的说法尤其印象深刻。然而，Claude 和我之间仍然还有一项自动化内容审核流程要一起制定。现在，在用户提交内容出现在公开仪表板之前，需要经过一轮相当严格的筛选。（想顺利通过可不容易，CrotchGoblin69 这个账号最清楚。）两天后我把链接发到了我的 Admin Night 社群；我们存在的原因在于垃圾问题具有群体性，任何真正的解决办法也必须是群体性的。很快大家开始提交关于 Audible 信用政策、Hulu 重复计费、以及为购买女儿舞会门票所需的登录“体操”的投诉。一位成员丹妮尔把这整个过程比作“申诉式拦截网”。另一位艾米告诉我，这就像“一个朋友来你身边听你在诉说最近的分手，然后趁你洗澡时，强烈建议你创建一个新的约会资料页，并刻意避开你刚刚抱怨过的所有内容。”看到应用里的其他条目后，她又补充道：“这提醒人们，问题不在你本人，而在于系统。”"
+    },
+    {
+      "id": "p033",
+      "en": "The idea that the internet might redistribute power in a meaningful way has been giving cover to Big Tech and its enablers since forever, and I have no illusions that a blast of amateur coding will claw back our time and agency from the purveyors of sludge. Nevertheless, my blast of amateur coding is now live on Netlify. For all I know it will crash tomorrow. But it undeniably exists—a shared civic ledger where once there was only frustration. Sludge thrives on exhausting us in the dark and the assumption that our individual wasted hours don’t add up to anything. They do. I’ve got a janky database to prove it.",
+      "zh": "互联网或许能以某种有意义的方式重分配权力这一想法，从一开始就一直在给科技巨头及其帮凶提供掩护，而我并没有幻想，只要一股业余编程热就能从这群“浊流”手里夺回我们的时间和主导权。尽管如此，我那次业余代码突发的尝试已经在 Netlify 上线了。据我所知，它可能明天就会崩溃。但它确实存在——在曾经只有困惑和挫败的地方，出现了一个共享的公民账本。浊流靠在黑暗中榨干我们，并假定每个人浪费的时间加起来并不算什么来生存。其实是算得上的。我有一个粗糙的数据库来证明这一点。"
+    },
+    {
+      "id": "p034",
+      "en": "Maybe I’ve internalized Claude’s inane affirmations, but I was struck by what a few hopeful vibes could summon. In less trifling hands, there’s no telling what these tools could do, are doing now. For once, maybe the menu options really might change.",
+      "zh": "也许我已经内化了 Claude 那些空洞的“你可以做到”的断言，但我被少量充满希望的 vibe 所激发的可能性深深打动。在更值得期待的手中，这些工具现在能做什么、正在做什么，根本无法预料。或许这一次，菜单选项真的可能会改变。"
+    },
+    {
+      "id": "p035",
+      "en": "What Say You?Let us know what you think about this article in the comments below. Alternatively, you can submit a letter to the editor at [email protected].",
+      "zh": "你怎么看？欢迎在下方评论区告诉我们你对这篇文章的看法。你也可以给编辑部写信：[email protected]。"
+    }
+  ],
+  "translated_at": "2026-07-23T23:49:03+08:00",
+  "translation_provider": "codex",
+  "translation_model": "gpt-5.3-codex-spark:low"
+}
